@@ -5,14 +5,19 @@ on:
     - cron: '0 */4 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -20,18 +25,15 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r scraper/requirements.txt
+        run: pip install -r scraper/requirements.txt
 
       - name: Run scraper
-        run: |
-          python scraper/jobs.py
-          
+        run: python scraper/jobs.py
+
       - name: Commit changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           git add jobs.json scraper/seen_jobs.json
-          git commit -m "Update jobs.json" || echo "No changes to commit"
+          git commit -m "Update jobs.json" || true
           git push

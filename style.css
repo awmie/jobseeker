@@ -1,14 +1,21 @@
 :root {
-    --bg-primary: #0f1419;
-    --bg-secondary: #1a2129;
-    --bg-card: #1e2832;
-    --text-primary: #e7e9ea;
-    --text-secondary: #8b98a5;
-    --accent: #1d9bf0;
-    --accent-hover: #1a8cd8;
-    --border: #2f3942;
-    --tag-bg: #2f3942;
-    --success: #00ba7c;
+    --deep-olive: #3B5931;
+    --fern-green: #4D7C3C;
+    --olive: #74AA46;
+    --light-green: #A8D16B;
+    --mint-cream: #E3F4A4;
+    --off-white: #F8F9F4;
+    
+    --bg-primary: var(--off-white);
+    --bg-secondary: var(--mint-cream);
+    --bg-card: #ffffff;
+    --text-primary: #1a2e1a;
+    --text-secondary: #5a6b5a;
+    --accent: var(--olive);
+    --accent-hover: var(--fern-green);
+    --border: #c8d6b8;
+    --tag-bg: #e8f0e3;
+    --success: var(--fern-green);
 }
 
 * {
@@ -32,24 +39,26 @@ body {
 }
 
 header {
-    background: var(--bg-secondary);
-    padding: 2rem 0;
-    border-bottom: 1px solid var(--border);
+    background: linear-gradient(135deg, var(--deep-olive) 0%, var(--fern-green) 100%);
+    padding: 2.5rem 0;
+    border-bottom: none;
     text-align: center;
 }
 
 header h1 {
-    font-size: 2rem;
+    font-size: 2.25rem;
     margin-bottom: 0.25rem;
+    color: #ffffff;
+    font-weight: 700;
 }
 
 header .subtitle {
-    color: var(--text-secondary);
-    font-size: 0.95rem;
+    color: var(--mint-cream);
+    font-size: 1rem;
 }
 
 main {
-    padding: 1.5rem 0;
+    padding: 2rem 0;
 }
 
 .controls {
@@ -58,16 +67,21 @@ main {
     align-items: center;
     flex-wrap: wrap;
     margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: var(--bg-card);
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(59, 89, 49, 0.08);
 }
 
 .controls input,
 .controls select {
-    padding: 0.6rem 1rem;
-    border: 1px solid var(--border);
+    padding: 0.75rem 1rem;
+    border: 2px solid var(--border);
     border-radius: 8px;
-    background: var(--bg-secondary);
+    background: var(--bg-primary);
     color: var(--text-primary);
     font-size: 0.95rem;
+    transition: border-color 0.2s, box-shadow 0.2s;
 }
 
 .controls input {
@@ -79,30 +93,33 @@ main {
 .controls select:focus {
     outline: none;
     border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(116, 170, 70, 0.15);
 }
 
 .controls #count {
     color: var(--text-secondary);
     font-size: 0.9rem;
     margin-left: auto;
+    font-weight: 500;
 }
 
 .jobs-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1rem;
+    gap: 1.25rem;
 }
 
 .job-card {
     background: var(--bg-card);
     border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 1.25rem;
-    transition: transform 0.2s, border-color 0.2s;
+    border-radius: 16px;
+    padding: 1.5rem;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
 .job-card:hover {
-    transform: translateY(-2px);
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(59, 89, 49, 0.12);
     border-color: var(--accent);
 }
 
@@ -110,21 +127,24 @@ main {
     font-size: 1.1rem;
     margin-bottom: 0.5rem;
     line-height: 1.4;
+    font-weight: 600;
 }
 
 .job-card h3 a {
-    color: var(--text-primary);
+    color: var(--deep-olive);
     text-decoration: none;
+    transition: color 0.2s;
 }
 
 .job-card h3 a:hover {
-    color: var(--accent);
+    color: var(--olive);
 }
 
 .job-card .company {
     color: var(--text-secondary);
     font-size: 0.95rem;
     margin-bottom: 0.75rem;
+    font-weight: 500;
 }
 
 .job-card .meta {
@@ -136,14 +156,15 @@ main {
 .job-card .tag {
     background: var(--tag-bg);
     color: var(--text-secondary);
-    padding: 0.25rem 0.6rem;
+    padding: 0.35rem 0.75rem;
     border-radius: 20px;
     font-size: 0.8rem;
+    font-weight: 500;
 }
 
 .job-card .tag.source {
-    background: rgba(29, 155, 240, 0.15);
-    color: var(--accent);
+    background: var(--accent);
+    color: #ffffff;
 }
 
 .loading {
@@ -161,26 +182,27 @@ main {
 }
 
 footer {
-    background: var(--bg-secondary);
+    background: var(--deep-olive);
     padding: 1.5rem 0;
-    border-top: 1px solid var(--border);
+    border-top: none;
     text-align: center;
     margin-top: 2rem;
 }
 
 footer p {
-    color: var(--text-secondary);
+    color: var(--mint-cream);
     font-size: 0.9rem;
 }
 
 footer .credit {
     font-size: 0.8rem;
     margin-top: 0.5rem;
+    opacity: 0.8;
 }
 
 @media (max-width: 600px) {
     header h1 {
-        font-size: 1.5rem;
+        font-size: 1.75rem;
     }
     
     .jobs-grid {

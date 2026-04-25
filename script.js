@@ -122,7 +122,7 @@
         btn.style.opacity = '0.7';
         btnSpan.textContent = 'Starting...';
         
-        window.open('https://github.com/awmie/jobseeker/actions', '_blank');
+        window.open('https://github.com/awmie/jobseeker/actions/workflows/scrape.yml', '_blank');
         
         let checkCount = 0;
         

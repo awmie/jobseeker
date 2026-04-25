@@ -5,6 +5,7 @@
     const filterSelect = document.getElementById('filter');
     const countSpan = document.getElementById('count');
     const lastUpdatedSpan = document.getElementById('last-updated');
+    let currentTimestamp = '';
     
     let allJobs = [];
     
@@ -38,6 +39,7 @@
     function updateMeta(data) {
         if (data.last_updated) {
             const date = new Date(data.last_updated);
+            currentTimestamp = data.last_updated;
             lastUpdatedSpan.textContent = date.toLocaleString();
         }
     }
@@ -117,11 +119,44 @@
 
 function triggerScrape() {
     const btn = document.getElementById('refresh-btn');
-    btn.textContent = '⏳ Open Actions...';
+    const originalText = btn.textContent;
+    btn.textContent = '⏳ Starting scrape...';
     
-    window.open('https://github.com/awmie/jobseeker/actions/workflows/scrape.yml', '_blank');
+    window.open('https://github.com/awmie/jobseeker/actions/workflows/scrape.yml/dispatch', '_blank');
     
-    setTimeout(() => {
-        btn.textContent = '🔄 Fetch Jobs';
-    }, 3000);
+    let checkCount = 0;
+    const originalJobs = JSON.stringify(allJobs);
+    
+    btn.textContent = '⏳ Waiting for jobs...';
+    
+    const pollInterval = setInterval(async () => {
+        checkCount++;
+        
+        if (checkCount >= 30) {
+            btn.textContent = '⚠️ Check manually';
+            clearInterval(pollInterval);
+            return;
+        }
+        
+        try {
+            const response = await fetch('jobs.json?t=' + Date.now());
+            const data = await response.json();
+            
+            if (data.last_updated !== currentTimestamp) {
+                allJobs = data.jobs || [];
+                renderJobs(allJobs);
+                updateMeta(data);
+                filterJobs();
+                btn.textContent = '✅ Jobs updated!';
+                clearInterval(pollInterval);
+                setTimeout(() => {
+                    btn.textContent = originalText;
+                }, 2000);
+            } else {
+                btn.textContent = `⏳ Waiting... (${checkCount * 2}s)`;
+            }
+        } catch (e) {
+            btn.textContent = '⏳ Retrying...';
+        }
+    }, 2000);
 }

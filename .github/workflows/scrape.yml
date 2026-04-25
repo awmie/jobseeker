@@ -25,12 +25,13 @@ jobs:
           pip install -r scraper/requirements.txt
 
       - name: Run scraper
-        run: python scraper/jobs.py
-
-      - name: Commit jobs.json
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update jobs.json"
-          file_pattern: "jobs.json"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scraper/jobs.py
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add jobs.json scraper/seen_jobs.json
+          git commit -m "Update jobs.json" || echo "No changes to commit"
+          git push

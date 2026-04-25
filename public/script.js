@@ -9,7 +9,7 @@
     
     async function loadJobs() {
         try {
-            const response = await fetch('../jobs.json');
+            const response = await fetch('jobs.json');
             if (!response.ok) throw new Error('Failed to load jobs');
             const data = await response.json();
             allJobs = data.jobs || [];

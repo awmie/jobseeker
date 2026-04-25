@@ -10,7 +10,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 CONFIG_PATH = Path(__file__).parent / "sites.yaml"
 SEEN_JOBS_PATH = Path(__file__).parent / "seen_jobs.json"
-OUTPUT_PATH = Path(__file__).parent.parent / "jobs.json"
+OUTPUT_PATH = Path(__file__).parent.parent / "public" / "jobs.json"
 
 
 def load_config():

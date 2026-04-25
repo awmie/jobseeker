@@ -5,11 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JobSeeker · Remote Jobs</title>
     <link rel="stylesheet" href="style.css">
+    <script type="module" src="https://unpkg.com/@phosphor-icons/webcomponents@2.1.1"></script>
 </head>
 <body>
     <header>
         <div class="container">
-            <button id="theme-toggle" class="theme-btn" onclick="toggleTheme()">🌙</button>
+            <button id="theme-toggle" class="theme-btn" onclick="toggleTheme()">
+                <ph-moon id="theme-icon-moon"></ph-moon>
+                <ph-sun id="theme-icon-sun" style="display:none"></ph-sun>
+            </button>
             <h1>Job<span>Seeker</span></h1>
             <p class="subtitle">Find your next remote role</p>
         </div>
@@ -17,7 +21,10 @@
 
     <main class="container">
         <div class="controls">
-            <input type="text" id="search" placeholder="Search roles..." autocomplete="off">
+            <div class="search-box">
+                <ph-magnifying-glass class="search-icon"></ph-magnifying-glass>
+                <input type="text" id="search" placeholder="Search roles..." autocomplete="off">
+            </div>
             <select id="category">
                 <option value="">All Roles</option>
                 <option value="software engineer">Software Engineer</option>
@@ -35,7 +42,10 @@
                 <option value="">All Sources</option>
                 <option value="WeWorkRemotely">WeWorkRemotely</option>
             </select>
-            <button id="refresh-btn" class="refresh-btn" onclick="triggerScrape()">↻ Fetch</button>
+            <button id="refresh-btn" class="refresh-btn" onclick="triggerScrape()">
+                <ph-arrows-clockwise></ph-arrows-clockwise>
+                <span>Fetch</span>
+            </button>
             <span id="count">Loading...</span>
         </div>
 

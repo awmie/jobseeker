@@ -166,19 +166,24 @@
 
 function toggleTheme() {
     const html = document.documentElement;
-    const btn = document.getElementById('theme-toggle');
+    const moon = document.getElementById('theme-icon-moon');
+    const sun = document.getElementById('theme-icon-sun');
     const current = html.getAttribute('data-theme');
     const next = current === 'dark' ? 'light' : 'dark';
     
     html.setAttribute('data-theme', next);
-    btn.textContent = next === 'dark' ? '☀️' : '🌙';
+    moon.style.display = next === 'dark' ? 'none' : 'inline';
+    sun.style.display = next === 'dark' ? 'inline' : 'none';
     localStorage.setItem('theme', next);
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+    const moon = document.getElementById('theme-icon-moon');
+    const sun = document.getElementById('theme-icon-sun');
     const saved = localStorage.getItem('theme');
     if (saved === 'dark') {
         document.documentElement.setAttribute('data-theme', 'dark');
-        document.getElementById('theme-toggle').textContent = '☀️';
+        moon.style.display = 'none';
+        sun.style.display = 'inline';
     }
 });

@@ -72,13 +72,37 @@ header {
     border-radius: var(--radius-full);
     background: var(--bg-card);
     color: var(--text-primary);
-    font-size: 1rem;
+    font-size: 1.25rem;
     cursor: pointer;
     transition: all 0.15s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .theme-btn:hover {
     border-color: var(--olive);
+}
+
+.search-box {
+    position: relative;
+    flex: 1;
+    min-width: 180px;
+}
+
+.search-icon {
+    position: absolute;
+    left: 0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-tertiary);
+    font-size: 1rem;
+    pointer-events: none;
+}
+
+.search-box input {
+    width: 100%;
+    padding-left: 2.5rem;
 }
 
 header h1 {
@@ -116,8 +140,7 @@ main {
 }
 
 .controls input {
-    flex: 1;
-    min-width: 180px;
+    width: 100%;
     padding: 0.625rem 0.875rem;
     border: 1px solid var(--border);
     border-radius: var(--radius-sm);
@@ -160,6 +183,9 @@ main {
 }
 
 .refresh-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
     padding: 0.625rem 1rem;
     background: var(--deep-olive);
     color: #ffffff;
@@ -179,6 +205,10 @@ main {
 
 .refresh-btn:active {
     transform: translateY(0);
+}
+
+.refresh-btn ph-arrows-clockwise {
+    font-size: 1rem;
 }
 
 .jobs-grid {

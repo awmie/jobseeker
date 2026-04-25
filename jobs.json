@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Cloudpepper Senior Platform Devops Engineer",
+      "company": "CLOUDPEPPER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/cloudpepper-senior-platform-devops-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Gno Partners Senior Amazon Brand Manager 1",
       "company": "GNO",
       "location": "Remote",
@@ -33,13 +40,6 @@
       "company": "SPIRALYZE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Vercel Devops Engineer",
-      "company": "VERCEL",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/vercel-devops-engineer",
       "source": "WeWorkRemotely"
     },
     {
@@ -494,7 +494,7 @@
       "posted": "2026-04-23T16:00:04+00:00"
     }
   ],
-  "last_updated": "2026-04-25T19:53:34.673549",
+  "last_updated": "2026-04-25T20:32:16.412010",
   "total": 30,
   "new": 1
 }

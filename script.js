@@ -114,45 +114,58 @@
     
     function triggerScrape() {
         const btn = document.getElementById('refresh-btn');
-        const originalText = btn.textContent;
-        btn.textContent = '⏳ Starting scrape...';
+        const btnSpan = btn.querySelector('span');
+        const btnIcon = btn.querySelector('ph-arrows-clockwise');
+        const originalText = btnSpan ? btnSpan.textContent : 'Fetch';
+        const originalHTML = btn.innerHTML;
+        
+        btn.disabled = true;
+        btn.style.opacity = '0.7';
+        btnSpan.textContent = 'Starting...';
         
         window.open('https://github.com/awmie/jobseeker/actions/workflows/scrape.yml/dispatch', '_blank');
         
         let checkCount = 0;
         
-        btn.textContent = '⏳ Waiting for jobs...';
-        
-        pollInterval = setInterval(async () => {
+        function checkForNewJobs() {
             checkCount++;
             
             if (checkCount >= 30) {
-                btn.textContent = '⚠️ Check manually';
-                clearInterval(pollInterval);
+                btn.disabled = false;
+                btn.style.opacity = '1';
+                btnSpan.textContent = '⚠️ Try again';
                 return;
             }
             
-            try {
-                const response = await fetch('jobs.json?t=' + Date.now());
-                const data = await response.json();
-                
-                if (data.last_updated !== currentTimestamp) {
-                    allJobs = data.jobs || [];
-                    renderJobs(allJobs);
-                    updateMeta(data);
-                    filterJobs();
-                    btn.textContent = '✅ Jobs updated!';
-                    clearInterval(pollInterval);
-                    setTimeout(() => {
-                        btn.textContent = originalText;
-                    }, 2000);
-                } else {
-                    btn.textContent = `⏳ Waiting... (${checkCount * 2}s)`;
-                }
-            } catch (e) {
-                btn.textContent = '⏳ Retrying...';
-            }
-        }, 2000);
+            fetch('jobs.json?t=' + Date.now())
+                .then(res => res.json())
+                .then(data => {
+                    const newTime = new Date(data.last_updated).getTime();
+                    const oldTime = currentTimestamp ? new Date(currentTimestamp).getTime() : 0;
+                    
+                    if (newTime > oldTime) {
+                        allJobs = data.jobs || [];
+                        renderJobs(allJobs);
+                        updateMeta(data);
+                        filterJobs();
+                        btnSpan.textContent = '✅ Updated!';
+                        btn.disabled = false;
+                        btn.style.opacity = '1';
+                        setTimeout(() => {
+                            btnSpan.textContent = originalText;
+                        }, 2000);
+                    } else {
+                        btnSpan.textContent = `⏳ ${checkCount * 2}s...`;
+                        pollInterval = setTimeout(checkForNewJobs, 2000);
+                    }
+                })
+                .catch(() => {
+                    btnSpan.textContent = '⏳ Retrying...';
+                    pollInterval = setTimeout(checkForNewJobs, 2000);
+                });
+        }
+        
+        setTimeout(checkForNewJobs, 3000);
     }
     
     window.triggerScrape = triggerScrape;

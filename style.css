@@ -1,21 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
 :root {
-    --deep-olive: #3B5931;
-    --fern-green: #4D7C3C;
-    --olive: #74AA46;
-    --light-green: #A8D16B;
-    --mint-cream: #E3F4A4;
-    --off-white: #F8F9F4;
-    
-    --bg-primary: var(--off-white);
-    --bg-secondary: var(--mint-cream);
+    --deep-olive: #2d4a2d;
+    --olive: #4a7c4a;
+    --light-olive: #e8f0e8;
+    --bg-primary: #fafafa;
     --bg-card: #ffffff;
-    --text-primary: #1a2e1a;
-    --text-secondary: #5a6b5a;
-    --accent: var(--olive);
-    --accent-hover: var(--fern-green);
-    --border: #c8d6b8;
-    --tag-bg: #e8f0e3;
-    --success: var(--fern-green);
+    --text-primary: #1a1a1a;
+    --text-secondary: #666666;
+    --text-tertiary: #999999;
+    --border: #e5e5e5;
+    --border-hover: #d0d0d0;
+    --shadow-sm: 0 1px 2px rgba(0,0,0,0.05);
+    --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+    --shadow-lg: 0 8px 24px rgba(0,0,0,0.12);
+    --radius-sm: 8px;
+    --radius-md: 12px;
+    --radius-lg: 16px;
+    --radius-full: 9999px;
 }
 
 * {
@@ -25,40 +27,45 @@
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
     background: var(--bg-primary);
     color: var(--text-primary);
-    line-height: 1.6;
+    line-height: 1.5;
     min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 900px;
     margin: 0 auto;
-    padding: 0 1rem;
+    padding: 0 1.5rem;
 }
 
 header {
-    background: linear-gradient(135deg, var(--deep-olive) 0%, var(--fern-green) 100%);
-    padding: 2.5rem 0;
-    border-bottom: none;
+    padding: 3rem 0 2rem;
     text-align: center;
 }
 
 header h1 {
-    font-size: 2.25rem;
-    margin-bottom: 0.25rem;
-    color: #ffffff;
+    font-size: 1.75rem;
     font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.5rem;
+}
+
+header h1 span {
+    color: var(--olive);
 }
 
 header .subtitle {
-    color: var(--mint-cream);
+    color: var(--text-secondary);
     font-size: 1rem;
+    font-weight: 400;
 }
 
 main {
-    padding: 2rem 0;
+    padding: 1.5rem 0 3rem;
 }
 
 .controls {
@@ -67,56 +74,72 @@ main {
     align-items: center;
     flex-wrap: wrap;
     margin-bottom: 1.5rem;
-    padding: 1rem;
-    background: var(--bg-card);
-    border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(59, 89, 49, 0.08);
-}
-
-.controls input,
-.controls select {
     padding: 0.75rem 1rem;
-    border: 2px solid var(--border);
-    border-radius: 8px;
-    background: var(--bg-primary);
-    color: var(--text-primary);
-    font-size: 0.95rem;
-    transition: border-color 0.2s, box-shadow 0.2s;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-sm);
 }
 
 .controls input {
     flex: 1;
-    min-width: 200px;
+    min-width: 180px;
+    padding: 0.625rem 0.875rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    font-size: 0.875rem;
+    transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.controls input::placeholder {
+    color: var(--text-tertiary);
 }
 
 .controls input:focus,
 .controls select:focus {
     outline: none;
-    border-color: var(--accent);
-    box-shadow: 0 0 0 3px rgba(116, 170, 70, 0.15);
+    border-color: var(--olive);
+    box-shadow: 0 0 0 3px rgba(74, 124, 74, 0.1);
+}
+
+.controls select {
+    padding: 0.625rem 2rem 0.625rem 0.875rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    font-size: 0.875rem;
+    cursor: pointer;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M2 4l4 4 4-4'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
 }
 
 .controls #count {
     color: var(--text-secondary);
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     margin-left: auto;
     font-weight: 500;
 }
 
 .refresh-btn {
-    padding: 0.75rem 1.25rem;
+    padding: 0.625rem 1rem;
     background: var(--deep-olive);
     color: #ffffff;
     border: none;
-    border-radius: 8px;
-    font-size: 0.9rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.8rem;
     font-weight: 600;
     cursor: pointer;
-    transition: background 0.2s, transform 0.2s;
+    transition: all 0.15s ease;
+    white-space: nowrap;
 }
 
 .refresh-btn:hover {
-    background: var(--fern-green);
+    background: var(--olive);
     transform: translateY(-1px);
 }
 
@@ -125,36 +148,47 @@ main {
 }
 
 .jobs-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
 }
 
 .job-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 1.25rem;
     background: var(--bg-card);
     border: 1px solid var(--border);
-    border-radius: 16px;
-    padding: 1.5rem;
-    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+    border-radius: var(--radius-md);
+    transition: all 0.15s ease;
 }
 
 .job-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 24px rgba(59, 89, 49, 0.12);
-    border-color: var(--accent);
+    border-color: var(--border-hover);
+    box-shadow: var(--shadow-md);
+    transform: translateY(-1px);
+}
+
+.job-card .job-info {
+    flex: 1;
+    min-width: 0;
 }
 
 .job-card h3 {
-    font-size: 1.1rem;
-    margin-bottom: 0.5rem;
-    line-height: 1.4;
+    font-size: 0.95rem;
     font-weight: 600;
+    margin-bottom: 0.25rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .job-card h3 a {
-    color: var(--deep-olive);
+    color: var(--text-primary);
     text-decoration: none;
-    transition: color 0.2s;
+    transition: color 0.15s;
 }
 
 .job-card h3 a:hover {
@@ -163,28 +197,30 @@ main {
 
 .job-card .company {
     color: var(--text-secondary);
-    font-size: 0.95rem;
-    margin-bottom: 0.75rem;
-    font-weight: 500;
+    font-size: 0.8rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .job-card .meta {
     display: flex;
     gap: 0.5rem;
-    flex-wrap: wrap;
+    flex-shrink: 0;
 }
 
 .job-card .tag {
-    background: var(--tag-bg);
-    color: var(--text-secondary);
-    padding: 0.35rem 0.75rem;
-    border-radius: 20px;
-    font-size: 0.8rem;
-    font-weight: 500;
+    padding: 0.25rem 0.625rem;
+    background: var(--light-olive);
+    color: var(--olive);
+    border-radius: var(--radius-full);
+    font-size: 0.7rem;
+    font-weight: 600;
+    white-space: nowrap;
 }
 
 .job-card .tag.source {
-    background: var(--accent);
+    background: var(--deep-olive);
     color: #ffffff;
 }
 
@@ -192,42 +228,39 @@ main {
     color: var(--text-secondary);
     text-align: center;
     padding: 3rem;
-    grid-column: 1 / -1;
 }
 
 .no-jobs {
     color: var(--text-secondary);
     text-align: center;
     padding: 3rem;
-    grid-column: 1 / -1;
-}
-
-footer {
-    background: var(--deep-olive);
-    padding: 1.5rem 0;
-    border-top: none;
-    text-align: center;
-    margin-top: 2rem;
-}
-
-footer p {
-    color: var(--mint-cream);
     font-size: 0.9rem;
 }
 
-footer .credit {
+footer {
+    padding: 2rem 0;
+    text-align: center;
+    border-top: 1px solid var(--border);
+}
+
+footer p {
+    color: var(--text-secondary);
     font-size: 0.8rem;
+}
+
+footer .credit {
+    font-size: 0.7rem;
     margin-top: 0.5rem;
-    opacity: 0.8;
+    color: var(--text-tertiary);
 }
 
 @media (max-width: 600px) {
-    header h1 {
-        font-size: 1.75rem;
+    header {
+        padding: 2rem 0 1.5rem;
     }
     
-    .jobs-grid {
-        grid-template-columns: 1fr;
+    header h1 {
+        font-size: 1.5rem;
     }
     
     .controls {
@@ -235,8 +268,22 @@ footer .credit {
         align-items: stretch;
     }
     
+    .controls input,
+    .controls select {
+        width: 100%;
+    }
+    
     .controls #count {
         margin-left: 0;
         text-align: center;
+    }
+    
+    .job-card {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .job-card .meta {
+        width: 100%;
     }
 }

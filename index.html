@@ -3,22 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JobSeeker - Remote Jobs</title>
+    <title>JobSeeker · Remote Jobs</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>Remote Jobs</h1>
-            <p class="subtitle">Aggregated from top remote job boards</p>
+            <h1>Job<span>Seeker</span></h1>
+            <p class="subtitle">Find your next remote role</p>
         </div>
     </header>
 
     <main class="container">
         <div class="controls">
-            <input type="text" id="search" placeholder="Search jobs..." autocomplete="off">
+            <input type="text" id="search" placeholder="Search roles..." autocomplete="off">
             <select id="category">
-                <option value="">All Categories</option>
+                <option value="">All Roles</option>
                 <option value="software engineer">Software Engineer</option>
                 <option value="ai engineer">AI Engineer</option>
                 <option value="vibe coding">Vibe Coding</option>
@@ -34,7 +34,7 @@
                 <option value="">All Sources</option>
                 <option value="WeWorkRemotely">WeWorkRemotely</option>
             </select>
-            <button id="refresh-btn" class="refresh-btn" onclick="triggerScrape()">🔄 Fetch Jobs</button>
+            <button id="refresh-btn" class="refresh-btn" onclick="triggerScrape()">↻ Fetch</button>
             <span id="count">Loading...</span>
         </div>
 
@@ -52,4 +52,4 @@
 
     <script src="script.js"></script>
 </body>
-</html><!-- forced redeploy -->
+</html>

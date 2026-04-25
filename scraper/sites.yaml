@@ -1,0 +1,7 @@
+sites:
+  weworkremotely:
+    name: "WeWorkRemotely"
+    url: "https://weworkremotely.com/remote-jobs"
+    type: "html"
+    enabled: true
+    max_jobs: 30

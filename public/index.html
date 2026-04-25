@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remote Job Board</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Remote Jobs</h1>
+            <p class="subtitle">Aggregated from top remote job boards</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="controls">
+            <input type="text" id="search" placeholder="Search jobs..." autocomplete="off">
+            <select id="filter">
+                <option value="">All Sources</option>
+                <option value="WeWorkRemotely">WeWorkRemotely</option>
+                <option value="RemoteOK">RemoteOK</option>
+            </select>
+            <span id="count">Loading...</span>
+        </div>
+
+        <div id="jobs-container" class="jobs-grid">
+            <div class="loading">Loading jobs...</div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Updated: <span id="last-updated">-</span></p>
+            <p class="credit">Auto-scraped via GitHub Actions</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

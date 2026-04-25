@@ -1,0 +1,199 @@
+:root {
+    --bg-primary: #0f1419;
+    --bg-secondary: #1a2129;
+    --bg-card: #1e2832;
+    --text-primary: #e7e9ea;
+    --text-secondary: #8b98a5;
+    --accent: #1d9bf0;
+    --accent-hover: #1a8cd8;
+    --border: #2f3942;
+    --tag-bg: #2f3942;
+    --success: #00ba7c;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+header {
+    background: var(--bg-secondary);
+    padding: 2rem 0;
+    border-bottom: 1px solid var(--border);
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 0.25rem;
+}
+
+header .subtitle {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+}
+
+main {
+    padding: 1.5rem 0;
+}
+
+.controls {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+}
+
+.controls input,
+.controls select {
+    padding: 0.6rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--bg-secondary);
+    color: var(--text-primary);
+    font-size: 0.95rem;
+}
+
+.controls input {
+    flex: 1;
+    min-width: 200px;
+}
+
+.controls input:focus,
+.controls select:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+
+.controls #count {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-left: auto;
+}
+
+.jobs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1rem;
+}
+
+.job-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.25rem;
+    transition: transform 0.2s, border-color 0.2s;
+}
+
+.job-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent);
+}
+
+.job-card h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+}
+
+.job-card h3 a {
+    color: var(--text-primary);
+    text-decoration: none;
+}
+
+.job-card h3 a:hover {
+    color: var(--accent);
+}
+
+.job-card .company {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    margin-bottom: 0.75rem;
+}
+
+.job-card .meta {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.job-card .tag {
+    background: var(--tag-bg);
+    color: var(--text-secondary);
+    padding: 0.25rem 0.6rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+}
+
+.job-card .tag.source {
+    background: rgba(29, 155, 240, 0.15);
+    color: var(--accent);
+}
+
+.loading {
+    color: var(--text-secondary);
+    text-align: center;
+    padding: 3rem;
+    grid-column: 1 / -1;
+}
+
+.no-jobs {
+    color: var(--text-secondary);
+    text-align: center;
+    padding: 3rem;
+    grid-column: 1 / -1;
+}
+
+footer {
+    background: var(--bg-secondary);
+    padding: 1.5rem 0;
+    border-top: 1px solid var(--border);
+    text-align: center;
+    margin-top: 2rem;
+}
+
+footer p {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+footer .credit {
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+}
+
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
+    
+    .jobs-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .controls {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .controls #count {
+        margin-left: 0;
+        text-align: center;
+    }
+}

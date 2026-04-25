@@ -114,3 +114,14 @@
     
     loadJobs();
 })();
+
+function triggerScrape() {
+    const btn = document.getElementById('refresh-btn');
+    btn.textContent = '⏳ Open Actions...';
+    
+    window.open('https://github.com/awmie/jobseeker/actions/workflows/scrape.yml', '_blank');
+    
+    setTimeout(() => {
+        btn.textContent = '🔄 Fetch Jobs';
+    }, 3000);
+}

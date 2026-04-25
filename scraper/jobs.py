@@ -6,7 +6,6 @@ import hashlib
 from pathlib import Path
 from bs4 import BeautifulSoup
 from datetime import datetime
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 CONFIG_PATH = Path(__file__).parent / "sites.yaml"
 SEEN_JOBS_PATH = Path(__file__).parent / "seen_jobs.json"

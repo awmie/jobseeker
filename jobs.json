@@ -475,9 +475,26 @@
       ],
       "salary": "",
       "posted": "2026-04-23T16:00:11+00:00"
+    },
+    {
+      "title": "Corporate Counsel",
+      "company": "May Mobility",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-corporate-counsel-may-mobility-1131294",
+      "source": "RemoteOK",
+      "tags": [
+        "system",
+        "support",
+        "operations",
+        "marketing",
+        "legal",
+        "go"
+      ],
+      "salary": "",
+      "posted": "2026-04-23T16:00:04+00:00"
     }
   ],
-  "last_updated": "2026-04-25T18:07:25.898657",
-  "total": 29,
-  "new": 19
+  "last_updated": "2026-04-25T18:08:39.859642",
+  "total": 30,
+  "new": 1
 }

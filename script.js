@@ -6,13 +6,13 @@
     const countSpan = document.getElementById('count');
     const lastUpdatedSpan = document.getElementById('last-updated');
     let currentTimestamp = '';
-    
     let allJobs = [];
+    let pollInterval = null;
     
     const techKeywords = {
         'software engineer': ['software', 'engineer', 'developer', 'programming'],
         'ai engineer': ['ai', 'artificial intelligence', 'machine learning', 'ml', 'deep learning', 'neural', 'llm', 'gpt', 'chatgpt', 'openai', 'anthropic', 'ai/'],
-        'vibe coding': ['vibe', 'vibes', 'cursor', 'windsurf', 'ai coding', 'copilot', 'codeium', ' Lovable'],
+        'vibe coding': ['vibe', 'vibes', 'cursor', 'windsurf', 'ai coding', 'copilot', 'codeium', 'lovable'],
         'frontend': ['frontend', 'front-end', 'react', 'vue', 'angular', 'javascript', 'typescript', 'css', 'ui ', 'web developer'],
         'backend': ['backend', 'back-end', 'api', 'server', 'database', 'postgres', 'mysql', 'redis', 'node', 'python', 'django', 'fastapi'],
         'full stack': ['full stack', 'fullstack', 'full-stack'],
@@ -54,8 +54,10 @@
         
         container.innerHTML = jobs.map(job => `
             <div class="job-card">
-                <h3><a href="${escapeHtml(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a></h3>
-                <div class="company">${escapeHtml(job.company)}</div>
+                <div class="job-info">
+                    <h3><a href="${escapeHtml(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a></h3>
+                    <div class="company">${escapeHtml(job.company)}</div>
+                </div>
                 <div class="meta">
                     <span class="tag">${escapeHtml(job.location || 'Remote')}</span>
                     <span class="tag source">${escapeHtml(job.source)}</span>
@@ -110,6 +112,51 @@
         return div.innerHTML;
     }
     
+    function triggerScrape() {
+        const btn = document.getElementById('refresh-btn');
+        const originalText = btn.textContent;
+        btn.textContent = '⏳ Starting scrape...';
+        
+        window.open('https://github.com/awmie/jobseeker/actions/workflows/scrape.yml/dispatch', '_blank');
+        
+        let checkCount = 0;
+        
+        btn.textContent = '⏳ Waiting for jobs...';
+        
+        pollInterval = setInterval(async () => {
+            checkCount++;
+            
+            if (checkCount >= 30) {
+                btn.textContent = '⚠️ Check manually';
+                clearInterval(pollInterval);
+                return;
+            }
+            
+            try {
+                const response = await fetch('jobs.json?t=' + Date.now());
+                const data = await response.json();
+                
+                if (data.last_updated !== currentTimestamp) {
+                    allJobs = data.jobs || [];
+                    renderJobs(allJobs);
+                    updateMeta(data);
+                    filterJobs();
+                    btn.textContent = '✅ Jobs updated!';
+                    clearInterval(pollInterval);
+                    setTimeout(() => {
+                        btn.textContent = originalText;
+                    }, 2000);
+                } else {
+                    btn.textContent = `⏳ Waiting... (${checkCount * 2}s)`;
+                }
+            } catch (e) {
+                btn.textContent = '⏳ Retrying...';
+            }
+        }, 2000);
+    }
+    
+    window.triggerScrape = triggerScrape;
+    
     searchInput.addEventListener('input', filterJobs);
     categorySelect.addEventListener('change', filterJobs);
     filterSelect.addEventListener('change', filterJobs);
@@ -135,47 +182,3 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('theme-toggle').textContent = '☀️';
     }
 });
-
-function triggerScrape() {
-    const btn = document.getElementById('refresh-btn');
-    const originalText = btn.textContent;
-    btn.textContent = '⏳ Starting scrape...';
-    
-    window.open('https://github.com/awmie/jobseeker/actions/workflows/scrape.yml/dispatch', '_blank');
-    
-    let checkCount = 0;
-    const originalJobs = JSON.stringify(allJobs);
-    
-    btn.textContent = '⏳ Waiting for jobs...';
-    
-    const pollInterval = setInterval(async () => {
-        checkCount++;
-        
-        if (checkCount >= 30) {
-            btn.textContent = '⚠️ Check manually';
-            clearInterval(pollInterval);
-            return;
-        }
-        
-        try {
-            const response = await fetch('jobs.json?t=' + Date.now());
-            const data = await response.json();
-            
-            if (data.last_updated !== currentTimestamp) {
-                allJobs = data.jobs || [];
-                renderJobs(allJobs);
-                updateMeta(data);
-                filterJobs();
-                btn.textContent = '✅ Jobs updated!';
-                clearInterval(pollInterval);
-                setTimeout(() => {
-                    btn.textContent = originalText;
-                }, 2000);
-            } else {
-                btn.textContent = `⏳ Waiting... (${checkCount * 2}s)`;
-            }
-        } catch (e) {
-            btn.textContent = '⏳ Retrying...';
-        }
-    }, 2000);
-}

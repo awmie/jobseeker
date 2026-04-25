@@ -178,12 +178,12 @@ function toggleTheme() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+    const saved = localStorage.getItem('theme') || 'light';
+    const html = document.documentElement;
     const moon = document.getElementById('theme-icon-moon');
     const sun = document.getElementById('theme-icon-sun');
-    const saved = localStorage.getItem('theme');
-    if (saved === 'dark') {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        moon.style.display = 'none';
-        sun.style.display = 'inline';
-    }
+    
+    html.setAttribute('data-theme', saved);
+    moon.style.display = saved === 'dark' ? 'none' : 'inline';
+    sun.style.display = saved === 'dark' ? 'inline' : 'none';
 });

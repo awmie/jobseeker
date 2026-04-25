@@ -98,7 +98,7 @@ async def scrape_remoteok(client, config, max_jobs=30):
         response.raise_for_status()
         data = response.json()
         
-        for item in data[:max_jobs]:
+        for item in data[1:max_jobs+1]:
             if not item or not item.get("id"):
                 continue
             

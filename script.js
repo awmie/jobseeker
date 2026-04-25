@@ -57,20 +57,21 @@
                 <div class="job-info">
                     <h3><a href="${escapeHtml(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a></h3>
                     <div class="company">${escapeHtml(job.company)}</div>
+                    ${job.salary ? `<div class="salary">${escapeHtml(job.salary)}</div>` : ''}
                 </div>
                 <div class="meta">
-                    <span class="tag">${escapeHtml(job.location || 'Remote')}</span>
+                    ${job.tags && job.tags.length ? job.tags.slice(0,3).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('') : '<span class="tag">Remote</span>'}
                     <span class="tag source">${escapeHtml(job.source)}</span>
                 </div>
             </div>
         `).join('');
     }
     
-    function getJobCategory(title) {
-        const lower = title.toLowerCase();
+    function getJobCategory(title, tags = []) {
+        const searchText = (title + ' ' + (tags || []).join(' ')).toLowerCase();
         for (const [category, keywords] of Object.entries(techKeywords)) {
             for (const kw of keywords) {
-                if (lower.includes(kw)) {
+                if (searchText.includes(kw)) {
                     return category;
                 }
             }
@@ -86,15 +87,18 @@
         let filtered = allJobs;
         
         if (search) {
+            const s = search.toLowerCase();
             filtered = filtered.filter(job => 
-                job.title.toLowerCase().includes(search) ||
-                job.company.toLowerCase().includes(search)
+                job.title.toLowerCase().includes(s) ||
+                job.company.toLowerCase().includes(s) ||
+                (job.tags && job.tags.some(t => t.toLowerCase().includes(s))) ||
+                (job.salary && job.salary.toLowerCase().includes(s))
             );
         }
         
         if (category) {
             filtered = filtered.filter(job => {
-                const jobCat = getJobCategory(job.title);
+                const jobCat = getJobCategory(job.title, job.tags);
                 return jobCat === category;
             });
         }

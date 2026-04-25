@@ -274,6 +274,13 @@ main {
     text-overflow: ellipsis;
 }
 
+.job-card .salary {
+    color: var(--olive);
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-top: 0.25rem;
+}
+
 .job-card .meta {
     display: flex;
     gap: 0.5rem;

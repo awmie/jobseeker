@@ -117,13 +117,12 @@
         const btnSpan = btn.querySelector('span');
         const btnIcon = btn.querySelector('ph-arrows-clockwise');
         const originalText = btnSpan ? btnSpan.textContent : 'Fetch';
-        const originalHTML = btn.innerHTML;
         
         btn.disabled = true;
         btn.style.opacity = '0.7';
         btnSpan.textContent = 'Starting...';
         
-        window.open('https://github.com/awmie/jobseeker/actions/workflows/scrape.yml/dispatch', '_blank');
+        window.open('https://github.com/awmie/jobseeker/actions', '_blank');
         
         let checkCount = 0;
         

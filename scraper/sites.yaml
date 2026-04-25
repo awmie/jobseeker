@@ -4,4 +4,18 @@ sites:
     url: "https://weworkremotely.com/remote-jobs"
     type: "html"
     enabled: true
-    max_jobs: 30
+    max_jobs: 20
+
+  remoteok:
+    name: "RemoteOK"
+    url: "https://remoteok.com/api"
+    type: "json"
+    enabled: true
+    max_jobs: 20
+
+  remotefrontend:
+    name: "RemoteFrontend"
+    url: "https://remotefrontend.com/jobs"
+    type: "html"
+    enabled: false
+    max_jobs: 15

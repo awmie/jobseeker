@@ -90,7 +90,51 @@ async def scrape_weworkremotely(client, config, max_jobs=30):
 
 
 async def scrape_remoteok(client, config, max_jobs=30):
-    return []
+    jobs = []
+    url = config.get("url", "https://remoteok.com/api")
+    
+    try:
+        response = await client.get(url, timeout=30.0)
+        response.raise_for_status()
+        data = response.json()
+        
+        for item in data[:max_jobs]:
+            if not item or not item.get("id"):
+                continue
+            
+            # Skip algorithm jobs (these are usually ad/partner posts)
+            if item.get("algorithm"):
+                continue
+            
+            # Skip jobs without valid company
+            company = item.get("company", "Unknown")
+            if not company or company == "":
+                company = "Unknown"
+            
+            # Get job details
+            title = item.get("position", "Unknown Role")
+            job_url = item.get("url", "")
+            if job_url and not job_url.startswith("http"):
+                job_url = f"https://remoteok.com{job_url}"
+            
+            # Get tags
+            tags = item.get("tags", [])
+            
+            jobs.append({
+                "title": title,
+                "company": company,
+                "location": "Remote",
+                "url": job_url,
+                "source": "RemoteOK",
+                "tags": tags,
+                "salary": item.get("salary", ""),
+                "posted": item.get("date", "")
+            })
+                
+    except Exception as e:
+        print(f"  Error scraping RemoteOK: {e}")
+    
+    return jobs
 
 
 async def scrape_site(client, site_key, config):

@@ -2,12 +2,11 @@ name: Scrape Jobs
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '*/5 * * * *'  # Every 5 minutes (minimum)
   workflow_dispatch:
 
 permissions:
   contents: write
-  pages: write
 
 jobs:
   scrape:

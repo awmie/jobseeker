@@ -1,11 +1,25 @@
 (function() {
     const container = document.getElementById('jobs-container');
     const searchInput = document.getElementById('search');
+    const categorySelect = document.getElementById('category');
     const filterSelect = document.getElementById('filter');
     const countSpan = document.getElementById('count');
     const lastUpdatedSpan = document.getElementById('last-updated');
     
     let allJobs = [];
+    
+    const techKeywords = {
+        'software engineer': ['software', 'engineer', 'developer', 'programming'],
+        'ai engineer': ['ai', 'artificial intelligence', 'machine learning', 'ml', 'deep learning', 'neural', 'llm', 'gpt', 'chatgpt', 'openai', 'anthropic', 'ai/'],
+        'vibe coding': ['vibe', 'vibes', 'cursor', 'windsurf', 'ai coding', 'copilot', 'codeium', ' Lovable'],
+        'frontend': ['frontend', 'front-end', 'react', 'vue', 'angular', 'javascript', 'typescript', 'css', 'ui ', 'web developer'],
+        'backend': ['backend', 'back-end', 'api', 'server', 'database', 'postgres', 'mysql', 'redis', 'node', 'python', 'django', 'fastapi'],
+        'full stack': ['full stack', 'fullstack', 'full-stack'],
+        'devops': ['devops', 'sre', 'infrastructure', 'aws', 'azure', 'gcp', 'kubernetes', 'docker', 'terraform', 'ci/cd', 'pipeline'],
+        'data': ['data', 'analytics', 'database', 'sql', 'postgresql', 'etl', 'pipeline'],
+        'machine learning': ['machine learning', 'ml ', 'ml engineer', 'ml/', 'data scientist', 'nlp', 'natural language'],
+        'product manager': ['product manager', 'product owner', 'pm ', 'product lead']
+    };
     
     async function loadJobs() {
         try {
@@ -48,8 +62,21 @@
         `).join('');
     }
     
+    function getJobCategory(title) {
+        const lower = title.toLowerCase();
+        for (const [category, keywords] of Object.entries(techKeywords)) {
+            for (const kw of keywords) {
+                if (lower.includes(kw)) {
+                    return category;
+                }
+            }
+        }
+        return 'other';
+    }
+    
     function filterJobs() {
         const search = searchInput.value.toLowerCase();
+        const category = categorySelect.value;
         const source = filterSelect.value;
         
         let filtered = allJobs;
@@ -59,6 +86,13 @@
                 job.title.toLowerCase().includes(search) ||
                 job.company.toLowerCase().includes(search)
             );
+        }
+        
+        if (category) {
+            filtered = filtered.filter(job => {
+                const jobCat = getJobCategory(job.title);
+                return jobCat === category;
+            });
         }
         
         if (source) {
@@ -75,6 +109,7 @@
     }
     
     searchInput.addEventListener('input', filterJobs);
+    categorySelect.addEventListener('change', filterJobs);
     filterSelect.addEventListener('change', filterJobs);
     
     loadJobs();

@@ -71,6 +71,64 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Tax AI Expert",
+      "company": "Weekday",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-tax-ai-expert-weekday-1131326",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "support",
+        "growth",
+        "payroll",
+        "financial",
+        "finance",
+        "analytics"
+      ],
+      "salary": "",
+      "posted": "2026-04-25T08:00:26+00:00"
+    },
+    {
+      "title": "Director of Revenue Operations",
+      "company": "Practice Better",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-revenue-operations-practice-better-1131325",
+      "source": "RemoteOK",
+      "tags": [
+        "director",
+        "financial",
+        "banking",
+        "management",
+        "operations",
+        "health",
+        "recruitment",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-04-25T08:00:19+00:00"
+    },
+    {
+      "title": "Regional Sales Executive",
+      "company": "Pivotal Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-executive-pivotal-health-1131324",
+      "source": "RemoteOK",
+      "tags": [
+        "system",
+        "financial",
+        "finance",
+        "senior",
+        "operational",
+        "sales",
+        "medical",
+        "health",
+        "healthcare",
+        "executive"
+      ],
+      "salary": "",
+      "posted": "2026-04-25T08:00:08+00:00"
+    },
+    {
       "title": "Territory Account Manager",
       "company": "TENEX.AI",
       "location": "Remote",
@@ -417,75 +475,9 @@
       ],
       "salary": "",
       "posted": "2026-04-24T00:01:04+00:00"
-    },
-    {
-      "title": "Full Stack Developer",
-      "company": "Envision Horizons LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-envision-horizons-llc-1131303",
-      "source": "RemoteOK",
-      "tags": [
-        "developer",
-        "c#",
-        "amazon",
-        "react",
-        "system",
-        "front-end",
-        "technical",
-        "support",
-        "software",
-        "growth",
-        "code",
-        "web",
-        "voice",
-        "financial",
-        "css",
-        "strategy",
-        "senior",
-        "reliability",
-        "health",
-        "recruiting",
-        "engineering",
-        "recruitment",
-        "backend",
-        "ecommerce",
-        "e-commerce",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-04-24T00:00:58+00:00"
-    },
-    {
-      "title": "TEST JOB",
-      "company": "Fleetio",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-job-fleetio-1131302",
-      "source": "RemoteOK",
-      "tags": [
-        "test",
-        "software",
-        "rails"
-      ],
-      "salary": "",
-      "posted": "2026-04-24T00:00:52+00:00"
-    },
-    {
-      "title": "Bilingual Legal Personal Injury",
-      "company": "Distro",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-bilingual-legal-personal-injury-distro-1131301",
-      "source": "RemoteOK",
-      "tags": [
-        "system",
-        "web",
-        "management",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-04-24T00:00:42+00:00"
     }
   ],
-  "last_updated": "2026-04-26T08:06:24.431335",
+  "last_updated": "2026-04-26T09:13:07.336493",
   "total": 30,
-  "new": 0
+  "new": 3
 }

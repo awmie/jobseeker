@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Ae Virtual Class S A Native Language Editors",
+      "company": "AE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/ae-virtual-class-s-a-native-language-editors",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Cloudpepper Senior Platform Devops Engineer",
       "company": "CLOUDPEPPER",
       "location": "Remote",
@@ -19,13 +26,6 @@
       "company": "CUE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/cue-senior-software-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Prowritersites Freelance Writer",
-      "company": "PROWRITERSITES",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/prowritersites-freelance-writer",
       "source": "WeWorkRemotely"
     },
     {
@@ -480,7 +480,7 @@
       "posted": "2026-04-24T08:00:16+00:00"
     }
   ],
-  "last_updated": "2026-04-26T18:31:43.757140",
+  "last_updated": "2026-04-26T19:31:34.990645",
   "total": 30,
-  "new": 0
+  "new": 1
 }

@@ -71,6 +71,25 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Managing Director New England",
+      "company": "IntraFi",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-managing-director-new-england-intrafi-1131327",
+      "source": "RemoteOK",
+      "tags": [
+        "director",
+        "support",
+        "growth",
+        "travel",
+        "financial",
+        "management",
+        "senior",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-04-25T16:00:04+00:00"
+    },
+    {
       "title": "Tax AI Expert",
       "company": "Weekday",
       "location": "Remote",
@@ -459,25 +478,9 @@
       ],
       "salary": "",
       "posted": "2026-04-24T08:00:16+00:00"
-    },
-    {
-      "title": "Overnight Neuroradiologist Partner Track 10p 7a MST 7 on 14 off",
-      "company": "Diversified Radiology",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-overnight-neuroradiologist-partner-track-10p-7a-mst-7-on-14-off-diversified-radiology-1131304",
-      "source": "RemoteOK",
-      "tags": [
-        "system",
-        "teaching",
-        "assistant",
-        "fellowship",
-        "full-time"
-      ],
-      "salary": "",
-      "posted": "2026-04-24T00:01:04+00:00"
     }
   ],
-  "last_updated": "2026-04-26T16:06:02.181635",
+  "last_updated": "2026-04-26T16:59:32.108165",
   "total": 30,
-  "new": 0
+  "new": 1
 }

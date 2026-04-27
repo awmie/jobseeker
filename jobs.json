@@ -71,6 +71,68 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Operations Associate",
+      "company": "Adventus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-associate-adventus-1131330",
+      "source": "RemoteOK",
+      "tags": [
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-04-26T00:00:28+00:00"
+    },
+    {
+      "title": "ML Engineer",
+      "company": "Trunk Tools, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "system",
+        "software",
+        "growth",
+        "code",
+        "voice",
+        "operational",
+        "go",
+        "engineer",
+        "engineering",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-04-26T00:00:12+00:00"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Finalis",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-finalis-1131328",
+      "source": "RemoteOK",
+      "tags": [
+        "software",
+        "design",
+        "system",
+        "security",
+        "technical",
+        "code",
+        "accounting",
+        "financial",
+        "investment",
+        "cloud",
+        "api",
+        "senior",
+        "junior",
+        "engineer",
+        "engineering",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-04-26T00:00:05+00:00"
+    },
+    {
       "title": "Managing Director New England",
       "company": "IntraFi",
       "location": "Remote",
@@ -414,73 +476,9 @@
       ],
       "salary": "",
       "posted": "2026-04-24T16:00:08+00:00"
-    },
-    {
-      "title": "Saint Gobain Application Sales Director",
-      "company": "GML A/S",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-saint-gobain-application-sales-director-gml-a-s-1131307",
-      "source": "RemoteOK",
-      "tags": [
-        "director",
-        "ceo",
-        "management",
-        "lead",
-        "sales",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-04-24T08:00:29+00:00"
-    },
-    {
-      "title": "Trainer EMEA",
-      "company": "360Learning",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-trainer-emea-360learning-1131306",
-      "source": "RemoteOK",
-      "tags": [
-        "trainer",
-        "teaching",
-        "training",
-        "technical",
-        "support",
-        "admin",
-        "strategy",
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-04-24T08:00:22+00:00"
-    },
-    {
-      "title": "Data Engineer",
-      "company": "Pivotal Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-pivotal-health-1131305",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "salesforce",
-        "python",
-        "technical",
-        "support",
-        "software",
-        "analyst",
-        "devops",
-        "cloud",
-        "postgresql",
-        "analytics",
-        "medical",
-        "health",
-        "healthcare",
-        "engineer",
-        "engineering",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-04-24T08:00:16+00:00"
     }
   ],
-  "last_updated": "2026-04-26T23:43:05.784004",
+  "last_updated": "2026-04-27T01:16:00.165367",
   "total": 30,
-  "new": 0
+  "new": 3
 }

@@ -71,6 +71,38 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Network Engineer Factory Systems and Operational Technology",
+      "company": "Anduril Industries",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-network-engineer-factory-systems-and-operational-technology-anduril-industries-1131334",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "system",
+        "security",
+        "3d",
+        "support",
+        "operational",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-04-27T00:00:17+00:00"
+    },
+    {
+      "title": "Bookkeeping Specialist",
+      "company": "Velora",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-bookkeeping-specialist-velora-1131333",
+      "source": "RemoteOK",
+      "tags": [
+        "bookkeeping",
+        "financial"
+      ],
+      "salary": "",
+      "posted": "2026-04-27T00:00:06+00:00"
+    },
+    {
       "title": "Operations Associate",
       "company": "Adventus",
       "location": "Remote",
@@ -442,43 +474,9 @@
       ],
       "salary": "",
       "posted": "2026-04-24T16:00:29+00:00"
-    },
-    {
-      "title": "Paid Media Manager",
-      "company": "Terra",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-terra-1131312",
-      "source": "RemoteOK",
-      "tags": [
-        "manager",
-        "strategist",
-        "strategy"
-      ],
-      "salary": "",
-      "posted": "2026-04-24T16:00:16+00:00"
-    },
-    {
-      "title": "Registered Clinical Social Work Intern Spanish Speaking",
-      "company": "Brave Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-registered-clinical-social-work-intern-spanish-speaking-brave-health-1131311",
-      "source": "RemoteOK",
-      "tags": [
-        "recruiter",
-        "support",
-        "growth",
-        "video",
-        "education",
-        "senior",
-        "medical",
-        "health",
-        "healthcare"
-      ],
-      "salary": "",
-      "posted": "2026-04-24T16:00:08+00:00"
     }
   ],
-  "last_updated": "2026-04-27T23:32:36.768835",
+  "last_updated": "2026-04-28T01:18:07.470102",
   "total": 30,
-  "new": 0
+  "new": 2
 }

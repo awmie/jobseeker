@@ -71,6 +71,27 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Senior Full stack React Developer",
+      "company": "Lemon.io",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-react-developer-lemon-io-1131339",
+      "source": "RemoteOK",
+      "tags": [
+        "javascript",
+        "react",
+        "node",
+        "python",
+        "golang",
+        "full time",
+        "full stack",
+        "dev",
+        "engineer",
+        "senior"
+      ],
+      "salary": "",
+      "posted": "2026-04-27T09:46:26+00:00"
+    },
+    {
       "title": "Virtual Real Estate Sales Representative",
       "company": "aurelian sovereign",
       "location": "Remote",
@@ -446,36 +467,9 @@
       ],
       "salary": "",
       "posted": "2026-04-24T16:00:44+00:00"
-    },
-    {
-      "title": "Full Stack Product Engineer",
-      "company": "Pivotal Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-full-stack-product-engineer-pivotal-health-1131314",
-      "source": "RemoteOK",
-      "tags": [
-        "react",
-        "system",
-        "frontend",
-        "technical",
-        "software",
-        "ui",
-        "web",
-        "cloud",
-        "operations",
-        "operational",
-        "medical",
-        "health",
-        "healthcare",
-        "engineer",
-        "engineering",
-        "backend"
-      ],
-      "salary": "",
-      "posted": "2026-04-24T16:00:36+00:00"
     }
   ],
-  "last_updated": "2026-04-28T09:38:59.331348",
+  "last_updated": "2026-04-28T11:26:36.655112",
   "total": 30,
   "new": 1
 }

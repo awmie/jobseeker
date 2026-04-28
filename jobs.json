@@ -29,6 +29,13 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Ynab Humbly Confident Data Analyst",
+      "company": "YNAB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/ynab-humbly-confident-data-analyst",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Cue Senior Software Engineer",
       "company": "CUE",
       "location": "Remote",
@@ -47,13 +54,6 @@
       "company": "SPIRALYZE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Localize Engineering Manager",
-      "company": "LOCALIZE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/localize-engineering-manager",
       "source": "WeWorkRemotely"
     },
     {
@@ -469,7 +469,7 @@
       "posted": "2026-04-24T16:00:44+00:00"
     }
   ],
-  "last_updated": "2026-04-28T13:13:28.463227",
+  "last_updated": "2026-04-28T15:39:09.823416",
   "total": 30,
-  "new": 0
+  "new": 1
 }

@@ -71,6 +71,21 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Virtual Real Estate Sales Representative",
+      "company": "aurelian sovereign",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-real-estate-sales-representative-aurelian-sovereign-1131338",
+      "source": "RemoteOK",
+      "tags": [
+        "sales",
+        "customer support",
+        "exec",
+        "sys admin"
+      ],
+      "salary": "",
+      "posted": "2026-04-27T07:30:05+00:00"
+    },
+    {
       "title": "Network Engineer Factory Systems and Operational Technology",
       "company": "Anduril Industries",
       "location": "Remote",
@@ -458,25 +473,9 @@
       ],
       "salary": "",
       "posted": "2026-04-24T16:00:36+00:00"
-    },
-    {
-      "title": "WorkWave Senior Data Analytics Engineer",
-      "company": "WorkWave",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-workwave-senior-data-analytics-engineer-workwave-1131313",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "senior",
-        "analytics",
-        "engineer",
-        "engineering"
-      ],
-      "salary": "",
-      "posted": "2026-04-24T16:00:29+00:00"
     }
   ],
-  "last_updated": "2026-04-28T07:21:56.950885",
+  "last_updated": "2026-04-28T09:38:59.331348",
   "total": 30,
   "new": 1
 }

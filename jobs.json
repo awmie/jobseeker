@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Filestage Product Marketing Manager",
+      "company": "FILESTAGE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/filestage-product-marketing-manager",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Creative Force Product Support Jedi Remote Apac 1",
+      "company": "CREATIVE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/creative-force-product-support-jedi-remote-apac-1",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Katkin Senior Growth Product Manager",
       "company": "KATKIN",
       "location": "Remote",
@@ -15,13 +29,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Plugin Genie Generalist Ft Or Pt Ms Power Automate",
-      "company": "PLUGIN",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/plugin-genie-generalist-ft-or-pt-ms-power-automate",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Trainwell Insurance Sales Coach",
       "company": "TRAINWELL",
       "location": "Remote",
@@ -33,13 +40,6 @@
       "company": "AURELIAN",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/aurelian-sovereign-virtual-real-estate-sales-representative-remote",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Gno Partners Senior Amazon Brand Manager 1",
-      "company": "GNO",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/gno-partners-senior-amazon-brand-manager-1",
       "source": "WeWorkRemotely"
     },
     {
@@ -428,7 +428,7 @@
       "posted": "2026-04-27T00:00:06+00:00"
     }
   ],
-  "last_updated": "2026-04-29T11:14:14.945362",
+  "last_updated": "2026-04-29T12:56:18.487450",
   "total": 30,
-  "new": 0
+  "new": 2
 }

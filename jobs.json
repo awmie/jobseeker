@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Katkin Senior Growth Product Manager",
+      "company": "KATKIN",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/katkin-senior-growth-product-manager",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Interop Labs Devops Lead",
+      "company": "INTEROP",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/interop-labs-devops-lead",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Plugin Genie Generalist Ft Or Pt Ms Power Automate",
       "company": "PLUGIN",
       "location": "Remote",
@@ -22,24 +36,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Cloudpepper Senior Platform Devops Engineer",
-      "company": "CLOUDPEPPER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/cloudpepper-senior-platform-devops-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Gno Partners Senior Amazon Brand Manager 1",
       "company": "GNO",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/gno-partners-senior-amazon-brand-manager-1",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Ynab Humbly Confident Data Analyst",
-      "company": "YNAB",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/ynab-humbly-confident-data-analyst",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,40 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/vanta-senior-software-engineer-design-systems",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "UX Designer II",
+      "company": "Renaissance Learning North America",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ux-designer-ii-renaissance-learning-north-america-1131362",
+      "source": "RemoteOK",
+      "tags": [
+        "ux",
+        "design",
+        "students",
+        "designer",
+        "education",
+        "leader",
+        "management",
+        "engineering",
+        "educational",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-04-28T08:00:24+00:00"
+    },
+    {
+      "title": "Account Executive Emerging Accounts",
+      "company": "Fictiv",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-emerging-accounts-fictiv-1131361",
+      "source": "RemoteOK",
+      "tags": [
+        "sales",
+        "executive"
+      ],
+      "salary": "",
+      "posted": "2026-04-28T08:00:16+00:00"
     },
     {
       "title": "Senior Associate Business Development & Strategy",
@@ -392,43 +426,9 @@
       ],
       "salary": "",
       "posted": "2026-04-27T00:00:06+00:00"
-    },
-    {
-      "title": "Operations Associate",
-      "company": "Adventus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-operations-associate-adventus-1131330",
-      "source": "RemoteOK",
-      "tags": [
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-04-26T00:00:28+00:00"
-    },
-    {
-      "title": "ML Engineer",
-      "company": "Trunk Tools, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "system",
-        "software",
-        "growth",
-        "code",
-        "voice",
-        "operational",
-        "go",
-        "engineer",
-        "engineering",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-04-26T00:00:12+00:00"
     }
   ],
-  "last_updated": "2026-04-29T07:11:45.574324",
+  "last_updated": "2026-04-29T09:25:21.468109",
   "total": 30,
-  "new": 1
+  "new": 4
 }

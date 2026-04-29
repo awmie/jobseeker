@@ -1,6 +1,27 @@
 {
   "jobs": [
     {
+      "title": "Walter Senior Software Engineer",
+      "company": "WALTER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/walter-senior-software-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Gypsy Collective Head Of Product",
+      "company": "GYPSY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/gypsy-collective-head-of-product",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Kasha Senior Devops Engineer",
+      "company": "KASHA",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/kasha-senior-devops-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Filestage Product Marketing Manager",
       "company": "FILESTAGE",
       "location": "Remote",
@@ -12,20 +33,6 @@
       "company": "CREATIVE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/creative-force-product-support-jedi-remote-apac-1",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Katkin Senior Growth Product Manager",
-      "company": "KATKIN",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/katkin-senior-growth-product-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Interop Labs Devops Lead",
-      "company": "INTEROP",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/interop-labs-devops-lead",
       "source": "WeWorkRemotely"
     },
     {
@@ -50,13 +57,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Lemon Io Senior Full Stack Developer 8",
-      "company": "LEMON IO",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-8",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Spiralyze Project Manager",
       "company": "SPIRALYZE",
       "location": "Remote",
@@ -69,6 +69,18 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/vanta-senior-software-engineer-design-systems",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "HIGH TICKET OUTBOUND SALES WANTED",
+      "company": "FSE",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-high-ticket-outbound-sales-wanted-fse-1131368",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-04-28T20:18:22+00:00"
     },
     {
       "title": "Automation Engineer",
@@ -412,30 +424,9 @@
       ],
       "salary": "",
       "posted": "2026-04-27T16:00:05+00:00"
-    },
-    {
-      "title": "Senior Full stack React Developer",
-      "company": "Lemon.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-react-developer-lemon-io-1131339",
-      "source": "RemoteOK",
-      "tags": [
-        "javascript",
-        "react",
-        "node",
-        "python",
-        "golang",
-        "full time",
-        "full stack",
-        "dev",
-        "engineer",
-        "senior"
-      ],
-      "salary": "",
-      "posted": "2026-04-27T09:46:26+00:00"
     }
   ],
-  "last_updated": "2026-04-29T19:54:10.112617",
+  "last_updated": "2026-04-29T20:58:35.997478",
   "total": 30,
-  "new": 0
+  "new": 4
 }

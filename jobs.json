@@ -1,17 +1,17 @@
 {
   "jobs": [
     {
+      "title": "Risk Senior Product Manager",
+      "company": "RISK",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/risk-senior-product-manager",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Walter Senior Software Engineer",
       "company": "WALTER",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/walter-senior-software-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Gypsy Collective Head Of Product",
-      "company": "GYPSY",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/gypsy-collective-head-of-product",
       "source": "WeWorkRemotely"
     },
     {
@@ -426,7 +426,7 @@
       "posted": "2026-04-27T16:00:05+00:00"
     }
   ],
-  "last_updated": "2026-04-29T22:06:12.008020",
+  "last_updated": "2026-04-29T23:08:28.220664",
   "total": 30,
-  "new": 0
+  "new": 1
 }

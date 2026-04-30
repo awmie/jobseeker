@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Sanctuary Computer Senior Frontend Developer 2",
+      "company": "SANCTUARY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-frontend-developer-2",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Spiralyze Video Content Strategist Storyboards",
+      "company": "SPIRALYZE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/spiralyze-video-content-strategist-storyboards",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Risk Senior Product Manager",
       "company": "RISK",
       "location": "Remote",
@@ -8,24 +22,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Walter Senior Software Engineer",
-      "company": "WALTER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/walter-senior-software-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Kasha Senior Devops Engineer",
       "company": "KASHA",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/kasha-senior-devops-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Filestage Product Marketing Manager",
-      "company": "FILESTAGE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/filestage-product-marketing-manager",
       "source": "WeWorkRemotely"
     },
     {
@@ -57,17 +57,17 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Lemon Io Senior Full Stack Developer 8",
+      "company": "LEMON IO",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-8",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Spiralyze Project Manager",
       "company": "SPIRALYZE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Vanta Senior Software Engineer Design Systems",
-      "company": "VANTA",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/vanta-senior-software-engineer-design-systems",
       "source": "WeWorkRemotely"
     },
     {
@@ -461,7 +461,7 @@
       "posted": "2026-04-28T00:01:31+00:00"
     }
   ],
-  "last_updated": "2026-04-30T12:20:22.367588",
+  "last_updated": "2026-04-30T14:27:51.344546",
   "total": 30,
-  "new": 0
+  "new": 2
 }

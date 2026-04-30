@@ -1,17 +1,17 @@
 {
   "jobs": [
     {
-      "title": "Clickup Group Product Manager",
-      "company": "CLICKUP",
+      "title": "Webpt Principal Product Manager",
+      "company": "WEBPT",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/clickup-group-product-manager",
+      "url": "https://weworkremotely.com/remote-jobs/webpt-principal-product-manager",
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Rhino Partners Devops Engineer Remote",
-      "company": "RHINO",
+      "title": "Avahi Devops Engineer",
+      "company": "AVAHI",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/rhino-partners-devops-engineer-remote",
+      "url": "https://weworkremotely.com/remote-jobs/avahi-devops-engineer",
       "source": "WeWorkRemotely"
     },
     {
@@ -462,7 +462,7 @@
       "posted": "2026-04-28T16:00:06+00:00"
     }
   ],
-  "last_updated": "2026-04-30T20:11:50.339467",
+  "last_updated": "2026-04-30T21:15:56.671989",
   "total": 30,
-  "new": 1
+  "new": 2
 }

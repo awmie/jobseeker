@@ -71,6 +71,90 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Senior Full Stack Engineer",
+      "company": "Paperpile",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-paperpile-1131381",
+      "source": "RemoteOK",
+      "tags": [
+        "senior",
+        "backend",
+        "front end"
+      ],
+      "salary": "",
+      "posted": "2026-04-29T08:59:39+00:00"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Interra Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-interra-health-1131380",
+      "source": "RemoteOK",
+      "tags": [
+        "software",
+        "design",
+        "saas",
+        "system",
+        "frontend",
+        "teaching",
+        "technical",
+        "code",
+        "travel",
+        "education",
+        "cloud",
+        "ruby",
+        "management",
+        "lead",
+        "senior",
+        "operational",
+        "reliability",
+        "medical",
+        "health",
+        "healthcare",
+        "engineer",
+        "engineering",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-04-29T08:00:14+00:00"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Interra Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-interra-health-1131379",
+      "source": "RemoteOK",
+      "tags": [
+        "software",
+        "design",
+        "saas",
+        "system",
+        "frontend",
+        "teaching",
+        "technical",
+        "code",
+        "travel",
+        "education",
+        "cloud",
+        "ruby",
+        "management",
+        "lead",
+        "senior",
+        "operational",
+        "reliability",
+        "medical",
+        "health",
+        "healthcare",
+        "engineer",
+        "engineering",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-04-29T08:00:05+00:00"
+    },
+    {
       "title": "Self Pay &amp; Customer Service Specialist",
       "company": "Clinical Health Network For Transformation",
       "location": "Remote",
@@ -376,57 +460,9 @@
       ],
       "salary": "",
       "posted": "2026-04-28T00:01:17+00:00"
-    },
-    {
-      "title": "Senior Transportation Specialist",
-      "company": "ShipBob, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-transportation-specialist-shipbob-inc-1131354",
-      "source": "RemoteOK",
-      "tags": [
-        "senior"
-      ],
-      "salary": "",
-      "posted": "2026-04-28T00:01:08+00:00"
-    },
-    {
-      "title": "Senior Client Services Specialist",
-      "company": "DentalXChange",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-client-services-specialist-dentalxchange-1131353",
-      "source": "RemoteOK",
-      "tags": [
-        "support",
-        "senior",
-        "operational"
-      ],
-      "salary": "",
-      "posted": "2026-04-28T00:00:55+00:00"
-    },
-    {
-      "title": "Regional Human Resources Business Partner West",
-      "company": "Rowan",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-human-resources-business-partner-west-rowan-1131352",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "training",
-        "support",
-        "growth",
-        "microsoft",
-        "management",
-        "operational",
-        "legal",
-        "health",
-        "recruiting",
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-04-28T00:00:41+00:00"
     }
   ],
-  "last_updated": "2026-04-30T06:36:20.263602",
+  "last_updated": "2026-04-30T09:00:15.125618",
   "total": 30,
-  "new": 0
+  "new": 3
 }

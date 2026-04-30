@@ -50,17 +50,17 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Cue Senior Software Engineer",
-      "company": "CUE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/cue-senior-software-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Spiralyze Project Manager",
       "company": "SPIRALYZE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Urban Legend Backend Engineer Mid Senior",
+      "company": "URBAN",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/urban-legend-backend-engineer-mid-senior",
       "source": "WeWorkRemotely"
     },
     {
@@ -462,7 +462,7 @@
       "posted": "2026-04-28T16:00:06+00:00"
     }
   ],
-  "last_updated": "2026-04-30T18:57:36.088412",
+  "last_updated": "2026-04-30T20:11:50.339467",
   "total": 30,
-  "new": 0
+  "new": 1
 }

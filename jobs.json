@@ -71,6 +71,22 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Backend Engineer",
+      "company": "Paperpile",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-backend-engineer-paperpile-1131382",
+      "source": "RemoteOK",
+      "tags": [
+        "ops",
+        "backend",
+        "javascript",
+        "typescript",
+        "senior"
+      ],
+      "salary": "",
+      "posted": "2026-04-29T09:10:29+00:00"
+    },
+    {
       "title": "Senior Full Stack Engineer",
       "company": "Paperpile",
       "location": "Remote",
@@ -443,26 +459,9 @@
       ],
       "salary": "",
       "posted": "2026-04-28T00:01:31+00:00"
-    },
-    {
-      "title": "Regional Sales Manager",
-      "company": "Open Farm",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-open-farm-1131355",
-      "source": "RemoteOK",
-      "tags": [
-        "manager",
-        "training",
-        "support",
-        "growth",
-        "operational",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-04-28T00:01:17+00:00"
     }
   ],
-  "last_updated": "2026-04-30T09:00:15.125618",
+  "last_updated": "2026-04-30T11:00:55.216344",
   "total": 30,
-  "new": 3
+  "new": 1
 }

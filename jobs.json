@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Clickup Group Product Manager",
+      "company": "CLICKUP",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/clickup-group-product-manager",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Rhino Partners Devops Engineer Remote",
+      "company": "RHINO",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/rhino-partners-devops-engineer-remote",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Sanctuary Computer Senior Frontend Developer 2",
       "company": "SANCTUARY",
       "location": "Remote",
@@ -12,20 +26,6 @@
       "company": "SPIRALYZE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-video-content-strategist-storyboards",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Risk Senior Product Manager",
-      "company": "RISK",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/risk-senior-product-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Kasha Senior Devops Engineer",
-      "company": "KASHA",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/kasha-senior-devops-engineer",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,58 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Lite Controller Pathfinder Hospitality",
+      "company": "Pathfinder Hospitality",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-lite-controller-pathfinder-hospitality-pathfinder-hospitality-1131385",
+      "source": "RemoteOK",
+      "tags": [
+        "other",
+        "accounting"
+      ],
+      "salary": "",
+      "posted": "2026-04-29T16:42:41+00:00"
+    },
+    {
+      "title": "Counsel Business & Legal Affairs",
+      "company": "MLB Network",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-counsel-business-legal-affairs-mlb-network-1131384",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "security",
+        "support",
+        "software",
+        "finance",
+        "cloud",
+        "content",
+        "operations",
+        "legal"
+      ],
+      "salary": "",
+      "posted": "2026-04-29T16:00:17+00:00"
+    },
+    {
+      "title": "HR Partner",
+      "company": "Campus Compact",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-partner-campus-compact-1131383",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "students",
+        "support",
+        "growth",
+        "education",
+        "investment",
+        "senior",
+        "executive"
+      ],
+      "salary": "",
+      "posted": "2026-04-29T16:00:06+00:00"
     },
     {
       "title": "Backend Engineer",
@@ -408,60 +460,9 @@
       ],
       "salary": "",
       "posted": "2026-04-28T16:00:06+00:00"
-    },
-    {
-      "title": "UX Designer II",
-      "company": "Renaissance Learning North America",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ux-designer-ii-renaissance-learning-north-america-1131362",
-      "source": "RemoteOK",
-      "tags": [
-        "ux",
-        "design",
-        "students",
-        "designer",
-        "education",
-        "leader",
-        "management",
-        "engineering",
-        "educational",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-04-28T08:00:24+00:00"
-    },
-    {
-      "title": "Account Executive Emerging Accounts",
-      "company": "Fictiv",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-emerging-accounts-fictiv-1131361",
-      "source": "RemoteOK",
-      "tags": [
-        "sales",
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-04-28T08:00:16+00:00"
-    },
-    {
-      "title": "Senior Associate Business Development & Strategy",
-      "company": "Habitat Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-associate-business-development-strategy-habitat-health-1131356",
-      "source": "RemoteOK",
-      "tags": [
-        "support",
-        "strategy",
-        "senior",
-        "medical",
-        "health",
-        "healthcare"
-      ],
-      "salary": "",
-      "posted": "2026-04-28T00:01:31+00:00"
     }
   ],
-  "last_updated": "2026-04-30T16:03:01.136456",
+  "last_updated": "2026-04-30T17:40:44.829927",
   "total": 30,
-  "new": 1
+  "new": 5
 }

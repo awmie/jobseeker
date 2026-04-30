@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Toptal Qa Automation Engineer 1",
+      "company": "TOPTAL QA",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-qa-automation-engineer-1",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Webpt Principal Product Manager",
       "company": "WEBPT",
       "location": "Remote",
@@ -33,13 +40,6 @@
       "company": "CREATIVE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/creative-force-product-support-jedi-remote-apac-1",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Trainwell Insurance Sales Coach",
-      "company": "TRAINWELL",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/trainwell-insurance-sales-coach",
       "source": "WeWorkRemotely"
     },
     {
@@ -462,7 +462,7 @@
       "posted": "2026-04-28T16:00:06+00:00"
     }
   ],
-  "last_updated": "2026-04-30T21:15:56.671989",
+  "last_updated": "2026-04-30T22:12:38.646283",
   "total": 30,
-  "new": 2
+  "new": 1
 }

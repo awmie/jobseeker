@@ -71,6 +71,27 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Product Marketing Lead",
+      "company": "Paragon",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-marketing-lead-paragon-1131395",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "technical",
+        "developer",
+        "code",
+        "api",
+        "lead",
+        "marketing",
+        "sales",
+        "engineering",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-04-30T08:00:04+00:00"
+    },
+    {
       "title": "Legal Data Analyst Junior Vaga Afirmativa para PCD",
       "company": "Jusbrasil",
       "location": "Remote",
@@ -456,19 +477,9 @@
       ],
       "salary": "",
       "posted": "2026-04-29T00:00:57+00:00"
-    },
-    {
-      "title": "Product Expert PLM and ERP",
-      "company": "Altana",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-expert-plm-and-erp-altana-1131373",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-04-29T00:00:48+00:00"
     }
   ],
-  "last_updated": "2026-05-01T06:45:46.221466",
+  "last_updated": "2026-05-01T08:51:29.951576",
   "total": 30,
   "new": 1
 }

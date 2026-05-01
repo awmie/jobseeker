@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Lawnstarter Director Of Conversion Rate Optimization 1",
+      "company": "LAWNSTARTER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/lawnstarter-director-of-conversion-rate-optimization-1",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Walter Sales Appointment Setter",
       "company": "WALTER",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "CLERKY",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/clerky-customer-operations-writing-specialist-1",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Toptal Qa Automation Engineer 1",
-      "company": "TOPTAL QA",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-qa-automation-engineer-1",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,101 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Strategic Business Development Consultant",
+      "company": "Vonage",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-business-development-consultant-vonage-1131403",
+      "source": "RemoteOK",
+      "tags": [
+        "consultant",
+        "design",
+        "growth",
+        "manager",
+        "cloud",
+        "api",
+        "leader",
+        "sales",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-04-30T16:00:47+00:00"
+    },
+    {
+      "title": "Founding Engineer",
+      "company": "Haast",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-founding-engineer-haast-1131402",
+      "source": "RemoteOK",
+      "tags": [
+        "frontend",
+        "full-stack",
+        "technical",
+        "code",
+        "voice",
+        "content",
+        "legal",
+        "reliability",
+        "engineer",
+        "engineering",
+        "backend"
+      ],
+      "salary": "",
+      "posted": "2026-04-30T16:00:32+00:00"
+    },
+    {
+      "title": "Staff Data Engineer",
+      "company": "Imagine Pediatrics",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-data-engineer-imagine-pediatrics-1131401",
+      "source": "RemoteOK",
+      "tags": [
+        "support",
+        "operational",
+        "analytics",
+        "health",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-04-30T16:00:26+00:00"
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Garner Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-garner-health-1131400",
+      "source": "RemoteOK",
+      "tags": [
+        "system",
+        "travel",
+        "marketing",
+        "sales",
+        "medical",
+        "health",
+        "healthcare"
+      ],
+      "salary": "",
+      "posted": "2026-04-30T16:00:13+00:00"
+    },
+    {
+      "title": "Sales Development Representative North America June Hiring Class",
+      "company": "Hostaway",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-north-america-june-hiring-class-hostaway-1131399",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "support",
+        "growth",
+        "management",
+        "lead",
+        "marketing",
+        "sales",
+        "health"
+      ],
+      "salary": "",
+      "posted": "2026-04-30T16:00:03+00:00"
     },
     {
       "title": "Senior Frontend Developer",
@@ -333,151 +428,9 @@
       ],
       "salary": "",
       "posted": "2026-04-29T08:59:39+00:00"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "Interra Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-interra-health-1131380",
-      "source": "RemoteOK",
-      "tags": [
-        "software",
-        "design",
-        "saas",
-        "system",
-        "frontend",
-        "teaching",
-        "technical",
-        "code",
-        "travel",
-        "education",
-        "cloud",
-        "ruby",
-        "management",
-        "lead",
-        "senior",
-        "operational",
-        "reliability",
-        "medical",
-        "health",
-        "healthcare",
-        "engineer",
-        "engineering",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-04-29T08:00:14+00:00"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "Interra Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-interra-health-1131379",
-      "source": "RemoteOK",
-      "tags": [
-        "software",
-        "design",
-        "saas",
-        "system",
-        "frontend",
-        "teaching",
-        "technical",
-        "code",
-        "travel",
-        "education",
-        "cloud",
-        "ruby",
-        "management",
-        "lead",
-        "senior",
-        "operational",
-        "reliability",
-        "medical",
-        "health",
-        "healthcare",
-        "engineer",
-        "engineering",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-04-29T08:00:05+00:00"
-    },
-    {
-      "title": "Self Pay &amp; Customer Service Specialist",
-      "company": "Clinical Health Network For Transformation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-self-pay-amp-customer-service-specialist-clinical-health-network-for-transformation-1131377",
-      "source": "RemoteOK",
-      "tags": [
-        "support",
-        "software",
-        "financial",
-        "microsoft",
-        "management",
-        "medical",
-        "health",
-        "healthcare"
-      ],
-      "salary": "",
-      "posted": "2026-04-29T00:01:16+00:00"
-    },
-    {
-      "title": "Director Global Account Management",
-      "company": "Loadsmart",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-global-account-management-loadsmart-1131376",
-      "source": "RemoteOK",
-      "tags": [
-        "director",
-        "growth",
-        "travel",
-        "voice",
-        "management",
-        "lead",
-        "senior",
-        "marketing",
-        "analytics",
-        "sales",
-        "executive",
-        "full-time"
-      ],
-      "salary": "",
-      "posted": "2026-04-29T00:01:10+00:00"
-    },
-    {
-      "title": "Senior Site Reliability Engineer AI Infrastructure",
-      "company": "Andromeda Cluster",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-ai-infrastructure-andromeda-cluster-1131375",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "training",
-        "technical",
-        "software",
-        "code",
-        "manager",
-        "financial",
-        "cloud",
-        "management",
-        "lead",
-        "senior",
-        "operations",
-        "reliability",
-        "go",
-        "health",
-        "engineer",
-        "engineering",
-        "linux",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-04-29T00:01:03+00:00"
     }
   ],
-  "last_updated": "2026-05-01T16:08:43.328266",
+  "last_updated": "2026-05-01T17:12:54.775390",
   "total": 30,
-  "new": 1
+  "new": 6
 }

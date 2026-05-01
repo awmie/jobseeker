@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Clerky Customer Operations Writing Specialist 1",
+      "company": "CLERKY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/clerky-customer-operations-writing-specialist-1",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Toptal Qa Automation Engineer 1",
       "company": "TOPTAL QA",
       "location": "Remote",
@@ -33,13 +40,6 @@
       "company": "SPIRALYZE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-video-content-strategist-storyboards",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Creative Force Product Support Jedi Remote Apac 1",
-      "company": "CREATIVE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/creative-force-product-support-jedi-remote-apac-1",
       "source": "WeWorkRemotely"
     },
     {
@@ -468,7 +468,7 @@
       "posted": "2026-04-29T00:00:48+00:00"
     }
   ],
-  "last_updated": "2026-05-01T04:13:19.610762",
+  "last_updated": "2026-05-01T06:45:46.221466",
   "total": 30,
-  "new": 8
+  "new": 1
 }

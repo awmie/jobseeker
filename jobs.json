@@ -71,6 +71,23 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Senior Frontend Developer",
+      "company": "Sanctuary Computer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-developer-sanctuary-computer-1131398",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer",
+        "senior",
+        "front end",
+        "dev",
+        "exec",
+        "design"
+      ],
+      "salary": "",
+      "posted": "2026-04-30T14:23:27+00:00"
+    },
+    {
       "title": "Product Marketing Lead",
       "company": "Paragon",
       "location": "Remote",
@@ -458,28 +475,9 @@
       ],
       "salary": "",
       "posted": "2026-04-29T00:01:03+00:00"
-    },
-    {
-      "title": "Senior Financial Analyst Digital Assets",
-      "company": "Exodus Movement Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-financial-analyst-digital-assets-exodus-movement-inc-1131374",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "cryptocurrency",
-        "support",
-        "financial",
-        "investment",
-        "finance",
-        "senior",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-04-29T00:00:57+00:00"
     }
   ],
-  "last_updated": "2026-05-01T14:04:33.958777",
+  "last_updated": "2026-05-01T15:11:02.026327",
   "total": 30,
-  "new": 0
+  "new": 1
 }

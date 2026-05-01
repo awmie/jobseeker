@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Clover Health Staff Product Manager Member Experience",
+      "company": "CLOVER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/clover-health-staff-product-manager-member-experience",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Lawnstarter Director Of Conversion Rate Optimization 1",
       "company": "LAWNSTARTER",
       "location": "Remote",
@@ -19,13 +26,6 @@
       "company": "CLERKY",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/clerky-customer-operations-writing-specialist-1",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Webpt Principal Product Manager",
-      "company": "WEBPT",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/webpt-principal-product-manager",
       "source": "WeWorkRemotely"
     },
     {
@@ -430,7 +430,7 @@
       "posted": "2026-04-29T08:59:39+00:00"
     }
   ],
-  "last_updated": "2026-05-01T19:39:37.410120",
+  "last_updated": "2026-05-01T20:33:01.791316",
   "total": 30,
-  "new": 0
+  "new": 1
 }

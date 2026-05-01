@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Walter Sales Appointment Setter",
+      "company": "WALTER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/walter-sales-appointment-setter",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Clerky Customer Operations Writing Specialist 1",
       "company": "CLERKY",
       "location": "Remote",
@@ -33,13 +40,6 @@
       "company": "SANCTUARY",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-frontend-developer-2",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Spiralyze Video Content Strategist Storyboards",
-      "company": "SPIRALYZE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-video-content-strategist-storyboards",
       "source": "WeWorkRemotely"
     },
     {
@@ -477,7 +477,7 @@
       "posted": "2026-04-29T00:01:03+00:00"
     }
   ],
-  "last_updated": "2026-05-01T15:11:02.026327",
+  "last_updated": "2026-05-01T16:08:43.328266",
   "total": 30,
   "new": 1
 }

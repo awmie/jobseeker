@@ -15,13 +15,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Walter Sales Appointment Setter",
-      "company": "WALTER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/walter-sales-appointment-setter",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Clerky Customer Operations Writing Specialist 1",
       "company": "CLERKY",
       "location": "Remote",
@@ -40,6 +33,13 @@
       "company": "SANCTUARY",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-frontend-developer-2",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Special Needs Care Network Outbound Sales Rep Partnership Coordinator",
+      "company": "SPECIAL",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/special-needs-care-network-outbound-sales-rep-partnership-coordinator",
       "source": "WeWorkRemotely"
     },
     {
@@ -430,7 +430,7 @@
       "posted": "2026-04-29T08:59:39+00:00"
     }
   ],
-  "last_updated": "2026-05-01T21:30:15.156824",
+  "last_updated": "2026-05-01T22:28:03.884722",
   "total": 30,
-  "new": 0
+  "new": 1
 }

@@ -71,6 +71,20 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Entry Level Crypto Market Specialist",
+      "company": "Infiniti Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-crypto-market-specialist-infiniti-group-1131416",
+      "source": "RemoteOK",
+      "tags": [
+        "other",
+        "finance",
+        "analyst"
+      ],
+      "salary": "",
+      "posted": "2026-05-01T10:13:19+00:00"
+    },
+    {
       "title": "Senior Data Engineer",
       "company": "Business Wire",
       "location": "Remote",
@@ -440,24 +454,9 @@
       ],
       "salary": "",
       "posted": "2026-04-30T00:00:59+00:00"
-    },
-    {
-      "title": "Senior Manager Clinical Biomarker Operations",
-      "company": "Apogee Therapeutics",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-clinical-biomarker-operations-apogee-therapeutics-1131391",
-      "source": "RemoteOK",
-      "tags": [
-        "manager",
-        "senior",
-        "operations",
-        "engineering"
-      ],
-      "salary": "",
-      "posted": "2026-04-30T00:00:53+00:00"
     }
   ],
-  "last_updated": "2026-05-02T10:14:16.629689",
+  "last_updated": "2026-05-02T11:08:37.289771",
   "total": 30,
-  "new": 0
+  "new": 1
 }

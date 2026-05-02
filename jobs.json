@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Tether Ai Research Engineer",
+      "company": "TETHER AI",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/tether-ai-research-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Binance Dach Community Manager Events",
+      "company": "BINANCE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/binance-dach-community-manager-events",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Clover Health Staff Product Manager Member Experience",
       "company": "CLOVER",
       "location": "Remote",
@@ -36,13 +50,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Special Needs Care Network Outbound Sales Rep Partnership Coordinator",
-      "company": "SPECIAL",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/special-needs-care-network-outbound-sales-rep-partnership-coordinator",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Aurelian Sovereign Virtual Real Estate Sales Representative Remote",
       "company": "AURELIAN",
       "location": "Remote",
@@ -54,13 +61,6 @@
       "company": "SPIRALYZE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Urban Legend Backend Engineer Mid Senior",
-      "company": "URBAN",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/urban-legend-backend-engineer-mid-senior",
       "source": "WeWorkRemotely"
     },
     {
@@ -438,7 +438,7 @@
       "posted": "2026-04-30T16:00:26+00:00"
     }
   ],
-  "last_updated": "2026-05-02T19:13:16.774681",
+  "last_updated": "2026-05-02T19:59:55.072380",
   "total": 30,
-  "new": 0
+  "new": 2
 }

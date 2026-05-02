@@ -71,6 +71,64 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Senior Data Engineer",
+      "company": "Business Wire",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-business-wire-1131415",
+      "source": "RemoteOK",
+      "tags": [
+        "senior",
+        "engineer",
+        "engineering"
+      ],
+      "salary": "",
+      "posted": "2026-05-01T08:00:12+00:00"
+    },
+    {
+      "title": "Digital Full Stack Engineer HR172",
+      "company": "Smart Working Solutions",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-full-stack-engineer-hr172-smart-working-solutions-1131414",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "jira",
+        "system",
+        "frontend",
+        "security",
+        "technical",
+        "support",
+        "growth",
+        "devops",
+        "financial",
+        "cloud",
+        "operations",
+        "operational",
+        "engineer",
+        "engineering",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-01T08:00:03+00:00"
+    },
+    {
+      "title": "Full stack Staff Engineer",
+      "company": "Join ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-full-stack-staff-engineer-join-1131413",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "design",
+        "saas",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-01T08:00:02+00:00"
+    },
+    {
       "title": "US Payroll Administrator",
       "company": "Lush Handmade Cosmetics",
       "location": "Remote",
@@ -397,65 +455,9 @@
       ],
       "salary": "",
       "posted": "2026-04-30T00:00:53+00:00"
-    },
-    {
-      "title": "Executive Briefing Specialst",
-      "company": "New Relic",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-briefing-specialst-new-relic-1131390",
-      "source": "RemoteOK",
-      "tags": [
-        "support",
-        "sales",
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-04-30T00:00:43+00:00"
-    },
-    {
-      "title": "Integration Test Manager VHA Required",
-      "company": "Ibility",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-integration-test-manager-vha-required-ibility-1131389",
-      "source": "RemoteOK",
-      "tags": [
-        "test",
-        "manager",
-        "design",
-        "react",
-        "system",
-        "support",
-        "testing",
-        "administrator",
-        "operations",
-        "healthcare",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-04-30T00:00:33+00:00"
-    },
-    {
-      "title": "Inside Sales Representative",
-      "company": "Renewal by Andersen",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-inside-sales-representative-renewal-by-andersen-1131388",
-      "source": "RemoteOK",
-      "tags": [
-        "training",
-        "consult",
-        "video",
-        "mobile",
-        "lead",
-        "marketing",
-        "sales",
-        "full-time",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-04-30T00:00:25+00:00"
     }
   ],
-  "last_updated": "2026-05-02T08:07:28.146858",
+  "last_updated": "2026-05-02T09:19:38.984814",
   "total": 30,
-  "new": 0
+  "new": 3
 }

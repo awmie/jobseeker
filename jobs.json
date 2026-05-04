@@ -71,6 +71,43 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Junior Mid Full Stack Software Engineer",
+      "company": "Black Canyon Consulting",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-mid-full-stack-software-engineer-black-canyon-consulting-1131437",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "software",
+        "graphql",
+        "system",
+        "security",
+        "docker",
+        "support",
+        "web",
+        "devops",
+        "junior",
+        "engineer",
+        "engineering",
+        "backend"
+      ],
+      "salary": "",
+      "posted": "2026-05-03T00:00:13+00:00"
+    },
+    {
+      "title": "Work From Home Bilingual Client Services Representative",
+      "company": "Global Elite Empire Consultants",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-work-from-home-bilingual-client-services-representative-global-elite-empire-consultants-1131436",
+      "source": "RemoteOK",
+      "tags": [
+        "growth",
+        "video"
+      ],
+      "salary": "",
+      "posted": "2026-05-03T00:00:02+00:00"
+    },
+    {
       "title": "Social Media Growth Lead",
       "company": "Black &amp; White Zebra",
       "location": "Remote",
@@ -381,40 +418,9 @@
       ],
       "salary": "",
       "posted": "2026-05-01T08:00:03+00:00"
-    },
-    {
-      "title": "Full stack Staff Engineer",
-      "company": "Join ",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-full-stack-staff-engineer-join-1131413",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "design",
-        "saas",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-01T08:00:02+00:00"
-    },
-    {
-      "title": "US Payroll Administrator",
-      "company": "Lush Handmade Cosmetics",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-us-payroll-administrator-lush-handmade-cosmetics-1131412",
-      "source": "RemoteOK",
-      "tags": [
-        "payroll",
-        "system",
-        "support",
-        "administrator"
-      ],
-      "salary": "",
-      "posted": "2026-05-01T00:01:10+00:00"
     }
   ],
-  "last_updated": "2026-05-04T00:03:08.127855",
+  "last_updated": "2026-05-04T04:03:06.435618",
   "total": 30,
-  "new": 0
+  "new": 2
 }

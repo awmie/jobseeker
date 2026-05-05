@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Maidel Limited Crypto Trader Remote Full Training Provided",
+      "company": "MAIDEL",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/maidel-limited-crypto-trader-remote-full-training-provided",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Plugin Genie Marketing Generalist Ft Or Pt",
+      "company": "PLUGIN",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/plugin-genie-marketing-generalist-ft-or-pt",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Clinicsense Customer Support Representative 4",
       "company": "CLINICSENSE",
       "location": "Remote",
@@ -19,13 +33,6 @@
       "company": "REVELEER",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Binance Dach Community Manager Events",
-      "company": "BINANCE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/binance-dach-community-manager-events",
       "source": "WeWorkRemotely"
     },
     {
@@ -57,18 +64,25 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Spiralyze Project Manager",
-      "company": "SPIRALYZE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Sticker Mule Software Engineer 2",
       "company": "STICKER",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Support Specialist",
+      "company": "G-P",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-support-specialist-g-p-1131440",
+      "source": "RemoteOK",
+      "tags": [
+        "support",
+        "growth",
+        "management"
+      ],
+      "salary": "",
+      "posted": "2026-05-04T08:00:07+00:00"
     },
     {
       "title": "VFX Artist AI Training Vancouver Canada",
@@ -393,23 +407,9 @@
       ],
       "salary": "",
       "posted": "2026-05-01T10:13:19+00:00"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "company": "Business Wire",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-business-wire-1131415",
-      "source": "RemoteOK",
-      "tags": [
-        "senior",
-        "engineer",
-        "engineering"
-      ],
-      "salary": "",
-      "posted": "2026-05-01T08:00:12+00:00"
     }
   ],
-  "last_updated": "2026-05-05T06:07:53.503957",
+  "last_updated": "2026-05-05T08:26:50.429451",
   "total": 30,
-  "new": 0
+  "new": 3
 }

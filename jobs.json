@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Your Resource Group Llc Remote Inside Sales 1",
+      "company": "YOUR",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/your-resource-group-llc-remote-inside-sales-1",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Dataannotation Tech Ft Pt Remote Ai Prompt Engineering Evaluation Will Train",
       "company": "DATAANNOTATION",
       "location": "Remote",
@@ -26,13 +33,6 @@
       "company": "MAIDEL",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/maidel-limited-crypto-trader-remote-full-training-provided",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Plugin Genie Marketing Generalist Ft Or Pt",
-      "company": "PLUGIN",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/plugin-genie-marketing-generalist-ft-or-pt",
       "source": "WeWorkRemotely"
     },
     {
@@ -421,7 +421,7 @@
       "posted": "2026-05-04T16:01:17+00:00"
     }
   ],
-  "last_updated": "2026-05-06T16:52:36.057650",
+  "last_updated": "2026-05-06T18:10:39.239120",
   "total": 30,
-  "new": 6
+  "new": 1
 }

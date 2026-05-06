@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Walter Full Stack Engineering Lead",
+      "company": "WALTER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/walter-full-stack-engineering-lead",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Toptal English Screener",
       "company": "TOPTAL",
       "location": "Remote",
@@ -64,11 +71,151 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Sticker Mule Software Engineer 2",
-      "company": "STICKER",
+      "title": "Child and Adolescent Intake Therapist",
+      "company": "Blackbird Health",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
-      "source": "WeWorkRemotely"
+      "url": "https://remoteOK.com/remote-jobs/remote-child-and-adolescent-intake-therapist-blackbird-health-1131464",
+      "source": "RemoteOK",
+      "tags": [
+        "medical",
+        "health",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-05T00:01:25+00:00"
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "Avero",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-avero-1131463",
+      "source": "RemoteOK",
+      "tags": [
+        "manager",
+        "saas",
+        "sales",
+        "go",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-05T00:01:13+00:00"
+    },
+    {
+      "title": "Recruiter",
+      "company": "Airship",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-recruiter-airship-1131462",
+      "source": "RemoteOK",
+      "tags": [
+        "recruiter",
+        "test",
+        "growth",
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-05-05T00:01:07+00:00"
+    },
+    {
+      "title": "Lead AI Engineer & Technical Architect",
+      "company": "Bold Business",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-ai-engineer-technical-architect-bold-business-1131461",
+      "source": "RemoteOK",
+      "tags": [
+        "architect",
+        "technical",
+        "lead",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-05-05T00:00:52+00:00"
+    },
+    {
+      "title": "Outside Sales Consultant Account Executive",
+      "company": "Follett Software, LLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-outside-sales-consultant-account-executive-follett-software-llc-1131460",
+      "source": "RemoteOK",
+      "tags": [
+        "consultant",
+        "education",
+        "sales",
+        "executive"
+      ],
+      "salary": "",
+      "posted": "2026-05-05T00:00:41+00:00"
+    },
+    {
+      "title": "Manager Cost Accounting",
+      "company": "MANSCAPED",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-cost-accounting-manscaped-1131459",
+      "source": "RemoteOK",
+      "tags": [
+        "manager",
+        "accounting",
+        "hr"
+      ],
+      "salary": "",
+      "posted": "2026-05-05T00:00:32+00:00"
+    },
+    {
+      "title": "Staff Accountant",
+      "company": "UHP (Unlock Human Potential)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-accountant-uhp-unlock-human-potential-1131458",
+      "source": "RemoteOK",
+      "tags": [
+        "accountant",
+        "support",
+        "accounting",
+        "financial",
+        "education",
+        "microsoft",
+        "management",
+        "excel",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-05T00:00:22+00:00"
+    },
+    {
+      "title": "Software Engineer Showroom",
+      "company": "Higharc",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-showroom-higharc-1131457",
+      "source": "RemoteOK",
+      "tags": [
+        "software",
+        "design",
+        "3d",
+        "full-stack",
+        "support",
+        "ux",
+        "manager",
+        "api",
+        "engineer",
+        "engineering",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-05T00:00:16+00:00"
+    },
+    {
+      "title": "3D Modeling & Python Specialist Freelance AI Trainer Project",
+      "company": "Invisible Agency",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-3d-modeling-python-specialist-freelance-ai-trainer-project-invisible-agency-1131456",
+      "source": "RemoteOK",
+      "tags": [
+        "python",
+        "3d",
+        "trainer",
+        "training"
+      ],
+      "salary": "",
+      "posted": "2026-05-05T00:00:09+00:00"
     },
     {
       "title": "Product Marketing Intern",
@@ -238,169 +385,9 @@
       ],
       "salary": "",
       "posted": "2026-05-04T08:00:07+00:00"
-    },
-    {
-      "title": "VFX Artist AI Training Vancouver Canada",
-      "company": "Prolific Academic Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vfx-artist-ai-training-vancouver-canada-prolific-academic-ltd-1131439",
-      "source": "RemoteOK",
-      "tags": [
-        "vfx",
-        "training",
-        "3d",
-        "gaming",
-        "unity",
-        "technical"
-      ],
-      "salary": "",
-      "posted": "2026-05-04T00:00:09+00:00"
-    },
-    {
-      "title": "Junior Mid Full Stack Software Engineer",
-      "company": "Black Canyon Consulting",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-mid-full-stack-software-engineer-black-canyon-consulting-1131437",
-      "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "software",
-        "graphql",
-        "system",
-        "security",
-        "docker",
-        "support",
-        "web",
-        "devops",
-        "junior",
-        "engineer",
-        "engineering",
-        "backend"
-      ],
-      "salary": "",
-      "posted": "2026-05-03T00:00:13+00:00"
-    },
-    {
-      "title": "Work From Home Bilingual Client Services Representative",
-      "company": "Global Elite Empire Consultants",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-work-from-home-bilingual-client-services-representative-global-elite-empire-consultants-1131436",
-      "source": "RemoteOK",
-      "tags": [
-        "growth",
-        "video"
-      ],
-      "salary": "",
-      "posted": "2026-05-03T00:00:02+00:00"
-    },
-    {
-      "title": "Social Media Growth Lead",
-      "company": "Black &amp; White Zebra",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-growth-lead-black-amp-white-zebra-1131434",
-      "source": "RemoteOK",
-      "tags": [
-        "growth",
-        "ceo",
-        "testing",
-        "test",
-        "manager",
-        "video",
-        "lead",
-        "content",
-        "senior",
-        "full-time"
-      ],
-      "salary": "",
-      "posted": "2026-05-02T00:01:25+00:00"
-    },
-    {
-      "title": "Data Conversion Developer",
-      "company": "Grant Street Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-conversion-developer-grant-street-group-1131433",
-      "source": "RemoteOK",
-      "tags": [
-        "developer",
-        "technical",
-        "support",
-        "code",
-        "analyst",
-        "travel",
-        "telecommuting",
-        "perl",
-        "mysql",
-        "linux",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-02T00:01:19+00:00"
-    },
-    {
-      "title": "Director of Supply Chain",
-      "company": "STR",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-supply-chain-str-1131432",
-      "source": "RemoteOK",
-      "tags": [
-        "director",
-        "technical",
-        "support",
-        "lead",
-        "operational"
-      ],
-      "salary": "",
-      "posted": "2026-05-02T00:01:12+00:00"
-    },
-    {
-      "title": "Account Executive",
-      "company": "BlastPoint",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-blastpoint-1131431",
-      "source": "RemoteOK",
-      "tags": [
-        "growth",
-        "financial",
-        "analytics",
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-05-02T00:01:02+00:00"
-    },
-    {
-      "title": "Clinical Vendor Activation Manager",
-      "company": "Care Access",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-clinical-vendor-activation-manager-care-access-1131430",
-      "source": "RemoteOK",
-      "tags": [
-        "manager",
-        "mobile",
-        "health",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-02T00:00:53+00:00"
-    },
-    {
-      "title": "Intelligence Collections Specialist UK",
-      "company": "Concentric",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-intelligence-collections-specialist-uk-concentric-1131429",
-      "source": "RemoteOK",
-      "tags": [
-        "embedded",
-        "security",
-        "training",
-        "consultancy",
-        "management",
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-05-02T00:00:43+00:00"
     }
   ],
-  "last_updated": "2026-05-05T23:58:03.215090",
+  "last_updated": "2026-05-06T03:42:02.106016",
   "total": 30,
-  "new": 0
+  "new": 10
 }

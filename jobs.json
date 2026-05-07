@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Customer Success Representative",
+      "company": "Subbly",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-representative-subbly-1131487",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "ai"
+      ],
+      "salary": "",
+      "posted": "2026-05-06T13:26:22+00:00"
+    },
+    {
       "title": "Mid Senior AI Cinematic Video Editor",
       "company": "EverAI",
       "location": "Remote",
@@ -428,22 +441,9 @@
       ],
       "salary": "",
       "posted": "2026-05-05T08:00:25+00:00"
-    },
-    {
-      "title": "Online Hotel Reservationist Fully",
-      "company": "Careers In Travel | Destination Planners",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-online-hotel-reservationist-fully-careers-in-travel-destination-planners-1131466",
-      "source": "RemoteOK",
-      "tags": [
-        "travel",
-        "growth"
-      ],
-      "salary": "",
-      "posted": "2026-05-05T08:00:18+00:00"
     }
   ],
-  "last_updated": "2026-05-07T13:13:01.056616",
+  "last_updated": "2026-05-07T15:38:37.922491",
   "total": 30,
   "new": 1
 }

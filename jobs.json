@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Nexpanse Product Manager B2C Subscription Utilities",
+      "company": "NEXPANSE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/nexpanse-product-manager-b2c-subscription-utilities",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Creative Force Saas Product Specialist German Speaking Emea 2",
+      "company": "CREATIVE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/creative-force-saas-product-specialist-german-speaking-emea-2",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Lawnstarter Director Of Conversion Rate Optimization 2",
       "company": "LAWNSTARTER",
       "location": "Remote",
@@ -36,13 +50,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Clinicsense Customer Support Representative 4",
-      "company": "CLINICSENSE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/clinicsense-customer-support-representative-4",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Dimovtax Tax Accountant Cpa Ea Required Us Remote",
       "company": "DIMOVTAX TAX",
       "location": "Remote",
@@ -57,18 +64,45 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Clover Health Staff Product Manager Member Experience",
-      "company": "CLOVER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/clover-health-staff-product-manager-member-experience",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Avahi Devops Engineer",
       "company": "AVAHI",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/avahi-devops-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Senior Veritas eDiscovery Platform Engineer",
+      "company": "Contact Government Services, LLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-veritas-ediscovery-platform-engineer-contact-government-services-llc-1131484",
+      "source": "RemoteOK",
+      "tags": [
+        "system",
+        "technical",
+        "support",
+        "growth",
+        "manager",
+        "financial",
+        "cloud",
+        "senior",
+        "legal",
+        "engineer",
+        "engineering"
+      ],
+      "salary": "",
+      "posted": "2026-05-06T08:00:13+00:00"
+    },
+    {
+      "title": "Marketing & Business Development Operator",
+      "company": "Scale Virtually",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-business-development-operator-scale-virtually-1131483",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-05-06T08:00:06+00:00"
     },
     {
       "title": "Senior Software Engineer",
@@ -402,39 +436,9 @@
       ],
       "salary": "",
       "posted": "2026-05-05T08:00:11+00:00"
-    },
-    {
-      "title": "Child and Adolescent Intake Therapist",
-      "company": "Blackbird Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-child-and-adolescent-intake-therapist-blackbird-health-1131464",
-      "source": "RemoteOK",
-      "tags": [
-        "medical",
-        "health",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-05T00:01:25+00:00"
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "Avero",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-avero-1131463",
-      "source": "RemoteOK",
-      "tags": [
-        "manager",
-        "saas",
-        "sales",
-        "go",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-05T00:01:13+00:00"
     }
   ],
-  "last_updated": "2026-05-07T06:40:24.127121",
+  "last_updated": "2026-05-07T09:16:18.846328",
   "total": 30,
-  "new": 0
+  "new": 4
 }

@@ -71,6 +71,18 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Customer Success & Support Specialist",
+      "company": "Warehance",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-support-specialist-warehance-1131508",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-05-07T13:29:11+00:00"
+    },
+    {
       "title": "Senior Software Engineer",
       "company": "Cast AI",
       "location": "Remote",
@@ -393,28 +405,9 @@
       ],
       "salary": "",
       "posted": "2026-05-06T13:26:22+00:00"
-    },
-    {
-      "title": "Mid Senior AI Cinematic Video Editor",
-      "company": "EverAI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1131485",
-      "source": "RemoteOK",
-      "tags": [
-        "ai",
-        "Video Editor",
-        "Long-form Video Content",
-        "Motion graphic design",
-        "Colour correction",
-        "ComfyUI",
-        "Stable Diffusion",
-        "AI Video Production"
-      ],
-      "salary": "",
-      "posted": "2026-05-06T11:27:14+00:00"
     }
   ],
-  "last_updated": "2026-05-08T12:15:17.801711",
+  "last_updated": "2026-05-08T14:18:59.986450",
   "total": 30,
-  "new": 2
+  "new": 1
 }

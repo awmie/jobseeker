@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Forager Growth Lead",
+      "company": "FORAGER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/forager-growth-lead",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Iron House Studios Creative Video Editor",
       "company": "IRON",
       "location": "Remote",
@@ -26,13 +33,6 @@
       "company": "CREATIVE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/creative-force-saas-product-specialist-german-speaking-emea-2",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Your Resource Group Llc Remote Inside Sales 1",
-      "company": "YOUR",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/your-resource-group-llc-remote-inside-sales-1",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,21 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/avahi-devops-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Cast AI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-cast-ai-1131507",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "software",
+        "senior",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-05-07T12:00:02+00:00"
     },
     {
       "title": "Clinical Provider",
@@ -397,31 +412,9 @@
       ],
       "salary": "",
       "posted": "2026-05-06T11:27:14+00:00"
-    },
-    {
-      "title": "Senior Veritas eDiscovery Platform Engineer",
-      "company": "Contact Government Services, LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-veritas-ediscovery-platform-engineer-contact-government-services-llc-1131484",
-      "source": "RemoteOK",
-      "tags": [
-        "system",
-        "technical",
-        "support",
-        "growth",
-        "manager",
-        "financial",
-        "cloud",
-        "senior",
-        "legal",
-        "engineer",
-        "engineering"
-      ],
-      "salary": "",
-      "posted": "2026-05-06T08:00:13+00:00"
     }
   ],
-  "last_updated": "2026-05-08T10:59:26.090895",
+  "last_updated": "2026-05-08T12:15:17.801711",
   "total": 30,
-  "new": 0
+  "new": 2
 }

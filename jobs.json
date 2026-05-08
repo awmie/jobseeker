@@ -71,6 +71,50 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Clinical Provider",
+      "company": "Intellect",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-provider-intellect-1131505",
+      "source": "RemoteOK",
+      "tags": [
+        "support",
+        "growth",
+        "video",
+        "health"
+      ],
+      "salary": "",
+      "posted": "2026-05-07T08:00:09+00:00"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "Valon Mortgage",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-valon-mortgage-1131504",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "saas",
+        "python",
+        "architect",
+        "technical",
+        "support",
+        "cloud",
+        "strategy",
+        "management",
+        "senior",
+        "operations",
+        "operational",
+        "analytics",
+        "reliability",
+        "go",
+        "engineer",
+        "engineering",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-07T08:00:03+00:00"
+    },
+    {
       "title": "Workday Payroll Consultant",
       "company": "Meridian Partners",
       "location": "Remote",
@@ -375,37 +419,9 @@
       ],
       "salary": "",
       "posted": "2026-05-06T08:00:13+00:00"
-    },
-    {
-      "title": "Marketing & Business Development Operator",
-      "company": "Scale Virtually",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-business-development-operator-scale-virtually-1131483",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-05-06T08:00:06+00:00"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "Prove",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-prove-1131482",
-      "source": "RemoteOK",
-      "tags": [
-        "software",
-        "security",
-        "senior",
-        "engineer",
-        "engineering"
-      ],
-      "salary": "",
-      "posted": "2026-05-06T00:02:04+00:00"
     }
   ],
-  "last_updated": "2026-05-08T08:01:22.801999",
+  "last_updated": "2026-05-08T09:47:59.680682",
   "total": 30,
-  "new": 0
+  "new": 2
 }

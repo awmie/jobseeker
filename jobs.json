@@ -71,6 +71,31 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Engineering Manager AI Fleet Management &amp; Honk",
+      "company": "Spotify",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ai-fleet-management-amp-honk-spotify-1131520",
+      "source": "RemoteOK",
+      "tags": [
+        "manager",
+        "design",
+        "system",
+        "architect",
+        "technical",
+        "developer",
+        "software",
+        "growth",
+        "management",
+        "lead",
+        "operational",
+        "engineering",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-08T16:01:13+00:00"
+    },
+    {
       "title": "Senior Manager Government & Industry Affairs Operations",
       "company": "VGW",
       "location": "Remote",
@@ -414,29 +439,9 @@
       ],
       "salary": "",
       "posted": "2026-05-07T00:01:03+00:00"
-    },
-    {
-      "title": "Director of Legal Operations",
-      "company": "Solutus Legal Search",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-legal-operations-solutus-legal-search-1131498",
-      "source": "RemoteOK",
-      "tags": [
-        "director",
-        "salesforce",
-        "system",
-        "cloud",
-        "management",
-        "operations",
-        "operational",
-        "legal",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-05-07T00:00:24+00:00"
     }
   ],
-  "last_updated": "2026-05-09T16:06:23.629242",
+  "last_updated": "2026-05-09T17:09:28.424838",
   "total": 30,
-  "new": 0
+  "new": 1
 }

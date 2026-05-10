@@ -1,17 +1,17 @@
 {
   "jobs": [
     {
+      "title": "Nogigiddy Remote Data Entry Clerk 7",
+      "company": "NOGIGIDDY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Mr Glazier Inside Sales Manager",
       "company": "MR",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/mr-glazier-inside-sales-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Iron House Studios Creative Video Editor",
-      "company": "IRON",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/iron-house-studios-creative-video-editor",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,134 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/avahi-devops-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Senior Software Engineer I",
+      "company": "Clariti Cloud, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-i-clariti-cloud-inc-1131527",
+      "source": "RemoteOK",
+      "tags": [
+        "software",
+        "saas",
+        "salesforce",
+        "senior",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-05-09T00:02:42+00:00"
+    },
+    {
+      "title": "Manager Collections &amp; Recoveries",
+      "company": "Forbright Bank",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-collections-amp-recoveries-forbright-bank-1131526",
+      "source": "RemoteOK",
+      "tags": [
+        "manager",
+        "embedded",
+        "growth",
+        "financial",
+        "investment",
+        "banking",
+        "finance",
+        "bank",
+        "microsoft",
+        "strategy",
+        "management",
+        "operational",
+        "analytics",
+        "legal",
+        "go"
+      ],
+      "salary": "",
+      "posted": "2026-05-09T00:02:16+00:00"
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "CipherHealth",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-cipherhealth-1131525",
+      "source": "RemoteOK",
+      "tags": [
+        "manager",
+        "system",
+        "consultant",
+        "technical",
+        "software",
+        "financial",
+        "lead",
+        "senior",
+        "operations",
+        "operational",
+        "health",
+        "healthcare",
+        "executive"
+      ],
+      "salary": "",
+      "posted": "2026-05-09T00:02:10+00:00"
+    },
+    {
+      "title": "1086 Digital Marketing Specialist",
+      "company": "GoFasti",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-1086-digital-marketing-specialist-gofasti-1131524",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "part-time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-09T00:01:52+00:00"
+    },
+    {
+      "title": "Asset Administration Operations Specialist",
+      "company": "Forge Global",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-asset-administration-operations-specialist-forge-global-1131523",
+      "source": "RemoteOK",
+      "tags": [
+        "travel",
+        "financial",
+        "operations",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-09T00:01:21+00:00"
+    },
+    {
+      "title": "Patient Operations Coordinator",
+      "company": "Rivia Mind - Mental Healthcare",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-operations-coordinator-rivia-mind-mental-healthcare-1131522",
+      "source": "RemoteOK",
+      "tags": [
+        "coordinator",
+        "management",
+        "operations",
+        "go",
+        "health",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-09T00:00:48+00:00"
+    },
+    {
+      "title": "Fully Cruise &amp; Resort Booking Specialist",
+      "company": "Careers In Travel | Destination Planners",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-fully-cruise-amp-resort-booking-specialist-careers-in-travel-destination-planners-1131521",
+      "source": "RemoteOK",
+      "tags": [
+        "travel",
+        "training",
+        "support",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-09T00:00:07+00:00"
     },
     {
       "title": "Engineering Manager AI Fleet Management &amp; Honk",
@@ -304,144 +432,9 @@
       ],
       "salary": "",
       "posted": "2026-05-07T12:00:02+00:00"
-    },
-    {
-      "title": "Clinical Provider",
-      "company": "Intellect",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-clinical-provider-intellect-1131505",
-      "source": "RemoteOK",
-      "tags": [
-        "support",
-        "growth",
-        "video",
-        "health"
-      ],
-      "salary": "",
-      "posted": "2026-05-07T08:00:09+00:00"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "company": "Valon Mortgage",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-valon-mortgage-1131504",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "saas",
-        "python",
-        "architect",
-        "technical",
-        "support",
-        "cloud",
-        "strategy",
-        "management",
-        "senior",
-        "operations",
-        "operational",
-        "analytics",
-        "reliability",
-        "go",
-        "engineer",
-        "engineering",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-07T08:00:03+00:00"
-    },
-    {
-      "title": "Workday Payroll Consultant",
-      "company": "Meridian Partners",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-workday-payroll-consultant-meridian-partners-1131503",
-      "source": "RemoteOK",
-      "tags": [
-        "consultant",
-        "payroll",
-        "consulting"
-      ],
-      "salary": "",
-      "posted": "2026-05-07T00:02:33+00:00"
-    },
-    {
-      "title": "Policy Intern",
-      "company": "Hopelab",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-policy-intern-hopelab-1131502",
-      "source": "RemoteOK",
-      "tags": [
-        "support",
-        "growth",
-        "director",
-        "voice",
-        "financial",
-        "education",
-        "strategy",
-        "content",
-        "go",
-        "health",
-        "educational",
-        "internship",
-        "part-time"
-      ],
-      "salary": "",
-      "posted": "2026-05-07T00:01:51+00:00"
-    },
-    {
-      "title": "Solutions Engineering Post Sales",
-      "company": "Geotab",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineering-post-sales-geotab-1131501",
-      "source": "RemoteOK",
-      "tags": [
-        "leader",
-        "operations",
-        "analytics",
-        "sales",
-        "engineering"
-      ],
-      "salary": "",
-      "posted": "2026-05-07T00:01:45+00:00"
-    },
-    {
-      "title": "Data Entry Coordinator",
-      "company": "Profound Research",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-coordinator-profound-research-1131500",
-      "source": "RemoteOK",
-      "tags": [
-        "system",
-        "training",
-        "coordinator",
-        "support",
-        "testing",
-        "growth",
-        "travel",
-        "education",
-        "microsoft",
-        "management",
-        "operations",
-        "health",
-        "healthcare"
-      ],
-      "salary": "",
-      "posted": "2026-05-07T00:01:09+00:00"
-    },
-    {
-      "title": "1079 Project Manager",
-      "company": "GoFasti",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-1079-project-manager-gofasti-1131499",
-      "source": "RemoteOK",
-      "tags": [
-        "manager",
-        "management"
-      ],
-      "salary": "",
-      "posted": "2026-05-07T00:01:03+00:00"
     }
   ],
-  "last_updated": "2026-05-09T23:30:31.949245",
+  "last_updated": "2026-05-10T01:22:43.212535",
   "total": 30,
-  "new": 0
+  "new": 8
 }

@@ -71,6 +71,59 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "CNC Machinist Milling",
+      "company": "CX2",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-cnc-machinist-milling-cx2-1131532",
+      "source": "RemoteOK",
+      "tags": [
+        "software",
+        "growth",
+        "assembly",
+        "operational",
+        "engineering"
+      ],
+      "salary": "",
+      "posted": "2026-05-09T16:00:33+00:00"
+    },
+    {
+      "title": "Staff Product Manager Enterprise",
+      "company": "LiveKit",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-enterprise-livekit-1131531",
+      "source": "RemoteOK",
+      "tags": [
+        "manager",
+        "technical",
+        "developer",
+        "growth",
+        "code",
+        "voice",
+        "strategy",
+        "sales",
+        "go",
+        "engineering",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-09T16:00:24+00:00"
+    },
+    {
+      "title": "Customer Support Representative",
+      "company": "Boom Entertainment",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-representative-boom-entertainment-1131530",
+      "source": "RemoteOK",
+      "tags": [
+        "gaming",
+        "consultant",
+        "support",
+        "operations"
+      ],
+      "salary": "",
+      "posted": "2026-05-09T16:00:18+00:00"
+    },
+    {
       "title": "Lead Software Engineer",
       "company": "CSC Generation",
       "location": "Remote",
@@ -396,78 +449,9 @@
       ],
       "salary": "",
       "posted": "2026-05-08T00:01:48+00:00"
-    },
-    {
-      "title": "Mental Health Counselor Therapist Social Worker New York",
-      "company": "Rivia Mind - Mental Healthcare",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-mental-health-counselor-therapist-social-worker-new-york-rivia-mind-mental-healthcare-1131511",
-      "source": "RemoteOK",
-      "tags": [
-        "management",
-        "go",
-        "health",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-08T00:01:14+00:00"
-    },
-    {
-      "title": "Drug & Alcohol Counselor",
-      "company": "Pelago",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-drug-alcohol-counselor-pelago-1131510",
-      "source": "RemoteOK",
-      "tags": [
-        "support",
-        "growth",
-        "c",
-        "health"
-      ],
-      "salary": "",
-      "posted": "2026-05-08T00:00:41+00:00"
-    },
-    {
-      "title": "Tech Lead",
-      "company": "Zensurance",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-zensurance-1131509",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "system",
-        "front-end",
-        "back-end",
-        "security",
-        "training",
-        "full-stack",
-        "docker",
-        "technical",
-        "support",
-        "software",
-        "testing",
-        "test",
-        "growth",
-        "code",
-        "web",
-        "scrum",
-        "devops",
-        "javascript",
-        "education",
-        "strategy",
-        "management",
-        "lead",
-        "senior",
-        "health",
-        "engineering",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-08T00:00:03+00:00"
     }
   ],
-  "last_updated": "2026-05-10T16:07:37.616605",
+  "last_updated": "2026-05-10T17:10:38.030396",
   "total": 30,
-  "new": 0
+  "new": 3
 }

@@ -1,17 +1,17 @@
 {
   "jobs": [
     {
+      "title": "Everis Marketing Growth Content Acquisition",
+      "company": "EVERIS",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/everis-marketing-growth-content-acquisition",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Nogigiddy Remote Data Entry Clerk 7",
       "company": "NOGIGIDDY",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Mr Glazier Inside Sales Manager",
-      "company": "MR",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/mr-glazier-inside-sales-manager",
       "source": "WeWorkRemotely"
     },
     {
@@ -434,7 +434,7 @@
       "posted": "2026-05-07T12:00:02+00:00"
     }
   ],
-  "last_updated": "2026-05-10T01:22:43.212535",
+  "last_updated": "2026-05-10T04:57:41.620712",
   "total": 30,
-  "new": 8
+  "new": 1
 }

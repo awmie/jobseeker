@@ -71,6 +71,20 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Tooling Engineer",
+      "company": "Unikraft",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-tooling-engineer-unikraft-1131540",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "cloud",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-05-11T09:00:01+00:00"
+    },
+    {
       "title": "Meta Ads Manager + Creative Producer AI Native",
       "company": "singularads.com",
       "location": "Remote",
@@ -442,22 +456,9 @@
       ],
       "salary": "",
       "posted": "2026-05-08T08:00:34+00:00"
-    },
-    {
-      "title": "Web Development Specialist",
-      "company": "Marketers in Demand",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-web-development-specialist-marketers-in-demand-1131516",
-      "source": "RemoteOK",
-      "tags": [
-        "web dev",
-        "dev"
-      ],
-      "salary": "",
-      "posted": "2026-05-08T01:00:28+00:00"
     }
   ],
-  "last_updated": "2026-05-12T07:45:14.770985",
+  "last_updated": "2026-05-12T10:16:21.996298",
   "total": 30,
-  "new": 0
+  "new": 1
 }

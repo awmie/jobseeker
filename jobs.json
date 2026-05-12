@@ -71,6 +71,22 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Crypto Trader",
+      "company": "Maidel Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-crypto-trader-maidel-group-1131541",
+      "source": "RemoteOK",
+      "tags": [
+        "other",
+        "analyst",
+        "mobile",
+        "finance",
+        "crypto"
+      ],
+      "salary": "",
+      "posted": "2026-05-11T13:00:52+00:00"
+    },
+    {
       "title": "Tooling Engineer",
       "company": "Unikraft",
       "location": "Remote",
@@ -439,26 +455,9 @@
       ],
       "salary": "",
       "posted": "2026-05-08T08:00:48+00:00"
-    },
-    {
-      "title": "People Operations Lead",
-      "company": "Defense Unicorns",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-people-operations-lead-defense-unicorns-1131517",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "architect",
-        "support",
-        "lead",
-        "operations",
-        "operational"
-      ],
-      "salary": "",
-      "posted": "2026-05-08T08:00:34+00:00"
     }
   ],
-  "last_updated": "2026-05-12T12:21:13.677546",
+  "last_updated": "2026-05-12T15:16:02.079871",
   "total": 30,
-  "new": 0
+  "new": 1
 }

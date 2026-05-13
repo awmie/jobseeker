@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Remote Talent Cloud Remote Customer Support 20 Hr United States 4",
+      "company": "REMOTE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-customer-support-20-hr-united-states-4",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Credit Wellness Llc Inside Sales Account Executive",
       "company": "CREDIT",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "CATAMARAN",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/catamaran-research-platform-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Porkbun Live Technical Support Representative Full Time 40 Hrs Week Sat Sun Required 40 000 Year Benefits",
-      "company": "PORKBUN",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/porkbun-live-technical-support-representative-full-time-40-hrs-week-sat-sun-required-40-000-year-benefits",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,77 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/vanta-senior-software-engineer-design-systems",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Language Quality Manager",
+      "company": "Welo Global",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-language-quality-manager-welo-global-1131565",
+      "source": "RemoteOK",
+      "tags": [
+        "manager",
+        "jira",
+        "saas",
+        "training",
+        "technical",
+        "support",
+        "software",
+        "voice",
+        "speech",
+        "qa",
+        "robotics",
+        "management",
+        "content"
+      ],
+      "salary": "",
+      "posted": "2026-05-12T16:01:54+00:00"
+    },
+    {
+      "title": "Contract Mandarin Document Review Attorney",
+      "company": "Contact Government Services, LLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-contract-mandarin-document-review-attorney-contact-government-services-llc-1131564",
+      "source": "RemoteOK",
+      "tags": [
+        "support",
+        "analyst",
+        "legal",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-12T16:01:47+00:00"
+    },
+    {
+      "title": ".NET Developer Advocate",
+      "company": "JetBrains",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-net-developer-advocate-jetbrains-1131563",
+      "source": "RemoteOK",
+      "tags": [
+        "developer",
+        "frontend",
+        "software",
+        "testing",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-12T16:01:26+00:00"
+    },
+    {
+      "title": "Clinical Marketing Director",
+      "company": "Genomenon",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-marketing-director-genomenon-1131562",
+      "source": "RemoteOK",
+      "tags": [
+        "director",
+        "support",
+        "marketing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-12T16:00:19+00:00"
     },
     {
       "title": "Tier II III UC Support Engineer",
@@ -380,73 +451,9 @@
       ],
       "salary": "",
       "posted": "2026-05-11T16:00:25+00:00"
-    },
-    {
-      "title": "Travel Operations Coordinator",
-      "company": "Careers In Travel | Destination Planners",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-travel-operations-coordinator-careers-in-travel-destination-planners-1131545",
-      "source": "RemoteOK",
-      "tags": [
-        "travel",
-        "training",
-        "coordinator",
-        "support",
-        "operations",
-        "operational",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-11T16:00:19+00:00"
-    },
-    {
-      "title": "Travel Appointment Coordinator",
-      "company": "Careers In Travel | Destination Planners",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-travel-appointment-coordinator-careers-in-travel-destination-planners-1131544",
-      "source": "RemoteOK",
-      "tags": [
-        "travel",
-        "coordinator",
-        "support",
-        "growth"
-      ],
-      "salary": "",
-      "posted": "2026-05-11T16:00:10+00:00"
-    },
-    {
-      "title": "Itinerary Support Coordinator No Experience Needed",
-      "company": "Careers In Travel | Destination Planners",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-itinerary-support-coordinator-no-experience-needed-careers-in-travel-destination-planners-1131543",
-      "source": "RemoteOK",
-      "tags": [
-        "travel",
-        "coordinator",
-        "support",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-11T16:00:03+00:00"
-    },
-    {
-      "title": "Crypto Trader",
-      "company": "Maidel Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-crypto-trader-maidel-group-1131541",
-      "source": "RemoteOK",
-      "tags": [
-        "other",
-        "analyst",
-        "mobile",
-        "finance",
-        "crypto"
-      ],
-      "salary": "",
-      "posted": "2026-05-11T13:00:52+00:00"
     }
   ],
-  "last_updated": "2026-05-13T15:20:13.715961",
+  "last_updated": "2026-05-13T17:29:06.082893",
   "total": 30,
-  "new": 2
+  "new": 5
 }

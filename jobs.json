@@ -71,6 +71,24 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Academic Engagement Manager USA",
+      "company": "Calyxo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-academic-engagement-manager-usa-calyxo-1131549",
+      "source": "RemoteOK",
+      "tags": [
+        "manager",
+        "training",
+        "director",
+        "education",
+        "healthcare",
+        "educational",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-12T00:00:20+00:00"
+    },
+    {
       "title": "Project Manager French English Fluent",
       "company": "Brandtech+",
       "location": "Remote",
@@ -420,33 +438,9 @@
       ],
       "salary": "",
       "posted": "2026-05-09T00:02:16+00:00"
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "CipherHealth",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-cipherhealth-1131525",
-      "source": "RemoteOK",
-      "tags": [
-        "manager",
-        "system",
-        "consultant",
-        "technical",
-        "software",
-        "financial",
-        "lead",
-        "senior",
-        "operations",
-        "operational",
-        "health",
-        "healthcare",
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-05-09T00:02:10+00:00"
     }
   ],
-  "last_updated": "2026-05-12T23:16:08.918896",
+  "last_updated": "2026-05-13T00:15:06.004571",
   "total": 30,
-  "new": 0
+  "new": 1
 }

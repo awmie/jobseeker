@@ -71,6 +71,36 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Senior Sales Engineer",
+      "company": "Glia",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-glia-1131576",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "training",
+        "architect",
+        "technical",
+        "support",
+        "software",
+        "voice",
+        "javascript",
+        "financial",
+        "serverless",
+        "api",
+        "management",
+        "lead",
+        "senior",
+        "operational",
+        "sales",
+        "engineer",
+        "backend",
+        "executive"
+      ],
+      "salary": "",
+      "posted": "2026-05-13T08:00:24+00:00"
+    },
+    {
       "title": "Engenharia Software Engineer III Golang",
       "company": "Stone",
       "location": "Remote",
@@ -421,32 +451,9 @@
       ],
       "salary": "",
       "posted": "2026-05-12T00:01:48+00:00"
-    },
-    {
-      "title": "Freelance SEO AEO Strategist",
-      "company": "Smartbug Media/Point Sucess/Globalia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-seo-aeo-strategist-smartbug-media-point-sucess-globalia-1131555",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "strategist",
-        "web",
-        "javascript",
-        "seo",
-        "leader",
-        "strategy",
-        "content",
-        "marketing",
-        "excel",
-        "analytics",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-05-12T00:01:21+00:00"
     }
   ],
-  "last_updated": "2026-05-14T05:28:30.653394",
+  "last_updated": "2026-05-14T08:09:46.379116",
   "total": 30,
-  "new": 0
+  "new": 1
 }

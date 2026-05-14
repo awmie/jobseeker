@@ -71,6 +71,79 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Revenue Cycle Specialist",
+      "company": "Osmind",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-revenue-cycle-specialist-osmind-1131580",
+      "source": "RemoteOK",
+      "tags": [
+        "training",
+        "software",
+        "code",
+        "health",
+        "full-time"
+      ],
+      "salary": "",
+      "posted": "2026-05-13T16:02:43+00:00"
+    },
+    {
+      "title": "Chief Revenue Officer",
+      "company": "ContinuumGlobal, Inc",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-revenue-officer-continuumglobal-inc-1131579",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "technical",
+        "support",
+        "director",
+        "leader",
+        "operations",
+        "marketing",
+        "sales",
+        "executive"
+      ],
+      "salary": "",
+      "posted": "2026-05-13T16:02:36+00:00"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "CentralReach",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-centralreach-1131578",
+      "source": "RemoteOK",
+      "tags": [
+        "software",
+        "saas",
+        "senior",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-05-13T16:01:55+00:00"
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Sprinto",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-sprinto-1131577",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "security",
+        "cto",
+        "support",
+        "director",
+        "lead",
+        "marketing",
+        "sales",
+        "go",
+        "health",
+        "recruitment"
+      ],
+      "salary": "",
+      "posted": "2026-05-13T16:00:03+00:00"
+    },
+    {
       "title": "Senior Sales Engineer",
       "company": "Glia",
       "location": "Remote",
@@ -366,94 +439,9 @@
       ],
       "salary": "",
       "posted": "2026-05-12T08:01:50+00:00"
-    },
-    {
-      "title": "Senior Director Nuclear Programs",
-      "company": "Deep Fission, Inc",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-director-nuclear-programs-deep-fission-inc-1131559",
-      "source": "RemoteOK",
-      "tags": [
-        "director",
-        "system",
-        "growth",
-        "senior"
-      ],
-      "salary": "",
-      "posted": "2026-05-12T08:01:15+00:00"
-    },
-    {
-      "title": "VP of Product and Partnerships",
-      "company": "uConnect",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vp-of-product-and-partnerships-uconnect-1131558",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "saas",
-        "students",
-        "ceo",
-        "technical",
-        "support",
-        "education",
-        "finance",
-        "strategy",
-        "management",
-        "lead",
-        "content",
-        "senior",
-        "operations",
-        "sales",
-        "health",
-        "engineering",
-        "executive",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-12T08:00:29+00:00"
-    },
-    {
-      "title": "Technical Solutions Analyst",
-      "company": "Varicent",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-solutions-analyst-varicent-1131557",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "design",
-        "saas",
-        "technical",
-        "leader",
-        "management",
-        "lead",
-        "sales",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-12T08:00:23+00:00"
-    },
-    {
-      "title": "VP Population Health",
-      "company": "Covera Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vp-population-health-covera-health-1131556",
-      "source": "RemoteOK",
-      "tags": [
-        "system",
-        "support",
-        "growth",
-        "lead",
-        "operations",
-        "medical",
-        "health",
-        "healthcare",
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-05-12T00:01:48+00:00"
     }
   ],
-  "last_updated": "2026-05-14T16:34:03.912554",
+  "last_updated": "2026-05-14T18:21:37.916028",
   "total": 30,
-  "new": 1
+  "new": 4
 }

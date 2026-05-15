@@ -1,13 +1,6 @@
 {
   "jobs": [
     {
-      "title": "Superplane Devrel Content Creator",
-      "company": "SUPERPLANE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/superplane-devrel-content-creator",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Remote Talent Cloud Remote Customer Support 20 Hr United States 4",
       "company": "REMOTE",
       "location": "Remote",
@@ -57,10 +50,17 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Reveleer Full Stack Ai Engineer",
-      "company": "REVELEER",
+      "title": "Walter Sales Appointment Setter",
+      "company": "WALTER",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
+      "url": "https://weworkremotely.com/remote-jobs/walter-sales-appointment-setter",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Urban Legend Backend Engineer Mid Senior",
+      "company": "URBAN",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/urban-legend-backend-engineer-mid-senior",
       "source": "WeWorkRemotely"
     },
     {
@@ -459,7 +459,7 @@
       "posted": "2026-05-13T00:01:00+00:00"
     }
   ],
-  "last_updated": "2026-05-15T01:28:08.643806",
+  "last_updated": "2026-05-15T05:32:50.194052",
   "total": 30,
-  "new": 8
+  "new": 0
 }

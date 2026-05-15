@@ -71,6 +71,59 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Application Support Engineer",
+      "company": "Cresta",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-application-support-engineer-cresta-1131596",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "ceo",
+        "technical",
+        "support",
+        "web",
+        "api",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-05-14T16:01:53+00:00"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Obsidian Security",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-obsidian-security-1131595",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "software",
+        "saas",
+        "security",
+        "growth",
+        "code",
+        "api",
+        "microsoft",
+        "engineer",
+        "backend"
+      ],
+      "salary": "",
+      "posted": "2026-05-14T16:01:22+00:00"
+    },
+    {
+      "title": "DevRel Content Creator",
+      "company": "SuperPlane",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-devrel-content-creator-superplane-1131594",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "dev",
+        "devops"
+      ],
+      "salary": "",
+      "posted": "2026-05-14T15:12:08+00:00"
+    },
+    {
       "title": "Senior Golang Developer",
       "company": "TRE ALTAMIRA Srl",
       "location": "Remote",
@@ -399,74 +452,9 @@
       ],
       "salary": "",
       "posted": "2026-05-13T16:00:03+00:00"
-    },
-    {
-      "title": "Senior Sales Engineer",
-      "company": "Glia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-glia-1131576",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "training",
-        "architect",
-        "technical",
-        "support",
-        "software",
-        "voice",
-        "javascript",
-        "financial",
-        "serverless",
-        "api",
-        "management",
-        "lead",
-        "senior",
-        "operational",
-        "sales",
-        "engineer",
-        "backend",
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-05-13T08:00:24+00:00"
-    },
-    {
-      "title": "Engenharia Software Engineer III Golang",
-      "company": "Stone",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-engenharia-software-engineer-iii-golang-stone-1131575",
-      "source": "RemoteOK",
-      "tags": [
-        "software",
-        "golang",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-05-13T00:02:49+00:00"
-    },
-    {
-      "title": "Director Enterprise Sales",
-      "company": "Firework",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-enterprise-sales-firework-1131574",
-      "source": "RemoteOK",
-      "tags": [
-        "director",
-        "saas",
-        "technical",
-        "support",
-        "software",
-        "video",
-        "strategy",
-        "lead",
-        "senior",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-05-13T00:02:24+00:00"
     }
   ],
-  "last_updated": "2026-05-15T15:00:08.854469",
+  "last_updated": "2026-05-15T16:57:07.569715",
   "total": 30,
-  "new": 1
+  "new": 3
 }

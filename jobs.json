@@ -71,6 +71,23 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Senior Golang Developer",
+      "company": "TRE ALTAMIRA Srl",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-golang-developer-tre-altamira-srl-1131593",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "developer",
+        "leader",
+        "senior",
+        "golang",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-14T14:00:02+00:00"
+    },
+    {
       "title": "Software engineer",
       "company": "Sticker Mule",
       "location": "Remote",
@@ -447,29 +464,9 @@
       ],
       "salary": "",
       "posted": "2026-05-13T00:02:24+00:00"
-    },
-    {
-      "title": "Recruiter GTM Sales",
-      "company": "DoorDash USA",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-recruiter-gtm-sales-doordash-usa-1131573",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "recruiter",
-        "support",
-        "growth",
-        "strategy",
-        "operational",
-        "sales",
-        "recruiting",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-13T00:02:18+00:00"
     }
   ],
-  "last_updated": "2026-05-15T12:26:11.350791",
+  "last_updated": "2026-05-15T15:00:08.854469",
   "total": 30,
-  "new": 0
+  "new": 1
 }

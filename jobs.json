@@ -71,6 +71,89 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Software engineer",
+      "company": "Sticker Mule",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-sticker-mule-1131592",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer",
+        "golang",
+        "docker",
+        "redis",
+        "gcp",
+        "postgres"
+      ],
+      "salary": "",
+      "posted": "2026-05-14T09:44:31+00:00"
+    },
+    {
+      "title": "IT Support Technician",
+      "company": "Avalere Health ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-it-support-technician-avalere-health-1131591",
+      "source": "RemoteOK",
+      "tags": [
+        "security",
+        "training",
+        "technical",
+        "support",
+        "software",
+        "growth",
+        "web",
+        "microsoft",
+        "mobile",
+        "management",
+        "lead",
+        "marketing",
+        "medical",
+        "health",
+        "healthcare"
+      ],
+      "salary": "",
+      "posted": "2026-05-14T08:00:18+00:00"
+    },
+    {
+      "title": "Account Supervisor",
+      "company": "Avalere Health ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-supervisor-avalere-health-1131590",
+      "source": "RemoteOK",
+      "tags": [
+        "training",
+        "technical",
+        "supervisor",
+        "support",
+        "growth",
+        "finance",
+        "marketing",
+        "medical",
+        "health",
+        "healthcare"
+      ],
+      "salary": "",
+      "posted": "2026-05-14T08:00:12+00:00"
+    },
+    {
+      "title": "Product Manager",
+      "company": "Cosuno",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-cosuno-1131589",
+      "source": "RemoteOK",
+      "tags": [
+        "manager",
+        "design",
+        "saas",
+        "support",
+        "growth",
+        "management",
+        "marketing",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-14T08:00:05+00:00"
+    },
+    {
       "title": "Staff Engineer Platform Engineering",
       "company": "HighLevel",
       "location": "Remote",
@@ -384,82 +467,9 @@
       ],
       "salary": "",
       "posted": "2026-05-13T00:02:18+00:00"
-    },
-    {
-      "title": "Senior AI System Software Developer",
-      "company": "Wealthsimple Technologies",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572",
-      "source": "RemoteOK",
-      "tags": [
-        "system",
-        "developer",
-        "software",
-        "react",
-        "redis",
-        "frontend",
-        "full-stack",
-        "technical",
-        "support",
-        "financial",
-        "senior",
-        "golang",
-        "health",
-        "engineering",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-13T00:01:58+00:00"
-    },
-    {
-      "title": "Senior Medical Editor",
-      "company": "Omnicom Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-medical-editor-omnicom-health-1131571",
-      "source": "RemoteOK",
-      "tags": [
-        "management",
-        "senior",
-        "junior",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-05-13T00:01:45+00:00"
-    },
-    {
-      "title": "Pricing Manager",
-      "company": "AffirmedRx, PBC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-pricing-manager-affirmedrx-pbc-1131570",
-      "source": "RemoteOK",
-      "tags": [
-        "manager",
-        "support",
-        "financial",
-        "health",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-13T00:01:26+00:00"
-    },
-    {
-      "title": "Director of Market Development",
-      "company": "Beale Infrastructure",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-market-development-beale-infrastructure-1131569",
-      "source": "RemoteOK",
-      "tags": [
-        "director",
-        "support",
-        "strategy",
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-05-13T00:01:00+00:00"
     }
   ],
-  "last_updated": "2026-05-15T08:23:56.863525",
+  "last_updated": "2026-05-15T10:43:44.670174",
   "total": 30,
-  "new": 0
+  "new": 4
 }

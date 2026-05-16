@@ -29,6 +29,13 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Mobena Frontend Engineer",
+      "company": "MOBENA",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Flag Theory Multi Jurisdiction Accountant For An International Client Portfolio Europe",
       "company": "FLAG",
       "location": "Remote",
@@ -61,13 +68,6 @@
       "company": "URBAN",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/urban-legend-backend-engineer-mid-senior",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Vanta Senior Software Engineer Design Systems",
-      "company": "VANTA",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/vanta-senior-software-engineer-design-systems",
       "source": "WeWorkRemotely"
     },
     {
@@ -444,7 +444,7 @@
       "posted": "2026-05-14T00:02:09+00:00"
     }
   ],
-  "last_updated": "2026-05-16T19:46:41.371166",
+  "last_updated": "2026-05-16T20:33:16.532655",
   "total": 30,
-  "new": 0
+  "new": 1
 }

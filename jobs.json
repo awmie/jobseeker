@@ -1,74 +1,30 @@
 {
   "jobs": [
     {
-      "title": "We Work Remotely Digital Analytics Engineer Ga4 Gtm",
-      "company": "WE",
+      "title": "Senior Database Reliability Engineer",
+      "company": "Cloudlinux",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/we-work-remotely-digital-analytics-engineer-ga4-gtm",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Remote Talent Cloud Remote Customer Support 20 Hr United States 4",
-      "company": "REMOTE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-customer-support-20-hr-united-states-4",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Catamaran Research Platform Engineer",
-      "company": "CATAMARAN",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/catamaran-research-platform-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Contra Brand Designer 7",
-      "company": "CONTRA",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/contra-brand-designer-7",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Mobena Frontend Engineer",
-      "company": "MOBENA",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Silverorange Digital Product Lead",
-      "company": "SILVERORANGE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/silverorange-digital-product-lead",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Walter Senior Fullstack Engineer Ruby React",
-      "company": "WALTER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/walter-senior-fullstack-engineer-ruby-react",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Maidel Limited Crypto Trader Remote Full Training Provided",
-      "company": "MAIDEL",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/maidel-limited-crypto-trader-remote-full-training-provided",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Walter Sales Appointment Setter",
-      "company": "WALTER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/walter-sales-appointment-setter",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Urban Legend Backend Engineer Mid Senior",
-      "company": "URBAN",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/urban-legend-backend-engineer-mid-senior",
-      "source": "WeWorkRemotely"
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-database-reliability-engineer-cloudlinux-1131613",
+      "source": "RemoteOK",
+      "tags": [
+        "redis",
+        "ansible",
+        "security",
+        "support",
+        "developer",
+        "postgresql",
+        "dba",
+        "senior",
+        "operational",
+        "reliability",
+        "health",
+        "engineer",
+        "engineering",
+        "linux",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-16T16:00:03+00:00"
     },
     {
       "title": "IT Support Technician",
@@ -440,26 +396,9 @@
       ],
       "salary": "",
       "posted": "2026-05-14T14:00:02+00:00"
-    },
-    {
-      "title": "Software engineer",
-      "company": "Sticker Mule",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-sticker-mule-1131592",
-      "source": "RemoteOK",
-      "tags": [
-        "engineer",
-        "golang",
-        "docker",
-        "redis",
-        "gcp",
-        "postgres"
-      ],
-      "salary": "",
-      "posted": "2026-05-14T09:44:31+00:00"
     }
   ],
-  "last_updated": "2026-05-17T15:18:05.407741",
-  "total": 30,
-  "new": 0
+  "last_updated": "2026-05-17T16:16:12.972342",
+  "total": 20,
+  "new": 1
 }

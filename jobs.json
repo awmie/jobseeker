@@ -71,6 +71,51 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "IT Support Technician",
+      "company": "Avalere Health ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-it-support-technician-avalere-health-1131612",
+      "source": "RemoteOK",
+      "tags": [
+        "security",
+        "training",
+        "technical",
+        "support",
+        "software",
+        "growth",
+        "web",
+        "mobile",
+        "management",
+        "marketing",
+        "medical",
+        "health",
+        "healthcare"
+      ],
+      "salary": "",
+      "posted": "2026-05-16T08:00:12+00:00"
+    },
+    {
+      "title": "Forward Deployed Engineer Agentic Platform",
+      "company": "Cohere",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611",
+      "source": "RemoteOK",
+      "tags": [
+        "python",
+        "training",
+        "code",
+        "travel",
+        "content",
+        "excel",
+        "health",
+        "engineer",
+        "engineering",
+        "recruitment"
+      ],
+      "salary": "",
+      "posted": "2026-05-16T08:00:05+00:00"
+    },
+    {
       "title": "Sr Solution Architect Consultant Sales Engineer",
       "company": "Cyara",
       "location": "Remote",
@@ -412,56 +457,9 @@
       ],
       "salary": "",
       "posted": "2026-05-14T09:44:31+00:00"
-    },
-    {
-      "title": "IT Support Technician",
-      "company": "Avalere Health ",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-it-support-technician-avalere-health-1131591",
-      "source": "RemoteOK",
-      "tags": [
-        "security",
-        "training",
-        "technical",
-        "support",
-        "software",
-        "growth",
-        "web",
-        "microsoft",
-        "mobile",
-        "management",
-        "lead",
-        "marketing",
-        "medical",
-        "health",
-        "healthcare"
-      ],
-      "salary": "",
-      "posted": "2026-05-14T08:00:18+00:00"
-    },
-    {
-      "title": "Account Supervisor",
-      "company": "Avalere Health ",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-account-supervisor-avalere-health-1131590",
-      "source": "RemoteOK",
-      "tags": [
-        "training",
-        "technical",
-        "supervisor",
-        "support",
-        "growth",
-        "finance",
-        "marketing",
-        "medical",
-        "health",
-        "healthcare"
-      ],
-      "salary": "",
-      "posted": "2026-05-14T08:00:12+00:00"
     }
   ],
-  "last_updated": "2026-05-17T07:22:34.359849",
+  "last_updated": "2026-05-17T09:17:35.917409",
   "total": 30,
-  "new": 0
+  "new": 2
 }

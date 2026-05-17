@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "We Work Remotely Digital Analytics Engineer Ga4 Gtm",
+      "company": "WE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/we-work-remotely-digital-analytics-engineer-ga4-gtm",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Remote Talent Cloud Remote Customer Support 20 Hr United States 4",
       "company": "REMOTE",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "CATAMARAN",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/catamaran-research-platform-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Seen Link Building Outreach Manager Saas Listicles Brand Mentions",
-      "company": "SEEN",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/seen-link-building-outreach-manager-saas-listicles-brand-mentions",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,93 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/urban-legend-backend-engineer-mid-senior",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Sr Solution Architect Consultant Sales Engineer",
+      "company": "Cyara",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-solution-architect-consultant-sales-engineer-cyara-1131610",
+      "source": "RemoteOK",
+      "tags": [
+        "consultant",
+        "architect",
+        "design",
+        "technical",
+        "support",
+        "testing",
+        "growth",
+        "travel",
+        "leader",
+        "management",
+        "lead",
+        "senior",
+        "junior",
+        "sales",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-16T00:00:15+00:00"
+    },
+    {
+      "title": "Operations Manager A379",
+      "company": "Pearl",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-manager-a379-pearl-1131609",
+      "source": "RemoteOK",
+      "tags": [
+        "manager",
+        "back-end",
+        "support",
+        "test",
+        "growth",
+        "bookkeeping",
+        "financial",
+        "finance",
+        "microsoft",
+        "leader",
+        "strategy",
+        "management",
+        "lead",
+        "operations",
+        "operational",
+        "excel",
+        "health",
+        "recruiting",
+        "recruitment",
+        "backend",
+        "e-commerce",
+        "shopify",
+        "full-time"
+      ],
+      "salary": "",
+      "posted": "2026-05-16T00:00:08+00:00"
+    },
+    {
+      "title": "Senior CRO Manager Growth Optimization Lead for US DTC Company",
+      "company": "Paired",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-cro-manager-growth-optimization-lead-for-us-dtc-company-paired-1131608",
+      "source": "RemoteOK",
+      "tags": [
+        "growth",
+        "manager",
+        "react",
+        "swift",
+        "testing",
+        "test",
+        "ux",
+        "strategy",
+        "lead",
+        "content",
+        "senior",
+        "recruiting",
+        "engineering",
+        "e-commerce",
+        "shopify"
+      ],
+      "salary": "",
+      "posted": "2026-05-16T00:00:02+00:00"
     },
     {
       "title": "US Tax Law AI Specialist",
@@ -372,79 +459,9 @@
       ],
       "salary": "",
       "posted": "2026-05-14T08:00:12+00:00"
-    },
-    {
-      "title": "Product Manager",
-      "company": "Cosuno",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-cosuno-1131589",
-      "source": "RemoteOK",
-      "tags": [
-        "manager",
-        "design",
-        "saas",
-        "support",
-        "growth",
-        "management",
-        "marketing",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-14T08:00:05+00:00"
-    },
-    {
-      "title": "Staff Engineer Platform Engineering",
-      "company": "HighLevel",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-engineer-platform-engineering-highlevel-1131588",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "saas",
-        "system",
-        "technical",
-        "support",
-        "developer",
-        "software",
-        "growth",
-        "code",
-        "cloud",
-        "node.js",
-        "api",
-        "leader",
-        "lead",
-        "senior",
-        "legal",
-        "reliability",
-        "engineer",
-        "engineering",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-14T00:02:15+00:00"
-    },
-    {
-      "title": "Business Analyst",
-      "company": "Judi Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-judi-health-1131587",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "ux",
-        "management",
-        "operational",
-        "medical",
-        "health",
-        "healthcare",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-14T00:02:09+00:00"
     }
   ],
-  "last_updated": "2026-05-17T00:13:39.469721",
+  "last_updated": "2026-05-17T04:33:47.908024",
   "total": 30,
-  "new": 0
+  "new": 4
 }

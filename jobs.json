@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Nomad Senior Software Engineer Ii",
+      "company": "NOMAD",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "We Work Remotely Digital Analytics Engineer Ga4 Gtm",
       "company": "WE",
       "location": "Remote",
@@ -40,13 +47,6 @@
       "company": "SILVERORANGE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/silverorange-digital-product-lead",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Walter Senior Fullstack Engineer Ruby React",
-      "company": "WALTER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/walter-senior-fullstack-engineer-ruby-react",
       "source": "WeWorkRemotely"
     },
     {
@@ -468,7 +468,7 @@
       "posted": "2026-05-14T14:00:02+00:00"
     }
   ],
-  "last_updated": "2026-05-19T14:22:17.189901",
+  "last_updated": "2026-05-19T17:23:32.845044",
   "total": 30,
-  "new": 0
+  "new": 1
 }

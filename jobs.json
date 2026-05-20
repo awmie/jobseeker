@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Nogigiddy Entry Level Account Manager 4",
+      "company": "NOGIGIDDY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/nogigiddy-entry-level-account-manager-4",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Nomad Senior Software Engineer Ii",
       "company": "NOMAD",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "WE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/we-work-remotely-digital-analytics-engineer-ga4-gtm",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Remote Talent Cloud Remote Customer Support 20 Hr United States 4",
-      "company": "REMOTE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-customer-support-20-hr-united-states-4",
       "source": "WeWorkRemotely"
     },
     {
@@ -503,7 +503,7 @@
       "posted": "2026-05-15T00:01:18+00:00"
     }
   ],
-  "last_updated": "2026-05-20T08:46:33.337717",
+  "last_updated": "2026-05-20T11:37:35.302119",
   "total": 30,
-  "new": 2
+  "new": 1
 }

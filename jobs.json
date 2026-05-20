@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Lawnstarter Senior Webflow Designer",
+      "company": "LAWNSTARTER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/lawnstarter-senior-webflow-designer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Nogigiddy Entry Level Account Manager 4",
       "company": "NOGIGIDDY",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "NOMAD",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "We Work Remotely Digital Analytics Engineer Ga4 Gtm",
-      "company": "WE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/we-work-remotely-digital-analytics-engineer-ga4-gtm",
       "source": "WeWorkRemotely"
     },
     {
@@ -515,7 +515,7 @@
       "posted": "2026-05-15T00:01:54+00:00"
     }
   ],
-  "last_updated": "2026-05-20T17:33:29.034768",
+  "last_updated": "2026-05-20T19:52:10.424702",
   "total": 30,
   "new": 1
 }

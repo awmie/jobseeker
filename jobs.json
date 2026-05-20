@@ -71,6 +71,32 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Intern SD Engineer",
+      "company": "Copious",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-intern-sd-engineer-copious-1131629",
+      "source": "RemoteOK",
+      "tags": [
+        "salesforce",
+        "students",
+        "founder",
+        "support",
+        "software",
+        "code",
+        "web",
+        "firebase",
+        "typescript",
+        "mobile",
+        "management",
+        "health",
+        "engineer",
+        "recruitment",
+        "internship"
+      ],
+      "salary": "",
+      "posted": "2026-05-19T16:00:05+00:00"
+    },
+    {
       "title": "Member of Technical Staff Applied ML RecSys",
       "company": "Liquid AI",
       "location": "Remote",
@@ -487,23 +513,9 @@
       ],
       "salary": "",
       "posted": "2026-05-15T00:01:54+00:00"
-    },
-    {
-      "title": "1090 Video Editor",
-      "company": "GoFasti",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-1090-video-editor-gofasti-1131599",
-      "source": "RemoteOK",
-      "tags": [
-        "video",
-        "content",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-15T00:01:18+00:00"
     }
   ],
-  "last_updated": "2026-05-20T14:16:07.835319",
+  "last_updated": "2026-05-20T17:33:29.034768",
   "total": 30,
-  "new": 0
+  "new": 1
 }

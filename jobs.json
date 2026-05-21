@@ -71,6 +71,24 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Senior Fraud Risk Analyst",
+      "company": "Braviant Holdings",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-fraud-risk-analyst-braviant-holdings-1131632",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "financial",
+        "strategy",
+        "senior",
+        "operations",
+        "healthcare",
+        "engineering"
+      ],
+      "salary": "",
+      "posted": "2026-05-20T00:00:12+00:00"
+    },
+    {
       "title": "Intern SD Engineer",
       "company": "Copious",
       "location": "Remote",
@@ -501,21 +519,9 @@
       ],
       "salary": "",
       "posted": "2026-05-15T00:02:00+00:00"
-    },
-    {
-      "title": "Business Owners Freelance AI Trainer Project",
-      "company": "Invisible Agency",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600",
-      "source": "RemoteOK",
-      "tags": [
-        "trainer"
-      ],
-      "salary": "",
-      "posted": "2026-05-15T00:01:54+00:00"
     }
   ],
-  "last_updated": "2026-05-20T22:55:16.733012",
+  "last_updated": "2026-05-21T00:05:38.578780",
   "total": 30,
-  "new": 0
+  "new": 1
 }

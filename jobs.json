@@ -71,6 +71,39 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Chief Technology Officer",
+      "company": "Access Softek",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-technology-officer-access-softek-1131633",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "saas",
+        "embedded",
+        "system",
+        "security",
+        "consulting",
+        "cto",
+        "ceo",
+        "technical",
+        "software",
+        "growth",
+        "financial",
+        "investment",
+        "banking",
+        "leader",
+        "strategy",
+        "lead",
+        "senior",
+        "operational",
+        "engineering",
+        "executive",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-21T00:00:04+00:00"
+    },
+    {
       "title": "Senior Fraud Risk Analyst",
       "company": "Braviant Holdings",
       "location": "Remote",
@@ -494,34 +527,9 @@
       ],
       "salary": "",
       "posted": "2026-05-15T00:02:07+00:00"
-    },
-    {
-      "title": "Senior Accountant",
-      "company": "Volt",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-accountant-volt-1131601",
-      "source": "RemoteOK",
-      "tags": [
-        "accountant",
-        "saas",
-        "technical",
-        "software",
-        "accounting",
-        "payroll",
-        "financial",
-        "finance",
-        "c",
-        "lead",
-        "senior",
-        "operations",
-        "legal",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-05-15T00:02:00+00:00"
     }
   ],
-  "last_updated": "2026-05-21T23:34:33.546286",
+  "last_updated": "2026-05-22T01:33:14.119446",
   "total": 30,
-  "new": 0
+  "new": 1
 }

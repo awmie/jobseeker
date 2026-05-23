@@ -71,6 +71,25 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Genetic Counseling Assistant",
+      "company": "MyOme",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-genetic-counseling-assistant-myome-1131860",
+      "source": "RemoteOK",
+      "tags": [
+        "assistant",
+        "support",
+        "testing",
+        "management",
+        "operational",
+        "health",
+        "healthcare",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-22T20:35:04+00:00"
+    },
+    {
       "title": "Claims Officer Nassau",
       "company": "Coralisle Group Ltd.",
       "location": "Remote",
@@ -608,48 +627,9 @@
       ],
       "salary": "",
       "posted": "2026-05-22T08:19:52+00:00"
-    },
-    {
-      "title": "District Associate Manager",
-      "company": "Meril",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-district-associate-manager-meril-1131852",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech",
-        "python",
-        "support",
-        "growth",
-        "microsoft",
-        "operations",
-        "operational",
-        "analyst",
-        "financial",
-        "management",
-        "excel",
-        "legal",
-        "manager",
-        "senior",
-        "marketing",
-        "sales",
-        "hr",
-        "technical",
-        "health",
-        "saas",
-        "cloud",
-        "git",
-        "analytics",
-        "engineering",
-        "recruitment",
-        "lead",
-        "healthcare"
-      ],
-      "salary": "",
-      "posted": "2026-05-22T06:27:40+00:00"
     }
   ],
-  "last_updated": "2026-05-23T20:43:03.328328",
+  "last_updated": "2026-05-23T21:39:04.015246",
   "total": 30,
   "new": 1
 }

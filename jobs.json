@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Atendente de SAC",
+      "company": "Pluris M\u00c3\u00addia",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-atendente-de-sac-pluris-midia-1131838",
+      "source": "RemoteOK",
+      "tags": [
+        "c",
+        "c++"
+      ],
+      "salary": "",
+      "posted": "2026-05-22T21:43:59+00:00"
+    },
+    {
       "title": "Genetic Counseling Assistant",
       "company": "MyOme",
       "location": "Remote",
@@ -578,58 +591,9 @@
       ],
       "salary": "",
       "posted": "2026-05-22T09:24:11+00:00"
-    },
-    {
-      "title": "2D Artist",
-      "company": "RubyPlay",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-2d-artist-rubyplay-1131918",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "support",
-        "growth",
-        "financial",
-        "content",
-        "legal",
-        "recruitment",
-        "part-time",
-        "technical",
-        "web",
-        "finance",
-        "cloud",
-        "strategy",
-        "management",
-        "lead",
-        "operations",
-        "operational",
-        "executive",
-        "analyst",
-        "design",
-        "crypto",
-        "investment",
-        "health",
-        "digital nomad",
-        "designer",
-        "manager",
-        "microsoft",
-        "senior",
-        "sales",
-        "macos",
-        "security",
-        "reliability",
-        "healthcare",
-        "tutor",
-        "3d",
-        "developer",
-        "software",
-        "mobile"
-      ],
-      "salary": "",
-      "posted": "2026-05-22T08:19:52+00:00"
     }
   ],
-  "last_updated": "2026-05-23T21:39:04.015246",
+  "last_updated": "2026-05-23T22:36:23.373934",
   "total": 30,
   "new": 1
 }

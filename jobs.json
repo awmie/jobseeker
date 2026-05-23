@@ -71,6 +71,52 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Open Role",
+      "company": "Flent",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-open-role-flent-1131650",
+      "source": "RemoteOK",
+      "tags": [
+        "test",
+        "non tech",
+        "telecom",
+        "operations",
+        "assistant",
+        "security",
+        "training",
+        "support",
+        "growth",
+        "manager",
+        "investment",
+        "leader",
+        "operational",
+        "technical",
+        "content",
+        "recruitment"
+      ],
+      "salary": "",
+      "posted": "2026-05-22T10:56:13+00:00"
+    },
+    {
+      "title": "Profesor a online para refuerzo escolar y preparaci\u00c3\u00b3n de ex\u00c3\u00a1menes",
+      "company": "TUS Media",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-profesor-a-online-para-refuerzo-escolar-y-preparacion-de-examenes-tus-media-1131911",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "support",
+        "growth",
+        "financial",
+        "content",
+        "legal",
+        "recruitment",
+        "part-time"
+      ],
+      "salary": "",
+      "posted": "2026-05-22T10:07:14+00:00"
+    },
+    {
       "title": "Housekeeper",
       "company": "Quality Inn &amp; Suites Downtown Charlottetown",
       "location": "Remote",
@@ -366,6 +412,18 @@
         "training",
         "marketing",
         "part-time"
+      ],
+      "salary": "",
+      "posted": "2026-05-22T00:00:00+00:00"
+    },
+    {
+      "title": "Nutricionista y o Nutri\u00c3\u00b3loga",
+      "company": "Elea Ecuador",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-nutricionista-y-o-nutriologa-elea-ecuador-1131924",
+      "source": "RemoteOK",
+      "tags": [
+        "banking"
       ],
       "salary": "",
       "posted": "2026-05-22T00:00:00+00:00"
@@ -667,103 +725,9 @@
       ],
       "salary": "",
       "posted": "2026-05-21T19:50:11+00:00"
-    },
-    {
-      "title": "Loss Prevention Specialist",
-      "company": "The Home Depot Canada",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-loss-prevention-specialist-the-home-depot-canada-1131717",
-      "source": "RemoteOK",
-      "tags": [
-        "travel",
-        "non tech",
-        "testing",
-        "test",
-        "support",
-        "recruitment",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-05-21T19:03:23+00:00"
-    },
-    {
-      "title": "Head of Operations Overtime.ai",
-      "company": "Acclaim AI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "support",
-        "growth",
-        "director",
-        "manager",
-        "financial",
-        "video",
-        "fintech",
-        "banking",
-        "microsoft",
-        "management",
-        "senior",
-        "operational",
-        "coordinator",
-        "recruitment",
-        "assistant",
-        "hr",
-        "operations",
-        "health",
-        "design",
-        "content",
-        "marketing",
-        "internship",
-        "digital nomad",
-        "training",
-        "technical",
-        "healthcare",
-        "ceo",
-        "exec",
-        "lead",
-        "executive",
-        "education",
-        "investment",
-        "full-time",
-        "travel",
-        "sales",
-        "voice",
-        "qa",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-05-21T18:43:26+00:00"
-    },
-    {
-      "title": "Online Entry Level Scheduling Coordinator",
-      "company": "Aisle and Abroad",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-online-entry-level-scheduling-coordinator-aisle-and-abroad-1131694",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "support",
-        "growth",
-        "director",
-        "manager",
-        "financial",
-        "video",
-        "fintech",
-        "banking",
-        "microsoft",
-        "management",
-        "senior",
-        "operational",
-        "coordinator",
-        "recruitment"
-      ],
-      "salary": "",
-      "posted": "2026-05-21T18:13:34+00:00"
     }
   ],
-  "last_updated": "2026-05-23T10:53:03.195329",
+  "last_updated": "2026-05-23T11:55:28.809940",
   "total": 30,
-  "new": 1
+  "new": 3
 }

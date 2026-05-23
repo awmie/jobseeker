@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Prowritersites Freelance Writer",
+      "company": "PROWRITERSITES",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/prowritersites-freelance-writer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Speechify Inc Senior Software Engineer Web 1",
       "company": "SPEECHIFY INC",
       "location": "Remote",
@@ -19,13 +26,6 @@
       "company": "CENTRALREACH",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/centralreach-director-ai-product-development",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Toptal Ai Engineer Python Develope",
-      "company": "TOPTAL AI",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-python-develope",
       "source": "WeWorkRemotely"
     },
     {
@@ -634,7 +634,7 @@
       "posted": "2026-05-22T05:55:19+00:00"
     }
   ],
-  "last_updated": "2026-05-23T18:45:13.246474",
+  "last_updated": "2026-05-23T19:54:08.113671",
   "total": 30,
-  "new": 4
+  "new": 0
 }

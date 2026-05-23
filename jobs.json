@@ -71,6 +71,23 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Asset Protection Specialist BURNABY",
+      "company": "The Home Depot Canada",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-asset-protection-specialist-burnaby-the-home-depot-canada-1131715",
+      "source": "RemoteOK",
+      "tags": [
+        "travel",
+        "non tech",
+        "testing",
+        "test",
+        "support",
+        "recruitment"
+      ],
+      "salary": "",
+      "posted": "2026-05-22T01:04:25+00:00"
+    },
+    {
       "title": "Agente de Recrutamento e Sele\u00c3\u00a7\u00c3\u00a3o Remoto Diarista",
       "company": "Solvereh",
       "location": "Remote",
@@ -135,6 +152,28 @@
       ],
       "salary": "",
       "posted": "2026-05-22T00:00:03+00:00"
+    },
+    {
+      "title": "Proofreader",
+      "company": "Mower Agency",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-proofreader-mower-agency-1131862",
+      "source": "RemoteOK",
+      "tags": [
+        "assistant",
+        "support",
+        "testing",
+        "management",
+        "operational",
+        "health",
+        "healthcare",
+        "non tech",
+        "training",
+        "marketing",
+        "part-time"
+      ],
+      "salary": "",
+      "posted": "2026-05-22T00:00:00+00:00"
     },
     {
       "title": "Operations Analyst",
@@ -690,71 +729,9 @@
       ],
       "salary": "",
       "posted": "2026-05-21T14:30:15+00:00"
-    },
-    {
-      "title": "Customer Service &amp; Reservations Associate",
-      "company": "Aisle and Abroad",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-amp-reservations-associate-aisle-and-abroad-1131703",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "support",
-        "growth",
-        "director",
-        "manager",
-        "financial",
-        "video",
-        "fintech",
-        "banking",
-        "microsoft",
-        "management",
-        "senior",
-        "operational",
-        "coordinator",
-        "recruitment",
-        "assistant",
-        "hr",
-        "operations",
-        "health",
-        "design",
-        "content",
-        "marketing",
-        "internship",
-        "digital nomad",
-        "training",
-        "technical",
-        "healthcare"
-      ],
-      "salary": "",
-      "posted": "2026-05-21T14:18:58+00:00"
-    },
-    {
-      "title": "Analyst Accounts Payable",
-      "company": "Cint",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analyst-accounts-payable-cint-1131848",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech",
-        "python",
-        "support",
-        "growth",
-        "microsoft",
-        "operations",
-        "operational",
-        "analyst",
-        "financial",
-        "management",
-        "excel",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-05-21T13:36:47+00:00"
     }
   ],
-  "last_updated": "2026-05-23T01:29:42.323299",
+  "last_updated": "2026-05-23T05:09:31.572033",
   "total": 30,
-  "new": 4
+  "new": 2
 }

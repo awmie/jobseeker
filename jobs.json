@@ -71,6 +71,21 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Director of Operations",
+      "company": "Happily",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-operations-happily-1131638",
+      "source": "RemoteOK",
+      "tags": [
+        "ops",
+        "exec",
+        "Events",
+        "senior"
+      ],
+      "salary": "",
+      "posted": "2026-05-22T12:02:39+00:00"
+    },
+    {
       "title": "Open Role",
       "company": "Flent",
       "location": "Remote",
@@ -675,59 +690,9 @@
       ],
       "salary": "",
       "posted": "2026-05-21T19:50:42+00:00"
-    },
-    {
-      "title": "Booking &amp; Reservations Coordinator Training Provided",
-      "company": "Aisle and Abroad",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-booking-amp-reservations-coordinator-training-provided-aisle-and-abroad-1131710",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "support",
-        "growth",
-        "director",
-        "manager",
-        "financial",
-        "video",
-        "fintech",
-        "banking",
-        "microsoft",
-        "management",
-        "senior",
-        "operational",
-        "coordinator",
-        "recruitment",
-        "assistant",
-        "hr",
-        "operations",
-        "health",
-        "design",
-        "content",
-        "marketing",
-        "internship",
-        "digital nomad",
-        "training",
-        "technical",
-        "healthcare",
-        "ceo",
-        "exec",
-        "lead",
-        "executive",
-        "education",
-        "investment",
-        "full-time",
-        "travel",
-        "sales",
-        "voice",
-        "qa",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-05-21T19:50:11+00:00"
     }
   ],
-  "last_updated": "2026-05-23T11:55:28.809940",
+  "last_updated": "2026-05-23T13:22:29.400722",
   "total": 30,
-  "new": 3
+  "new": 1
 }

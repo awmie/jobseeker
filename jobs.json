@@ -71,6 +71,32 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Maintenance",
+      "company": "Pacific Cyber Technology Pvt Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-pacific-cyber-technology-pvt-ltd-1132148",
+      "source": "RemoteOK",
+      "tags": [
+        "mobile"
+      ],
+      "salary": "",
+      "posted": "2026-05-23T18:47:36+00:00"
+    },
+    {
+      "title": "Junior Graphic Designer",
+      "company": "Twine",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-twine-1132062",
+      "source": "RemoteOK",
+      "tags": [
+        "game dev",
+        "designer",
+        "junior"
+      ],
+      "salary": "",
+      "posted": "2026-05-23T18:03:56+00:00"
+    },
+    {
       "title": "HR Assistant",
       "company": "Aisle and Abroad",
       "location": "Remote",
@@ -376,45 +402,9 @@
       ],
       "salary": "",
       "posted": "2026-05-23T17:37:30+00:00"
-    },
-    {
-      "title": "Generalist",
-      "company": "Crossing Hurdles",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-generalist-crossing-hurdles-1132000",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "growth",
-        "web",
-        "finance",
-        "cloud",
-        "strategy",
-        "management",
-        "lead",
-        "operations",
-        "operational",
-        "executive"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T15:07:26+00:00"
-    },
-    {
-      "title": "Word Document Specialist Fully",
-      "company": "Mercor",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-word-document-specialist-fully-mercor-1132066",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "customer support",
-        "microsoft"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T14:19:37+00:00"
     }
   ],
-  "last_updated": "2026-05-24T18:48:29.045181",
+  "last_updated": "2026-05-24T19:56:24.716291",
   "total": 30,
-  "new": 18
+  "new": 2
 }

@@ -71,6 +71,42 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Outbound Sales Development Representative Latin America",
+      "company": "Bluelight Consulting",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-outbound-sales-development-representative-latin-america-bluelight-consulting-1131843",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "saas",
+        "consultant",
+        "consultancy",
+        "software",
+        "lead",
+        "operations",
+        "marketing",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-05-23T00:00:03+00:00"
+    },
+    {
+      "title": "Jefe de Calidad Procesos",
+      "company": "Grupo Auteco",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-jefe-de-calidad-procesos-grupo-auteco-1132124",
+      "source": "RemoteOK",
+      "tags": [
+        "legal",
+        "non tech",
+        "assistant",
+        "full-time",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-05-22T23:47:11+00:00"
+    },
+    {
       "title": "Gateway Agent",
       "company": "DHL Express",
       "location": "Remote",
@@ -578,51 +614,9 @@
       ],
       "salary": "",
       "posted": "2026-05-22T12:35:55+00:00"
-    },
-    {
-      "title": "Director of Operations",
-      "company": "Happily",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-operations-happily-1131638",
-      "source": "RemoteOK",
-      "tags": [
-        "ops",
-        "exec",
-        "Events",
-        "senior"
-      ],
-      "salary": "",
-      "posted": "2026-05-22T12:02:39+00:00"
-    },
-    {
-      "title": "Open Role",
-      "company": "Flent",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-open-role-flent-1131650",
-      "source": "RemoteOK",
-      "tags": [
-        "test",
-        "non tech",
-        "telecom",
-        "operations",
-        "assistant",
-        "security",
-        "training",
-        "support",
-        "growth",
-        "manager",
-        "investment",
-        "leader",
-        "operational",
-        "technical",
-        "content",
-        "recruitment"
-      ],
-      "salary": "",
-      "posted": "2026-05-22T10:56:13+00:00"
     }
   ],
-  "last_updated": "2026-05-23T23:39:10.727825",
+  "last_updated": "2026-05-24T01:35:03.996609",
   "total": 30,
   "new": 2
 }

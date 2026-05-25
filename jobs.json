@@ -71,6 +71,24 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Operations Executive",
+      "company": "Local",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-executive-local-1132209",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "dev",
+        "travel",
+        "exec",
+        "ops",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-24T17:42:55+00:00"
+    },
+    {
       "title": "Freelance Pharmaceutical Proofreader",
       "company": "Pickle",
       "location": "Remote",
@@ -385,23 +403,9 @@
       ],
       "salary": "",
       "posted": "2026-05-23T12:52:13+00:00"
-    },
-    {
-      "title": "FlentX",
-      "company": "Flent",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-flentx-flent-1132145",
-      "source": "RemoteOK",
-      "tags": [
-        "other",
-        "non tech",
-        "consult"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T10:56:09+00:00"
     }
   ],
-  "last_updated": "2026-05-25T17:19:55.877412",
+  "last_updated": "2026-05-25T18:55:21.076159",
   "total": 30,
-  "new": 0
+  "new": 1
 }

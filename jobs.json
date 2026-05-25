@@ -71,6 +71,23 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Assistente de Sucesso do Cliente CLT Remoto",
+      "company": "Nibo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistente-de-sucesso-do-cliente-clt-remoto-nibo-1132120",
+      "source": "RemoteOK",
+      "tags": [
+        "assistant",
+        "customer support",
+        "support",
+        "work from home",
+        "non tech",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-05-24T00:02:36+00:00"
+    },
+    {
       "title": "Investigative Journalist",
       "company": "Crossing Hurdles",
       "location": "Remote",
@@ -371,25 +388,9 @@
       ],
       "salary": "",
       "posted": "2026-05-23T17:40:10+00:00"
-    },
-    {
-      "title": "Data Entry Clerk",
-      "company": "Aisle and Abroad",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132130",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "full time",
-        "work from home",
-        "admin",
-        "operations"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T17:40:10+00:00"
     }
   ],
-  "last_updated": "2026-05-24T23:03:27.946417",
+  "last_updated": "2026-05-25T00:10:54.593214",
   "total": 30,
-  "new": 0
+  "new": 1
 }

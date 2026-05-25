@@ -71,6 +71,61 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Freelance Pharmaceutical Proofreader",
+      "company": "Pickle",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-pharmaceutical-proofreader-pickle-1132195",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "customer support",
+        "speech",
+        "education",
+        "exec",
+        "content writing",
+        "ops",
+        "marketing",
+        "excel",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-24T14:21:20+00:00"
+    },
+    {
+      "title": "Canva Specialist",
+      "company": "Crossing Hurdles",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-canva-specialist-crossing-hurdles-1132161",
+      "source": "RemoteOK",
+      "tags": [
+        "designer",
+        "design",
+        "content",
+        "marketing",
+        "social media"
+      ],
+      "salary": "",
+      "posted": "2026-05-24T14:00:47+00:00"
+    },
+    {
+      "title": "Investigative Journalist",
+      "company": "Crossing Hurdles",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-investigative-journalist-crossing-hurdles-1132160",
+      "source": "RemoteOK",
+      "tags": [
+        "writer",
+        "content writing",
+        "content",
+        "non tech",
+        "work from home"
+      ],
+      "salary": "",
+      "posted": "2026-05-24T13:07:13+00:00"
+    },
+    {
       "title": "Journalist",
       "company": "Crossing Hurdles",
       "location": "Remote",
@@ -344,58 +399,9 @@
       ],
       "salary": "",
       "posted": "2026-05-23T10:56:09+00:00"
-    },
-    {
-      "title": "Social Media Content Creator",
-      "company": "Favoured",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-favoured-1131919",
-      "source": "RemoteOK",
-      "tags": [
-        "social media",
-        "content writing",
-        "marketing",
-        "writer",
-        "content"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T09:05:20+00:00"
-    },
-    {
-      "title": "Product Designer",
-      "company": "Gocertify",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-gocertify-1131914",
-      "source": "RemoteOK",
-      "tags": [
-        "product designer",
-        "design",
-        "designer",
-        "product",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T09:02:45+00:00"
-    },
-    {
-      "title": "Directeur Audio Audio Director",
-      "company": "Side",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-directeur-audio-audio-director-side-1131884",
-      "source": "RemoteOK",
-      "tags": [
-        "director",
-        "bus dev",
-        "exec",
-        "game",
-        "sales",
-        "strategy"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T08:00:04+00:00"
     }
   ],
-  "last_updated": "2026-05-25T12:14:42.101033",
+  "last_updated": "2026-05-25T15:30:12.284647",
   "total": 30,
-  "new": 1
+  "new": 3
 }

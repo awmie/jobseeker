@@ -71,6 +71,22 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Journalist",
+      "company": "Crossing Hurdles",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-journalist-crossing-hurdles-1132156",
+      "source": "RemoteOK",
+      "tags": [
+        "writer",
+        "content writing",
+        "content",
+        "non tech",
+        "work from home"
+      ],
+      "salary": "",
+      "posted": "2026-05-24T09:03:59+00:00"
+    },
+    {
       "title": "Data Annotator",
       "company": "CuraSenseAI",
       "location": "Remote",
@@ -377,23 +393,9 @@
       ],
       "salary": "",
       "posted": "2026-05-23T08:00:04+00:00"
-    },
-    {
-      "title": "Game Tester",
-      "company": "Crossing Hurdles",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-game-tester-crossing-hurdles-1131883",
-      "source": "RemoteOK",
-      "tags": [
-        "game",
-        "testing",
-        "quality assurance"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T07:03:06+00:00"
     }
   ],
-  "last_updated": "2026-05-25T08:49:10.434862",
+  "last_updated": "2026-05-25T12:14:42.101033",
   "total": 30,
-  "new": 0
+  "new": 1
 }

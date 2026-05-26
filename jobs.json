@@ -1,13 +1,6 @@
 {
   "jobs": [
     {
-      "title": "Lawnstarter Senior Webflow Designer 5",
-      "company": "LAWNSTARTER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/lawnstarter-senior-webflow-designer-5",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Speechify Inc Senior Software Engineer Web 1",
       "company": "SPEECHIFY INC",
       "location": "Remote",
@@ -26,6 +19,13 @@
       "company": "CENTRALREACH",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/centralreach-director-ai-product-development",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Workada Data Labeling Specialist Remote Contract Work 18 22 Per Hour",
+      "company": "WORKADA",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/workada-data-labeling-specialist-remote-contract-work-18-22-per-hour",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,57 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/walter-sales-appointment-setter",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Medical Assistant Patient Advocate",
+      "company": "Amaze Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-medical-assistant-patient-advocate-amaze-health-1132308",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "writer",
+        "copywriting",
+        "web dev",
+        "speech",
+        "seo",
+        "content writing",
+        "marketing",
+        "medical",
+        "ecommerce",
+        "digital nomad",
+        "virtual assistant",
+        "sys admin",
+        "technical",
+        "customer support",
+        "video",
+        "exec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-05-25T19:21:54+00:00"
+    },
+    {
+      "title": "Content Writer",
+      "company": "For Love &amp; Lemons",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-writer-for-love-amp-lemons-1132307",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "writer",
+        "copywriting",
+        "web dev",
+        "speech",
+        "seo",
+        "content writing",
+        "marketing",
+        "medical",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-25T18:06:09+00:00"
     },
     {
       "title": "Executive Assistant",
@@ -428,36 +479,9 @@
       ],
       "salary": "",
       "posted": "2026-05-25T05:04:36+00:00"
-    },
-    {
-      "title": "Investment Analyst",
-      "company": "Crossing Hurdles",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-investment-analyst-crossing-hurdles-1132200",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "finance",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-25T04:03:35+00:00"
-    },
-    {
-      "title": "Customer Support Specialist",
-      "company": "Crossing Hurdles",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-crossing-hurdles-1132199",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-25T02:03:44+00:00"
     }
   ],
-  "last_updated": "2026-05-26T18:37:20.867027",
+  "last_updated": "2026-05-26T20:34:41.799865",
   "total": 30,
-  "new": 7
+  "new": 3
 }

@@ -71,6 +71,27 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Videographer and Content Creator",
+      "company": "Lean Marketing",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-videographer-and-content-creator-lean-marketing-1132239",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "architecture",
+        "marketing",
+        "exec",
+        "travel",
+        "video",
+        "education",
+        "content writing",
+        "stats",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-05-25T00:00:00+00:00"
+    },
+    {
       "title": "Sensing",
       "company": "PT Indofood CBP Sukses Makmur Tbk - Noodle Division",
       "location": "Remote",
@@ -343,82 +364,59 @@
       "posted": "2026-05-23T15:07:26+00:00"
     },
     {
-      "title": "Word Document Specialist Fully",
-      "company": "Mercor",
+      "title": "Docentes de licenciatura online UANE",
+      "company": "Lottus Education",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-word-document-specialist-fully-mercor-1132066",
+      "url": "https://remoteOK.com/remote-jobs/remote-docentes-de-licenciatura-online-uane-lottus-education-1132155",
       "source": "RemoteOK",
       "tags": [
-        "microsoft",
-        "writer",
-        "content writing",
+        "education",
+        "teaching",
+        "instructor",
+        "non tech",
         "work from home",
         "telecommuting"
       ],
       "salary": "",
-      "posted": "2026-05-23T14:19:37+00:00"
+      "posted": "2026-05-23T13:00:19+00:00"
     },
     {
-      "title": "Research Analyst Upto $100 hr",
-      "company": "Mercor",
+      "title": "Assistente Administrativo Cobran\u00c3\u00a7a CLT",
+      "company": "Mell.ro",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-research-analyst-upto-100-hr-mercor-1132244",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-cobranca-clt-mell-ro-1132122",
       "source": "RemoteOK",
       "tags": [
-        "sys admin",
-        "architecture",
-        "marketing",
-        "exec",
-        "travel",
-        "video",
-        "education",
-        "content writing",
-        "stats",
-        "full time",
+        "admin",
+        "administrator",
+        "assistant",
+        "finance",
+        "financial",
+        "legal",
+        "support",
+        "accounting"
+      ],
+      "salary": "",
+      "posted": "2026-05-23T12:52:15+00:00"
+    },
+    {
+      "title": "Suporte Help Desk N1 CLT",
+      "company": "Mell.ro",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-suporte-help-desk-n1-clt-mell-ro-1132121",
+      "source": "RemoteOK",
+      "tags": [
         "customer support",
-        "copywriting",
-        "social media",
-        "analyst",
-        "technical",
-        "junior",
-        "hr"
+        "support",
+        "admin",
+        "data entry",
+        "excel"
       ],
       "salary": "",
-      "posted": "2026-05-23T14:18:50+00:00"
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Mercor",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-mercor-1132065",
-      "source": "RemoteOK",
-      "tags": [
-        "designer",
-        "design",
-        "microsoft"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T14:18:44+00:00"
-    },
-    {
-      "title": "Curriculum Developer",
-      "company": "Mercor",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-curriculum-developer-mercor-1132151",
-      "source": "RemoteOK",
-      "tags": [
-        "ai",
-        "education",
-        "mathematics",
-        "teaching",
-        "training",
-        "data annotation"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T14:18:37+00:00"
+      "posted": "2026-05-23T12:52:13+00:00"
     }
   ],
-  "last_updated": "2026-05-25T23:45:04.093048",
+  "last_updated": "2026-05-26T01:32:35.543899",
   "total": 30,
-  "new": 0
+  "new": 1
 }

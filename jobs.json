@@ -71,6 +71,46 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Administrative & Executive Support Professionals",
+      "company": "Crossing Hurdles",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-executive-support-professionals-crossing-hurdles-1132201",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-05-25T05:04:36+00:00"
+    },
+    {
+      "title": "Investment Analyst",
+      "company": "Crossing Hurdles",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-investment-analyst-crossing-hurdles-1132200",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "finance",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-25T04:03:35+00:00"
+    },
+    {
+      "title": "Customer Support Specialist",
+      "company": "Crossing Hurdles",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-crossing-hurdles-1132199",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-25T02:03:44+00:00"
+    },
+    {
       "title": "Videographer and Content Creator",
       "company": "Lean Marketing",
       "location": "Remote",
@@ -87,6 +127,21 @@
         "content writing",
         "stats",
         "full time"
+      ],
+      "salary": "",
+      "posted": "2026-05-25T00:00:00+00:00"
+    },
+    {
+      "title": "Atendimento ao Passageiro no Destino",
+      "company": "PANROTAS",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-atendimento-ao-passageiro-no-destino-panrotas-1132251",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "c",
+        "non tech",
+        "excel"
       ],
       "salary": "",
       "posted": "2026-05-25T00:00:00+00:00"
@@ -345,78 +400,9 @@
       ],
       "salary": "",
       "posted": "2026-05-23T17:37:30+00:00"
-    },
-    {
-      "title": "Generalist",
-      "company": "Crossing Hurdles",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-generalist-crossing-hurdles-1132000",
-      "source": "RemoteOK",
-      "tags": [
-        "admin",
-        "assistant",
-        "non tech",
-        "part time",
-        "virtual assistant",
-        "work from home"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T15:07:26+00:00"
-    },
-    {
-      "title": "Docentes de licenciatura online UANE",
-      "company": "Lottus Education",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-docentes-de-licenciatura-online-uane-lottus-education-1132155",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "teaching",
-        "instructor",
-        "non tech",
-        "work from home",
-        "telecommuting"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T13:00:19+00:00"
-    },
-    {
-      "title": "Assistente Administrativo Cobran\u00c3\u00a7a CLT",
-      "company": "Mell.ro",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-cobranca-clt-mell-ro-1132122",
-      "source": "RemoteOK",
-      "tags": [
-        "admin",
-        "administrator",
-        "assistant",
-        "finance",
-        "financial",
-        "legal",
-        "support",
-        "accounting"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T12:52:15+00:00"
-    },
-    {
-      "title": "Suporte Help Desk N1 CLT",
-      "company": "Mell.ro",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-suporte-help-desk-n1-clt-mell-ro-1132121",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "support",
-        "admin",
-        "data entry",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T12:52:13+00:00"
     }
   ],
-  "last_updated": "2026-05-26T01:32:35.543899",
+  "last_updated": "2026-05-26T05:47:50.856716",
   "total": 30,
-  "new": 1
+  "new": 4
 }

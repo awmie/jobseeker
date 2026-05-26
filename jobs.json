@@ -71,6 +71,116 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Range Operator",
+      "company": "Downer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-range-operator-downer-1132245",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "education",
+        "supervisor",
+        "customer support",
+        "travel",
+        "speech",
+        "exec",
+        "medical",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-05-25T07:01:30+00:00"
+    },
+    {
+      "title": "Entry Level Administrative Assistant",
+      "company": "RecruitLytics Hire",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytics-hire-1132215",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "technical",
+        "customer support",
+        "marketing",
+        "accounting",
+        "finance",
+        "education",
+        "exec",
+        "excel",
+        "legal",
+        "virtual assistant",
+        "video",
+        "microsoft",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-05-25T06:58:30+00:00"
+    },
+    {
+      "title": "Social Media Manager",
+      "company": "The Social Media Coach (SMC)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-the-social-media-coach-smc-1132240",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "architecture",
+        "marketing",
+        "exec",
+        "travel",
+        "video",
+        "education",
+        "content writing",
+        "stats",
+        "full time",
+        "customer support",
+        "copywriting",
+        "social media"
+      ],
+      "salary": "",
+      "posted": "2026-05-25T06:17:43+00:00"
+    },
+    {
+      "title": "Field Staff",
+      "company": "Rapido",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-staff-rapido-1132237",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-05-25T06:13:38+00:00"
+    },
+    {
+      "title": "Data Entry Specialist Assistant Administrator",
+      "company": "RecruitLytics Hire",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-recruitlytics-hire-1132217",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "technical",
+        "customer support",
+        "marketing",
+        "accounting",
+        "finance",
+        "education",
+        "exec",
+        "excel",
+        "legal",
+        "virtual assistant",
+        "video",
+        "microsoft",
+        "ops",
+        "saas",
+        "cloud",
+        "sales",
+        "recruiter",
+        "data entry",
+        "admin"
+      ],
+      "salary": "",
+      "posted": "2026-05-25T06:13:00+00:00"
+    },
+    {
       "title": "Administrative & Executive Support Professionals",
       "company": "Crossing Hurdles",
       "location": "Remote",
@@ -319,90 +429,9 @@
       ],
       "salary": "",
       "posted": "2026-05-24T00:02:36+00:00"
-    },
-    {
-      "title": "Investigative Journalist",
-      "company": "Crossing Hurdles",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-investigative-journalist-crossing-hurdles-1132064",
-      "source": "RemoteOK",
-      "tags": [
-        "writer",
-        "content writing",
-        "content",
-        "non tech",
-        "work from home",
-        "telecommuting"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T20:01:37+00:00"
-    },
-    {
-      "title": "Journalist",
-      "company": "Crossing Hurdles",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-journalist-crossing-hurdles-1132063",
-      "source": "RemoteOK",
-      "tags": [
-        "writer",
-        "content writing",
-        "content",
-        "non tech",
-        "telecommuting",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T19:04:44+00:00"
-    },
-    {
-      "title": "Maintenance",
-      "company": "Pacific Cyber Technology Pvt Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-pacific-cyber-technology-pvt-ltd-1132148",
-      "source": "RemoteOK",
-      "tags": [
-        "operations",
-        "mobile",
-        "hardware",
-        "manager",
-        "admin"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T18:47:36+00:00"
-    },
-    {
-      "title": "Junior Graphic Designer",
-      "company": "Twine",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-twine-1132062",
-      "source": "RemoteOK",
-      "tags": [
-        "junior",
-        "designer",
-        "design",
-        "game"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T18:03:56+00:00"
-    },
-    {
-      "title": "Employers",
-      "company": "TRS Resourcing",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-employers-trs-resourcing-1132103",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "support",
-        "operational",
-        "ops",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-23T17:37:30+00:00"
     }
   ],
-  "last_updated": "2026-05-26T05:47:50.856716",
+  "last_updated": "2026-05-26T08:58:15.895299",
   "total": 30,
-  "new": 4
+  "new": 5
 }

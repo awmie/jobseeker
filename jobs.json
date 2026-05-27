@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Toptal Marketing Data Scientist",
+      "company": "TOPTAL",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-marketing-data-scientist",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Lula Commerce Senior Financial Analyst",
+      "company": "LULA",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/lula-commerce-senior-financial-analyst",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Speechify Inc Senior Software Engineer Web 1",
       "company": "SPEECHIFY INC",
       "location": "Remote",
@@ -8,24 +22,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Spiralyze Project Manager",
-      "company": "SPIRALYZE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Centralreach Director Ai Product Development",
       "company": "CENTRALREACH",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/centralreach-director-ai-product-development",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Workada Data Labeling Specialist Remote Contract Work 18 22 Per Hour",
-      "company": "WORKADA",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/workada-data-labeling-specialist-remote-contract-work-18-22-per-hour",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,139 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/walter-sales-appointment-setter",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "MSL CART Andaluc\u00c3\u00ada Oriental",
+      "company": "Johnson &amp; Johnson",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-msl-cart-andalucia-oriental-johnson-amp-johnson-1132395",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "customer support",
+        "exec",
+        "video",
+        "content writing",
+        "senior",
+        "marketing",
+        "photoshop",
+        "illustrator",
+        "digital nomad",
+        "product designer",
+        "designer",
+        "education",
+        "stats",
+        "legal",
+        "sales",
+        "medical",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T15:52:57+00:00"
+    },
+    {
+      "title": "Bilingual Area Manager LA&amp;C",
+      "company": "Dairy Queen",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-bilingual-area-manager-laampc-dairy-queen-1132339",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "sys admin",
+        "education",
+        "consulting",
+        "customer support",
+        "marketing",
+        "travel",
+        "finance",
+        "c",
+        "microsoft",
+        "senior",
+        "ops",
+        "excel",
+        "sales",
+        "golang",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T15:40:51+00:00"
+    },
+    {
+      "title": "Chief Operating Officer",
+      "company": "Cyber Leadership Institute",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-cyber-leadership-institute-1132333",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "infosec",
+        "education",
+        "customer support",
+        "senior",
+        "medical",
+        "ops",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T15:07:53+00:00"
+    },
+    {
+      "title": "Pest Control Technician",
+      "company": "Rentokil Initial",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-pest-control-technician-rentokil-initial-1132347",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "microsoft",
+        "exec",
+        "ops",
+        "medical",
+        "c",
+        "math"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T15:06:49+00:00"
+    },
+    {
+      "title": "DOCENTE LIMPIEZA GESTI\u00c3\u0093N DE RESIDUOS Y MEDIOAMBIENTE",
+      "company": "Grupo Euroformac",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-docente-limpieza-gestion-de-residuos-y-medioambiente-grupo-euroformac-1132336",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "customer support",
+        "testing",
+        "video",
+        "education",
+        "exec",
+        "sales",
+        "medical",
+        "recruiter",
+        "saas",
+        "hr",
+        "technical",
+        "marketing",
+        "ops",
+        "web dev",
+        "finance",
+        "cloud",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T15:03:30+00:00"
+    },
+    {
+      "title": "Analista de Prospe\u00c3\u00a7\u00c3\u00a3o J\u00c3\u00banior Tempor\u00c3\u00a1rio",
+      "company": "ZENVIA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-prospecao-junior-temporario-zenvia-1132321",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-05-26T13:10:45+00:00"
     },
     {
       "title": "Chief Operating Officer",
@@ -252,6 +385,23 @@
       "posted": "2026-05-26T00:43:07+00:00"
     },
     {
+      "title": "Courier",
+      "company": "FedEx Australia",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-courier-fedex-australia-1132405",
+      "source": "RemoteOK",
+      "tags": [
+        "video",
+        "non tech",
+        "infosec",
+        "marketing",
+        "education",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T00:16:05+00:00"
+    },
+    {
       "title": "Independent PMHNP Premium Rates Telehealth",
       "company": "Seasoned Recruitment",
       "location": "Remote",
@@ -337,179 +487,9 @@
       ],
       "salary": "",
       "posted": "2026-05-26T00:00:00+00:00"
-    },
-    {
-      "title": "Maintenance",
-      "company": "Road Ranger",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-road-ranger-1132366",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "finance",
-        "content writing",
-        "medical",
-        "engineer",
-        "customer support",
-        "ops",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-05-26T00:00:00+00:00"
-    },
-    {
-      "title": "Entrenador a Deportivo",
-      "company": "Apprentus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entrenador-a-deportivo-apprentus-1132392",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "customer support",
-        "exec",
-        "video",
-        "content writing",
-        "senior",
-        "marketing",
-        "photoshop",
-        "illustrator",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-26T00:00:00+00:00"
-    },
-    {
-      "title": "Territory Sales Officer",
-      "company": "Unilever",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-territory-sales-officer-unilever-1132359",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "testing",
-        "marketing",
-        "exec",
-        "virtual assistant",
-        "finance",
-        "ads",
-        "content writing",
-        "stats",
-        "digital nomad",
-        "ops",
-        "sys admin",
-        "front end",
-        "backend",
-        "excel",
-        "sales",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-05-25T21:44:03+00:00"
-    },
-    {
-      "title": "Territory Sales Officer",
-      "company": "Unilever",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-territory-sales-officer-unilever-1132360",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "testing",
-        "marketing",
-        "exec",
-        "virtual assistant",
-        "finance",
-        "ads",
-        "content writing",
-        "stats",
-        "digital nomad",
-        "ops",
-        "sys admin",
-        "front end",
-        "backend",
-        "excel",
-        "sales",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-05-25T21:44:03+00:00"
-    },
-    {
-      "title": "Crew Member",
-      "company": "Chipotle Mexican Grill",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-crew-member-chipotle-mexican-grill-1132313",
-      "source": "RemoteOK",
-      "tags": [
-        "ops",
-        "hr",
-        "customer support",
-        "full time",
-        "part time",
-        "non tech",
-        "music",
-        "education",
-        "exec",
-        "marketing",
-        "sales",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-05-25T21:26:54+00:00"
-    },
-    {
-      "title": "Medical Assistant Patient Advocate",
-      "company": "Amaze Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-medical-assistant-patient-advocate-amaze-health-1132308",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "writer",
-        "copywriting",
-        "web dev",
-        "speech",
-        "seo",
-        "content writing",
-        "marketing",
-        "medical",
-        "ecommerce",
-        "digital nomad",
-        "virtual assistant",
-        "sys admin",
-        "technical",
-        "customer support",
-        "video",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-05-25T19:21:54+00:00"
-    },
-    {
-      "title": "Required Driver",
-      "company": "TestHiring",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-required-driver-testhiring-1132358",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "testing",
-        "marketing",
-        "exec",
-        "virtual assistant",
-        "finance",
-        "ads",
-        "content writing",
-        "stats",
-        "digital nomad",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-05-25T18:30:00+00:00"
     }
   ],
-  "last_updated": "2026-05-27T13:50:31.337672",
+  "last_updated": "2026-05-27T16:55:40.007590",
   "total": 30,
-  "new": 5
+  "new": 9
 }

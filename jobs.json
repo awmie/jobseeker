@@ -71,6 +71,66 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Assistente de Recursos Humanos Trabalho Remoto",
+      "company": "BairesDev",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistente-de-recursos-humanos-trabalho-remoto-bairesdev-1132401",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-05-26T18:39:09+00:00"
+    },
+    {
+      "title": "Audio Producer",
+      "company": "Positive Behavior Steps",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-audio-producer-positive-behavior-steps-1132364",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "music",
+        "technical",
+        "dev",
+        "content writing",
+        "marketing",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T18:20:32+00:00"
+    },
+    {
+      "title": "HEALTH &amp; SAFETY OFFICER",
+      "company": "Cemex",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-health-amp-safety-officer-cemex-1132346",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "microsoft",
+        "exec",
+        "ops",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T17:14:25+00:00"
+    },
+    {
+      "title": "Client Delivery Manager",
+      "company": "Storyteller",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-delivery-manager-storyteller-1132338",
+      "source": "RemoteOK",
+      "tags": [
+        "work from home",
+        "ai",
+        "saas",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T17:01:47+00:00"
+    },
+    {
       "title": "MSL CART Andaluc\u00c3\u00ada Oriental",
       "company": "Johnson &amp; Johnson",
       "location": "Remote",
@@ -400,96 +460,9 @@
       ],
       "salary": "",
       "posted": "2026-05-26T00:16:05+00:00"
-    },
-    {
-      "title": "Independent PMHNP Premium Rates Telehealth",
-      "company": "Seasoned Recruitment",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-independent-pmhnp-premium-rates-telehealth-seasoned-recruitment-1132248",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "finance",
-        "marketing",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-26T00:00:28+00:00"
-    },
-    {
-      "title": "Insurance Account Executive",
-      "company": "Roamly",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-insurance-account-executive-roamly-1132247",
-      "source": "RemoteOK",
-      "tags": [
-        "full stack",
-        "travel",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-05-26T00:00:06+00:00"
-    },
-    {
-      "title": "Maintenance",
-      "company": "Road Ranger",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-road-ranger-1132327",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "ops",
-        "medical",
-        "part time",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-26T00:00:00+00:00"
-    },
-    {
-      "title": "Customer Service Representative Cigna Healthcare",
-      "company": "Cigna Healthcare",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-cigna-healthcare-cigna-healthcare-1132353",
-      "source": "RemoteOK",
-      "tags": [
-        "embedded",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "coordinator",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "travel",
-        "speech",
-        "exec",
-        "payroll",
-        "video",
-        "cloud",
-        "microsoft",
-        "ops",
-        "excel",
-        "stats",
-        "medical",
-        "recruiter",
-        "full time",
-        "digital nomad",
-        "project manager",
-        "finance",
-        "junior",
-        "virtual assistant",
-        "senior",
-        "biotech"
-      ],
-      "salary": "",
-      "posted": "2026-05-26T00:00:00+00:00"
     }
   ],
-  "last_updated": "2026-05-27T16:55:40.007590",
+  "last_updated": "2026-05-27T19:23:53.279887",
   "total": 30,
-  "new": 9
+  "new": 4
 }

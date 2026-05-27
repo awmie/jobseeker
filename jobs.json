@@ -71,6 +71,45 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "\u00c2\u00bfQuer\u00c3\u00a9s sumarte a liderar cripto en LATAM Dejanos tu perfil \u00f0\u009f\u009a",
+      "company": "Ripio",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-05-26T20:19:22+00:00"
+    },
+    {
+      "title": "Assistant",
+      "company": "LBC Mortgage",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistant-lbc-mortgage-1132361",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "testing",
+        "marketing",
+        "exec",
+        "virtual assistant",
+        "finance",
+        "ads",
+        "content writing",
+        "stats",
+        "digital nomad",
+        "ops",
+        "sys admin",
+        "front end",
+        "backend",
+        "excel",
+        "sales",
+        "full time",
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T19:09:25+00:00"
+    },
+    {
       "title": "Assistente de Recursos Humanos Trabalho Remoto",
       "company": "BairesDev",
       "location": "Remote",
@@ -429,40 +468,9 @@
       ],
       "salary": "",
       "posted": "2026-05-26T00:51:01+00:00"
-    },
-    {
-      "title": "MEX Cajero Dual",
-      "company": "Universia M\u00c3\u00a9xico",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-mex-cajero-dual-universia-mexico-1132250",
-      "source": "RemoteOK",
-      "tags": [
-        "finance",
-        "c",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-26T00:43:07+00:00"
-    },
-    {
-      "title": "Courier",
-      "company": "FedEx Australia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-courier-fedex-australia-1132405",
-      "source": "RemoteOK",
-      "tags": [
-        "video",
-        "non tech",
-        "infosec",
-        "marketing",
-        "education",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-05-26T00:16:05+00:00"
     }
   ],
-  "last_updated": "2026-05-27T19:23:53.279887",
+  "last_updated": "2026-05-27T21:18:58.087134",
   "total": 30,
-  "new": 4
+  "new": 2
 }

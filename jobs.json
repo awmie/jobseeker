@@ -71,6 +71,16 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Editorial Research Journalist",
+      "company": "Crossing Hurdles",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-editorial-research-journalist-crossing-hurdles-1132314",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-05-26T09:03:32+00:00"
+    },
+    {
       "title": "Director Planning and Performance Reporting",
       "company": "Queensland Government",
       "location": "Remote",
@@ -208,6 +218,25 @@
         "virtual assistant",
         "senior",
         "biotech"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T00:00:00+00:00"
+    },
+    {
+      "title": "Maintenance",
+      "company": "Road Ranger",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-road-ranger-1132366",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "finance",
+        "content writing",
+        "medical",
+        "engineer",
+        "customer support",
+        "ops",
+        "part time"
       ],
       "salary": "",
       "posted": "2026-05-26T00:00:00+00:00"
@@ -430,49 +459,9 @@
       ],
       "salary": "",
       "posted": "2026-05-25T15:44:49+00:00"
-    },
-    {
-      "title": "Physiotherapist",
-      "company": "Sword Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-physiotherapist-sword-health-1132317",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "customer support",
-        "testing",
-        "video",
-        "education",
-        "exec",
-        "sales",
-        "medical",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-05-25T15:44:49+00:00"
-    },
-    {
-      "title": "Physiotherapist",
-      "company": "Sword Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-physiotherapist-sword-health-1132334",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "customer support",
-        "testing",
-        "video",
-        "education",
-        "exec",
-        "sales",
-        "medical",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-05-25T15:44:49+00:00"
     }
   ],
-  "last_updated": "2026-05-27T06:00:40.015558",
+  "last_updated": "2026-05-27T10:14:32.122450",
   "total": 30,
-  "new": 7
+  "new": 2
 }

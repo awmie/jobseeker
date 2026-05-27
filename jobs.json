@@ -71,6 +71,66 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "MEX Cajero Dual",
+      "company": "Universia M\u00c3\u00a9xico",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-mex-cajero-dual-universia-mexico-1132250",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "c",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T00:43:07+00:00"
+    },
+    {
+      "title": "Independent PMHNP Premium Rates Telehealth",
+      "company": "Seasoned Recruitment",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-independent-pmhnp-premium-rates-telehealth-seasoned-recruitment-1132248",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "finance",
+        "marketing",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T00:00:28+00:00"
+    },
+    {
+      "title": "Insurance Account Executive",
+      "company": "Roamly",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-insurance-account-executive-roamly-1132247",
+      "source": "RemoteOK",
+      "tags": [
+        "full stack",
+        "travel",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T00:00:06+00:00"
+    },
+    {
+      "title": "Maintenance",
+      "company": "Road Ranger",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-road-ranger-1132327",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "ops",
+        "medical",
+        "part time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T00:00:00+00:00"
+    },
+    {
       "title": "Crew Member",
       "company": "Chipotle Mexican Grill",
       "location": "Remote",
@@ -399,99 +459,9 @@
       ],
       "salary": "",
       "posted": "2026-05-25T07:01:30+00:00"
-    },
-    {
-      "title": "Entry Level Administrative Assistant",
-      "company": "RecruitLytics Hire",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytics-hire-1132215",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "technical",
-        "customer support",
-        "marketing",
-        "accounting",
-        "finance",
-        "education",
-        "exec",
-        "excel",
-        "legal",
-        "virtual assistant",
-        "video",
-        "microsoft",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-05-25T06:58:30+00:00"
-    },
-    {
-      "title": "Social Media Manager",
-      "company": "The Social Media Coach (SMC)",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-the-social-media-coach-smc-1132240",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "architecture",
-        "marketing",
-        "exec",
-        "travel",
-        "video",
-        "education",
-        "content writing",
-        "stats",
-        "full time",
-        "customer support",
-        "copywriting",
-        "social media"
-      ],
-      "salary": "",
-      "posted": "2026-05-25T06:17:43+00:00"
-    },
-    {
-      "title": "Field Staff",
-      "company": "Rapido",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-staff-rapido-1132237",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-25T06:13:38+00:00"
-    },
-    {
-      "title": "Data Entry Specialist Assistant Administrator",
-      "company": "RecruitLytics Hire",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-recruitlytics-hire-1132217",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "technical",
-        "customer support",
-        "marketing",
-        "accounting",
-        "finance",
-        "education",
-        "exec",
-        "excel",
-        "legal",
-        "virtual assistant",
-        "video",
-        "microsoft",
-        "ops",
-        "saas",
-        "cloud",
-        "sales",
-        "recruiter",
-        "data entry",
-        "admin"
-      ],
-      "salary": "",
-      "posted": "2026-05-25T06:13:00+00:00"
     }
   ],
-  "last_updated": "2026-05-26T23:36:02.679339",
+  "last_updated": "2026-05-27T01:36:34.568812",
   "total": 30,
-  "new": 0
+  "new": 4
 }

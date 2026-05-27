@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Advogado J\u00c3\u00banior Trabalhista",
+      "company": "Gasparini, Barbosa e Freire Advogados",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-advogado-junior-trabalhista-gasparini-barbosa-e-freire-advogados-1132370",
+      "source": "RemoteOK",
+      "tags": [
+        "excel",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-26T22:19:53+00:00"
+    },
+    {
       "title": "Community Associate",
       "company": "DraftKings Inc.",
       "location": "Remote",
@@ -486,50 +499,9 @@
       ],
       "salary": "",
       "posted": "2026-05-26T11:27:05+00:00"
-    },
-    {
-      "title": "Country Director",
-      "company": "Nothing",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-country-director-nothing-1132363",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "testing",
-        "marketing",
-        "exec",
-        "virtual assistant",
-        "finance",
-        "ads",
-        "content writing",
-        "stats",
-        "digital nomad",
-        "ops",
-        "sys admin",
-        "front end",
-        "backend",
-        "excel",
-        "sales",
-        "full time",
-        "customer support",
-        "hr",
-        "dev",
-        "web dev",
-        "speech",
-        "accounting",
-        "video",
-        "cloud",
-        "php",
-        "microsoft",
-        "medical",
-        "architecture",
-        "mobile"
-      ],
-      "salary": "",
-      "posted": "2026-05-26T11:10:14+00:00"
     }
   ],
-  "last_updated": "2026-05-27T22:53:27.709186",
+  "last_updated": "2026-05-27T23:56:17.016552",
   "total": 30,
-  "new": 4
+  "new": 1
 }

@@ -1,10 +1,10 @@
 {
   "jobs": [
     {
-      "title": "Ignition Inc Mac Msp Help Desk Guru Work From Home",
-      "company": "IGNITION INC",
+      "title": "Fiap Bdr Outbound Pre Vendas",
+      "company": "FIAP BDR",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/ignition-inc-mac-msp-help-desk-guru-work-from-home",
+      "url": "https://weworkremotely.com/remote-jobs/fiap-bdr-outbound-pre-vendas",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,83 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/walter-sales-appointment-setter",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Brand Operations Manager",
+      "company": "Set &amp; Stones",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-operations-manager-set-amp-stones-1132427",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "consulting",
+        "designer",
+        "customer support",
+        "marketing",
+        "ops",
+        "sales",
+        "backend",
+        "ecommerce",
+        "shopify",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-05-27T20:40:42+00:00"
+    },
+    {
+      "title": "Social Media Manager",
+      "company": "TRUFF",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-truff-1132428",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "consulting",
+        "designer",
+        "customer support",
+        "marketing",
+        "ops",
+        "sales",
+        "backend",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "speech",
+        "video",
+        "content writing",
+        "stats",
+        "golang",
+        "medical",
+        "social media"
+      ],
+      "salary": "",
+      "posted": "2026-05-27T19:38:43+00:00"
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Gamdom",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-gamdom-1132426",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "crypto",
+        "designer",
+        "customer support",
+        "marketing",
+        "web dev",
+        "video",
+        "finance",
+        "css",
+        "html",
+        "mobile",
+        "photoshop",
+        "ads",
+        "illustrator",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-27T19:22:35+00:00"
     },
     {
       "title": "Administrative Assistant \u00c2\u00a328 000 \u00c2\u00a332 000 + Training Provided",
@@ -464,65 +541,9 @@
       ],
       "salary": "",
       "posted": "2026-05-27T12:04:13+00:00"
-    },
-    {
-      "title": "Customer Support Specialist",
-      "company": "Crossing Hurdles",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-crossing-hurdles-1132391",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "customer support",
-        "exec",
-        "video",
-        "content writing",
-        "senior",
-        "marketing",
-        "photoshop",
-        "illustrator",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-27T12:02:13+00:00"
-    },
-    {
-      "title": "Expressions of Interest",
-      "company": "Fraser Coast Regional Council",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-expressions-of-interest-fraser-coast-regional-council-1132404",
-      "source": "RemoteOK",
-      "tags": [
-        "video",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-27T10:14:40+00:00"
-    },
-    {
-      "title": "Data Entry Analyst",
-      "company": "Xanitos, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-analyst-xanitos-inc-1132396",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "analyst",
-        "sys admin",
-        "technical",
-        "customer support",
-        "exec",
-        "education",
-        "ops",
-        "excel",
-        "medical",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-05-27T09:25:10+00:00"
     }
   ],
-  "last_updated": "2026-05-28T20:10:36.039154",
+  "last_updated": "2026-05-28T22:06:36.805638",
   "total": 30,
-  "new": 3
+  "new": 4
 }

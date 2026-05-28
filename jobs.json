@@ -71,6 +71,54 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "PJ Social Media Remoto Sou Pagu Brasil",
+      "company": "Portal Vagas Terceiro Setor",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-pj-social-media-remoto-sou-pagu-brasil-portal-vagas-terceiro-setor-1132440",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "social media",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-27T22:10:27+00:00"
+    },
+    {
+      "title": "Scrum Master",
+      "company": "Ringside Talent",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-scrum-master-ringside-talent-1132429",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "consulting",
+        "designer",
+        "customer support",
+        "marketing",
+        "ops",
+        "sales",
+        "backend",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "speech",
+        "video",
+        "content writing",
+        "stats",
+        "golang",
+        "medical",
+        "social media",
+        "scrum",
+        "jira",
+        "dev",
+        "devops",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-27T21:48:23+00:00"
+    },
+    {
       "title": "Brand Operations Manager",
       "company": "Set &amp; Stones",
       "location": "Remote",
@@ -493,57 +541,9 @@
       ],
       "salary": "",
       "posted": "2026-05-27T13:07:48+00:00"
-    },
-    {
-      "title": "Social Media &amp; Content Executive",
-      "company": "Grecotel Hotels &amp; Resorts",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-amp-content-executive-grecotel-hotels-amp-resorts-1132415",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "customer support",
-        "copywriting",
-        "marketing",
-        "speech",
-        "video",
-        "seo",
-        "mobile",
-        "exec",
-        "content writing",
-        "stats",
-        "social media",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-27T12:29:01+00:00"
-    },
-    {
-      "title": "Product Designer",
-      "company": "DesignMeshAI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-designmeshai-1132393",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "customer support",
-        "exec",
-        "video",
-        "content writing",
-        "senior",
-        "marketing",
-        "photoshop",
-        "illustrator",
-        "digital nomad",
-        "product designer",
-        "designer"
-      ],
-      "salary": "",
-      "posted": "2026-05-27T12:04:13+00:00"
     }
   ],
-  "last_updated": "2026-05-28T22:06:36.805638",
+  "last_updated": "2026-05-28T23:41:23.838038",
   "total": 30,
-  "new": 4
+  "new": 2
 }

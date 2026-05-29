@@ -71,6 +71,38 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Private Equity Associate",
+      "company": "Madison Hunt",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-private-equity-associate-madison-hunt-1132501",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "consulting",
+        "marketing",
+        "travel",
+        "c",
+        "senior",
+        "ops",
+        "legal",
+        "design",
+        "hr",
+        "customer support",
+        "education",
+        "sales",
+        "golang",
+        "medical",
+        "digital nomad",
+        "sys admin",
+        "video",
+        "microsoft",
+        "excel",
+        "finance"
+      ],
+      "salary": "",
+      "posted": "2026-05-28T21:25:41+00:00"
+    },
+    {
       "title": "Data Entry Associate",
       "company": "Verse Medical",
       "location": "Remote",
@@ -589,30 +621,9 @@
       ],
       "salary": "",
       "posted": "2026-05-28T16:00:35+00:00"
-    },
-    {
-      "title": "Bluelight Consulting Fullstack PHP developer . Latin America",
-      "company": "Bluelight Consulting",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-bluelight-consulting-fullstack-php-developer-latin-america-bluelight-consulting-1132450",
-      "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "dev",
-        "wordpress",
-        "technical",
-        "php",
-        "exec",
-        "content writing",
-        "ecommerce",
-        "full stack",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-28T16:00:15+00:00"
     }
   ],
-  "last_updated": "2026-05-29T21:17:05.537743",
+  "last_updated": "2026-05-29T22:44:36.092659",
   "total": 30,
-  "new": 6
+  "new": 1
 }

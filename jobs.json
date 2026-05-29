@@ -71,6 +71,76 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "MEX Cajero Dual",
+      "company": "Universia M\u00c3\u00a9xico",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-mex-cajero-dual-universia-mexico-1132438",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-05-28T00:43:04+00:00"
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Zirtual",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-zirtual-1132431",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "salesforce",
+        "infosec",
+        "technical",
+        "supervisor",
+        "customer support",
+        "travel",
+        "finance",
+        "microsoft",
+        "exec",
+        "ops",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-05-28T00:03:24+00:00"
+    },
+    {
+      "title": "Customer Support Specialist",
+      "company": "JAM+",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-jam-1132430",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "marketing",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-05-28T00:01:44+00:00"
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Zirtual",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-zirtual-1132432",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "salesforce",
+        "infosec",
+        "technical",
+        "supervisor",
+        "customer support",
+        "travel",
+        "finance",
+        "microsoft",
+        "exec",
+        "ops",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-05-27T23:53:13+00:00"
+    },
+    {
       "title": "PJ Social Media Remoto Sou Pagu Brasil",
       "company": "Portal Vagas Terceiro Setor",
       "location": "Remote",
@@ -457,93 +527,9 @@
       ],
       "salary": "",
       "posted": "2026-05-27T14:27:33+00:00"
-    },
-    {
-      "title": "Customer Support Advocate",
-      "company": "Taskrabbit",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-advocate-taskrabbit-1132410",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "ops",
-        "ecommerce",
-        "shopify",
-        "customer support",
-        "recruiter",
-        "video",
-        "education",
-        "assembly",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-05-27T14:02:11+00:00"
-    },
-    {
-      "title": "Customer Support Advocate",
-      "company": "Taskrabbit",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-advocate-taskrabbit-1132411",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "ops",
-        "ecommerce",
-        "shopify",
-        "customer support",
-        "recruiter",
-        "video",
-        "education",
-        "assembly",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-05-27T14:02:11+00:00"
-    },
-    {
-      "title": "Academic Counselor",
-      "company": "Vedantu",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-academic-counselor-vedantu-1132444",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "front end",
-        "backend",
-        "exec",
-        "excel",
-        "sales",
-        "full time",
-        "teaching",
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-05-27T13:20:52+00:00"
-    },
-    {
-      "title": "Warehouse Operations Manager",
-      "company": "Crossing Hurdles",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-warehouse-operations-manager-crossing-hurdles-1132397",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "analyst",
-        "sys admin",
-        "technical",
-        "customer support",
-        "exec",
-        "education",
-        "ops",
-        "excel",
-        "medical",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-05-27T13:07:48+00:00"
     }
   ],
-  "last_updated": "2026-05-28T23:41:23.838038",
+  "last_updated": "2026-05-29T01:34:33.320195",
   "total": 30,
-  "new": 2
+  "new": 4
 }

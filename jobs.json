@@ -71,6 +71,54 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Social Media Executive",
+      "company": "Brand Hackers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-executive-brand-hackers-1132567",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "copywriting",
+        "marketing",
+        "video",
+        "finance",
+        "content writing",
+        "social media"
+      ],
+      "salary": "",
+      "posted": "2026-05-29T15:21:07+00:00"
+    },
+    {
+      "title": "Project Analyst",
+      "company": "Moonshot",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-analyst-moonshot-1132522",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "customer support",
+        "education",
+        "c",
+        "exec",
+        "legal",
+        "recruiter",
+        "analyst",
+        "design",
+        "infosec",
+        "dev",
+        "travel",
+        "finance",
+        "video",
+        "senior",
+        "ops",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-29T14:20:59+00:00"
+    },
+    {
       "title": "Assistente de Recursos Humanos Trabalho Remoto",
       "company": "BairesDev",
       "location": "Remote",
@@ -386,31 +434,9 @@
       ],
       "salary": "",
       "posted": "2026-05-29T04:55:24+00:00"
-    },
-    {
-      "title": "Analista Junior de Recursos Humanos Trabalho Remoto",
-      "company": "BairesDev",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-junior-de-recursos-humanos-trabalho-remoto-bairesdev-1132497",
-      "source": "RemoteOK",
-      "tags": [
-        "junior"
-      ],
-      "salary": "",
-      "posted": "2026-05-29T04:14:22+00:00"
-    },
-    {
-      "title": "Expressions of Interest",
-      "company": "Humans of Agriculture",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-expressions-of-interest-humans-of-agriculture-1132548",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-29T02:09:42+00:00"
     }
   ],
-  "last_updated": "2026-05-30T15:10:48.884633",
+  "last_updated": "2026-05-30T16:16:06.358356",
   "total": 30,
   "new": 2
 }

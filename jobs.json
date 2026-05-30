@@ -71,6 +71,22 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "General Production",
+      "company": "Dana Incorporated",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-production-dana-incorporated-1132546",
+      "source": "RemoteOK",
+      "tags": [
+        "coordinator",
+        "recruiter",
+        "non tech",
+        "education",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-05-29T19:49:07+00:00"
+    },
+    {
       "title": "Title Assistant",
       "company": "ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC",
       "location": "Remote",
@@ -475,32 +491,9 @@
       ],
       "salary": "",
       "posted": "2026-05-29T08:00:12+00:00"
-    },
-    {
-      "title": "Civil Service Secretary Chief Examiner",
-      "company": "City of Pullman",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-civil-service-secretary-chief-examiner-city-of-pullman-1132560",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "consulting",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "payroll",
-        "exec",
-        "biotech",
-        "medical",
-        "sys admin",
-        "php",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-05-29T07:53:20+00:00"
     }
   ],
-  "last_updated": "2026-05-30T19:55:54.805494",
+  "last_updated": "2026-05-30T20:57:12.704730",
   "total": 30,
-  "new": 2
+  "new": 1
 }

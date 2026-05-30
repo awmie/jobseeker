@@ -71,6 +71,31 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Designer",
+      "company": "Thorne",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-thorne-1132610",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "designer",
+        "technical",
+        "customer support",
+        "marketing",
+        "web dev",
+        "video",
+        "cloud",
+        "exec",
+        "photoshop",
+        "medical",
+        "illustrator",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-29T21:23:42+00:00"
+    },
+    {
       "title": "General Production",
       "company": "Dana Incorporated",
       "location": "Remote",
@@ -477,23 +502,9 @@
       ],
       "salary": "",
       "posted": "2026-05-29T08:52:11+00:00"
-    },
-    {
-      "title": "Senior Backend Engineer",
-      "company": "Gameplay Galaxy",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-gameplay-galaxy-1132512",
-      "source": "RemoteOK",
-      "tags": [
-        "backend",
-        "senior",
-        "ai"
-      ],
-      "salary": "",
-      "posted": "2026-05-29T08:00:12+00:00"
     }
   ],
-  "last_updated": "2026-05-30T22:03:30.755436",
+  "last_updated": "2026-05-30T23:11:01.907898",
   "total": 30,
-  "new": 0
+  "new": 1
 }

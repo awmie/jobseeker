@@ -71,6 +71,30 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Assistente de Recursos Humanos Trabalho Remoto",
+      "company": "BairesDev",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistente-de-recursos-humanos-trabalho-remoto-bairesdev-1132519",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-05-29T14:09:53+00:00"
+    },
+    {
+      "title": "Communications Officer",
+      "company": "International Society of Antimicrobial Chemotherapy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-communications-officer-international-society-of-antimicrobial-chemotherapy-1132518",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "communications",
+        "web design"
+      ],
+      "salary": "",
+      "posted": "2026-05-29T13:20:15+00:00"
+    },
+    {
       "title": "Profesor Particular de Lengua y Literatura",
       "company": "TUS Media",
       "location": "Remote",
@@ -384,68 +408,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-05-29T02:09:42+00:00"
-    },
-    {
-      "title": "Real Estate Virtual Assistant",
-      "company": "RemoteVA",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-real-estate-virtual-assistant-remoteva-1132486",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "sys admin",
-        "dev",
-        "finance",
-        "c",
-        "exec",
-        "golang",
-        "medical",
-        "recruiter",
-        "digital nomad",
-        "front end",
-        "backend",
-        "excel",
-        "sales",
-        "full time",
-        "analyst",
-        "data science",
-        "virtual assistant",
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-05-29T02:08:46+00:00"
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Crossing Hurdles",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-crossing-hurdles-1132485",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "sys admin",
-        "dev",
-        "finance",
-        "c",
-        "exec",
-        "golang",
-        "medical",
-        "recruiter",
-        "digital nomad",
-        "front end",
-        "backend",
-        "excel",
-        "sales",
-        "full time",
-        "analyst",
-        "data science",
-        "virtual assistant"
-      ],
-      "salary": "",
-      "posted": "2026-05-29T02:07:34+00:00"
     }
   ],
-  "last_updated": "2026-05-30T13:57:03.874137",
+  "last_updated": "2026-05-30T15:10:48.884633",
   "total": 30,
-  "new": 0
+  "new": 2
 }

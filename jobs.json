@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Executive Assistant",
+      "company": "Experian",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-experian-1132592",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T12:01:49+00:00"
+    },
+    {
       "title": "Technical support",
       "company": "LitePOS",
       "location": "Remote",
@@ -436,19 +449,9 @@
       ],
       "salary": "",
       "posted": "2026-05-30T00:45:19+00:00"
-    },
-    {
-      "title": "English Language Specialist",
-      "company": "Crossing Hurdles",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-english-language-specialist-crossing-hurdles-1132558",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-30T00:04:52+00:00"
     }
   ],
-  "last_updated": "2026-05-31T11:55:45.172320",
+  "last_updated": "2026-05-31T13:43:34.894713",
   "total": 30,
-  "new": 0
+  "new": 1
 }

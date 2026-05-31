@@ -71,6 +71,48 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Cleaner",
+      "company": "Booker",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-cleaner-booker-1132626",
+      "source": "RemoteOK",
+      "tags": [
+        "c",
+        "customer support",
+        "testing",
+        "finance",
+        "scheme",
+        "mobile",
+        "exec",
+        "golang",
+        "medical",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T18:00:56+00:00"
+    },
+    {
+      "title": "Human Resources Coordinator",
+      "company": "Peace Through Trade (PTT Coin) | Layer-1 PoW Blockchain",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-peace-through-trade-ptt-coin-layer-1-pow-blockchain-1132615",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "payroll",
+        "ops",
+        "golang",
+        "recruiter",
+        "full time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T17:38:19+00:00"
+    },
+    {
       "title": "HOH TEAM MEMBER",
       "company": "Buffalo Wild Wings - Fralich, Inc.",
       "location": "Remote",
@@ -368,67 +410,9 @@
       ],
       "salary": "",
       "posted": "2026-05-30T00:49:38+00:00"
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Rithum",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-rithum-1132586",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "speech",
-        "digital nomad",
-        "virtual assistant",
-        "saas",
-        "customer support",
-        "marketing",
-        "travel",
-        "education",
-        "microsoft",
-        "exec",
-        "senior",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "engineer",
-        "ecommerce"
-      ],
-      "salary": "",
-      "posted": "2026-05-30T00:45:19+00:00"
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Rithum",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-rithum-1132587",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "speech",
-        "digital nomad",
-        "virtual assistant",
-        "saas",
-        "customer support",
-        "marketing",
-        "travel",
-        "education",
-        "microsoft",
-        "exec",
-        "senior",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "engineer",
-        "ecommerce"
-      ],
-      "salary": "",
-      "posted": "2026-05-30T00:45:19+00:00"
     }
   ],
-  "last_updated": "2026-05-31T17:34:06.710524",
+  "last_updated": "2026-05-31T18:48:13.856872",
   "total": 30,
-  "new": 0
+  "new": 2
 }

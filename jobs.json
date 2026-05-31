@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Clerky Customer Operations Writing Specialist 1",
+      "company": "CLERKY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/clerky-customer-operations-writing-specialist-1",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Cubos Tecnologia Banco De Talentos Pessoa Desenvolvedora Frontend Pleno",
       "company": "CUBOS",
       "location": "Remote",
@@ -26,13 +33,6 @@
       "company": "SPEECHIFY INC",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Nogigiddy Entry Level Account Manager 4",
-      "company": "NOGIGIDDY",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/nogigiddy-entry-level-account-manager-4",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,57 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/walter-sales-appointment-setter",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "EJECUTIVA DE VENTAS REMOTO",
+      "company": "Universia Per\u00c3\u00ba",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ejecutiva-de-ventas-remoto-universia-peru-1132623",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T07:18:46+00:00"
+    },
+    {
+      "title": "Entry Level Administrative Assistant",
+      "company": "RecruitLytic HR",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytic-hr-1132580",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "dev",
+        "microsoft",
+        "exec",
+        "excel",
+        "digital nomad",
+        "hr",
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T05:55:40+00:00"
+    },
+    {
+      "title": "Virtual Receptionist VA Fast Hiring 24 Hour Review",
+      "company": "OnlineJobs.PH",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-receptionist-va-fast-hiring-24-hour-review-onlinejobs-ph-1132585",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "speech",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T04:51:18+00:00"
     },
     {
       "title": "Executive Assistant the CMO",
@@ -427,80 +478,9 @@
       ],
       "salary": "",
       "posted": "2026-05-29T23:59:57+00:00"
-    },
-    {
-      "title": "Designer",
-      "company": "Thorne",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-thorne-1132610",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "designer",
-        "technical",
-        "customer support",
-        "marketing",
-        "web dev",
-        "video",
-        "cloud",
-        "exec",
-        "photoshop",
-        "medical",
-        "illustrator",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-29T21:23:42+00:00"
-    },
-    {
-      "title": "General Production",
-      "company": "Dana Incorporated",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-production-dana-incorporated-1132546",
-      "source": "RemoteOK",
-      "tags": [
-        "coordinator",
-        "recruiter",
-        "non tech",
-        "education",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-05-29T19:49:07+00:00"
-    },
-    {
-      "title": "Title Assistant",
-      "company": "ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-title-assistant-forfutures-financial-planning-a-financial-advisory-practice-of-ameriprise-financial-services-llc-1132588",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "speech",
-        "digital nomad",
-        "virtual assistant",
-        "saas",
-        "customer support",
-        "marketing",
-        "travel",
-        "education",
-        "microsoft",
-        "exec",
-        "senior",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "engineer",
-        "ecommerce",
-        "finance"
-      ],
-      "salary": "",
-      "posted": "2026-05-29T19:31:52+00:00"
     }
   ],
-  "last_updated": "2026-05-31T04:53:57.828228",
+  "last_updated": "2026-05-31T08:11:09.709139",
   "total": 30,
-  "new": 13
+  "new": 3
 }

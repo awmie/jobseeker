@@ -71,6 +71,57 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Technical support",
+      "company": "LitePOS",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-support-litepos-1132578",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "ops",
+        "medical",
+        "engineer",
+        "recruiter",
+        "technical"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T08:26:26+00:00"
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Crossing Hurdles",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-crossing-hurdles-1132575",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "excel",
+        "full time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T08:04:15+00:00"
+    },
+    {
+      "title": "Entry Level Junior Trader",
+      "company": "Infiniti Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-junior-trader-infiniti-group-1132574",
+      "source": "RemoteOK",
+      "tags": [
+        "other",
+        "finance",
+        "analyst"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T07:50:13+00:00"
+    },
+    {
       "title": "EJECUTIVA DE VENTAS REMOTO",
       "company": "Universia Per\u00c3\u00ba",
       "location": "Remote",
@@ -395,92 +446,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-05-30T00:04:52+00:00"
-    },
-    {
-      "title": "Freelance Solutions Architect Braze &amp; Iterable Experience",
-      "company": "APPLY",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-solutions-architect-braze-amp-iterable-experience-apply-1132557",
-      "source": "RemoteOK",
-      "tags": [
-        "architecture",
-        "design",
-        "education",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "javascript",
-        "serverless",
-        "cloud",
-        "css",
-        "html",
-        "mobile",
-        "exec",
-        "stats",
-        "heroku",
-        "medical",
-        "recruiter",
-        "shopify",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-30T00:00:09+00:00"
-    },
-    {
-      "title": "Public Sector Account Director",
-      "company": "Handshake",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-public-sector-account-director-handshake-1132556",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "saas",
-        "salesforce",
-        "hr",
-        "customer support",
-        "marketing",
-        "finance",
-        "senior",
-        "sales",
-        "golang",
-        "medical",
-        "education",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-05-30T00:00:03+00:00"
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Rexi Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-rexi-group-1132611",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "designer",
-        "technical",
-        "customer support",
-        "marketing",
-        "web dev",
-        "video",
-        "cloud",
-        "exec",
-        "photoshop",
-        "medical",
-        "illustrator",
-        "digital nomad",
-        "virtual assistant",
-        "ops",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-05-29T23:59:57+00:00"
     }
   ],
-  "last_updated": "2026-05-31T08:11:09.709139",
+  "last_updated": "2026-05-31T10:24:34.199255",
   "total": 30,
   "new": 3
 }

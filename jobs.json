@@ -71,6 +71,32 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Social Media Moderator",
+      "company": "RemoteVA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-moderator-remoteva-1132614",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "social media",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T21:06:57+00:00"
+    },
+    {
+      "title": "Customer Service Assistant",
+      "company": "RemoteVA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-assistant-remoteva-1132613",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T21:01:37+00:00"
+    },
+    {
       "title": "Cleaner",
       "company": "Booker",
       "location": "Remote",
@@ -111,6 +137,28 @@
       ],
       "salary": "",
       "posted": "2026-05-30T17:38:19+00:00"
+    },
+    {
+      "title": "Senior Assistant ARFF",
+      "company": "Adani Ports and SEZ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-assistant-arff-adani-ports-and-sez-1132650",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "infosec",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "senior",
+        "ops",
+        "medical",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T16:07:30+00:00"
     },
     {
       "title": "HOH TEAM MEMBER",
@@ -348,71 +396,9 @@
       ],
       "salary": "",
       "posted": "2026-05-30T00:49:49+00:00"
-    },
-    {
-      "title": "Data Entry JO",
-      "company": "Core Code io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-jo-core-code-io-1132584",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "dev",
-        "microsoft",
-        "exec",
-        "excel",
-        "digital nomad",
-        "hr",
-        "virtual assistant",
-        "education",
-        "customer support",
-        "marketing",
-        "video",
-        "ops",
-        "analyst",
-        "speech",
-        "content writing",
-        "social media"
-      ],
-      "salary": "",
-      "posted": "2026-05-30T00:49:49+00:00"
-    },
-    {
-      "title": "Bookkeeper LB",
-      "company": "Core Code io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-bookkeeper-lb-core-code-io-1132612",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "accounting",
-        "payroll",
-        "finance",
-        "exec",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-30T00:49:46+00:00"
-    },
-    {
-      "title": "Data Entry PH",
-      "company": "Core Code io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-ph-core-code-io-1132579",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "dev",
-        "microsoft",
-        "exec",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-30T00:49:38+00:00"
     }
   ],
-  "last_updated": "2026-05-31T21:05:45.620479",
+  "last_updated": "2026-05-31T22:11:23.512336",
   "total": 30,
-  "new": 0
+  "new": 3
 }

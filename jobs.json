@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Walter Sales Appointment Setter",
+      "company": "WALTER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/walter-sales-appointment-setter",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Clerky Customer Operations Writing Specialist 1",
       "company": "CLERKY",
       "location": "Remote",
@@ -64,11 +71,41 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Walter Sales Appointment Setter",
-      "company": "WALTER",
+      "title": "HOH TEAM MEMBER",
+      "company": "Buffalo Wild Wings - Fralich, Inc.",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/walter-sales-appointment-setter",
-      "source": "WeWorkRemotely"
+      "url": "https://remoteOK.com/remote-jobs/remote-hoh-team-member-buffalo-wild-wings-fralich-inc-1132617",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-05-30T16:04:50+00:00"
+    },
+    {
+      "title": "Video Editor",
+      "company": "Bored Panda",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-video-editor-bored-panda-1132594",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "infosec",
+        "designer",
+        "customer support",
+        "marketing",
+        "web dev",
+        "finance",
+        "video",
+        "css",
+        "html",
+        "content writing",
+        "photoshop",
+        "legal",
+        "ads",
+        "illustrator",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T14:07:40+00:00"
     },
     {
       "title": "Executive Assistant",
@@ -389,69 +426,9 @@
       ],
       "salary": "",
       "posted": "2026-05-30T00:45:19+00:00"
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Rithum",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-rithum-1132589",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "speech",
-        "digital nomad",
-        "virtual assistant",
-        "saas",
-        "customer support",
-        "marketing",
-        "travel",
-        "education",
-        "microsoft",
-        "exec",
-        "senior",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "engineer",
-        "ecommerce",
-        "finance"
-      ],
-      "salary": "",
-      "posted": "2026-05-30T00:45:19+00:00"
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Rithum",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-rithum-1132590",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "speech",
-        "digital nomad",
-        "virtual assistant",
-        "saas",
-        "customer support",
-        "marketing",
-        "travel",
-        "education",
-        "microsoft",
-        "exec",
-        "senior",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "engineer",
-        "ecommerce",
-        "finance"
-      ],
-      "salary": "",
-      "posted": "2026-05-30T00:45:19+00:00"
     }
   ],
-  "last_updated": "2026-05-31T15:05:36.098429",
+  "last_updated": "2026-05-31T16:21:12.055246",
   "total": 30,
-  "new": 0
+  "new": 2
 }

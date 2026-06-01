@@ -71,6 +71,47 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Ejecutivo de Partners y Franquicias",
+      "company": "ZENVIA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ejecutivo-de-partners-y-franquicias-zenvia-1132624",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-05-31T04:06:23+00:00"
+    },
+    {
+      "title": "Equity Partner",
+      "company": "Onside Capital",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-equity-partner-onside-capital-1132630",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "content writing",
+        "finance",
+        "exec",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-05-31T03:08:24+00:00"
+    },
+    {
+      "title": "Skilled Baker",
+      "company": "British Baker",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-skilled-baker-british-baker-1132625",
+      "source": "RemoteOK",
+      "tags": [
+        "c"
+      ],
+      "salary": "",
+      "posted": "2026-05-31T02:53:04+00:00"
+    },
+    {
       "title": "Vice President Sales &amp; Business Development",
       "company": "Zeta",
       "location": "Remote",
@@ -98,6 +139,18 @@
       "source": "RemoteOK",
       "tags": [
         "sys admin",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T23:47:06+00:00"
+    },
+    {
+      "title": "Content Tagger",
+      "company": "RG&amp;T Solutions",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-tagger-rgampt-solutions-1132658",
+      "source": "RemoteOK",
+      "tags": [
         "content writing"
       ],
       "salary": "",
@@ -350,49 +403,9 @@
       ],
       "salary": "",
       "posted": "2026-05-30T04:07:34+00:00"
-    },
-    {
-      "title": "Est\u00c3\u00a1gio Em Recrutamento E Sele\u00c3\u00a7\u00c3\u00a3o Remoto",
-      "company": "Empresa Confidencial",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-estagio-em-recrutamento-e-selecao-remoto-empresa-confidencial-1132564",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-30T03:07:59+00:00"
-    },
-    {
-      "title": "Recepcionista",
-      "company": "BairesDev",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-recepcionista-bairesdev-1132562",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-30T03:04:26+00:00"
-    },
-    {
-      "title": "Est\u00c3\u00a1gio em Desenvolvimento Remoto",
-      "company": "Atl\u00c3\u00a2ntico",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-estagio-em-desenvolvimento-remoto-atlantico-1132561",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-30T03:02:00+00:00"
-    },
-    {
-      "title": "Ejecutivo comercial Industria de alimentos",
-      "company": "Universia Per\u00c3\u00ba",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ejecutivo-comercial-industria-de-alimentos-universia-peru-1132563",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-30T01:18:47+00:00"
     }
   ],
-  "last_updated": "2026-06-01T01:35:56.514263",
+  "last_updated": "2026-06-01T06:31:35.122824",
   "total": 30,
-  "new": 2
+  "new": 4
 }

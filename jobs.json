@@ -71,6 +71,39 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Vice President Sales &amp; Business Development",
+      "company": "Zeta",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-sales-amp-business-development-zeta-1132616",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "finance",
+        "cloud",
+        "api",
+        "exec",
+        "senior",
+        "bus dev",
+        "sales",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-05-31T00:00:03+00:00"
+    },
+    {
+      "title": "Content Tagger",
+      "company": "RG&amp;T Solutions",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-tagger-rgampt-solutions-1132629",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-05-30T23:47:06+00:00"
+    },
+    {
       "title": "Social Media Moderator",
       "company": "RemoteVA",
       "location": "Remote",
@@ -233,21 +266,6 @@
       "posted": "2026-05-30T08:26:26+00:00"
     },
     {
-      "title": "Business Analyst",
-      "company": "Crossing Hurdles",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-crossing-hurdles-1132575",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "excel",
-        "full time",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-30T08:04:15+00:00"
-    },
-    {
       "title": "Entry Level Junior Trader",
       "company": "Infiniti Group",
       "location": "Remote",
@@ -372,33 +390,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-05-30T01:18:47+00:00"
-    },
-    {
-      "title": "Virtual Assistant PH",
-      "company": "Core Code io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-ph-core-code-io-1132581",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "dev",
-        "microsoft",
-        "exec",
-        "excel",
-        "digital nomad",
-        "hr",
-        "virtual assistant",
-        "education",
-        "customer support",
-        "marketing",
-        "video",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-05-30T00:49:49+00:00"
     }
   ],
-  "last_updated": "2026-05-31T23:17:44.536883",
+  "last_updated": "2026-06-01T01:35:56.514263",
   "total": 30,
-  "new": 0
+  "new": 2
 }

@@ -71,6 +71,132 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Test Job",
+      "company": "Haufe Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-job-haufe-group-1132690",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T22:39:35+00:00"
+    },
+    {
+      "title": "Vice President People Operations",
+      "company": "KIPP Foundation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-people-operations-kipp-foundation-1132682",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "teaching",
+        "marketing",
+        "education",
+        "senior",
+        "excel",
+        "sales",
+        "golang",
+        "design",
+        "embedded",
+        "hr",
+        "sys admin",
+        "infosec",
+        "customer support",
+        "testing",
+        "travel",
+        "finance",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T22:29:40+00:00"
+    },
+    {
+      "title": "Key Account Manager",
+      "company": "Loca Loka Tequila",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-key-account-manager-loca-loka-tequila-1132683",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "teaching",
+        "marketing",
+        "education",
+        "senior",
+        "excel",
+        "sales",
+        "golang",
+        "design",
+        "embedded",
+        "hr",
+        "sys admin",
+        "infosec",
+        "customer support",
+        "testing",
+        "travel",
+        "finance",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T22:06:30+00:00"
+    },
+    {
+      "title": "SU Admin Assistant",
+      "company": "Somewhere",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-su-admin-assistant-somewhere-1132679",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "admin",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T22:03:49+00:00"
+    },
+    {
+      "title": "General Virtual Assistant",
+      "company": "Venture Smarter",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-virtual-assistant-venture-smarter-1132678",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T22:01:05+00:00"
+    },
+    {
+      "title": "Executive Director K12 Academic Partnerships",
+      "company": "Dreamscape Learn",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-director-k12-academic-partnerships-dreamscape-learn-1132680",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "teaching",
+        "marketing",
+        "education",
+        "senior",
+        "excel",
+        "sales",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T21:05:39+00:00"
+    },
+    {
       "title": "Diver I",
       "company": "Amentum",
       "location": "Remote",
@@ -139,6 +265,51 @@
       ],
       "salary": "",
       "posted": "2026-06-01T18:52:11+00:00"
+    },
+    {
+      "title": "HR &amp; Operations Coordinator",
+      "company": "Adecco",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-amp-operations-coordinator-adecco-1132732",
+      "source": "RemoteOK",
+      "tags": [
+        "embedded",
+        "customer support",
+        "dev",
+        "transcribing",
+        "design",
+        "video",
+        "content writing",
+        "senior",
+        "sys admin",
+        "digital nomad",
+        "exec",
+        "music",
+        "marketing",
+        "web dev",
+        "finance",
+        "seo",
+        "sales",
+        "medical",
+        "recruiter",
+        "hr",
+        "accounting",
+        "payroll",
+        "microsoft",
+        "ops",
+        "education",
+        "legal",
+        "golang",
+        "full time",
+        "infosec",
+        "teaching",
+        "testing",
+        "travel",
+        "coordinator",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T17:59:29+00:00"
     },
     {
       "title": "Customer Success Manager Public Sector",
@@ -392,104 +563,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-05-31T23:40:30+00:00"
-    },
-    {
-      "title": "Futuros Profesionales Trainee Automatizaci\u00c3\u00b3n de Procesos",
-      "company": "Universia Argentina",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-futuros-profesionales-trainee-automatizacion-de-procesos-universia-argentina-1132661",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-31T23:36:39+00:00"
-    },
-    {
-      "title": "Team Member",
-      "company": "Leicester Arms",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-member-leicester-arms-1132669",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-31T23:13:14+00:00"
-    },
-    {
-      "title": "Junior Brand Designer",
-      "company": "Twine",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-brand-designer-twine-1132655",
-      "source": "RemoteOK",
-      "tags": [
-        "designer",
-        "junior"
-      ],
-      "salary": "",
-      "posted": "2026-05-31T23:00:54+00:00"
-    },
-    {
-      "title": "Auxiliar de Oficina General Modalidad Remota o H\u00c3\u00adbrida Contrataci\u00c3\u00b3n Inmediata",
-      "company": "Universia M\u00c3\u00a9xico",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-oficina-general-modalidad-remota-o-hibrida-contratacion-inmediata-universia-mexico-1132649",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-31T18:43:14+00:00"
-    },
-    {
-      "title": "Especialista En Marketing Digital Y Gesti\u00c3\u00b3n De Contenidos",
-      "company": "Canarias.com",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-especialista-en-marketing-digital-y-gestion-de-contenidos-canarias-com-1132665",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "jira",
-        "dev",
-        "excel",
-        "non tech",
-        "digital nomad",
-        "wordpress",
-        "seo",
-        "marketing",
-        "stats"
-      ],
-      "salary": "",
-      "posted": "2026-05-31T17:41:58+00:00"
-    },
-    {
-      "title": "Especialista En Marketing Digital Y Gesti\u00c3\u00b3n De Contenidos",
-      "company": "Canarias.com",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-especialista-en-marketing-digital-y-gestion-de-contenidos-canarias-com-1132666",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "jira",
-        "dev",
-        "excel",
-        "non tech",
-        "digital nomad",
-        "wordpress",
-        "seo",
-        "marketing",
-        "stats"
-      ],
-      "salary": "",
-      "posted": "2026-05-31T17:41:58+00:00"
-    },
-    {
-      "title": "\u00c2\u00bfQuer\u00c3\u00a9s sumarte a liderar cripto en LATAM Dejanos tu perfil \u00f0\u009f\u009a",
-      "company": "Ripio",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-31T13:22:53+00:00"
     }
   ],
-  "last_updated": "2026-06-02T21:37:40.419758",
+  "last_updated": "2026-06-02T23:19:35.960282",
   "total": 30,
-  "new": 4
+  "new": 7
 }

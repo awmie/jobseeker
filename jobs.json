@@ -71,6 +71,44 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Expert Retoucher Renderer 210501",
+      "company": "Aquent",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-expert-retoucher-renderer-210501-aquent-1132663",
+      "source": "RemoteOK",
+      "tags": [
+        "senior"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T09:02:44+00:00"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Atom Computing",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-atom-computing-1132662",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "design",
+        "sys admin",
+        "python",
+        "testing",
+        "exec",
+        "javascript",
+        "education",
+        "c",
+        "c plus plus",
+        "git",
+        "api",
+        "senior",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T08:00:02+00:00"
+    },
+    {
       "title": "Submit Your Resume",
       "company": "Nelson Motors and Equipment",
       "location": "Remote",
@@ -320,35 +358,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-05-31T06:43:08+00:00"
-    },
-    {
-      "title": "Asistente Legal Corporativo y de Recursos Humanos",
-      "company": "Universia M\u00c3\u00a9xico",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-asistente-legal-corporativo-y-de-recursos-humanos-universia-mexico-1132642",
-      "source": "RemoteOK",
-      "tags": [
-        "legal",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-31T06:43:07+00:00"
-    },
-    {
-      "title": "Asistente Legal Corporativo y de Recursos Humanos",
-      "company": "Universia M\u00c3\u00a9xico",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-asistente-legal-corporativo-y-de-recursos-humanos-universia-mexico-1132644",
-      "source": "RemoteOK",
-      "tags": [
-        "legal",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-31T06:43:07+00:00"
     }
   ],
-  "last_updated": "2026-06-02T06:21:22.620575",
+  "last_updated": "2026-06-02T10:59:59.447845",
   "total": 30,
-  "new": 0
+  "new": 2
 }

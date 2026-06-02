@@ -71,6 +71,49 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Submit Your Resume",
+      "company": "Nelson Motors and Equipment",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-submit-your-resume-nelson-motors-and-equipment-1132656",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-05-31T23:40:30+00:00"
+    },
+    {
+      "title": "Futuros Profesionales Trainee Automatizaci\u00c3\u00b3n de Procesos",
+      "company": "Universia Argentina",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-futuros-profesionales-trainee-automatizacion-de-procesos-universia-argentina-1132661",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-05-31T23:36:39+00:00"
+    },
+    {
+      "title": "Team Member",
+      "company": "Leicester Arms",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-member-leicester-arms-1132669",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-05-31T23:13:14+00:00"
+    },
+    {
+      "title": "Junior Brand Designer",
+      "company": "Twine",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-brand-designer-twine-1132655",
+      "source": "RemoteOK",
+      "tags": [
+        "designer",
+        "junior"
+      ],
+      "salary": "",
+      "posted": "2026-05-31T23:00:54+00:00"
+    },
+    {
       "title": "Auxiliar de Oficina General Modalidad Remota o H\u00c3\u00adbrida Contrataci\u00c3\u00b3n Inmediata",
       "company": "Universia M\u00c3\u00a9xico",
       "location": "Remote",
@@ -303,64 +346,9 @@
       ],
       "salary": "",
       "posted": "2026-05-31T06:43:07+00:00"
-    },
-    {
-      "title": "Asistente Legal Corporativo y de Recursos Humanos",
-      "company": "Universia M\u00c3\u00a9xico",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-asistente-legal-corporativo-y-de-recursos-humanos-universia-mexico-1132641",
-      "source": "RemoteOK",
-      "tags": [
-        "legal",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-31T06:43:05+00:00"
-    },
-    {
-      "title": "Asistente Legal Corporativo y de Recursos Humanos",
-      "company": "Universia M\u00c3\u00a9xico",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-asistente-legal-corporativo-y-de-recursos-humanos-universia-mexico-1132643",
-      "source": "RemoteOK",
-      "tags": [
-        "legal",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-31T06:43:05+00:00"
-    },
-    {
-      "title": "Ejecutivo de Partners y Franquicias",
-      "company": "ZENVIA",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ejecutivo-de-partners-y-franquicias-zenvia-1132624",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-05-31T04:06:23+00:00"
-    },
-    {
-      "title": "Equity Partner",
-      "company": "Onside Capital",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-equity-partner-onside-capital-1132630",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "content writing",
-        "finance",
-        "exec",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-05-31T03:08:24+00:00"
     }
   ],
-  "last_updated": "2026-06-01T23:17:56.889248",
+  "last_updated": "2026-06-02T01:40:14.110118",
   "total": 30,
-  "new": 0
+  "new": 4
 }

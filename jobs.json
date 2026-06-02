@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Jetbrains Product Manager For Bonsai Innovation Hub",
+      "company": "JETBRAINS",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/jetbrains-product-manager-for-bonsai-innovation-hub",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Lemon Io Senior Ai Engineer Architect",
       "company": "LEMON IO",
       "location": "Remote",
@@ -50,13 +57,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "E Breuninger Co Product Owner Zendesk Customer Service M W D Remote Moglich",
-      "company": "E",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/e-breuninger-co-product-owner-zendesk-customer-service-m-w-d-remote-moglich",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Nomad Senior Software Engineer Ii",
       "company": "NOMAD",
       "location": "Remote",
@@ -69,6 +69,76 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/contra-brand-designer-7",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Diver I",
+      "company": "Amentum",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-diver-i-amentum-1132692",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "education",
+        "technical",
+        "supervisor",
+        "customer support",
+        "testing",
+        "video",
+        "ops",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T20:43:51+00:00"
+    },
+    {
+      "title": "Vice President People Operations",
+      "company": "KIPP Foundation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-people-operations-kipp-foundation-1132681",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "teaching",
+        "marketing",
+        "education",
+        "senior",
+        "excel",
+        "sales",
+        "golang",
+        "design",
+        "embedded",
+        "hr",
+        "sys admin",
+        "infosec",
+        "customer support",
+        "testing",
+        "travel",
+        "finance",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T20:05:01+00:00"
+    },
+    {
+      "title": "Redator J\u00c3\u00banior",
+      "company": "CANTA.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-redator-junior-canta-1132704",
+      "source": "RemoteOK",
+      "tags": [
+        "video",
+        "c",
+        "non tech",
+        "seo",
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T18:52:11+00:00"
     },
     {
       "title": "Customer Success Manager Public Sector",
@@ -417,85 +487,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-05-31T13:22:53+00:00"
-    },
-    {
-      "title": "Projectpedia Team Member",
-      "company": "Projectpedia Official Page",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-projectpedia-team-member-projectpedia-official-page-1132651",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "infosec",
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "senior",
-        "ops",
-        "medical",
-        "engineer",
-        "teaching",
-        "testing"
-      ],
-      "salary": "",
-      "posted": "2026-05-31T12:56:15+00:00"
-    },
-    {
-      "title": "Estimator II",
-      "company": "Honeywell",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-ii-honeywell-1132652",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "infosec",
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "senior",
-        "ops",
-        "medical",
-        "engineer",
-        "teaching",
-        "testing",
-        "dev",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-05-31T12:02:50+00:00"
-    },
-    {
-      "title": "Social Media Moderator",
-      "company": "RemoteVA",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-moderator-remoteva-1132633",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "design",
-        "technical",
-        "ops",
-        "marketing",
-        "sales",
-        "medical",
-        "digital nomad",
-        "music",
-        "education",
-        "customer support",
-        "video",
-        "content writing",
-        "ads",
-        "social media"
-      ],
-      "salary": "",
-      "posted": "2026-05-31T09:07:15+00:00"
     }
   ],
-  "last_updated": "2026-06-02T18:49:12.162800",
+  "last_updated": "2026-06-02T21:37:40.419758",
   "total": 30,
-  "new": 5
+  "new": 4
 }

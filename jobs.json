@@ -71,6 +71,77 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Director Customer Success",
+      "company": "Pencil",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-customer-success-pencil-1132685",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "teaching",
+        "marketing",
+        "education",
+        "senior",
+        "excel",
+        "sales",
+        "golang",
+        "design",
+        "embedded",
+        "hr",
+        "sys admin",
+        "infosec",
+        "customer support",
+        "testing",
+        "travel",
+        "finance",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "full time",
+        "digital nomad",
+        "analyst",
+        "data science",
+        "saas",
+        "technical",
+        "scheme",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T12:55:51+00:00"
+    },
+    {
+      "title": "Auxiliar Administrativo Remoto",
+      "company": "Empresa Confidencial",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-remoto-empresa-confidencial-1132701",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-01T11:26:42+00:00"
+    },
+    {
+      "title": "Online Bidder",
+      "company": "Eminence Technology",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-online-bidder-eminence-technology-1132714",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "ops",
+        "medical",
+        "engineer",
+        "junior"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T10:20:35+00:00"
+    },
+    {
       "title": "Expert Retoucher Renderer 210501",
       "company": "Aquent",
       "location": "Remote",
@@ -328,39 +399,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-05-31T06:43:10+00:00"
-    },
-    {
-      "title": "Auxiliar de Oficina General Modalidad Remota o H\u00c3\u00adbrida Contrataci\u00c3\u00b3n Inmediata",
-      "company": "Universia M\u00c3\u00a9xico",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-oficina-general-modalidad-remota-o-hibrida-contratacion-inmediata-universia-mexico-1132639",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-31T06:43:09+00:00"
-    },
-    {
-      "title": "Asistente Virtual de Recursos Humanos Modalidad Remota o H\u00c3\u00adbrida Contrataci\u00c3\u00b3n Inmediata",
-      "company": "Universia M\u00c3\u00a9xico",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-asistente-virtual-de-recursos-humanos-modalidad-remota-o-hibrida-contratacion-inmediata-universia-mexico-1132635",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-31T06:43:08+00:00"
-    },
-    {
-      "title": "Asistente Virtual de Recursos Humanos Modalidad Remota o H\u00c3\u00adbrida Contrataci\u00c3\u00b3n Inmediata",
-      "company": "Universia M\u00c3\u00a9xico",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-asistente-virtual-de-recursos-humanos-modalidad-remota-o-hibrida-contratacion-inmediata-universia-mexico-1132636",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-05-31T06:43:08+00:00"
     }
   ],
-  "last_updated": "2026-06-02T10:59:59.447845",
+  "last_updated": "2026-06-02T15:00:55.970753",
   "total": 30,
-  "new": 2
+  "new": 3
 }

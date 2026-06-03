@@ -71,6 +71,26 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "XML DCA",
+      "company": "Integra",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-xml-dca-integra-1132713",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "ops",
+        "medical",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-06-02T05:14:21+00:00"
+    },
+    {
       "title": "UGC Content Creator The Good Creator Collective",
       "company": "The Good Influence",
       "location": "Remote",
@@ -409,6 +429,26 @@
       "posted": "2026-06-01T22:29:40+00:00"
     },
     {
+      "title": "Digital Communications Officer",
+      "company": "NHS Scotland",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-communications-officer-nhs-scotland-1132741",
+      "source": "RemoteOK",
+      "tags": [
+        "wordpress",
+        "technical",
+        "customer support",
+        "web dev",
+        "video",
+        "exec",
+        "content writing",
+        "marketing",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-06-01T22:11:00+00:00"
+    },
+    {
       "title": "Key Account Manager",
       "company": "Loca Loka Tequila",
       "location": "Remote",
@@ -540,70 +580,9 @@
       ],
       "salary": "",
       "posted": "2026-06-01T20:05:01+00:00"
-    },
-    {
-      "title": "Redator J\u00c3\u00banior",
-      "company": "CANTA.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-redator-junior-canta-1132704",
-      "source": "RemoteOK",
-      "tags": [
-        "video",
-        "c",
-        "non tech",
-        "seo",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-06-01T18:52:11+00:00"
-    },
-    {
-      "title": "HR &amp; Operations Coordinator",
-      "company": "Adecco",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-hr-amp-operations-coordinator-adecco-1132732",
-      "source": "RemoteOK",
-      "tags": [
-        "embedded",
-        "customer support",
-        "dev",
-        "transcribing",
-        "design",
-        "video",
-        "content writing",
-        "senior",
-        "sys admin",
-        "digital nomad",
-        "exec",
-        "music",
-        "marketing",
-        "web dev",
-        "finance",
-        "seo",
-        "sales",
-        "medical",
-        "recruiter",
-        "hr",
-        "accounting",
-        "payroll",
-        "microsoft",
-        "ops",
-        "education",
-        "legal",
-        "golang",
-        "full time",
-        "infosec",
-        "teaching",
-        "testing",
-        "travel",
-        "coordinator",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-06-01T17:59:29+00:00"
     }
   ],
-  "last_updated": "2026-06-03T02:02:33.098511",
+  "last_updated": "2026-06-03T07:02:34.247114",
   "total": 30,
-  "new": 10
+  "new": 2
 }

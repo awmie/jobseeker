@@ -22,13 +22,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Lawnstarter Staff Software Engineer Product 4",
-      "company": "LAWNSTARTER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/lawnstarter-staff-software-engineer-product-4",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Lightup Network Solutions Gmbh Co Kg Technical Product Lead For Innovative Telecom Services",
       "company": "LIGHTUP",
       "location": "Remote",
@@ -57,6 +50,13 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Workada Data Labeling Specialist Remote Contract Work 18 22 Per Hour",
+      "company": "WORKADA",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/workada-data-labeling-specialist-remote-contract-work-18-22-per-hour",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Nomad Senior Software Engineer Ii",
       "company": "NOMAD",
       "location": "Remote",
@@ -69,6 +69,85 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/contra-brand-designer-7",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Asset Protection Specialist Vancouver Terminal",
+      "company": "The Home Depot Canada",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-asset-protection-specialist-vancouver-terminal-the-home-depot-canada-1132806",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-03T19:03:42+00:00"
+    },
+    {
+      "title": "Social Media Manager",
+      "company": "Crowned Skin",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-crowned-skin-1132790",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "sys admin",
+        "education",
+        "customer support",
+        "marketing",
+        "finance",
+        "microsoft",
+        "exec",
+        "data science",
+        "ops",
+        "excel",
+        "stats",
+        "sales",
+        "medical",
+        "recruiter",
+        "virtual assistant",
+        "travel",
+        "senior",
+        "amazon",
+        "copywriting",
+        "testing",
+        "speech",
+        "video",
+        "content writing",
+        "social media",
+        "ecommerce",
+        "shopify"
+      ],
+      "salary": "",
+      "posted": "2026-06-03T18:58:36+00:00"
+    },
+    {
+      "title": "Vice President of Operations",
+      "company": "Specialty1 Partners",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-of-operations-specialty1-partners-1132824",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "hr",
+        "infosec",
+        "customer support",
+        "marketing",
+        "ops",
+        "speech",
+        "exec",
+        "payroll",
+        "finance",
+        "mobile",
+        "excel",
+        "legal",
+        "golang",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-03T18:29:37+00:00"
     },
     {
       "title": "Supply Chain Data Analyst",
@@ -528,54 +607,9 @@
       ],
       "salary": "",
       "posted": "2026-06-03T11:01:57+00:00"
-    },
-    {
-      "title": "Molecular Biology Scientist",
-      "company": "STEM Sync AI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-molecular-biology-scientist-stem-sync-ai-1132760",
-      "source": "RemoteOK",
-      "tags": [
-        "biotech"
-      ],
-      "salary": "",
-      "posted": "2026-06-03T09:05:07+00:00"
-    },
-    {
-      "title": "Case Coordinator Family Supports",
-      "company": "VON Canada (Ontario)",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-case-coordinator-family-supports-von-canada-ontario-1132758",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "sys admin",
-        "coordinator",
-        "customer support",
-        "exec",
-        "finance",
-        "education",
-        "microsoft",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-06-03T08:00:06+00:00"
-    },
-    {
-      "title": "Clinical Research Scientist",
-      "company": "STEM Sync AI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-clinical-research-scientist-stem-sync-ai-1132747",
-      "source": "RemoteOK",
-      "tags": [
-        "biotech"
-      ],
-      "salary": "",
-      "posted": "2026-06-03T07:02:08+00:00"
     }
   ],
-  "last_updated": "2026-06-04T18:01:47.297557",
+  "last_updated": "2026-06-04T20:18:12.224327",
   "total": 30,
-  "new": 7
+  "new": 3
 }

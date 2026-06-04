@@ -71,6 +71,31 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Junior Illustrator",
+      "company": "Twine",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-illustrator-twine-1132762",
+      "source": "RemoteOK",
+      "tags": [
+        "junior",
+        "illustrator"
+      ],
+      "salary": "",
+      "posted": "2026-06-03T11:01:57+00:00"
+    },
+    {
+      "title": "Molecular Biology Scientist",
+      "company": "STEM Sync AI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-molecular-biology-scientist-stem-sync-ai-1132760",
+      "source": "RemoteOK",
+      "tags": [
+        "biotech"
+      ],
+      "salary": "",
+      "posted": "2026-06-03T09:05:07+00:00"
+    },
+    {
       "title": "Case Coordinator Family Supports",
       "company": "VON Canada (Ontario)",
       "location": "Remote",
@@ -469,43 +494,9 @@
       ],
       "salary": "",
       "posted": "2026-06-02T16:00:06+00:00"
-    },
-    {
-      "title": "Key Account Executive",
-      "company": "Unilever",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-key-account-executive-unilever-1132735",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "exec",
-        "education",
-        "sales",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-06-02T15:44:41+00:00"
-    },
-    {
-      "title": "Territory Sales Officer",
-      "company": "Unilever",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-territory-sales-officer-unilever-1132810",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "front end",
-        "backend",
-        "exec",
-        "excel",
-        "sales",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-06-02T15:44:41+00:00"
     }
   ],
-  "last_updated": "2026-06-04T09:02:39.118864",
+  "last_updated": "2026-06-04T12:11:53.343248",
   "total": 30,
-  "new": 5
+  "new": 2
 }

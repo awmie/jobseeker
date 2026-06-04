@@ -71,6 +71,41 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Team Member Positions Taco Bell Butler",
+      "company": "Taco Bell Australia",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-member-positions-taco-bell-butler-taco-bell-australia-1132772",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "customer support",
+        "ops",
+        "education",
+        "teaching",
+        "exec",
+        "medical",
+        "finance",
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-06-03T02:56:26+00:00"
+    },
+    {
+      "title": "Assistente de Recursos Humanos Trabalho Remoto",
+      "company": "BairesDev",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistente-de-recursos-humanos-trabalho-remoto-bairesdev-1132740",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "non tech",
+        "finance",
+        "c"
+      ],
+      "salary": "",
+      "posted": "2026-06-03T01:08:01+00:00"
+    },
+    {
       "title": "CLT Produ\u00c3\u00a7\u00c3\u00a3o Art\u00c3\u00adstico Editorial Narratrix Brasil",
       "company": "Portal Vagas Terceiro Setor",
       "location": "Remote",
@@ -542,60 +577,9 @@
       ],
       "salary": "",
       "posted": "2026-06-02T14:03:35+00:00"
-    },
-    {
-      "title": "Fire Fighter",
-      "company": "Adani Airport Holdings Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-fire-fighter-adani-airport-holdings-ltd-1132711",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "ops",
-        "medical",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-06-02T11:05:47+00:00"
-    },
-    {
-      "title": "English Teacher for Children",
-      "company": "TUS Media",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-english-teacher-for-children-tus-media-1132750",
-      "source": "RemoteOK",
-      "tags": [
-        "biotech",
-        "speech",
-        "game dev",
-        "technical",
-        "customer support",
-        "dev",
-        "digital nomad",
-        "virtual assistant",
-        "education",
-        "video",
-        "microsoft",
-        "exec",
-        "senior",
-        "junior",
-        "ops",
-        "excel",
-        "legal",
-        "full time",
-        "english teacher",
-        "teaching"
-      ],
-      "salary": "",
-      "posted": "2026-06-02T10:35:10+00:00"
     }
   ],
-  "last_updated": "2026-06-04T00:17:36.946989",
+  "last_updated": "2026-06-04T05:13:07.373623",
   "total": 30,
   "new": 2
 }

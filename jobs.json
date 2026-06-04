@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Analista de Experi\u00c3\u00aancia do Cliente J\u00c3\u00banior",
+      "company": "Main\u00c3\u00b4",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-experiencia-do-cliente-junior-maino-1132823",
+      "source": "RemoteOK",
+      "tags": [
+        "excel",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-03T22:19:39+00:00"
+    },
+    {
       "title": "Molecular Biology Scientist",
       "company": "STEM Sync AI",
       "location": "Remote",
@@ -587,49 +600,9 @@
       ],
       "salary": "",
       "posted": "2026-06-03T16:17:05+00:00"
-    },
-    {
-      "title": "Education Specialist",
-      "company": "INNERGY",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-education-specialist-innergy-1132776",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "education",
-        "microsoft",
-        "exec",
-        "content writing",
-        "excel",
-        "medical",
-        "digital nomad",
-        "design",
-        "hr",
-        "infosec",
-        "ops",
-        "speech",
-        "payroll",
-        "finance",
-        "mobile",
-        "legal",
-        "golang",
-        "recruiter",
-        "saas",
-        "travel",
-        "video",
-        "cloud",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-06-03T15:38:57+00:00"
     }
   ],
-  "last_updated": "2026-06-04T21:55:55.461838",
+  "last_updated": "2026-06-04T23:08:50.452430",
   "total": 30,
-  "new": 9
+  "new": 1
 }

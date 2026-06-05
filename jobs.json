@@ -71,6 +71,41 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Executive Assistant",
+      "company": "Cyara",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-cyara-1132853",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "exec",
+        "hr",
+        "design",
+        "defi",
+        "crypto",
+        "bitcoin",
+        "marketing",
+        "finance",
+        "ruby",
+        "api",
+        "mobile",
+        "senior",
+        "stats",
+        "digital nomad",
+        "virtual assistant",
+        "testing",
+        "travel",
+        "speech",
+        "c",
+        "microsoft",
+        "ops",
+        "excel",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-06-04T20:56:43+00:00"
+    },
+    {
       "title": "Merchandising Representative",
       "company": "CELSIUS",
       "location": "Remote",
@@ -592,19 +627,9 @@
       ],
       "salary": "",
       "posted": "2026-06-04T13:36:25+00:00"
-    },
-    {
-      "title": "Analista de Atendimento J\u00c3\u00banior",
-      "company": "nstech",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-atendimento-junior-nstech-1132822",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-04T13:07:24+00:00"
     }
   ],
-  "last_updated": "2026-06-05T20:28:50.811353",
+  "last_updated": "2026-06-05T21:59:34.743050",
   "total": 30,
-  "new": 8
+  "new": 1
 }

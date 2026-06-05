@@ -71,6 +71,35 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Submit Your Resume",
+      "company": "Nelson Motors and Equipment",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-submit-your-resume-nelson-motors-and-equipment-1132807",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-03T23:40:42+00:00"
+    },
+    {
+      "title": "Pasantia de Tesoreria",
+      "company": "Universia Argentina",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-pasantia-de-tesoreria-universia-argentina-1132796",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "finance",
+        "c",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-03T23:36:42+00:00"
+    },
+    {
       "title": "Analista de Experi\u00c3\u00aancia do Cliente J\u00c3\u00banior",
       "company": "Main\u00c3\u00b4",
       "location": "Remote",
@@ -541,68 +570,9 @@
       ],
       "salary": "",
       "posted": "2026-06-03T17:03:48+00:00"
-    },
-    {
-      "title": "Support Analyst I",
-      "company": "Netrix Global",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-support-analyst-i-netrix-global-1132812",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "front end",
-        "backend",
-        "exec",
-        "excel",
-        "sales",
-        "full time",
-        "accounting",
-        "finance",
-        "education",
-        "senior",
-        "medical",
-        "analyst",
-        "jira",
-        "technical",
-        "customer support",
-        "mobile",
-        "ops",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-06-03T16:23:57+00:00"
-    },
-    {
-      "title": "Executive Assistant CEO of Hospitality Company",
-      "company": "Lambent",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-ceo-of-hospitality-company-lambent-1132787",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "sys admin",
-        "education",
-        "customer support",
-        "marketing",
-        "finance",
-        "microsoft",
-        "exec",
-        "data science",
-        "ops",
-        "excel",
-        "stats",
-        "sales",
-        "medical",
-        "recruiter",
-        "virtual assistant",
-        "travel",
-        "senior"
-      ],
-      "salary": "",
-      "posted": "2026-06-03T16:17:05+00:00"
     }
   ],
-  "last_updated": "2026-06-04T23:08:50.452430",
+  "last_updated": "2026-06-05T00:19:36.912418",
   "total": 30,
-  "new": 1
+  "new": 2
 }

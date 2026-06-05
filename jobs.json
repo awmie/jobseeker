@@ -71,6 +71,73 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Multi Utility Locator",
+      "company": "Ledcor",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-multi-utility-locator-ledcor-1132878",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "education",
+        "medical",
+        "non tech",
+        "technical",
+        "testing",
+        "travel",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-06-04T17:20:45+00:00"
+    },
+    {
+      "title": "Clinical Data Manager II Senior Clinical Data Manager",
+      "company": "Precision for Medicine",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-ii-senior-clinical-data-manager-precision-for-medicine-1132828",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "education",
+        "customer support",
+        "testing",
+        "senior"
+      ],
+      "salary": "",
+      "posted": "2026-06-04T16:00:37+00:00"
+    },
+    {
+      "title": "Digital Sales and Service Representative",
+      "company": "1-800 Contacts",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-sales-and-service-representative-1-800-contacts-1132827",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "education",
+        "customer support",
+        "marketing",
+        "finance",
+        "sales",
+        "full time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-04T16:00:25+00:00"
+    },
+    {
+      "title": "Security Platform Engineer",
+      "company": "Lumin Digital",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-security-platform-engineer-lumin-digital-1132826",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-06-04T16:00:10+00:00"
+    },
+    {
       "title": "Buffer",
       "company": "ESS \u00e2\u0080\u0093 Defence, Energy and Government Services",
       "location": "Remote",
@@ -441,68 +508,9 @@
       ],
       "salary": "",
       "posted": "2026-06-04T08:00:02+00:00"
-    },
-    {
-      "title": "Driving Examiner",
-      "company": "Department of Customer Services, Open Data and Small and Family Business",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-driving-examiner-department-of-customer-services-open-data-and-small-and-family-business-1132874",
-      "source": "RemoteOK",
-      "tags": [
-        "ops",
-        "infosec",
-        "customer support",
-        "travel",
-        "exec",
-        "medical",
-        "full time",
-        "hr",
-        "c"
-      ],
-      "salary": "",
-      "posted": "2026-06-04T06:41:41+00:00"
-    },
-    {
-      "title": "Mid weight Freelance Graphic Designer",
-      "company": "Seamer Design",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-mid-weight-freelance-graphic-designer-seamer-design-1132845",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "designer",
-        "customer support",
-        "education",
-        "ads",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-04T06:31:42+00:00"
-    },
-    {
-      "title": "Architectural Drafter",
-      "company": "RemoteVA",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-remoteva-1132809",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-04T05:15:00+00:00"
-    },
-    {
-      "title": "Multiple",
-      "company": "Eastern Airlines LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-multiple-eastern-airlines-llc-1132813",
-      "source": "RemoteOK",
-      "tags": [
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-06-04T02:29:03+00:00"
     }
   ],
-  "last_updated": "2026-06-05T16:41:46.118627",
+  "last_updated": "2026-06-05T18:29:00.903006",
   "total": 30,
-  "new": 9
+  "new": 4
 }

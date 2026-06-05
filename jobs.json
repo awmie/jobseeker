@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Dataannotation Tech Ft Pt Remote Ai Prompt Engineering Evaluation Will Train",
+      "company": "DATAANNOTATION",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Sofatutor Gmbh Cro Specialist All Genders",
       "company": "SOFATUTOR",
       "location": "Remote",
@@ -57,18 +64,102 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Workada Data Labeling Specialist Remote Contract Work 18 22 Per Hour",
-      "company": "WORKADA",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/workada-data-labeling-specialist-remote-contract-work-18-22-per-hour",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Nomad Senior Software Engineer Ii",
       "company": "NOMAD",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Analista de Atendimento J\u00c3\u00banior",
+      "company": "nstech",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-atendimento-junior-nstech-1132822",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-04T13:07:24+00:00"
+    },
+    {
+      "title": "Asesor de Atenci\u00c3\u00b3n al Cliente \u00c2\u00a1CON O SIN Experiencia",
+      "company": "Partner Service",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-asesor-de-atencion-al-cliente-con-o-sin-experiencia-partner-service-1132866",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "c",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-04T13:04:32+00:00"
+    },
+    {
+      "title": "Streaming Media Assistant",
+      "company": "The Walt Disney Company",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-streaming-media-assistant-the-walt-disney-company-1132857",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "exec",
+        "hr",
+        "design",
+        "defi",
+        "crypto",
+        "bitcoin",
+        "marketing",
+        "finance",
+        "ruby",
+        "api",
+        "mobile",
+        "senior",
+        "stats",
+        "digital nomad",
+        "virtual assistant",
+        "testing",
+        "travel",
+        "speech",
+        "c",
+        "microsoft",
+        "ops",
+        "excel",
+        "recruiter",
+        "sales",
+        "medical",
+        "sys admin",
+        "education",
+        "adult",
+        "content writing",
+        "internship",
+        "technical",
+        "dev",
+        "video"
+      ],
+      "salary": "",
+      "posted": "2026-06-04T11:43:37+00:00"
+    },
+    {
+      "title": "Military and Veterans",
+      "company": "Orano",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-military-and-veterans-orano-1132842",
+      "source": "RemoteOK",
+      "tags": [
+        "recruiter",
+        "customer support",
+        "travel",
+        "exec",
+        "finance",
+        "scheme",
+        "ops",
+        "medical",
+        "full time",
+        "part time",
+        "infosec"
+      ],
+      "salary": "",
+      "posted": "2026-06-04T11:29:14+00:00"
     },
     {
       "title": "Courier",
@@ -436,61 +527,9 @@
       ],
       "salary": "",
       "posted": "2026-06-04T01:03:41+00:00"
-    },
-    {
-      "title": "Recepcionista Trabalho Remoto",
-      "company": "BairesDev",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-recepcionista-trabalho-remoto-bairesdev-1132793",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-04T00:10:07+00:00"
-    },
-    {
-      "title": "Submit Your Resume",
-      "company": "Nelson Motors and Equipment",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-submit-your-resume-nelson-motors-and-equipment-1132807",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-03T23:40:42+00:00"
-    },
-    {
-      "title": "Pasantia de Tesoreria",
-      "company": "Universia Argentina",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-pasantia-de-tesoreria-universia-argentina-1132796",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "finance",
-        "c",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-03T23:36:42+00:00"
-    },
-    {
-      "title": "Analista de Experi\u00c3\u00aancia do Cliente J\u00c3\u00banior",
-      "company": "Main\u00c3\u00b4",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-experiencia-do-cliente-junior-maino-1132823",
-      "source": "RemoteOK",
-      "tags": [
-        "excel",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-03T22:19:39+00:00"
     }
   ],
-  "last_updated": "2026-06-05T11:46:38.618411",
+  "last_updated": "2026-06-05T14:11:53.873905",
   "total": 30,
   "new": 4
 }

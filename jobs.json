@@ -71,6 +71,66 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "General Production",
+      "company": "Dana Incorporated",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-production-dana-incorporated-1132953",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "content writing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T19:52:40+00:00"
+    },
+    {
+      "title": "General Production",
+      "company": "Dana Incorporated",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-production-dana-incorporated-1132958",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "content writing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T19:52:40+00:00"
+    },
+    {
+      "title": "CAN_GENERAL PRODUCTION",
+      "company": "Dana Incorporated",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-can-general-production-dana-incorporated-1132961",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "content writing",
+        "non tech",
+        "travel",
+        "finance",
+        "sys admin",
+        "medical",
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T19:52:40+00:00"
+    },
+    {
+      "title": "Support Engineer",
+      "company": "Level",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-support-engineer-level-1132895",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "technical"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T18:33:48+00:00"
+    },
+    {
       "title": "Implementation Specialist",
       "company": "Dossier - Digital Competency Management",
       "location": "Remote",
@@ -371,77 +431,9 @@
       ],
       "salary": "",
       "posted": "2026-06-05T14:21:12+00:00"
-    },
-    {
-      "title": "Coordinador de Relaciones Institucionales Educaci\u00c3\u00b3n Superior",
-      "company": "EADIC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-coordinador-de-relaciones-institucionales-educacion-superior-eadic-1132882",
-      "source": "RemoteOK",
-      "tags": [
-        "finance",
-        "excel",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T13:23:45+00:00"
-    },
-    {
-      "title": "Handy Person",
-      "company": "Hawaiian",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-handy-person-hawaiian-1132933",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "customer support",
-        "ops",
-        "infosec",
-        "admin",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T13:00:41+00:00"
-    },
-    {
-      "title": "TEAM MEMBER COLD END",
-      "company": "Saint-Gobain Group in India",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-member-cold-end-saint-gobain-group-in-india-1132910",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "ops",
-        "medical",
-        "engineer",
-        "testing",
-        "coordinator",
-        "sys admin",
-        "travel"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T12:37:02+00:00"
-    },
-    {
-      "title": "Team Member Special Assignment",
-      "company": "Reliance Industries Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-member-special-assignment-reliance-industries-limited-1132936",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T10:53:33+00:00"
     }
   ],
-  "last_updated": "2026-06-06T18:43:05.281026",
+  "last_updated": "2026-06-06T19:59:44.848334",
   "total": 30,
   "new": 4
 }

@@ -71,6 +71,20 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Customer Service Specialist",
+      "company": "albo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-specialist-albo-1132881",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "excel",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T15:06:15+00:00"
+    },
+    {
       "title": "Freelance Introducer",
       "company": "Bonkk.",
       "location": "Remote",
@@ -419,23 +433,9 @@
       ],
       "salary": "",
       "posted": "2026-06-05T05:06:32+00:00"
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "Gifted",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-gifted-1132851",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "exec",
-        "hr"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T05:03:11+00:00"
     }
   ],
-  "last_updated": "2026-06-06T14:47:10.739815",
+  "last_updated": "2026-06-06T15:58:02.670618",
   "total": 30,
-  "new": 11
+  "new": 1
 }

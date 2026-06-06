@@ -71,6 +71,85 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Implementation Specialist",
+      "company": "Dossier - Digital Competency Management",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-dossier-digital-competency-management-1132904",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "exec",
+        "analyst",
+        "sys admin",
+        "python",
+        "full stack",
+        "technical",
+        "dev",
+        "testing",
+        "finance",
+        "cloud",
+        "git",
+        "microsoft",
+        "data science",
+        "ops",
+        "marketing",
+        "excel",
+        "stats",
+        "engineer",
+        "shopify",
+        "digital nomad",
+        "saas",
+        "golang",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T18:00:16+00:00"
+    },
+    {
+      "title": "Site Labourer",
+      "company": "Igne",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-site-labourer-igne-1132952",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-05T17:49:28+00:00"
+    },
+    {
+      "title": "Profesor A Ele \u00e2\u0080\u0094 Ense\u00c3\u00b1anza De Espa\u00c3\u00b1ol Horario Flexible",
+      "company": "Apprentus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-profesor-a-ele-ensenanza-de-espanol-horario-flexible-apprentus-1132929",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "dev",
+        "sales",
+        "non tech",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T17:41:42+00:00"
+    },
+    {
+      "title": "Buffer",
+      "company": "ESS \u00e2\u0080\u0093 Defence, Energy and Government Services",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-buffer-ess-defence-energy-and-government-services-1132940",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "ops",
+        "golang",
+        "recruiter",
+        "full time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T17:30:51+00:00"
+    },
+    {
       "title": "Sydney Trains Full Time and Part Time Train Cleaning Attendant Newcastle Region",
       "company": "Sydney Trains",
       "location": "Remote",
@@ -360,89 +439,9 @@
       ],
       "salary": "",
       "posted": "2026-06-05T10:53:33+00:00"
-    },
-    {
-      "title": "Administrative Coordinator",
-      "company": "UppalCorp",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-coordinator-uppalcorp-1132901",
-      "source": "RemoteOK",
-      "tags": [
-        "accounting",
-        "excel",
-        "medical",
-        "non tech",
-        "consulting",
-        "coordinator",
-        "customer support",
-        "dev",
-        "marketing",
-        "travel",
-        "finance",
-        "microsoft",
-        "exec",
-        "ops",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T09:50:39+00:00"
-    },
-    {
-      "title": "Freelance UGC Creators Wanted",
-      "company": "re:act",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-ugc-creators-wanted-react-1132875",
-      "source": "RemoteOK",
-      "tags": [
-        "video",
-        "content writing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T08:38:34+00:00"
-    },
-    {
-      "title": "General Practitioner Telehealth Case Conferencing Clinic",
-      "company": "Proactive Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-practitioner-telehealth-case-conferencing-clinic-proactive-health-1132867",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "sys admin",
-        "customer support",
-        "exec",
-        "medical",
-        "internship",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T08:00:09+00:00"
-    },
-    {
-      "title": "Test",
-      "company": "JAKSON Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-jakson-group-1132907",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "ops",
-        "medical",
-        "engineer",
-        "testing"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T06:24:17+00:00"
     }
   ],
-  "last_updated": "2026-06-06T17:19:32.378603",
+  "last_updated": "2026-06-06T18:43:05.281026",
   "total": 30,
   "new": 4
 }

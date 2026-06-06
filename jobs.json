@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Team Member Special Assignment",
+      "company": "Reliance Industries Limited",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-member-special-assignment-reliance-industries-limited-1132936",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T10:53:33+00:00"
+    },
+    {
       "title": "Administrative Coordinator",
       "company": "UppalCorp",
       "location": "Remote",
@@ -540,51 +553,9 @@
       ],
       "salary": "",
       "posted": "2026-06-04T23:39:50+00:00"
-    },
-    {
-      "title": "Learning &amp; Development Specialist",
-      "company": "Nestl\u00c3\u00a9 Health Science",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-learning-amp-development-specialist-nestle-health-science-1132856",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "exec",
-        "hr",
-        "design",
-        "defi",
-        "crypto",
-        "bitcoin",
-        "marketing",
-        "finance",
-        "ruby",
-        "api",
-        "mobile",
-        "senior",
-        "stats",
-        "digital nomad",
-        "virtual assistant",
-        "testing",
-        "travel",
-        "speech",
-        "c",
-        "microsoft",
-        "ops",
-        "excel",
-        "recruiter",
-        "sales",
-        "medical",
-        "sys admin",
-        "education",
-        "adult",
-        "content writing",
-        "internship"
-      ],
-      "salary": "",
-      "posted": "2026-06-04T23:29:01+00:00"
     }
   ],
-  "last_updated": "2026-06-06T10:16:51.129487",
+  "last_updated": "2026-06-06T11:47:59.778972",
   "total": 30,
-  "new": 2
+  "new": 1
 }

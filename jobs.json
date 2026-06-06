@@ -71,6 +71,87 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Vice President People",
+      "company": "KIPP Foundation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-people-kipp-foundation-1132957",
+      "source": "RemoteOK",
+      "tags": [
+        "coordinator",
+        "design",
+        "embedded",
+        "hr",
+        "sys admin",
+        "infosec",
+        "teaching",
+        "customer support",
+        "testing",
+        "marketing",
+        "exec",
+        "travel",
+        "education",
+        "finance",
+        "senior",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T22:29:38+00:00"
+    },
+    {
+      "title": "Manager People Operations",
+      "company": "KIPP Foundation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-people-operations-kipp-foundation-1132943",
+      "source": "RemoteOK",
+      "tags": [
+        "salesforce",
+        "hr",
+        "sys admin",
+        "teaching",
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "ops",
+        "travel",
+        "payroll",
+        "finance",
+        "c",
+        "senior",
+        "excel",
+        "legal",
+        "medical",
+        "full time",
+        "digital nomad",
+        "infosec",
+        "coordinator",
+        "accounting",
+        "admin",
+        "stats"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T22:29:37+00:00"
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "AWISEE",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-awisee-1132902",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T22:01:25+00:00"
+    },
+    {
       "title": "Data Analyst",
       "company": "Stio\u00c2\u00ae",
       "location": "Remote",
@@ -436,60 +517,9 @@
       ],
       "salary": "",
       "posted": "2026-06-05T15:06:15+00:00"
-    },
-    {
-      "title": "Freelance Introducer",
-      "company": "Bonkk.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-introducer-bonkk-1132923",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "dev",
-        "sales",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T14:22:32+00:00"
-    },
-    {
-      "title": "Freelance Introducer",
-      "company": "Bonkk.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-introducer-bonkk-1132926",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "dev",
-        "sales",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T14:22:32+00:00"
-    },
-    {
-      "title": "Freelance Introducer",
-      "company": "Bonkk.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-introducer-bonkk-1132927",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "dev",
-        "sales",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T14:22:32+00:00"
     }
   ],
-  "last_updated": "2026-06-06T22:17:04.272993",
+  "last_updated": "2026-06-06T23:31:19.625631",
   "total": 30,
-  "new": 0
+  "new": 3
 }

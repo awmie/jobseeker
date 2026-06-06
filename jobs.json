@@ -71,6 +71,47 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Administrative Coordinator",
+      "company": "UppalCorp",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-coordinator-uppalcorp-1132901",
+      "source": "RemoteOK",
+      "tags": [
+        "accounting",
+        "excel",
+        "medical",
+        "non tech",
+        "consulting",
+        "coordinator",
+        "customer support",
+        "dev",
+        "marketing",
+        "travel",
+        "finance",
+        "microsoft",
+        "exec",
+        "ops",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T09:50:39+00:00"
+    },
+    {
+      "title": "Freelance UGC Creators Wanted",
+      "company": "re:act",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-ugc-creators-wanted-react-1132875",
+      "source": "RemoteOK",
+      "tags": [
+        "video",
+        "content writing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T08:38:34+00:00"
+    },
+    {
       "title": "General Practitioner Telehealth Case Conferencing Clinic",
       "company": "Proactive Health",
       "location": "Remote",
@@ -541,76 +582,9 @@
       ],
       "salary": "",
       "posted": "2026-06-04T23:29:01+00:00"
-    },
-    {
-      "title": "Influencer Marketing Coordinator",
-      "company": "Newhouse",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-influencer-marketing-coordinator-newhouse-1132840",
-      "source": "RemoteOK",
-      "tags": [
-        "coordinator",
-        "dev",
-        "finance",
-        "exec",
-        "content writing",
-        "marketing",
-        "education",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-04T23:09:46+00:00"
-    },
-    {
-      "title": "Freelance Video Editor",
-      "company": "Forbes Advisor",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-video-editor-forbes-advisor-1132850",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "technical",
-        "writer",
-        "customer support",
-        "dev",
-        "speech",
-        "adult",
-        "video",
-        "exec",
-        "content writing",
-        "ops",
-        "excel",
-        "sales",
-        "recruiter",
-        "digital nomad",
-        "hr",
-        "teaching",
-        "medical",
-        "designer",
-        "marketing",
-        "web dev",
-        "junior",
-        "internship",
-        "embedded",
-        "python",
-        "game dev",
-        "virtual assistant",
-        "cloud",
-        "git",
-        "api",
-        "engineer",
-        "full time",
-        "testing",
-        "travel",
-        "finance",
-        "seo"
-      ],
-      "salary": "",
-      "posted": "2026-06-04T22:51:14+00:00"
     }
   ],
-  "last_updated": "2026-06-06T08:02:54.741057",
+  "last_updated": "2026-06-06T10:16:51.129487",
   "total": 30,
-  "new": 7
+  "new": 2
 }

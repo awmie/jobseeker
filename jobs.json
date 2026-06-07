@@ -71,6 +71,18 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Administrative Coordinator US",
+      "company": "Amgen",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-coordinator-us-amgen-1132956",
+      "source": "RemoteOK",
+      "tags": [
+        "coordinator"
+      ],
+      "salary": "",
+      "posted": "2026-06-06T17:03:53+00:00"
+    },
+    {
       "title": "Coach Psicologo Online",
       "company": "Serenis",
       "location": "Remote",
@@ -465,53 +477,9 @@
       ],
       "salary": "",
       "posted": "2026-06-05T20:00:17+00:00"
-    },
-    {
-      "title": "Marketing Coordinator",
-      "company": "Rocky Talkie",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-coordinator-rocky-talkie-1132905",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "exec",
-        "analyst",
-        "sys admin",
-        "python",
-        "full stack",
-        "technical",
-        "dev",
-        "testing",
-        "finance",
-        "cloud",
-        "git",
-        "microsoft",
-        "data science",
-        "ops",
-        "marketing",
-        "excel",
-        "stats",
-        "engineer",
-        "shopify",
-        "digital nomad",
-        "saas",
-        "golang",
-        "medical",
-        "design",
-        "amazon",
-        "coordinator",
-        "customer support",
-        "education",
-        "ads",
-        "content writing",
-        "sales",
-        "ecommerce"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T19:59:34+00:00"
     }
   ],
-  "last_updated": "2026-06-07T17:38:07.019619",
+  "last_updated": "2026-06-07T18:55:16.637852",
   "total": 30,
   "new": 1
 }

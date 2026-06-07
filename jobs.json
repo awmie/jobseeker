@@ -71,6 +71,26 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Multi Grade Geographically Position",
+      "company": "School District No. 27",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-multi-grade-geographically-position-school-district-no-27-1132973",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "education",
+        "customer support",
+        "travel",
+        "finance",
+        "c",
+        "mobile",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-06T19:39:52+00:00"
+    },
+    {
       "title": "Administrative Support",
       "company": "Vish Consulting IT",
       "location": "Remote",
@@ -459,22 +479,9 @@
       ],
       "salary": "",
       "posted": "2026-06-05T22:05:01+00:00"
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "AWISEE",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-awisee-1132902",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T22:01:25+00:00"
     }
   ],
-  "last_updated": "2026-06-07T20:10:03.924372",
+  "last_updated": "2026-06-07T21:35:44.370163",
   "total": 30,
-  "new": 3
+  "new": 1
 }

@@ -71,6 +71,18 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Data Annotator",
+      "company": "CodeGeniusRecruit",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-annotator-codegeniusrecruit-1132962",
+      "source": "RemoteOK",
+      "tags": [
+        "data annotation"
+      ],
+      "salary": "",
+      "posted": "2026-06-06T22:02:32+00:00"
+    },
+    {
       "title": "Multi Grade Geographically Position",
       "company": "School District No. 27",
       "location": "Remote",
@@ -441,37 +453,9 @@
       ],
       "salary": "",
       "posted": "2026-06-05T23:36:48+00:00"
-    },
-    {
-      "title": "Chief Executive Officer",
-      "company": "Magdalena Biosciences",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-chief-executive-officer-magdalena-biosciences-1132997",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "education",
-        "customer support",
-        "accounting",
-        "medical",
-        "recruiter",
-        "non tech",
-        "hr",
-        "marketing",
-        "exec",
-        "technical",
-        "ops",
-        "travel",
-        "adult",
-        "finance",
-        "senior",
-        "biotech"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T23:36:27+00:00"
     }
   ],
-  "last_updated": "2026-06-07T22:42:03.602307",
+  "last_updated": "2026-06-07T23:45:49.497201",
   "total": 30,
-  "new": 2
+  "new": 1
 }

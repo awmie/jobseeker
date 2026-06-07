@@ -71,6 +71,54 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Administrative Support",
+      "company": "Vish Consulting IT",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-support-vish-consulting-it-1132970",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "salesforce",
+        "customer support",
+        "dev",
+        "transcribing",
+        "exec",
+        "math",
+        "microsoft",
+        "ops",
+        "excel",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-06T19:23:50+00:00"
+    },
+    {
+      "title": "Inpatient Claims Processor I",
+      "company": "Moda Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-inpatient-claims-processor-i-moda-health-1132979",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "customer support",
+        "testing",
+        "finance",
+        "education",
+        "math",
+        "robotics",
+        "exec",
+        "ops",
+        "excel",
+        "engineer",
+        "recruiter",
+        "sys admin",
+        "accounting",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-06-06T19:19:45+00:00"
+    },
+    {
       "title": "Administrative Coordinator US",
       "company": "Amgen",
       "location": "Remote",
@@ -386,6 +434,33 @@
       "posted": "2026-06-05T22:29:38+00:00"
     },
     {
+      "title": "Associate Delivery Manager",
+      "company": "Nymbus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-delivery-manager-nymbus-1132993",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "jira",
+        "saas",
+        "customer support",
+        "dev",
+        "marketing",
+        "travel",
+        "scrum",
+        "finance",
+        "video",
+        "cloud",
+        "ops",
+        "excel",
+        "golang",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-05T22:05:01+00:00"
+    },
+    {
       "title": "Executive Assistant",
       "company": "AWISEE",
       "location": "Remote",
@@ -397,89 +472,9 @@
       ],
       "salary": "",
       "posted": "2026-06-05T22:01:25+00:00"
-    },
-    {
-      "title": "Data Analyst",
-      "company": "Stio\u00c2\u00ae",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-stior-1132903",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "exec",
-        "analyst",
-        "sys admin",
-        "python",
-        "full stack",
-        "technical",
-        "dev",
-        "testing",
-        "finance",
-        "cloud",
-        "git",
-        "microsoft",
-        "data science",
-        "ops",
-        "marketing",
-        "excel",
-        "stats",
-        "engineer",
-        "shopify",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T20:36:46+00:00"
-    },
-    {
-      "title": "Builder Chief",
-      "company": "Consultran",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-builder-chief-consultran-1132898",
-      "source": "RemoteOK",
-      "tags": [
-        "dev"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T20:03:15+00:00"
-    },
-    {
-      "title": "Manager People Operations",
-      "company": "KIPP Foundation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-manager-people-operations-kipp-foundation-1132942",
-      "source": "RemoteOK",
-      "tags": [
-        "salesforce",
-        "hr",
-        "sys admin",
-        "teaching",
-        "education",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "ops",
-        "travel",
-        "payroll",
-        "finance",
-        "c",
-        "senior",
-        "excel",
-        "legal",
-        "medical",
-        "full time",
-        "digital nomad",
-        "infosec",
-        "coordinator",
-        "accounting",
-        "admin",
-        "stats"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T20:00:17+00:00"
     }
   ],
-  "last_updated": "2026-06-07T18:55:16.637852",
+  "last_updated": "2026-06-07T20:10:03.924372",
   "total": 30,
-  "new": 1
+  "new": 3
 }

@@ -71,6 +71,82 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Atenci\u00c3\u00b3n al cliente",
+      "company": "Singularu",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-atencion-al-cliente-singularu-1132966",
+      "source": "RemoteOK",
+      "tags": [
+        "salesforce",
+        "ecommerce"
+      ],
+      "salary": "",
+      "posted": "2026-06-06T13:22:24+00:00"
+    },
+    {
+      "title": "Social Media Content Creator",
+      "company": "FuseGlobal",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-fuseglobal-1132948",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "exec",
+        "design",
+        "hr",
+        "consulting",
+        "technical",
+        "customer support",
+        "travel",
+        "part time",
+        "digital nomad",
+        "coordinator",
+        "mobile",
+        "medical",
+        "content writing",
+        "social media"
+      ],
+      "salary": "",
+      "posted": "2026-06-06T13:10:57+00:00"
+    },
+    {
+      "title": "Behavioral Health Care Coordinator Scheduler",
+      "company": "Ennoble Care",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-behavioral-health-care-coordinator-scheduler-ennoble-care-1132947",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "exec",
+        "design",
+        "hr",
+        "consulting",
+        "technical",
+        "customer support",
+        "travel",
+        "part time",
+        "digital nomad",
+        "coordinator",
+        "mobile",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-06-06T13:08:32+00:00"
+    },
+    {
+      "title": "Chief Financial Officer",
+      "company": "ThisWay Global",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-financial-officer-thisway-global-1132945",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-06-06T13:02:55+00:00"
+    },
+    {
       "title": "Operations staff",
       "company": "Blue Dart",
       "location": "Remote",
@@ -437,90 +513,9 @@
       ],
       "salary": "",
       "posted": "2026-06-05T19:52:40+00:00"
-    },
-    {
-      "title": "General Production",
-      "company": "Dana Incorporated",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-production-dana-incorporated-1132958",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "content writing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T19:52:40+00:00"
-    },
-    {
-      "title": "CAN_GENERAL PRODUCTION",
-      "company": "Dana Incorporated",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-can-general-production-dana-incorporated-1132961",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "content writing",
-        "non tech",
-        "travel",
-        "finance",
-        "sys admin",
-        "medical",
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T19:52:40+00:00"
-    },
-    {
-      "title": "Support Engineer",
-      "company": "Level",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-support-engineer-level-1132895",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "technical"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T18:33:48+00:00"
-    },
-    {
-      "title": "Implementation Specialist",
-      "company": "Dossier - Digital Competency Management",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-dossier-digital-competency-management-1132904",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "exec",
-        "analyst",
-        "sys admin",
-        "python",
-        "full stack",
-        "technical",
-        "dev",
-        "testing",
-        "finance",
-        "cloud",
-        "git",
-        "microsoft",
-        "data science",
-        "ops",
-        "marketing",
-        "excel",
-        "stats",
-        "engineer",
-        "shopify",
-        "digital nomad",
-        "saas",
-        "golang",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T18:00:16+00:00"
     }
   ],
-  "last_updated": "2026-06-07T12:55:53.001189",
+  "last_updated": "2026-06-07T14:52:16.805180",
   "total": 30,
-  "new": 0
+  "new": 4
 }

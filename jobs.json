@@ -71,6 +71,16 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Coach Psicologo Online",
+      "company": "Serenis",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-coach-psicologo-online-serenis-1132955",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-06T16:01:54+00:00"
+    },
+    {
       "title": "Atenci\u00c3\u00b3n al cliente",
       "company": "Singularu",
       "location": "Remote",
@@ -499,23 +509,9 @@
       ],
       "salary": "",
       "posted": "2026-06-05T19:59:34+00:00"
-    },
-    {
-      "title": "General Production",
-      "company": "Dana Incorporated",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-production-dana-incorporated-1132953",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "content writing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T19:52:40+00:00"
     }
   ],
-  "last_updated": "2026-06-07T16:05:39.882446",
+  "last_updated": "2026-06-07T17:38:07.019619",
   "total": 30,
-  "new": 0
+  "new": 1
 }

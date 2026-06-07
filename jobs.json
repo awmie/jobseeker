@@ -71,6 +71,18 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Operations staff",
+      "company": "Blue Dart",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-staff-blue-dart-1132949",
+      "source": "RemoteOK",
+      "tags": [
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-06-06T10:28:59+00:00"
+    },
+    {
       "title": "Chief Operating Officer",
       "company": "Rose, Klein &amp; Marias",
       "location": "Remote",
@@ -506,19 +518,9 @@
       ],
       "salary": "",
       "posted": "2026-06-05T18:00:16+00:00"
-    },
-    {
-      "title": "Site Labourer",
-      "company": "Igne",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-site-labourer-igne-1132952",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-05T17:49:28+00:00"
     }
   ],
-  "last_updated": "2026-06-07T09:33:24.264379",
+  "last_updated": "2026-06-07T11:22:18.782865",
   "total": 30,
-  "new": 3
+  "new": 1
 }

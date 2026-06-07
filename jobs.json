@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Forager Growth Lead",
+      "company": "FORAGER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/forager-growth-lead",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Vista Fulfillment Group Customer Support Operations Manager Intercom Fin Ai",
       "company": "VISTA",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "INTERCONTINENTAL",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/intercontinental-recruiting-front-end-web-developer-wfh",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Animalz Senior Content Marketer Seo",
-      "company": "ANIMALZ",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/animalz-senior-content-marketer-seo",
       "source": "WeWorkRemotely"
     },
     {
@@ -520,7 +520,7 @@
       "posted": "2026-06-05T18:00:16+00:00"
     }
   ],
-  "last_updated": "2026-06-07T11:22:18.782865",
+  "last_updated": "2026-06-07T12:55:53.001189",
   "total": 30,
-  "new": 1
+  "new": 0
 }

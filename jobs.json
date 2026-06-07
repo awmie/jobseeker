@@ -71,6 +71,78 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Chief Operating Officer",
+      "company": "Rose, Klein &amp; Marias",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-rose-klein-amp-marias-1132941",
+      "source": "RemoteOK",
+      "tags": [
+        "salesforce",
+        "hr",
+        "sys admin",
+        "teaching",
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "ops",
+        "travel",
+        "payroll",
+        "finance",
+        "c",
+        "senior",
+        "excel",
+        "legal",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-06T07:51:58+00:00"
+    },
+    {
+      "title": "Don\u00e2\u0080\u0099t See a Perfect Role Apply Anyway",
+      "company": "Reducto",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-dont-see-a-perfect-role-apply-anyway-reducto-1132975",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "finance",
+        "content writing",
+        "medical",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-06-06T01:57:26+00:00"
+    },
+    {
+      "title": "FT PT Nanny",
+      "company": "Jovie",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ft-pt-nanny-jovie-1132976",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "finance",
+        "content writing",
+        "medical",
+        "engineer",
+        "react",
+        "teaching",
+        "education",
+        "customer support",
+        "math",
+        "exec",
+        "legal",
+        "sys admin",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-06-06T01:41:58+00:00"
+    },
+    {
       "title": "Sourcing Specialist",
       "company": "Theoria Medical",
       "location": "Remote",
@@ -444,64 +516,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-06-05T17:49:28+00:00"
-    },
-    {
-      "title": "Profesor A Ele \u00e2\u0080\u0094 Ense\u00c3\u00b1anza De Espa\u00c3\u00b1ol Horario Flexible",
-      "company": "Apprentus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-profesor-a-ele-ensenanza-de-espanol-horario-flexible-apprentus-1132929",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "dev",
-        "sales",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T17:41:42+00:00"
-    },
-    {
-      "title": "Buffer",
-      "company": "ESS \u00e2\u0080\u0093 Defence, Energy and Government Services",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-buffer-ess-defence-energy-and-government-services-1132940",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "ops",
-        "golang",
-        "recruiter",
-        "full time",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T17:30:51+00:00"
-    },
-    {
-      "title": "Sydney Trains Full Time and Part Time Train Cleaning Attendant Newcastle Region",
-      "company": "Sydney Trains",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sydney-trains-full-time-and-part-time-train-cleaning-attendant-newcastle-region-sydney-trains-1132934",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "customer support",
-        "ops",
-        "infosec",
-        "admin",
-        "full time",
-        "sys admin",
-        "education",
-        "recruiter",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-06-05T16:46:25+00:00"
     }
   ],
-  "last_updated": "2026-06-07T06:07:03.455966",
+  "last_updated": "2026-06-07T09:33:24.264379",
   "total": 30,
-  "new": 0
+  "new": 3
 }

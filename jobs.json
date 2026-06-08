@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Lemon Io Senior Platform Site Reliability Engineer",
+      "company": "LEMON IO",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-platform-site-reliability-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Select Saunas Customer Support Specialist",
       "company": "SELECT",
       "location": "Remote",
@@ -50,13 +57,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Lightup Network Solutions Gmbh Co Kg Technical Product Lead For Innovative Telecom Services",
-      "company": "LIGHTUP",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/lightup-network-solutions-gmbh-co-kg-technical-product-lead-for-innovative-telecom-services",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Elite Software Automation Business Analyst 2",
       "company": "ELITE",
       "location": "Remote",
@@ -69,6 +69,33 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Hired",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-hired-1132989",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "data science"
+      ],
+      "salary": "",
+      "posted": "2026-06-07T15:00:44+00:00"
+    },
+    {
+      "title": "Junior Human Resources Executive",
+      "company": "BrezQ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-human-resources-executive-brezq-1132988",
+      "source": "RemoteOK",
+      "tags": [
+        "junior",
+        "hr",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-06-07T14:03:38+00:00"
     },
     {
       "title": "Auxiliar Administrativo Remoto",
@@ -401,32 +428,9 @@
       ],
       "salary": "",
       "posted": "2026-06-06T17:03:53+00:00"
-    },
-    {
-      "title": "Coach Psicologo Online",
-      "company": "Serenis",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-coach-psicologo-online-serenis-1132955",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-06T16:01:54+00:00"
-    },
-    {
-      "title": "Atenci\u00c3\u00b3n al cliente",
-      "company": "Singularu",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-atencion-al-cliente-singularu-1132966",
-      "source": "RemoteOK",
-      "tags": [
-        "salesforce",
-        "ecommerce"
-      ],
-      "salary": "",
-      "posted": "2026-06-06T13:22:24+00:00"
     }
   ],
-  "last_updated": "2026-06-08T12:03:01.650367",
+  "last_updated": "2026-06-08T16:14:00.642658",
   "total": 30,
-  "new": 9
+  "new": 3
 }

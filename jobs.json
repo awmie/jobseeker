@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Studio Coordinator",
+      "company": "Rockhunter",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-studio-coordinator-rockhunter-1132998",
+      "source": "RemoteOK",
+      "tags": [
+        "coordinator",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-06-07T22:06:32+00:00"
+    },
+    {
       "title": "Medical Claims Processor I",
       "company": "Moda Health",
       "location": "Remote",
@@ -408,35 +421,9 @@
       ],
       "salary": "",
       "posted": "2026-06-06T19:23:50+00:00"
-    },
-    {
-      "title": "Inpatient Claims Processor I",
-      "company": "Moda Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-inpatient-claims-processor-i-moda-health-1132979",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "customer support",
-        "testing",
-        "finance",
-        "education",
-        "math",
-        "robotics",
-        "exec",
-        "ops",
-        "excel",
-        "engineer",
-        "recruiter",
-        "sys admin",
-        "accounting",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-06-06T19:19:45+00:00"
     }
   ],
-  "last_updated": "2026-06-08T21:03:54.382832",
+  "last_updated": "2026-06-08T22:44:36.042908",
   "total": 30,
-  "new": 2
+  "new": 1
 }

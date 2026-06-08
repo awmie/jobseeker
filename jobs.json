@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Garden3D Design Engineer Part Time",
+      "company": "GARDEN3D",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/garden3d-design-engineer-part-time",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Lemon Io Senior Platform Site Reliability Engineer",
       "company": "LEMON IO",
       "location": "Remote",
@@ -33,13 +40,6 @@
       "company": "DATAANNOTATION",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Sofatutor Gmbh Cro Specialist All Genders",
-      "company": "SOFATUTOR",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/sofatutor-gmbh-cro-specialist-all-genders",
       "source": "WeWorkRemotely"
     },
     {
@@ -430,7 +430,7 @@
       "posted": "2026-06-06T17:03:53+00:00"
     }
   ],
-  "last_updated": "2026-06-08T16:14:00.642658",
+  "last_updated": "2026-06-08T18:36:40.865830",
   "total": 30,
-  "new": 3
+  "new": 1
 }

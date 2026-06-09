@@ -71,6 +71,20 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Customs Agent",
+      "company": "FedEx",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customs-agent-fedex-1133053",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "education",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-08T18:15:31+00:00"
+    },
+    {
       "title": "Auxiliar de Dados REMOTO",
       "company": "ADVBOX",
       "location": "Remote",
@@ -448,30 +462,9 @@
       ],
       "salary": "",
       "posted": "2026-06-08T03:29:34+00:00"
-    },
-    {
-      "title": "Entry Level Administrative Assistant",
-      "company": "RecruitLyticx Hires",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlyticx-hires-1133076",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "recruiter",
-        "exec",
-        "education",
-        "customer support",
-        "marketing",
-        "video",
-        "microsoft",
-        "ops",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-06-08T03:14:08+00:00"
     }
   ],
-  "last_updated": "2026-06-09T17:47:49.651119",
+  "last_updated": "2026-06-09T19:49:34.974216",
   "total": 30,
-  "new": 4
+  "new": 1
 }

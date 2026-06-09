@@ -71,6 +71,50 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Executive Assistant",
+      "company": "Cyara",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-cyara-1133079",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "vfx",
+        "designer",
+        "marketing",
+        "exec",
+        "web dev",
+        "video",
+        "cloud",
+        "content writing",
+        "photoshop",
+        "medical",
+        "digital nomad",
+        "virtual assistant",
+        "customer support",
+        "testing",
+        "travel",
+        "speech",
+        "c",
+        "microsoft",
+        "ops",
+        "excel",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-06-08T22:17:12+00:00"
+    },
+    {
+      "title": "&lt;&lt;ENTER DISPLAY JOB TITLE&gt;&gt",
+      "company": "NewCold",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ltltenter-display-job-titlegtgt-newcold-1133045",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-08T21:54:18+00:00"
+    },
+    {
       "title": "Patient Scheduler",
       "company": "Pinnacle Method Consulting",
       "location": "Remote",
@@ -490,32 +534,9 @@
       ],
       "salary": "",
       "posted": "2026-06-08T14:05:23+00:00"
-    },
-    {
-      "title": "Assistente Jur\u00c3\u00addico",
-      "company": "M\u00c3\u00a9liuz",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistente-juridico-meliuz-1133019",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-08T14:02:02+00:00"
-    },
-    {
-      "title": "Functional Assessor",
-      "company": "PFAS (Personal Functional Assessment Services)",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-functional-assessor-pfas-personal-functional-assessment-services-1133049",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-08T13:20:54+00:00"
     }
   ],
-  "last_updated": "2026-06-09T21:25:14.513546",
+  "last_updated": "2026-06-09T22:56:52.936246",
   "total": 30,
-  "new": 9
+  "new": 2
 }

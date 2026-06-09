@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Flag Theory Multi Jurisdiction Accountant For An International Client Portfolio Europe",
+      "company": "FLAG",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/flag-theory-multi-jurisdiction-accountant-for-an-international-client-portfolio-europe",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Nogigiddy Remote Data Entry Clerk 7",
       "company": "NOGIGIDDY",
       "location": "Remote",
@@ -57,18 +64,42 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Elite Software Automation Business Analyst 2",
-      "company": "ELITE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Nomad Senior Software Engineer Ii",
       "company": "NOMAD",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Architectural Drafter",
+      "company": "RemoteVA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-remoteva-1133016",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "legal",
+        "non tech",
+        "hr",
+        "data entry",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-06-08T11:09:57+00:00"
+    },
+    {
+      "title": "Legal Document Drafting Virtual Assistant",
+      "company": "Outsource Access Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-legal-document-drafting-virtual-assistant-outsource-access-careers-1133014",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "legal",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-08T11:02:33+00:00"
     },
     {
       "title": "Technical Product Manager",
@@ -230,6 +261,27 @@
       "posted": "2026-06-08T03:29:34+00:00"
     },
     {
+      "title": "Entry Level Administrative Assistant",
+      "company": "RecruitLyticx Hires",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlyticx-hires-1133076",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "recruiter",
+        "exec",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "microsoft",
+        "ops",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-06-08T03:14:08+00:00"
+    },
+    {
       "title": "Judicial Law Clerk",
       "company": "LegalTrustAI",
       "location": "Remote",
@@ -386,47 +438,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-06-07T11:28:29+00:00"
-    },
-    {
-      "title": "Profesor a de Dibujo Modalidad Remota",
-      "company": "TUS Media",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-profesor-a-de-dibujo-modalidad-remota-tus-media-1132987",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-07T11:07:18+00:00"
-    },
-    {
-      "title": "Online Data Entry Operator Data Entry Clerk Data Entry Typing Data Entry",
-      "company": "Impact HR &amp; KM Solutions",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-online-data-entry-operator-data-entry-clerk-data-entry-typing-data-entry-impact-hr-amp-km-solutions-1133061",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "data entry",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-06-07T10:50:40+00:00"
-    },
-    {
-      "title": "Online Data Entry Operator Data Entry Clerk Data Entry Typing Data Entry",
-      "company": "Impact HR &amp; KM Solutions",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-online-data-entry-operator-data-entry-clerk-data-entry-typing-data-entry-impact-hr-amp-km-solutions-1133068",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "data entry",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-06-07T10:50:38+00:00"
     }
   ],
-  "last_updated": "2026-06-09T10:03:48.345109",
+  "last_updated": "2026-06-09T12:48:21.082803",
   "total": 30,
-  "new": 4
+  "new": 3
 }

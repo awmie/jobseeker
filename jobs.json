@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Nogigiddy Remote Data Entry Clerk 7",
+      "company": "NOGIGIDDY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Servicetitan Web Developer",
       "company": "SERVICETITAN WEB",
       "location": "Remote",
@@ -36,13 +43,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Dataannotation Tech Ft Pt Remote Ai Prompt Engineering Evaluation Will Train",
-      "company": "DATAANNOTATION",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Toggl Senior Product Manager 4",
       "company": "TOGGL",
       "location": "Remote",
@@ -69,6 +69,49 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Judicial Law Clerk",
+      "company": "LegalTrustAI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-judicial-law-clerk-legaltrustai-1133008",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "dev",
+        "sales",
+        "non tech",
+        "digital nomad",
+        "legal"
+      ],
+      "salary": "",
+      "posted": "2026-06-08T01:06:59+00:00"
+    },
+    {
+      "title": "Driving Examiner",
+      "company": "Department of Customer Services, Open Data and Small and Family Business",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-driving-examiner-department-of-customer-services-open-data-and-small-and-family-business-1133009",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "customer support",
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-08T00:41:29+00:00"
+    },
+    {
+      "title": "Farmer REMOTO",
+      "company": "ADVBOX",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-farmer-remoto-advbox-1133027",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-08T00:00:00+00:00"
     },
     {
       "title": "Studio Coordinator",
@@ -367,63 +410,9 @@
       ],
       "salary": "",
       "posted": "2026-06-07T00:00:04+00:00"
-    },
-    {
-      "title": "Data Annotator",
-      "company": "CodeGeniusRecruit",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-annotator-codegeniusrecruit-1132962",
-      "source": "RemoteOK",
-      "tags": [
-        "data annotation"
-      ],
-      "salary": "",
-      "posted": "2026-06-06T22:02:32+00:00"
-    },
-    {
-      "title": "Multi Grade Geographically Position",
-      "company": "School District No. 27",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-multi-grade-geographically-position-school-district-no-27-1132973",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "education",
-        "customer support",
-        "travel",
-        "finance",
-        "c",
-        "mobile",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-06T19:39:52+00:00"
-    },
-    {
-      "title": "Administrative Support",
-      "company": "Vish Consulting IT",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-support-vish-consulting-it-1132970",
-      "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "salesforce",
-        "customer support",
-        "dev",
-        "transcribing",
-        "exec",
-        "math",
-        "microsoft",
-        "ops",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-06T19:23:50+00:00"
     }
   ],
-  "last_updated": "2026-06-08T23:52:00.973110",
+  "last_updated": "2026-06-09T01:57:54.673856",
   "total": 30,
-  "new": 0
+  "new": 3
 }

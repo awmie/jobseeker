@@ -71,6 +71,31 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Environmental Scientists",
+      "company": "STEM Sync AI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-environmental-scientists-stem-sync-ai-1133046",
+      "source": "RemoteOK",
+      "tags": [
+        "biotech"
+      ],
+      "salary": "",
+      "posted": "2026-06-09T03:02:21+00:00"
+    },
+    {
+      "title": "Asesor a call center remoto",
+      "company": "Shalom",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-asesor-a-call-center-remoto-shalom-1133073",
+      "source": "RemoteOK",
+      "tags": [
+        "linux",
+        "microsoft"
+      ],
+      "salary": "",
+      "posted": "2026-06-09T01:07:20+00:00"
+    },
+    {
       "title": "Data Scientist",
       "company": "YO HR Consultancy",
       "location": "Remote",
@@ -648,52 +673,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-06-08T17:06:12+00:00"
-    },
-    {
-      "title": "Public Area Attendant",
-      "company": "Four Seasons",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1133054",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-08T16:54:07+00:00"
-    },
-    {
-      "title": "General Expression of Interest",
-      "company": "THE THIRD FLOOR Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-expression-of-interest-the-third-floor-inc-1133034",
-      "source": "RemoteOK",
-      "tags": [
-        "biotech",
-        "consulting",
-        "design",
-        "infosec",
-        "exec",
-        "customer support",
-        "testing",
-        "marketing",
-        "accounting",
-        "finance",
-        "video",
-        "senior",
-        "ops",
-        "legal",
-        "recruiter",
-        "digital nomad",
-        "amazon",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-06-08T16:06:05+00:00"
     }
   ],
-  "last_updated": "2026-06-10T00:16:56.145674",
+  "last_updated": "2026-06-10T04:52:08.941147",
   "total": 30,
-  "new": 5
+  "new": 2
 }

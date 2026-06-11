@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "The Legal Podcast Network We Re Hiring Appointment Setter Freelance Remote",
+      "company": "THE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/the-legal-podcast-network-we-re-hiring-appointment-setter-freelance-remote",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Mobena Frontend Engineer",
       "company": "MOBENA",
       "location": "Remote",
@@ -43,13 +50,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Forager Growth Lead",
-      "company": "FORAGER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/forager-growth-lead",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Toggl Senior Product Manager 4",
       "company": "TOGGL",
       "location": "Remote",
@@ -69,6 +69,84 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Scheduling Coordinator Entry Level",
+      "company": "Travel Planning Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-scheduling-coordinator-entry-level-travel-planning-careers-1133146",
+      "source": "RemoteOK",
+      "tags": [
+        "travel",
+        "accounting",
+        "finance",
+        "video",
+        "cloud",
+        "exec",
+        "ops",
+        "excel",
+        "golang",
+        "medical",
+        "design",
+        "designer",
+        "technical",
+        "customer support",
+        "quality assurance",
+        "adult",
+        "education",
+        "microsoft",
+        "content writing",
+        "ads",
+        "part time",
+        "digital nomad",
+        "coordinator",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-06-09T23:44:17+00:00"
+    },
+    {
+      "title": "Assistente de Cadastro InBetta TELE TRABALHO",
+      "company": "InBetta",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistente-de-cadastro-inbetta-tele-trabalho-inbetta-1133108",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-09T23:01:18+00:00"
+    },
+    {
+      "title": "Support Analyst",
+      "company": "Netrix Global",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-support-analyst-netrix-global-1133172",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "marketing",
+        "sales",
+        "medical",
+        "sys admin",
+        "education",
+        "customer support",
+        "dev",
+        "admin",
+        "microsoft",
+        "digital nomad",
+        "virtual assistant",
+        "video",
+        "ops",
+        "excel",
+        "finance",
+        "full time",
+        "analyst",
+        "jira",
+        "technical",
+        "mobile",
+        "legal"
+      ],
+      "salary": "",
+      "posted": "2026-06-09T22:23:59+00:00"
     },
     {
       "title": "Applied AI Analyst",
@@ -529,74 +607,9 @@
       ],
       "salary": "",
       "posted": "2026-06-09T17:36:41+00:00"
-    },
-    {
-      "title": "Regional Logistics Manager North America",
-      "company": "Wing",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-logistics-manager-north-america-wing-1133096",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "design",
-        "recruiter",
-        "customer support",
-        "marketing",
-        "finance",
-        "ops",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-09T17:20:58+00:00"
-    },
-    {
-      "title": "Clinical Research Scientist",
-      "company": "STEM Sync AI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-clinical-research-scientist-stem-sync-ai-1133094",
-      "source": "RemoteOK",
-      "tags": [
-        "designer",
-        "coordinator",
-        "customer support",
-        "exec",
-        "microsoft",
-        "ops",
-        "marketing",
-        "excel",
-        "recruiter",
-        "biotech"
-      ],
-      "salary": "",
-      "posted": "2026-06-09T17:07:38+00:00"
-    },
-    {
-      "title": "Facilities Technician",
-      "company": "Optimum",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-facilities-technician-optimum-1133119",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "embedded",
-        "sys admin",
-        "infosec",
-        "education",
-        "customer support",
-        "testing",
-        "exec",
-        "microsoft",
-        "ops",
-        "excel",
-        "golang",
-        "technical"
-      ],
-      "salary": "",
-      "posted": "2026-06-09T17:07:37+00:00"
     }
   ],
-  "last_updated": "2026-06-10T22:57:01.777508",
+  "last_updated": "2026-06-11T00:18:19.620911",
   "total": 30,
-  "new": 2
+  "new": 4
 }

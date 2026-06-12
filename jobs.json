@@ -71,6 +71,94 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Courier",
+      "company": "FedEx",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-courier-fedex-1133286",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "recruiter",
+        "non tech",
+        "infosec",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "ops",
+        "medical",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-06-11T12:17:33+00:00"
+    },
+    {
+      "title": "Auxiliar Administrativo Remoto",
+      "company": "Empresa Confidencial",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-remoto-empresa-confidencial-1133267",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-11T11:33:28+00:00"
+    },
+    {
+      "title": "Assistente Administrativo Remoto",
+      "company": "Empresa Confidencial",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-remoto-empresa-confidencial-1133270",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-11T11:33:28+00:00"
+    },
+    {
+      "title": "Life Coach for Students Online Role",
+      "company": "FindTutors",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-life-coach-for-students-online-role-findtutors-1133244",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "backend",
+        "digital nomad",
+        "embedded",
+        "sys admin",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "speech",
+        "exec",
+        "virtual assistant",
+        "finance",
+        "cloud",
+        "ops",
+        "ecommerce",
+        "full time",
+        "teaching"
+      ],
+      "salary": "",
+      "posted": "2026-06-11T11:08:59+00:00"
+    },
+    {
+      "title": "Backend Developer",
+      "company": "360Dialog",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-backend-developer-360dialog-1133242",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-11T11:00:57+00:00"
+    },
+    {
       "title": "Junior Web Designer",
       "company": "INFUSE",
       "location": "Remote",
@@ -470,111 +558,9 @@
       ],
       "salary": "",
       "posted": "2026-06-11T00:00:00+00:00"
-    },
-    {
-      "title": "Photographer",
-      "company": "University of Florida",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-photographer-university-of-florida-1133334",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "education",
-        "technical",
-        "customer support",
-        "dev",
-        "travel",
-        "video",
-        "exec",
-        "content writing",
-        "photoshop",
-        "medical",
-        "ads",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-11T00:00:00+00:00"
-    },
-    {
-      "title": "Social Media Coordinator",
-      "company": "House of Ruh",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-house-of-ruh-1133236",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "finance",
-        "video",
-        "sales",
-        "golang",
-        "medical",
-        "digital nomad",
-        "design",
-        "coordinator",
-        "exec",
-        "content writing",
-        "social media"
-      ],
-      "salary": "",
-      "posted": "2026-06-10T23:19:12+00:00"
-    },
-    {
-      "title": "Associate Brand Manager",
-      "company": "FuseGlobal",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-associate-brand-manager-fuseglobal-1133193",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "virtual assistant",
-        "exec",
-        "social media",
-        "part time",
-        "sys admin",
-        "education",
-        "customer support",
-        "content writing",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-06-10T22:07:07+00:00"
-    },
-    {
-      "title": "Social Media Manager",
-      "company": "Be Balanced Co.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-be-balanced-co-1133191",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "virtual assistant",
-        "exec",
-        "social media",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-06-10T22:04:17+00:00"
-    },
-    {
-      "title": "Contact Center Representative IHA Scheduling Team",
-      "company": "Advantmed",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-contact-center-representative-iha-scheduling-team-advantmed-1133190",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "virtual assistant"
-      ],
-      "salary": "",
-      "posted": "2026-06-10T22:02:55+00:00"
     }
   ],
-  "last_updated": "2026-06-12T10:43:11.871649",
+  "last_updated": "2026-06-12T13:51:26.975154",
   "total": 30,
-  "new": 7
+  "new": 5
 }

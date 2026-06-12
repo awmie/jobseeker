@@ -71,6 +71,42 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Healthcare Manager",
+      "company": "CuraSenseAI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-healthcare-manager-curasenseai-1133290",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "ios",
+        "sys admin",
+        "consulting",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "microsoft",
+        "mobile",
+        "exec",
+        "biotech",
+        "digital nomad",
+        "ops",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-06-11T22:03:50+00:00"
+    },
+    {
+      "title": "Medical Secretary",
+      "company": "CuraSenseAI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-medical-secretary-curasenseai-1133288",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-11T22:00:59+00:00"
+    },
+    {
       "title": "Confidential Search",
       "company": "Chandos Construction",
       "location": "Remote",
@@ -481,54 +517,9 @@
       ],
       "salary": "",
       "posted": "2026-06-11T14:10:01+00:00"
-    },
-    {
-      "title": "Junior Software Engineer",
-      "company": "StatusNeo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-software-engineer-statusneo-1133251",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "junior",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-11T14:00:44+00:00"
-    },
-    {
-      "title": "Medical Editor",
-      "company": "Synchrony Group, LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-medical-editor-synchrony-group-llc-1133291",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "ios",
-        "sys admin",
-        "consulting",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "microsoft",
-        "mobile",
-        "exec",
-        "biotech",
-        "digital nomad",
-        "ops",
-        "medical",
-        "education",
-        "video",
-        "content writing",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-06-11T13:42:33+00:00"
     }
   ],
-  "last_updated": "2026-06-12T22:13:12.161543",
+  "last_updated": "2026-06-12T23:53:28.292345",
   "total": 30,
-  "new": 1
+  "new": 2
 }

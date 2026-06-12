@@ -71,6 +71,20 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "test",
+      "company": "Doctor's Recruiter.com",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-doctors-recruiter-com-1133284",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-11T17:18:20+00:00"
+    },
+    {
       "title": "Customer Experience Manager in",
       "company": "empact",
       "location": "Remote",
@@ -470,23 +484,9 @@
       ],
       "salary": "",
       "posted": "2026-06-11T11:08:59+00:00"
-    },
-    {
-      "title": "Backend Developer",
-      "company": "360Dialog",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-backend-developer-360dialog-1133242",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-11T11:00:57+00:00"
     }
   ],
-  "last_updated": "2026-06-12T16:36:28.390914",
+  "last_updated": "2026-06-12T18:28:38.741583",
   "total": 30,
-  "new": 15
+  "new": 1
 }

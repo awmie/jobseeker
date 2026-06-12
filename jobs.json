@@ -71,6 +71,31 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Confidential Search",
+      "company": "Chandos Construction",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-confidential-search-chandos-construction-1133309",
+      "source": "RemoteOK",
+      "tags": [
+        "senior",
+        "ops",
+        "education",
+        "payroll",
+        "non tech",
+        "sys admin",
+        "supervisor",
+        "infosec",
+        "technical",
+        "customer support",
+        "transcribing",
+        "finance",
+        "medical",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-06-11T21:28:55+00:00"
+    },
+    {
       "title": "Learning &amp; Development Specialist",
       "company": "HealthCorps",
       "location": "Remote",
@@ -501,29 +526,9 @@
       ],
       "salary": "",
       "posted": "2026-06-11T13:42:33+00:00"
-    },
-    {
-      "title": "Data Scientist",
-      "company": "Why Hiring",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-scientist-why-hiring-1133248",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "jira",
-        "designer",
-        "speech",
-        "exec",
-        "ops",
-        "ecommerce",
-        "shopify",
-        "data science"
-      ],
-      "salary": "",
-      "posted": "2026-06-11T13:06:18+00:00"
     }
   ],
-  "last_updated": "2026-06-12T20:37:29.575457",
+  "last_updated": "2026-06-12T22:13:12.161543",
   "total": 30,
-  "new": 4
+  "new": 1
 }

@@ -71,6 +71,48 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Social Media Coordinator",
+      "company": "The Sociable Society",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-the-sociable-society-1133362",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "content writing",
+        "marketing",
+        "stats",
+        "social media",
+        "full time",
+        "coordinator",
+        "customer support",
+        "speech",
+        "video"
+      ],
+      "salary": "",
+      "posted": "2026-06-12T17:25:39+00:00"
+    },
+    {
+      "title": "Junior Human Resources Assistant",
+      "company": "Helic & Co.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-human-resources-assistant-helic-co-1133345",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "marketing",
+        "travel",
+        "education",
+        "sales",
+        "medical",
+        "virtual assistant",
+        "junior",
+        "hr"
+      ],
+      "salary": "",
+      "posted": "2026-06-12T17:07:39+00:00"
+    },
+    {
       "title": "Paralegal",
       "company": "Obelisk Support",
       "location": "Remote",
@@ -516,44 +558,9 @@
       ],
       "salary": "",
       "posted": "2026-06-12T08:00:10+00:00"
-    },
-    {
-      "title": "Experienced English Speaking Freelance Recruiter",
-      "company": "Mercier Consultancy Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-experienced-english-speaking-freelance-recruiter-mercier-consultancy-group-1133329",
-      "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "recruiter",
-        "customer support",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-12T08:00:04+00:00"
-    },
-    {
-      "title": "Healthcare Admin Assistant AI Projects",
-      "company": "CuraSenseAI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-healthcare-admin-assistant-ai-projects-curasenseai-1133328",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "dev",
-        "digital nomad",
-        "analyst",
-        "education",
-        "non tech",
-        "virtual assistant",
-        "admin",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-06-12T07:10:37+00:00"
     }
   ],
-  "last_updated": "2026-06-13T16:46:49.321018",
+  "last_updated": "2026-06-13T17:59:58.957503",
   "total": 30,
   "new": 2
 }

@@ -71,6 +71,24 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Interdisciplinary",
+      "company": "US Army Corps of Engineers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-interdisciplinary-us-army-corps-of-engineers-1133360",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "dev",
+        "mobile",
+        "golang",
+        "engineer",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-12T21:58:13+00:00"
+    },
+    {
       "title": "Atendimento ao cliente",
       "company": "Pluris M\u00c3\u00addia",
       "location": "Remote",
@@ -255,6 +273,20 @@
       "posted": "2026-06-12T15:45:24+00:00"
     },
     {
+      "title": "Other Position",
+      "company": "PicCollage \u00e6\u008b\u00bc\u00e8\u00b2\u00bc\u00e8\u00b6\u00a3",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-other-position-piccollage-1133395",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "exec",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-06-12T15:19:13+00:00"
+    },
+    {
       "title": "Data Analyst",
       "company": "ActivTrak",
       "location": "Remote",
@@ -434,74 +466,9 @@
       ],
       "salary": "",
       "posted": "2026-06-12T10:09:34+00:00"
-    },
-    {
-      "title": "Brand Strategist",
-      "company": "Digital",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-brand-strategist-digital-1133374",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "education",
-        "customer support",
-        "dev",
-        "travel",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel",
-        "medical",
-        "digital nomad",
-        "sys admin",
-        "accounting",
-        "content writing",
-        "recruiter",
-        "speech",
-        "consulting",
-        "strategy",
-        "marketing",
-        "video",
-        "ads"
-      ],
-      "salary": "",
-      "posted": "2026-06-12T10:09:26+00:00"
-    },
-    {
-      "title": "Freelance Social Media Strategist",
-      "company": "Digital",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-social-media-strategist-digital-1133378",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "education",
-        "customer support",
-        "dev",
-        "travel",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel",
-        "medical",
-        "digital nomad",
-        "sys admin",
-        "accounting",
-        "content writing",
-        "recruiter",
-        "speech",
-        "consulting",
-        "strategy",
-        "marketing",
-        "video",
-        "ads",
-        "social media"
-      ],
-      "salary": "",
-      "posted": "2026-06-12T09:46:12+00:00"
     }
   ],
-  "last_updated": "2026-06-13T22:04:15.993019",
+  "last_updated": "2026-06-13T23:18:44.739102",
   "total": 30,
-  "new": 3
+  "new": 2
 }

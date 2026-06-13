@@ -71,6 +71,57 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Paralegal",
+      "company": "Obelisk Support",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-paralegal-obelisk-support-1133352",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "admin",
+        "content writing",
+        "senior",
+        "legal",
+        "recruiter",
+        "part time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-12T15:45:24+00:00"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "ActivTrak",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-activtrak-1133346",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "marketing",
+        "travel",
+        "education",
+        "sales",
+        "medical",
+        "virtual assistant",
+        "junior",
+        "hr",
+        "analyst",
+        "design",
+        "python",
+        "technical",
+        "cloud",
+        "math",
+        "api",
+        "data science",
+        "ops",
+        "stats",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-12T14:34:23+00:00"
+    },
+    {
       "title": "Trade Marketing &amp; Brand Activation Manager",
       "company": "Cloetta",
       "location": "Remote",
@@ -500,43 +551,9 @@
       ],
       "salary": "",
       "posted": "2026-06-12T07:10:37+00:00"
-    },
-    {
-      "title": "Cultural Research Specialist",
-      "company": "STEM Sync AI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-cultural-research-specialist-stem-sync-ai-1133327",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "dev",
-        "digital nomad",
-        "analyst",
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-12T07:10:19+00:00"
-    },
-    {
-      "title": "Research Analyst Education",
-      "company": "AccessLex Institute",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-research-analyst-education-accesslex-institute-1133326",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "dev",
-        "digital nomad",
-        "analyst",
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-12T07:06:38+00:00"
     }
   ],
-  "last_updated": "2026-06-13T15:11:43.000435",
+  "last_updated": "2026-06-13T16:46:49.321018",
   "total": 30,
-  "new": 1
+  "new": 2
 }

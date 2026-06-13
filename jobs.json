@@ -71,6 +71,40 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Project Assistant",
+      "company": "Exactus Energy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-assistant-exactus-energy-1133322",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant"
+      ],
+      "salary": "",
+      "posted": "2026-06-12T06:08:07+00:00"
+    },
+    {
+      "title": "VP of Product",
+      "company": "CAKES body",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-vp-of-product-cakes-body-1133319",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-12T04:03:44+00:00"
+    },
+    {
+      "title": "Client Success Analyst",
+      "company": "Termgrid",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-success-analyst-termgrid-1133318",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst"
+      ],
+      "salary": "",
+      "posted": "2026-06-12T03:12:48+00:00"
+    },
+    {
       "title": "Online Bidder",
       "company": "JSR Technologies Pvt. Ltd.",
       "location": "Remote",
@@ -423,70 +457,9 @@
       ],
       "salary": "",
       "posted": "2026-06-11T17:18:20+00:00"
-    },
-    {
-      "title": "Customer Experience Manager in",
-      "company": "empact",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-experience-manager-in-empact-1133281",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "sys admin",
-        "dev",
-        "design",
-        "finance",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-11T16:00:37+00:00"
-    },
-    {
-      "title": "Customer Success Manager Senior",
-      "company": "Orquest - Retail Smart Planning",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-senior-orquest-retail-smart-planning-1133280",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "exec",
-        "saas",
-        "dev",
-        "marketing",
-        "c",
-        "senior",
-        "ops",
-        "excel",
-        "sales",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-11T16:00:30+00:00"
-    },
-    {
-      "title": "Civil Engineer EN 8.42",
-      "company": "Credence",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-civil-engineer-en-8-42-credence-1133279",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "technical",
-        "customer support",
-        "virtual assistant",
-        "exec",
-        "medical",
-        "engineer",
-        "part time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-11T16:00:24+00:00"
     }
   ],
-  "last_updated": "2026-06-13T02:43:10.099968",
+  "last_updated": "2026-06-13T06:42:10.304343",
   "total": 30,
-  "new": 9
+  "new": 3
 }

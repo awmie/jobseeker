@@ -71,6 +71,55 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "SEO Content Writer",
+      "company": "Inspira Education",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-seo-content-writer-inspira-education-1133357",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "exec",
+        "writer",
+        "dev",
+        "marketing",
+        "education",
+        "seo",
+        "content writing",
+        "senior",
+        "legal",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-13T00:00:22+00:00"
+    },
+    {
+      "title": "Customer Experience Associate",
+      "company": "Ollie",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-experience-associate-ollie-1133370",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "education",
+        "customer support",
+        "dev",
+        "travel",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "medical",
+        "digital nomad",
+        "sys admin",
+        "accounting",
+        "content writing",
+        "recruiter",
+        "speech"
+      ],
+      "salary": "",
+      "posted": "2026-06-12T23:38:17+00:00"
+    },
+    {
       "title": "Interdisciplinary",
       "company": "US Army Corps of Engineers",
       "location": "Remote",
@@ -411,64 +460,9 @@
       ],
       "salary": "",
       "posted": "2026-06-12T10:57:07+00:00"
-    },
-    {
-      "title": "Localisation Linguist",
-      "company": "DNEG",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-localisation-linguist-dneg-1133336",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "sys admin",
-        "education",
-        "technical",
-        "customer support",
-        "speech",
-        "linguistics",
-        "quality assurance",
-        "content writing",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-12T10:39:59+00:00"
-    },
-    {
-      "title": "Brand Strategist",
-      "company": "Digital",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-brand-strategist-digital-1133380",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "education",
-        "customer support",
-        "dev",
-        "travel",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel",
-        "medical",
-        "digital nomad",
-        "sys admin",
-        "accounting",
-        "content writing",
-        "recruiter",
-        "speech",
-        "consulting",
-        "strategy",
-        "marketing",
-        "video",
-        "ads",
-        "social media"
-      ],
-      "salary": "",
-      "posted": "2026-06-12T10:09:34+00:00"
     }
   ],
-  "last_updated": "2026-06-13T23:18:44.739102",
+  "last_updated": "2026-06-14T01:39:14.827554",
   "total": 30,
   "new": 2
 }

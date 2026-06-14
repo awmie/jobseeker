@@ -71,6 +71,24 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Customer Service Representative",
+      "company": "Point72",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-point72-1133406",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "admin",
+        "education",
+        "customer support",
+        "marketing",
+        "part time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-13T10:19:12+00:00"
+    },
+    {
       "title": "Various Positions",
       "company": "Northern News Services",
       "location": "Remote",
@@ -472,35 +490,9 @@
       ],
       "salary": "",
       "posted": "2026-06-12T19:53:22+00:00"
-    },
-    {
-      "title": "Medical Claims Support I",
-      "company": "Moda Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-medical-claims-support-i-moda-health-1133369",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "education",
-        "customer support",
-        "dev",
-        "travel",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel",
-        "medical",
-        "digital nomad",
-        "sys admin",
-        "accounting",
-        "content writing",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-06-12T19:20:12+00:00"
     }
   ],
-  "last_updated": "2026-06-14T14:25:18.492282",
+  "last_updated": "2026-06-14T16:04:20.875793",
   "total": 30,
-  "new": 0
+  "new": 1
 }

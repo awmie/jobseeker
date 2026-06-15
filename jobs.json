@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Bnk To The Future Graphic Web Designer",
+      "company": "BNK TO",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/bnk-to-the-future-graphic-web-designer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Bruker Corporation Working Student M F D Devops Software Development",
       "company": "BRUKER",
       "location": "Remote",
@@ -26,13 +33,6 @@
       "company": "NATIVE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/native-camp-online-english-teacher-33",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Ahu Technologies Tax Analyst Bloomington Il",
-      "company": "AHU",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-tax-analyst-bloomington-il",
       "source": "WeWorkRemotely"
     },
     {
@@ -445,7 +445,7 @@
       "posted": "2026-06-13T01:07:58+00:00"
     }
   ],
-  "last_updated": "2026-06-15T20:02:57.871921",
+  "last_updated": "2026-06-15T22:24:57.176170",
   "total": 30,
-  "new": 0
+  "new": 1
 }

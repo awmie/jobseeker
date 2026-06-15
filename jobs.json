@@ -71,6 +71,63 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Medical Scribe Female Only",
+      "company": "Angel City VA Recruitment",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-medical-scribe-female-only-angel-city-va-recruitment-1133399",
+      "source": "RemoteOK",
+      "tags": [
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-14T02:10:34+00:00"
+    },
+    {
+      "title": "test",
+      "company": "Fluidstack",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-fluidstack-1133414",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "design",
+        "dev",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-14T00:32:52+00:00"
+    },
+    {
+      "title": "Illustrator",
+      "company": "Odixcity Consulting",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-illustrator-odixcity-consulting-1133397",
+      "source": "RemoteOK",
+      "tags": [
+        "architecture",
+        "microsoft",
+        "exec",
+        "junior",
+        "consulting",
+        "illustrator",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-06-14T00:08:57+00:00"
+    },
+    {
+      "title": "Programa Futuros Profesionales Productos Digitales",
+      "company": "Universia Argentina",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-programa-futuros-profesionales-productos-digitales-universia-argentina-1133398",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-13T23:36:41+00:00"
+    },
+    {
       "title": "Customer Service Representative",
       "company": "Point72",
       "location": "Remote",
@@ -425,74 +482,9 @@
       ],
       "salary": "",
       "posted": "2026-06-12T21:58:13+00:00"
-    },
-    {
-      "title": "Atendimento ao cliente",
-      "company": "Pluris M\u00c3\u00addia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-atendimento-ao-cliente-pluris-midia-1133391",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-12T21:43:42+00:00"
-    },
-    {
-      "title": "Logistics & Operations Assistant",
-      "company": "Valatam",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-logistics-operations-assistant-valatam-1133356",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "testing",
-        "web dev",
-        "content writing",
-        "recruiter",
-        "non tech",
-        "virtual assistant",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-06-12T21:07:37+00:00"
-    },
-    {
-      "title": "Monitorear noticias sobre panorama informativo con \u00c3\u00a9nfasis en migraci\u00c3\u00b3n",
-      "company": "VNU S\u00c3\u00a9n\u00c3\u00a9gal/Gambie",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-monitorear-noticias-sobre-panorama-informativo-con-enfasis-en-migracion-vnu-senegal-gambie-1133355",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "testing",
-        "web dev",
-        "content writing",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-12T20:45:18+00:00"
-    },
-    {
-      "title": "Strategic Partnerships Director",
-      "company": "peopleworth",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-strategic-partnerships-director-peopleworth-1133366",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "customer support",
-        "marketing",
-        "video",
-        "education",
-        "senior",
-        "ops",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-06-12T19:53:22+00:00"
     }
   ],
-  "last_updated": "2026-06-15T00:05:22.530793",
+  "last_updated": "2026-06-15T05:24:28.323931",
   "total": 30,
-  "new": 0
+  "new": 4
 }

@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "We Work Remotely Digital Analytics Engineer Ga4 Gtm",
+      "company": "WE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/we-work-remotely-digital-analytics-engineer-ga4-gtm",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Bnk To The Future Graphic Web Designer",
       "company": "BNK TO",
       "location": "Remote",
@@ -26,13 +33,6 @@
       "company": "NEARCUT",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/nearcut-product-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Native Camp Online English Teacher 33",
-      "company": "NATIVE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/native-camp-online-english-teacher-33",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,16 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Learning And Development Specialist",
+      "company": "DTI (Diversified Technology Inc.)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-learning-and-development-specialist-dti-diversified-technology-inc-1133417",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-15T03:07:17+00:00"
     },
     {
       "title": "Executive Assistant the Founders",
@@ -416,31 +426,9 @@
       ],
       "salary": "",
       "posted": "2026-06-13T01:09:42+00:00"
-    },
-    {
-      "title": "Administrative Assistant",
-      "company": "aramco",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-aramco-1133368",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "education",
-        "customer support",
-        "dev",
-        "travel",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-13T01:08:52+00:00"
     }
   ],
-  "last_updated": "2026-06-16T00:09:44.854318",
+  "last_updated": "2026-06-16T05:31:54.987811",
   "total": 30,
   "new": 1
 }

@@ -71,6 +71,60 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Supply Chain Manager",
+      "company": "Ignite",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-supply-chain-manager-ignite-1133497",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "amazon",
+        "sys admin",
+        "technical",
+        "customer support",
+        "marketing",
+        "speech",
+        "seo",
+        "exec",
+        "content writing",
+        "ops",
+        "sales",
+        "ecommerce",
+        "shopify"
+      ],
+      "salary": "",
+      "posted": "2026-06-16T14:06:32+00:00"
+    },
+    {
+      "title": "Customer Service & Support Representative Customer Care Center Eastern Central Time Zones Only",
+      "company": "PNC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-support-representative-customer-care-center-eastern-central-time-zones-only-pnc-1133495",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "education",
+        "exec",
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-06-16T12:13:31+00:00"
+    },
+    {
+      "title": "Learning & Education Executive",
+      "company": "Ignite Your Success",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-learning-education-executive-ignite-your-success-1133494",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "education",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-06-16T12:06:46+00:00"
+    },
+    {
       "title": "Executive Assistant Fully Inside IR35",
       "company": "VPA London",
       "location": "Remote",
@@ -523,84 +577,9 @@
       ],
       "salary": "",
       "posted": "2026-06-15T23:59:33+00:00"
-    },
-    {
-      "title": "Marketing Assistant",
-      "company": "Sleek Marketing",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-assistant-sleek-marketing-1133502",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "virtual assistant",
-        "education",
-        "exec",
-        "strategy",
-        "content writing",
-        "ops",
-        "marketing",
-        "golang",
-        "full time",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-06-15T23:34:54+00:00"
-    },
-    {
-      "title": "Junior Business &amp; Data Analyst",
-      "company": "Upgrade, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-business-amp-data-analyst-upgrade-inc-1133488",
-      "source": "RemoteOK",
-      "tags": [
-        "music",
-        "education",
-        "game dev",
-        "recruiter",
-        "customer support",
-        "exec",
-        "video",
-        "ops",
-        "full time",
-        "analyst",
-        "testing",
-        "marketing",
-        "finance",
-        "microsoft",
-        "data science",
-        "senior",
-        "junior",
-        "excel",
-        "stats",
-        "golang",
-        "medical",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-06-15T22:43:02+00:00"
-    },
-    {
-      "title": "Communications Associate",
-      "company": "Discord",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-communications-associate-discord-1133487",
-      "source": "RemoteOK",
-      "tags": [
-        "music",
-        "education",
-        "game dev",
-        "recruiter",
-        "customer support",
-        "exec",
-        "video",
-        "ops",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-06-15T22:28:15+00:00"
     }
   ],
-  "last_updated": "2026-06-17T11:24:28.653821",
+  "last_updated": "2026-06-17T14:35:26.211856",
   "total": 30,
-  "new": 6
+  "new": 3
 }

@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Assuresoft Devops Engineer",
+      "company": "ASSURESOFT",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/assuresoft-devops-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Kuna Eit Civil Anchorage Ak",
       "company": "KUNA EIT",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "PROXIFY AB",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Bruker Corporation Working Student M F D Devops Software Development",
-      "company": "BRUKER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/bruker-corporation-working-student-m-f-d-devops-software-development",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,181 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Auxiliar Administrativo",
+      "company": "Foursys",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-foursys-1133549",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-17T17:01:13+00:00"
+    },
+    {
+      "title": "Client Success Manager",
+      "company": "Empathy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-success-manager-empathy-1133591",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "customer support",
+        "finance",
+        "c",
+        "senior",
+        "marketing",
+        "sales",
+        "golang",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-17T16:54:57+00:00"
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "OnlineJobs.PH",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-onlinejobs-ph-1133575",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "content writing",
+        "junior",
+        "marketing",
+        "legal",
+        "golang",
+        "virtual assistant",
+        "design",
+        "hr",
+        "technical",
+        "customer support",
+        "copywriting",
+        "accounting",
+        "video",
+        "c",
+        "excel",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-17T16:51:54+00:00"
+    },
+    {
+      "title": "Farm Hand",
+      "company": "Department of Education and Training",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-farm-hand-department-of-education-and-training-1133571",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "exec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-06-17T16:47:51+00:00"
+    },
+    {
+      "title": "Receptionist Front Office Executive",
+      "company": "Work Force Nexus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-receptionist-front-office-executive-work-force-nexus-1133547",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "designer",
+        "finance",
+        "scheme",
+        "photoshop",
+        "part time",
+        "digital nomad",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-06-17T16:06:07+00:00"
+    },
+    {
+      "title": "Designer",
+      "company": "Newsquest Media Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-newsquest-media-group-1133546",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "designer",
+        "finance",
+        "scheme",
+        "photoshop",
+        "part time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-17T14:40:10+00:00"
+    },
+    {
+      "title": "Head of Communications",
+      "company": "Marie Curie UK",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-communications-marie-curie-uk-1133548",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "designer",
+        "finance",
+        "scheme",
+        "photoshop",
+        "part time",
+        "digital nomad",
+        "exec",
+        "customer support",
+        "travel",
+        "speech",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-06-17T14:21:39+00:00"
+    },
+    {
+      "title": "Data Entry Clerk",
+      "company": "DigiHyre",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-digihyre-1133558",
+      "source": "RemoteOK",
+      "tags": [
+        "senior",
+        "exec",
+        "social media",
+        "part time",
+        "teaching",
+        "full time",
+        "music",
+        "coordinator",
+        "customer support",
+        "scheme",
+        "marketing",
+        "medical",
+        "virtual assistant",
+        "embedded",
+        "hr",
+        "sys admin",
+        "education",
+        "content writing",
+        "ops",
+        "recruiter",
+        "data entry",
+        "dev",
+        "excel",
+        "sales",
+        "golang",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-17T14:18:38+00:00"
     },
     {
       "title": "Payroll &amp; HRIS Coordinator",
@@ -160,6 +335,18 @@
       ],
       "salary": "",
       "posted": "2026-06-17T13:02:52+00:00"
+    },
+    {
+      "title": "LIMA PROFESIONAL PSIC\u00c3\u0093LOGO UCV VIRTUAL",
+      "company": "Evaluar",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-lima-profesional-psicologo-ucv-virtual-evaluar-1133668",
+      "source": "RemoteOK",
+      "tags": [
+        "c"
+      ],
+      "salary": "",
+      "posted": "2026-06-17T12:54:15+00:00"
     },
     {
       "title": "Clinical Research Associate II",
@@ -374,204 +561,9 @@
       ],
       "salary": "",
       "posted": "2026-06-17T06:05:31+00:00"
-    },
-    {
-      "title": "Junior Customer Success Representative",
-      "company": "Mission Inbox",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-customer-success-representative-mission-inbox-1133540",
-      "source": "RemoteOK",
-      "tags": [
-        "writer",
-        "strategy",
-        "customer support",
-        "marketing",
-        "seo",
-        "exec",
-        "content writing",
-        "ops",
-        "stats",
-        "sys admin",
-        "engineer",
-        "saas",
-        "teaching",
-        "technical",
-        "dev",
-        "quality assurance",
-        "junior",
-        "golang",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-17T05:15:26+00:00"
-    },
-    {
-      "title": "Customer Service Agent",
-      "company": "OnlineJobs.PH",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-onlinejobs-ph-1133544",
-      "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "education",
-        "customer support",
-        "marketing",
-        "quality assurance",
-        "exec",
-        "ecommerce",
-        "shopify",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-06-17T04:53:10+00:00"
-    },
-    {
-      "title": "Business Development Representative",
-      "company": "Bucket Listers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-bucket-listers-1133532",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "exec",
-        "content writing",
-        "ops",
-        "marketing",
-        "bus dev",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-06-17T04:35:18+00:00"
-    },
-    {
-      "title": "Content & Social Media Executive",
-      "company": "Work Force Nexus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-content-social-media-executive-work-force-nexus-1133530",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "writer",
-        "customer support",
-        "dev",
-        "finance",
-        "scheme",
-        "microsoft",
-        "exec",
-        "content writing",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "design",
-        "ops",
-        "sales",
-        "hr",
-        "teaching",
-        "copywriting",
-        "marketing",
-        "social media"
-      ],
-      "salary": "",
-      "posted": "2026-06-17T04:08:24+00:00"
-    },
-    {
-      "title": "Creative Copywriter",
-      "company": "Deadpan \u00f0\u009f\u0092\u0080 \u00f0\u009f\u008e\u00ac",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-creative-copywriter-deadpan-1133529",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "writer",
-        "customer support",
-        "dev",
-        "finance",
-        "scheme",
-        "microsoft",
-        "exec",
-        "content writing",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "design",
-        "ops",
-        "sales",
-        "hr",
-        "teaching",
-        "copywriting",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-06-17T04:08:10+00:00"
-    },
-    {
-      "title": "Pharmacovigilance Associate Position",
-      "company": "Puma Biotechnology, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-pharmacovigilance-associate-position-puma-biotechnology-inc-1133533",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "exec",
-        "content writing",
-        "ops",
-        "marketing",
-        "bus dev",
-        "sales",
-        "customer support",
-        "travel",
-        "education",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-06-17T02:14:20+00:00"
-    },
-    {
-      "title": "Test posting",
-      "company": "Vortex Companies - Trenchless Infrastructure Rehabilitation Solutions",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-posting-vortex-companies-trenchless-infrastructure-rehabilitation-solutions-1133538",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "marketing",
-        "robotics",
-        "testing",
-        "education",
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-06-17T01:00:42+00:00"
-    },
-    {
-      "title": "Performance Marketing Manager",
-      "company": "Varun Digital Media",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-performance-marketing-manager-varun-digital-media-1133521",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-06-17T00:07:20+00:00"
-    },
-    {
-      "title": "Patient Care Coordinator",
-      "company": "Winning Assistants",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-patient-care-coordinator-winning-assistants-1133520",
-      "source": "RemoteOK",
-      "tags": [
-        "coordinator",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-06-17T00:00:20+00:00"
     }
   ],
-  "last_updated": "2026-06-18T14:08:19.281888",
+  "last_updated": "2026-06-18T17:26:30.652353",
   "total": 30,
-  "new": 5
+  "new": 10
 }

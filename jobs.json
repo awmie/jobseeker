@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Infiniti Group Entry Level Junior Trader Remote",
+      "company": "INFINITI",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/infiniti-group-entry-level-junior-trader-remote",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Assuresoft Devops Engineer",
       "company": "ASSURESOFT",
       "location": "Remote",
@@ -29,20 +36,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Nearcut Product Manager",
-      "company": "NEARCUT",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/nearcut-product-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Native Camp Online English Teacher 33",
-      "company": "NATIVE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/native-camp-online-english-teacher-33",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "The Legal Podcast Network We Re Hiring Appointment Setter Freelance Remote",
       "company": "THE",
       "location": "Remote",
@@ -54,6 +47,13 @@
       "company": "SOFATUTOR",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/sofatutor-gmbh-cro-specialist-all-genders",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Toggl Senior Product Manager 4",
+      "company": "TOGGL",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,48 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Staff Product Manager Product Information Management",
+      "company": "HighLevel",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-product-information-management-highlevel-1133598",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "saas",
+        "sys admin",
+        "architecture",
+        "customer support",
+        "marketing",
+        "api",
+        "legal",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-18T08:00:03+00:00"
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company": "Haystack",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "python",
+        "education",
+        "microsoft",
+        "data science",
+        "junior",
+        "excel",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-18T07:55:49+00:00"
     },
     {
       "title": "Administrative Assistant",
@@ -528,107 +570,9 @@
       ],
       "salary": "",
       "posted": "2026-06-17T19:15:49+00:00"
-    },
-    {
-      "title": "Scrum Master",
-      "company": "SIRITECH SOLUTIONS CORP",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-scrum-master-siritech-solutions-corp-1133563",
-      "source": "RemoteOK",
-      "tags": [
-        "senior",
-        "exec",
-        "social media",
-        "part time",
-        "teaching",
-        "full time",
-        "music",
-        "coordinator",
-        "customer support",
-        "scheme",
-        "marketing",
-        "medical",
-        "virtual assistant",
-        "embedded",
-        "hr",
-        "sys admin",
-        "education",
-        "content writing",
-        "ops",
-        "recruiter",
-        "data entry",
-        "dev",
-        "excel",
-        "sales",
-        "golang",
-        "ecommerce",
-        "digital nomad",
-        "design",
-        "designer",
-        "web dev",
-        "video",
-        "ads",
-        "payroll",
-        "infosec",
-        "finance",
-        "cloud",
-        "microsoft",
-        "scrum",
-        "jira"
-      ],
-      "salary": "",
-      "posted": "2026-06-17T19:11:22+00:00"
-    },
-    {
-      "title": "Payroll Specialist",
-      "company": "Elevate LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-payroll-specialist-elevate-llc-1133562",
-      "source": "RemoteOK",
-      "tags": [
-        "senior",
-        "exec",
-        "social media",
-        "part time",
-        "teaching",
-        "full time",
-        "music",
-        "coordinator",
-        "customer support",
-        "scheme",
-        "marketing",
-        "medical",
-        "virtual assistant",
-        "embedded",
-        "hr",
-        "sys admin",
-        "education",
-        "content writing",
-        "ops",
-        "recruiter",
-        "data entry",
-        "dev",
-        "excel",
-        "sales",
-        "golang",
-        "ecommerce",
-        "digital nomad",
-        "design",
-        "designer",
-        "web dev",
-        "video",
-        "ads",
-        "payroll",
-        "infosec",
-        "finance",
-        "cloud",
-        "microsoft"
-      ],
-      "salary": "",
-      "posted": "2026-06-17T19:10:37+00:00"
     }
   ],
-  "last_updated": "2026-06-19T07:30:17.893939",
+  "last_updated": "2026-06-19T11:49:58.058625",
   "total": 30,
-  "new": 9
+  "new": 3
 }

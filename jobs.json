@@ -71,6 +71,88 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Executive Assistant",
+      "company": "ChaosTrack",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-chaostrack-1133683",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "virtual assistant",
+        "customer support",
+        "non tech",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-06-18T20:08:30+00:00"
+    },
+    {
+      "title": "Customer Support Specialist",
+      "company": "Velsera",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-velsera-1133682",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "virtual assistant",
+        "customer support",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-18T20:05:51+00:00"
+    },
+    {
+      "title": "Data Entry Clerk Virtual Assistant",
+      "company": "Sundayy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-virtual-assistant-sundayy-1133681",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "virtual assistant"
+      ],
+      "salary": "",
+      "posted": "2026-06-18T20:05:19+00:00"
+    },
+    {
+      "title": "Operations Administrator",
+      "company": "RECSEEKERS",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-administrator-recseekers-1133675",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "virtual assistant",
+        "medical",
+        "customer support",
+        "amazon",
+        "dev",
+        "speech",
+        "math",
+        "content writing",
+        "excel",
+        "recruiter",
+        "full time",
+        "non tech",
+        "digital nomad",
+        "education",
+        "exec",
+        "legal",
+        "web3",
+        "crypto",
+        "blockchain",
+        "design",
+        "marketing",
+        "finance",
+        "video",
+        "ops",
+        "social media",
+        "admin"
+      ],
+      "salary": "",
+      "posted": "2026-06-18T19:05:00+00:00"
+    },
+    {
       "title": "HR Administrative Assistant",
       "company": "Atlantic Health Strategies\u00e2\u0084\u00a2",
       "location": "Remote",
@@ -471,82 +553,9 @@
       ],
       "salary": "",
       "posted": "2026-06-18T05:07:38+00:00"
-    },
-    {
-      "title": "Social Media Manager",
-      "company": "Crypto.com",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-crypto-com-1133674",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "virtual assistant",
-        "medical",
-        "customer support",
-        "amazon",
-        "dev",
-        "speech",
-        "math",
-        "content writing",
-        "excel",
-        "recruiter",
-        "full time",
-        "non tech",
-        "digital nomad",
-        "education",
-        "exec",
-        "legal",
-        "web3",
-        "crypto",
-        "blockchain",
-        "design",
-        "marketing",
-        "finance",
-        "video",
-        "ops",
-        "social media"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T03:27:18+00:00"
-    },
-    {
-      "title": "Procurement Officer",
-      "company": "KAIZEN Asset Management Services",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-procurement-officer-kaizen-asset-management-services-1133584",
-      "source": "RemoteOK",
-      "tags": [
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T01:07:24+00:00"
-    },
-    {
-      "title": "Analista de Sucesso do Cliente Pleno",
-      "company": "ZENVIA",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-sucesso-do-cliente-pleno-zenvia-1133583",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-18T01:04:43+00:00"
-    },
-    {
-      "title": "Est\u00c3\u00a1gio em Recrutamento e Sele\u00c3\u00a7\u00c3\u00a3o Remoto",
-      "company": "talent's club",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-estagio-em-recrutamento-e-selecao-remoto-talents-club-1133670",
-      "source": "RemoteOK",
-      "tags": [
-        "c",
-        "telecom",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T00:54:40+00:00"
     }
   ],
-  "last_updated": "2026-06-19T19:03:16.513531",
+  "last_updated": "2026-06-19T20:43:07.960353",
   "total": 30,
-  "new": 2
+  "new": 4
 }

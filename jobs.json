@@ -71,6 +71,33 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Executive Assistant France",
+      "company": "Zirtual",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-france-zirtual-1133698",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T08:05:55+00:00"
+    },
+    {
+      "title": "Employment Lawyer Fully",
+      "company": "KMA Legal Recruitment",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-employment-lawyer-fully-kma-legal-recruitment-1133697",
+      "source": "RemoteOK",
+      "tags": [
+        "legal",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T07:00:14+00:00"
+    },
+    {
       "title": "Junior Graphic Designer",
       "company": "Work Force Nexus",
       "location": "Remote",
@@ -387,60 +414,9 @@
       ],
       "salary": "",
       "posted": "2026-06-18T15:14:38+00:00"
-    },
-    {
-      "title": "Sales Director Dairy Ingredients",
-      "company": "Kinisla",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-director-dairy-ingredients-kinisla-1133684",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "virtual assistant",
-        "customer support",
-        "non tech",
-        "exec",
-        "education",
-        "technical",
-        "marketing",
-        "travel",
-        "adult",
-        "video",
-        "senior",
-        "ops",
-        "sales",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T15:06:26+00:00"
-    },
-    {
-      "title": "Strategy and Engagement Officer",
-      "company": "Ministry of Housing, Communities and Local Government",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-strategy-and-engagement-officer-ministry-of-housing-communities-and-local-government-1133735",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "social media",
-        "sys admin",
-        "infosec",
-        "technical",
-        "customer support",
-        "testing",
-        "marketing",
-        "dev",
-        "scheme",
-        "microsoft",
-        "senior",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T15:00:26+00:00"
     }
   ],
-  "last_updated": "2026-06-20T06:18:07.401360",
+  "last_updated": "2026-06-20T09:45:42.222080",
   "total": 30,
-  "new": 4
+  "new": 2
 }

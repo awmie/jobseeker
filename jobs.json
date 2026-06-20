@@ -71,6 +71,20 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Election Officials",
+      "company": "City of New Westminster",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-election-officials-city-of-new-westminster-1133723",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T11:17:46+00:00"
+    },
+    {
       "title": "Executive Assistant France",
       "company": "Zirtual",
       "location": "Remote",
@@ -96,6 +110,27 @@
       ],
       "salary": "",
       "posted": "2026-06-19T07:00:14+00:00"
+    },
+    {
+      "title": "Entry Level Administrative Assistant",
+      "company": "Recruitlytixs HR",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytixs-hr-1133743",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T06:36:01+00:00"
     },
     {
       "title": "Junior Graphic Designer",
@@ -358,65 +393,9 @@
       ],
       "salary": "",
       "posted": "2026-06-18T17:00:02+00:00"
-    },
-    {
-      "title": "Customer Solutions Technician",
-      "company": "Johnson Controls",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-solutions-technician-johnson-controls-1133699",
-      "source": "RemoteOK",
-      "tags": [
-        "recruiter",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T16:04:17+00:00"
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Swoon",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "virtual assistant",
-        "medical",
-        "customer support",
-        "amazon",
-        "dev",
-        "speech",
-        "math",
-        "content writing",
-        "excel",
-        "recruiter",
-        "full time",
-        "non tech",
-        "digital nomad",
-        "education",
-        "exec",
-        "legal",
-        "web3",
-        "crypto",
-        "blockchain",
-        "design",
-        "marketing",
-        "finance",
-        "video",
-        "ops",
-        "social media",
-        "admin",
-        "designer",
-        "photoshop",
-        "sales",
-        "ads",
-        "illustrator"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T15:14:38+00:00"
     }
   ],
-  "last_updated": "2026-06-20T09:45:42.222080",
+  "last_updated": "2026-06-20T11:45:04.042815",
   "total": 30,
   "new": 2
 }

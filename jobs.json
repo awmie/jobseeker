@@ -71,6 +71,76 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Pharmacy Technician",
+      "company": "Coralisle Group Ltd.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-pharmacy-technician-coralisle-group-ltd-1133739",
+      "source": "RemoteOK",
+      "tags": [
+        "c sharp",
+        "sys admin",
+        "technical",
+        "customer support",
+        "marketing",
+        "travel",
+        "quality assurance",
+        "javascript",
+        "c",
+        "css",
+        "html",
+        "exec",
+        "ops",
+        "dev",
+        "finance",
+        "microsoft",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T19:54:18+00:00"
+    },
+    {
+      "title": "All Other Roles",
+      "company": "Collate",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-all-other-roles-collate-1133733",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T19:49:32+00:00"
+    },
+    {
+      "title": "Junior Human Resources Assistant",
+      "company": "Helic & Co",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-human-resources-assistant-helic-co-1133714",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "education",
+        "marketing",
+        "content writing",
+        "stats",
+        "social media",
+        "digital nomad",
+        "ops",
+        "virtual assistant",
+        "coordinator",
+        "customer support",
+        "excel",
+        "sales",
+        "junior",
+        "hr"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T18:08:38+00:00"
+    },
+    {
       "title": "Director of Operations",
       "company": "Robots & Pencils",
       "location": "Remote",
@@ -360,61 +430,9 @@
       ],
       "salary": "",
       "posted": "2026-06-19T00:08:54+00:00"
-    },
-    {
-      "title": "Analista de Relacionamento com o Cliente Jr Remoto",
-      "company": "Shopper.com.br",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-relacionamento-com-o-cliente-jr-remoto-shopper-com-br-1133690",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-19T00:03:05+00:00"
-    },
-    {
-      "title": "Analista de Software S\u00c3\u00aanior",
-      "company": "Banco BV",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-software-senior-banco-bv-1133689",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "design",
-        "docker",
-        "java",
-        "cloud",
-        "exec",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T00:00:13+00:00"
-    },
-    {
-      "title": "Desktop Support Technician",
-      "company": "Pathway Communications",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-desktop-support-technician-pathway-communications-1133710",
-      "source": "RemoteOK",
-      "tags": [
-        "jira",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "customer support",
-        "dev",
-        "cloud",
-        "mobile",
-        "exec",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T00:00:00+00:00"
     }
   ],
-  "last_updated": "2026-06-20T18:08:19.626686",
+  "last_updated": "2026-06-20T19:54:57.688783",
   "total": 30,
   "new": 3
 }

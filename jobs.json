@@ -71,6 +71,54 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Influencer",
+      "company": "Pashet",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-influencer-pashet-1133708",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "supervisor",
+        "customer support",
+        "finance",
+        "exec",
+        "ops",
+        "social media",
+        "infosec",
+        "technical",
+        "microsoft",
+        "engineer",
+        "linux"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T15:08:08+00:00"
+    },
+    {
+      "title": "Marketing Assistant",
+      "company": "Brooklyn Cured",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-assistant-brooklyn-cured-1133713",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "education",
+        "marketing",
+        "content writing",
+        "stats",
+        "social media",
+        "digital nomad",
+        "ops",
+        "virtual assistant",
+        "coordinator",
+        "customer support",
+        "excel",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T14:34:58+00:00"
+    },
+    {
       "title": "Election Officials",
       "company": "City of New Westminster",
       "location": "Remote",
@@ -355,47 +403,9 @@
       ],
       "salary": "",
       "posted": "2026-06-18T19:01:44+00:00"
-    },
-    {
-      "title": "Documentation Specialist",
-      "company": "Pinnacle Home Care",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-documentation-specialist-pinnacle-home-care-1133694",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "customer support",
-        "dev",
-        "marketing",
-        "travel",
-        "education",
-        "exec",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T18:16:00+00:00"
-    },
-    {
-      "title": "Senior Backend Engineer Studio AI",
-      "company": "Creative Fabrica",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-studio-ai-creative-fabrica-1133667",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "technical",
-        "dev",
-        "senior",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T17:00:02+00:00"
     }
   ],
-  "last_updated": "2026-06-20T13:14:28.643510",
+  "last_updated": "2026-06-20T15:16:13.736581",
   "total": 30,
-  "new": 0
+  "new": 2
 }

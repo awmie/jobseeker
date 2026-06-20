@@ -71,6 +71,60 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Director of Operations",
+      "company": "Robots & Pencils",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-operations-robots-pencils-1133712",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "education",
+        "marketing",
+        "content writing",
+        "stats",
+        "social media",
+        "digital nomad",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T18:02:24+00:00"
+    },
+    {
+      "title": "Building Official 3 Inspections",
+      "company": "City of New Westminster",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-building-official-3-inspections-city-of-new-westminster-1133724",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T17:13:12+00:00"
+    },
+    {
+      "title": "Director of Communications",
+      "company": "Wing",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-communications-wing-1133719",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "strategy",
+        "customer support",
+        "c",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T17:06:24+00:00"
+    },
+    {
       "title": "Fast Hire for VA Receptionist",
       "company": "OnlineJobs.PH",
       "location": "Remote",
@@ -358,54 +412,9 @@
       ],
       "salary": "",
       "posted": "2026-06-19T00:00:00+00:00"
-    },
-    {
-      "title": "TEST JOB AD 2",
-      "company": "TEST",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-job-ad-2-test-1133716",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T23:44:07+00:00"
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "ChaosTrack",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-chaostrack-1133683",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "virtual assistant",
-        "customer support",
-        "non tech",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T20:08:30+00:00"
-    },
-    {
-      "title": "Customer Support Specialist",
-      "company": "Velsera",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-velsera-1133682",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "virtual assistant",
-        "customer support",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T20:05:51+00:00"
     }
   ],
-  "last_updated": "2026-06-20T16:54:51.528738",
+  "last_updated": "2026-06-20T18:08:19.626686",
   "total": 30,
   "new": 3
 }

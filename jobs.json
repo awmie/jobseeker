@@ -71,6 +71,71 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Fast Hire for VA Receptionist",
+      "company": "OnlineJobs.PH",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-fast-hire-for-va-receptionist-onlinejobs-ph-1133720",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "strategy",
+        "customer support",
+        "c",
+        "full time",
+        "digital nomad",
+        "dev",
+        "speech"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T16:52:43+00:00"
+    },
+    {
+      "title": "Project Systems Specialist",
+      "company": "Dart",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1133738",
+      "source": "RemoteOK",
+      "tags": [
+        "c sharp",
+        "sys admin",
+        "technical",
+        "customer support",
+        "marketing",
+        "travel",
+        "quality assurance",
+        "javascript",
+        "c",
+        "css",
+        "html",
+        "exec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T15:33:46+00:00"
+    },
+    {
+      "title": "Social Media Manager",
+      "company": "Rotaract Club of University of Ruhuna",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-rotaract-club-of-university-of-ruhuna-1133711",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "education",
+        "marketing",
+        "content writing",
+        "stats",
+        "social media",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T15:25:21+00:00"
+    },
+    {
       "title": "Influencer",
       "company": "Pashet",
       "location": "Remote",
@@ -338,74 +403,9 @@
       ],
       "salary": "",
       "posted": "2026-06-18T20:05:51+00:00"
-    },
-    {
-      "title": "Data Entry Clerk Virtual Assistant",
-      "company": "Sundayy",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-virtual-assistant-sundayy-1133681",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "virtual assistant"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T20:05:19+00:00"
-    },
-    {
-      "title": "Operations Administrator",
-      "company": "RECSEEKERS",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-operations-administrator-recseekers-1133675",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "virtual assistant",
-        "medical",
-        "customer support",
-        "amazon",
-        "dev",
-        "speech",
-        "math",
-        "content writing",
-        "excel",
-        "recruiter",
-        "full time",
-        "non tech",
-        "digital nomad",
-        "education",
-        "exec",
-        "legal",
-        "web3",
-        "crypto",
-        "blockchain",
-        "design",
-        "marketing",
-        "finance",
-        "video",
-        "ops",
-        "social media",
-        "admin"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T19:05:00+00:00"
-    },
-    {
-      "title": "HR Administrative Assistant",
-      "company": "Atlantic Health Strategies\u00e2\u0084\u00a2",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-hr-administrative-assistant-atlantic-health-strategiestm-1133671",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "virtual assistant",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-06-18T19:01:44+00:00"
     }
   ],
-  "last_updated": "2026-06-20T15:16:13.736581",
+  "last_updated": "2026-06-20T16:54:51.528738",
   "total": 30,
-  "new": 2
+  "new": 3
 }

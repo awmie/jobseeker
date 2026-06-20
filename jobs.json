@@ -8,17 +8,17 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Assuresoft Devops Engineer",
-      "company": "ASSURESOFT",
+      "title": "Philips Deutschland 581321 Devops Engineer Testing All Genders",
+      "company": "PHILIPS",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/assuresoft-devops-engineer",
+      "url": "https://weworkremotely.com/remote-jobs/philips-deutschland-581321-devops-engineer-testing-all-genders",
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Kuna Eit Civil Anchorage Ak",
-      "company": "KUNA EIT",
+      "title": "Ahu Technologies Sdet Automated Qa Engineer Seattle Wa",
+      "company": "AHU",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/kuna-eit-civil-anchorage-ak",
+      "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,30 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Care Coordinator",
+      "company": "Empassion Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-care-coordinator-empassion-health-1133721",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "strategy",
+        "customer support",
+        "c",
+        "full time",
+        "digital nomad",
+        "dev",
+        "speech",
+        "coordinator",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T20:09:11+00:00"
     },
     {
       "title": "Pharmacy Technician",
@@ -322,6 +346,72 @@
       "posted": "2026-06-19T11:17:46+00:00"
     },
     {
+      "title": "Manufacturing Manager",
+      "company": "Eaton",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manufacturing-manager-eaton-1133779",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "technical",
+        "supervisor",
+        "customer support",
+        "testing",
+        "exec",
+        "medical",
+        "engineer",
+        "recruiter",
+        "marketing",
+        "education",
+        "senior",
+        "ops",
+        "accounting",
+        "dev",
+        "junior",
+        "excel",
+        "digital nomad",
+        "consulting",
+        "finance",
+        "data entry",
+        "design",
+        "web dev",
+        "video",
+        "c",
+        "virtual assistant",
+        "speech",
+        "microsoft",
+        "sales",
+        "front end",
+        "backend",
+        "game dev",
+        "full stack",
+        "devops",
+        "laravel",
+        "cloud",
+        "php",
+        "typescript",
+        "golang",
+        "full time",
+        "payroll",
+        "part time",
+        "vfx",
+        "designer",
+        "travel",
+        "music",
+        "internship",
+        "saas",
+        "salesforce",
+        "content writing",
+        "legal",
+        "teaching",
+        "hr",
+        "ecommerce",
+        "coordinator"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T09:19:50+00:00"
+    },
+    {
       "title": "Executive Assistant France",
       "company": "Zirtual",
       "location": "Remote",
@@ -405,34 +495,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-06-19T02:04:30+00:00"
-    },
-    {
-      "title": "Administra\u00c3\u00a7\u00c3\u00a3o Virtual Segunda a Sexta USD $5 hr Remoto",
-      "company": "Elevate Teams",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-administracao-virtual-segunda-a-sexta-usd-5-hr-remoto-elevate-teams-1133692",
-      "source": "RemoteOK",
-      "tags": [
-        "hr"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T01:04:38+00:00"
-    },
-    {
-      "title": "Coordenador de Marketing Criativo",
-      "company": "K\u00c4\u0081sper",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-coordenador-de-marketing-criativo-kasper-1133691",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T00:08:54+00:00"
     }
   ],
-  "last_updated": "2026-06-20T19:54:57.688783",
+  "last_updated": "2026-06-20T21:14:36.592528",
   "total": 30,
-  "new": 3
+  "new": 4
 }

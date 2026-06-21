@@ -71,6 +71,81 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Assistant Store Manager",
+      "company": "Ross Stores, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistant-store-manager-ross-stores-inc-1133775",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "technical",
+        "supervisor",
+        "customer support",
+        "testing",
+        "exec",
+        "medical",
+        "engineer",
+        "recruiter",
+        "marketing",
+        "education",
+        "senior",
+        "ops",
+        "accounting",
+        "dev",
+        "junior",
+        "excel",
+        "digital nomad",
+        "consulting",
+        "finance",
+        "data entry",
+        "design",
+        "web dev",
+        "video",
+        "c",
+        "virtual assistant",
+        "speech",
+        "microsoft",
+        "sales",
+        "front end",
+        "backend",
+        "game dev",
+        "full stack",
+        "devops",
+        "laravel",
+        "cloud",
+        "php",
+        "typescript",
+        "golang",
+        "full time",
+        "payroll",
+        "part time",
+        "vfx",
+        "designer",
+        "travel",
+        "music",
+        "internship",
+        "saas",
+        "salesforce",
+        "content writing",
+        "legal",
+        "teaching"
+      ],
+      "salary": "",
+      "posted": "2026-06-20T12:05:58+00:00"
+    },
+    {
+      "title": "Content Creator UGC",
+      "company": "Twine",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-creator-ugc-twine-1133744",
+      "source": "RemoteOK",
+      "tags": [
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-06-20T12:03:45+00:00"
+    },
+    {
       "title": "Manufacturing Operator I",
       "company": "Eaton",
       "location": "Remote",
@@ -299,6 +374,19 @@
       "posted": "2026-06-20T00:00:02+00:00"
     },
     {
+      "title": "Content Creator",
+      "company": "Vive Social + PR",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-creator-vive-social-pr-1133820",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-06-19T22:50:00+00:00"
+    },
+    {
       "title": "Cleaner",
       "company": "Dexterra",
       "location": "Remote",
@@ -493,70 +581,9 @@
       ],
       "salary": "",
       "posted": "2026-06-19T19:54:18+00:00"
-    },
-    {
-      "title": "All Other Roles",
-      "company": "Collate",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-all-other-roles-collate-1133733",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T19:49:32+00:00"
-    },
-    {
-      "title": "Junior Human Resources Assistant",
-      "company": "Helic & Co",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-human-resources-assistant-helic-co-1133714",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "design",
-        "education",
-        "marketing",
-        "content writing",
-        "stats",
-        "social media",
-        "digital nomad",
-        "ops",
-        "virtual assistant",
-        "coordinator",
-        "customer support",
-        "excel",
-        "sales",
-        "junior",
-        "hr"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T18:08:38+00:00"
-    },
-    {
-      "title": "Director of Operations",
-      "company": "Robots & Pencils",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-operations-robots-pencils-1133712",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "design",
-        "education",
-        "marketing",
-        "content writing",
-        "stats",
-        "social media",
-        "digital nomad",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T18:02:24+00:00"
     }
   ],
-  "last_updated": "2026-06-21T10:40:38.473684",
+  "last_updated": "2026-06-21T12:29:20.960388",
   "total": 30,
   "new": 3
 }

@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Elite Software Automation Business Analyst 2",
+      "company": "ELITE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Infiniti Group Entry Level Junior Trader Remote",
       "company": "INFINITI",
       "location": "Remote",
@@ -64,11 +71,78 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Elite Software Automation Business Analyst 2",
-      "company": "ELITE",
+      "title": "TRANSPORT",
+      "company": "Mississippi Army National Guard Biloxi Office",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
-      "source": "WeWorkRemotely"
+      "url": "https://remoteOK.com/remote-jobs/remote-transport-mississippi-army-national-guard-biloxi-office-1133802",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-06-20T19:35:22+00:00"
+    },
+    {
+      "title": "CYBER",
+      "company": "Mississippi Army National Guard Biloxi Office",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-cyber-mississippi-army-national-guard-biloxi-office-1133824",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "finance",
+        "c",
+        "exec",
+        "golang",
+        "engineer",
+        "recruiter",
+        "game dev",
+        "infosec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-06-20T19:32:34+00:00"
+    },
+    {
+      "title": "CHRO",
+      "company": "NeuLife Rehabilitation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-chro-neulife-rehabilitation-1133813",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "video",
+        "exec",
+        "content writing",
+        "digital nomad",
+        "virtual assistant",
+        "quality assurance",
+        "hr",
+        "customer support",
+        "marketing",
+        "travel",
+        "payroll",
+        "finance",
+        "senior",
+        "ops",
+        "stats",
+        "medical",
+        "recruiter",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-06-20T19:19:21+00:00"
+    },
+    {
+      "title": "Agente de Viajes Online",
+      "company": "Viajes Marchante",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-agente-de-viajes-online-viajes-marchante-1133749",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-20T19:00:36+00:00"
     },
     {
       "title": "Social Media Manager Fashion Brand",
@@ -451,115 +525,9 @@
       ],
       "salary": "",
       "posted": "2026-06-19T21:43:29+00:00"
-    },
-    {
-      "title": "Live Chat Support",
-      "company": "Ateneo de Manila University",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-live-chat-support-ateneo-de-manila-university-1133741",
-      "source": "RemoteOK",
-      "tags": [
-        "accounting",
-        "finance",
-        "cloud",
-        "microsoft",
-        "exec",
-        "sys admin",
-        "customer support",
-        "dev",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T21:43:27+00:00"
-    },
-    {
-      "title": "Bookkeeper",
-      "company": "Ateneo de Manila University",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-bookkeeper-ateneo-de-manila-university-1133740",
-      "source": "RemoteOK",
-      "tags": [
-        "accounting",
-        "finance",
-        "cloud",
-        "microsoft",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T21:43:23+00:00"
-    },
-    {
-      "title": "Language Arts Teacher",
-      "company": "Think Academy U.S",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-language-arts-teacher-think-academy-u-s-1133816",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "video",
-        "exec",
-        "content writing",
-        "digital nomad",
-        "virtual assistant",
-        "quality assurance",
-        "hr",
-        "customer support",
-        "marketing",
-        "travel",
-        "payroll",
-        "finance",
-        "senior",
-        "ops",
-        "stats",
-        "medical",
-        "recruiter",
-        "full time",
-        "scrum",
-        "jira",
-        "infosec",
-        "teaching",
-        "technical",
-        "engineer",
-        "microsoft",
-        "education",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T21:34:05+00:00"
-    },
-    {
-      "title": "Tax Manager",
-      "company": "AppleOne Employment Services",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-tax-manager-appleone-employment-services-1133756",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "technical",
-        "supervisor",
-        "customer support",
-        "testing",
-        "exec",
-        "medical",
-        "engineer",
-        "recruiter",
-        "marketing",
-        "education",
-        "senior",
-        "ops",
-        "accounting",
-        "dev",
-        "junior",
-        "excel",
-        "digital nomad",
-        "consulting",
-        "finance"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T21:24:19+00:00"
     }
   ],
-  "last_updated": "2026-06-21T18:11:24.347766",
+  "last_updated": "2026-06-21T20:02:42.233261",
   "total": 30,
-  "new": 1
+  "new": 4
 }

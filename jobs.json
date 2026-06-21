@@ -71,6 +71,22 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Retoucher",
+      "company": "Agency MJ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-retoucher-agency-mj-1133811",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "video",
+        "exec",
+        "content writing",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-20T15:22:29+00:00"
+    },
+    {
       "title": "Assistant Store Manager",
       "company": "Ross Stores, Inc.",
       "location": "Remote",
@@ -552,38 +568,9 @@
       ],
       "salary": "",
       "posted": "2026-06-19T20:09:11+00:00"
-    },
-    {
-      "title": "Pharmacy Technician",
-      "company": "Coralisle Group Ltd.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-pharmacy-technician-coralisle-group-ltd-1133739",
-      "source": "RemoteOK",
-      "tags": [
-        "c sharp",
-        "sys admin",
-        "technical",
-        "customer support",
-        "marketing",
-        "travel",
-        "quality assurance",
-        "javascript",
-        "c",
-        "css",
-        "html",
-        "exec",
-        "ops",
-        "dev",
-        "finance",
-        "microsoft",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T19:54:18+00:00"
     }
   ],
-  "last_updated": "2026-06-21T14:57:39.978685",
+  "last_updated": "2026-06-21T16:47:32.383931",
   "total": 30,
-  "new": 0
+  "new": 1
 }

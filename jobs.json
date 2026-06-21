@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Social Media Manager Fashion Brand",
+      "company": "Twine",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-fashion-brand-twine-1133748",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "social media"
+      ],
+      "salary": "",
+      "posted": "2026-06-20T18:07:39+00:00"
+    },
+    {
       "title": "Retoucher",
       "company": "Agency MJ",
       "location": "Remote",
@@ -544,33 +557,9 @@
       ],
       "salary": "",
       "posted": "2026-06-19T21:24:19+00:00"
-    },
-    {
-      "title": "Care Coordinator",
-      "company": "Empassion Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-care-coordinator-empassion-health-1133721",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "design",
-        "architecture",
-        "recruiter",
-        "strategy",
-        "customer support",
-        "c",
-        "full time",
-        "digital nomad",
-        "dev",
-        "speech",
-        "coordinator",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T20:09:11+00:00"
     }
   ],
-  "last_updated": "2026-06-21T16:47:32.383931",
+  "last_updated": "2026-06-21T18:11:24.347766",
   "total": 30,
   "new": 1
 }

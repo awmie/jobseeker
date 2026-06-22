@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Atcom Senior Net Web Developer",
+      "company": "ATCOM",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/atcom-senior-net-web-developer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Elite Software Automation Business Analyst 2",
       "company": "ELITE",
       "location": "Remote",
@@ -19,13 +26,6 @@
       "company": "AIR",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/air-apps-devops-engineer-mobile",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Ahu Technologies Sdet Automated Qa Engineer Seattle Wa",
-      "company": "AHU",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,27 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Operations Roles",
+      "company": "Edirq",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-roles-edirq-1133825",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "finance",
+        "c",
+        "exec",
+        "golang",
+        "engineer",
+        "recruiter",
+        "game dev",
+        "infosec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-06-21T13:45:07+00:00"
     },
     {
       "title": "Research and Quality Assistant",
@@ -524,48 +545,9 @@
       ],
       "salary": "",
       "posted": "2026-06-20T04:24:10+00:00"
-    },
-    {
-      "title": "Project Assistant",
-      "company": "Talentoma",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-assistant-talentoma-1133838",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "design",
-        "sys admin",
-        "infosec",
-        "education",
-        "dev",
-        "testing",
-        "finance",
-        "cloud",
-        "exec",
-        "data science",
-        "ops",
-        "stats",
-        "sales",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "hr",
-        "customer support",
-        "marketing",
-        "part time",
-        "data entry",
-        "virtual assistant",
-        "coordinator",
-        "travel",
-        "recruiter",
-        "junior",
-        "amazon"
-      ],
-      "salary": "",
-      "posted": "2026-06-20T04:22:50+00:00"
     }
   ],
-  "last_updated": "2026-06-22T11:08:47.562832",
+  "last_updated": "2026-06-22T15:59:13.996346",
   "total": 30,
-  "new": 4
+  "new": 2
 }

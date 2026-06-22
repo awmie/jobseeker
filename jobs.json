@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Prowritersites Freelance Writer",
+      "company": "PROWRITERSITES",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/prowritersites-freelance-writer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Atcom Senior Net Web Developer",
       "company": "ATCOM",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "ELITE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Infiniti Group Entry Level Junior Trader Remote",
-      "company": "INFINITI",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/infiniti-group-entry-level-junior-trader-remote",
       "source": "WeWorkRemotely"
     },
     {
@@ -71,6 +71,24 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Outside Sales Representative",
+      "company": "Omada.ai",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-outside-sales-representative-omada-ai-1133826",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "teaching",
+        "game dev",
+        "marketing",
+        "exec",
+        "ads",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-06-21T16:00:06+00:00"
+    },
+    {
       "title": "Operations Roles",
       "company": "Edirq",
       "location": "Remote",
@@ -90,6 +108,50 @@
       ],
       "salary": "",
       "posted": "2026-06-21T13:45:07+00:00"
+    },
+    {
+      "title": "\u00e6\u0096\u00b0\u00e5\u00aa\u0092\u00e4\u00bd\u0093\u00e8\u00bf\u0090\u00e8\u0090\u00a5\u00e7\u00ba\u00bf\u00e4\u00b8",
+      "company": "\u00e5\u00a4\u00a7\u00e4\u00bc\u0097\u00e6\u00b1\u00bd\u00e8\u00bd\u00a6\u00ef\u00bc\u0088\u00e4\u00b8\u00ad\u00e5\u009b\u00bd\u00ef\u00bc\u0089",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "data entry",
+        "admin"
+      ],
+      "salary": "",
+      "posted": "2026-06-21T07:42:24+00:00"
+    },
+    {
+      "title": "\u00e3\u0080\u0090\u00e8\u00bf\u009c\u00e7\u00a8\u008b\u00e7\u00ba\u00bf\u00e4\u00b8\u008a\u00e3\u0080\u0091\u00e6\u0096\u00b0\u00e5\u00aa\u0092\u00e4\u00bd\u0093\u00e8\u00bf\u0090\u00e8\u0090",
+      "company": "\u00e5\u00a4\u00a7\u00e4\u00bc\u0097\u00e6\u00b1\u00bd\u00e8\u00bd\u00a6\u00ef\u00bc\u0088\u00e4\u00b8\u00ad\u00e5\u009b\u00bd\u00ef\u00bc\u0089",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "data entry",
+        "admin"
+      ],
+      "salary": "",
+      "posted": "2026-06-21T07:40:34+00:00"
     },
     {
       "title": "Research and Quality Assistant",
@@ -480,74 +542,9 @@
       ],
       "salary": "",
       "posted": "2026-06-20T09:16:17+00:00"
-    },
-    {
-      "title": "Scrum Master",
-      "company": "Haystack",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-scrum-master-haystack-1133814",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "video",
-        "exec",
-        "content writing",
-        "digital nomad",
-        "virtual assistant",
-        "quality assurance",
-        "hr",
-        "customer support",
-        "marketing",
-        "travel",
-        "payroll",
-        "finance",
-        "senior",
-        "ops",
-        "stats",
-        "medical",
-        "recruiter",
-        "full time",
-        "scrum",
-        "jira",
-        "infosec",
-        "teaching",
-        "technical",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-06-20T07:56:09+00:00"
-    },
-    {
-      "title": "\u00e6\u0096\u00b0\u00e5\u00aa\u0092\u00e4\u00bd\u0093\u00e8\u00bf\u0090\u00e8\u0090\u00a5\u00ef\u00bc\u0088\u00e7\u00ba\u00bf\u00e4\u00b8\u008a\u00ef\u00bc",
-      "company": "\u00e5\u00a4\u00a7\u00e4\u00bc\u0097\u00e6\u00b1\u00bd\u00e8\u00bd\u00a6\u00ef\u00bc\u0088\u00e4\u00b8\u00ad\u00e5\u009b\u00bd\u00ef\u00bc\u0089",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-20T07:41:21+00:00"
-    },
-    {
-      "title": "Project Scheduling Assistant",
-      "company": "Talentoma",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-scheduling-assistant-talentoma-1133856",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "exec",
-        "customer support",
-        "dev",
-        "ops",
-        "digital nomad",
-        "education",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-06-20T04:24:10+00:00"
     }
   ],
-  "last_updated": "2026-06-22T15:59:13.996346",
+  "last_updated": "2026-06-22T19:37:09.788906",
   "total": 30,
-  "new": 2
+  "new": 3
 }

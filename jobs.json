@@ -71,6 +71,63 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Freelance Designer",
+      "company": "Houseink Studio",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-houseink-studio-1133817",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "designer",
+        "testing",
+        "finance",
+        "marketing",
+        "excel",
+        "ads",
+        "ecommerce",
+        "part time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-21T02:05:46+00:00"
+    },
+    {
+      "title": "Director of Operations MSP Service Delivery",
+      "company": "bdManagedIT",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-operations-msp-service-delivery-bdmanagedit-1133848",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "coordinator",
+        "exec",
+        "web dev",
+        "speech",
+        "content writing",
+        "marketing",
+        "stats",
+        "full time",
+        "digital nomad",
+        "analyst",
+        "data science",
+        "testing",
+        "hr",
+        "teaching",
+        "sys admin",
+        "part time",
+        "education",
+        "architecture",
+        "technical",
+        "customer support",
+        "travel",
+        "finance",
+        "ops",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-06-21T00:00:00+00:00"
+    },
+    {
       "title": "TRANSPORT",
       "company": "Mississippi Army National Guard Biloxi Office",
       "location": "Remote",
@@ -156,6 +213,26 @@
       ],
       "salary": "",
       "posted": "2026-06-20T18:07:39+00:00"
+    },
+    {
+      "title": "Corporate",
+      "company": "Valpak of Southeastern Wisconsin",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-corporate-valpak-of-southeastern-wisconsin-1133840",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "accounting",
+        "finance",
+        "ops",
+        "legal",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-06-20T15:52:25+00:00"
     },
     {
       "title": "Data Analyst Data Warehouse Analytics and BI",
@@ -481,102 +558,17 @@
       "posted": "2026-06-20T02:03:53+00:00"
     },
     {
-      "title": "Certified CMMC Assessor",
-      "company": "OCT Consulting, LLC",
+      "title": "Preparador a de Oposiciones de Magisterio",
+      "company": "Ucademy",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-certified-cmmc-assessor-oct-consulting-llc-1133730",
+      "url": "https://remoteOK.com/remote-jobs/remote-preparador-a-de-oposiciones-de-magisterio-ucademy-1133849",
       "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "infosec",
-        "customer support",
-        "testing",
-        "marketing",
-        "dev",
-        "travel",
-        "education",
-        "exec",
-        "ops",
-        "full time",
-        "part time",
-        "digital nomad"
-      ],
+      "tags": [],
       "salary": "",
-      "posted": "2026-06-20T00:00:14+00:00"
-    },
-    {
-      "title": "Growth Product Manager",
-      "company": "AltaML",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-growth-product-manager-altaml-1133729",
-      "source": "RemoteOK",
-      "tags": [
-        "product manager",
-        "marketing",
-        "exec",
-        "design",
-        "saas",
-        "technical",
-        "writer",
-        "customer support",
-        "travel",
-        "education",
-        "ops",
-        "sales",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-20T00:00:08+00:00"
-    },
-    {
-      "title": "Customer Support Associate",
-      "company": "Max Retail",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-associate-max-retail-1133728",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-06-20T00:00:02+00:00"
-    },
-    {
-      "title": "No Experience",
-      "company": "RG&amp;T Solutions",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-no-experience-rgampt-solutions-1133829",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "design",
-        "sys admin",
-        "infosec",
-        "education",
-        "dev",
-        "testing",
-        "finance",
-        "cloud",
-        "exec",
-        "data science",
-        "ops",
-        "stats",
-        "sales",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "hr",
-        "customer support",
-        "marketing",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-06-19T23:47:11+00:00"
+      "posted": "2026-06-20T01:22:56+00:00"
     }
   ],
-  "last_updated": "2026-06-21T23:58:50.204681",
+  "last_updated": "2026-06-22T05:18:14.873139",
   "total": 30,
-  "new": 3
+  "new": 4
 }

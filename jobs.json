@@ -71,6 +71,29 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Coordinator Proposals",
+      "company": "Aecon Group Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-coordinator-proposals-aecon-group-inc-1133987",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "coordinator",
+        "customer support",
+        "travel",
+        "exec",
+        "assembly",
+        "content writing",
+        "ops",
+        "marketing",
+        "excel",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-22T22:42:39+00:00"
+    },
+    {
       "title": "Architectural Draftsperson",
       "company": "OsiLab",
       "location": "Remote",
@@ -485,27 +508,9 @@
       ],
       "salary": "",
       "posted": "2026-06-22T12:20:13+00:00"
-    },
-    {
-      "title": "Administrative Assistant",
-      "company": "Orchestrate Consulting Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-orchestrate-consulting-group-1133881",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "consulting",
-        "analyst",
-        "data science",
-        "excel",
-        "non tech",
-        "virtual assistant"
-      ],
-      "salary": "",
-      "posted": "2026-06-22T12:05:32+00:00"
     }
   ],
-  "last_updated": "2026-06-23T22:00:05.768072",
+  "last_updated": "2026-06-23T23:15:24.374041",
   "total": 30,
-  "new": 2
+  "new": 1
 }

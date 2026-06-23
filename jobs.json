@@ -71,6 +71,84 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Handyman",
+      "company": "Sivananda Ashram Yoga Retreat Bahamas",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyman-sivananda-ashram-yoga-retreat-bahamas-1133897",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "customer support",
+        "exec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-06-22T20:11:54+00:00"
+    },
+    {
+      "title": "General Interest Applications",
+      "company": "Vermont SportsCar",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-interest-applications-vermont-sportscar-1133983",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-22T19:45:37+00:00"
+    },
+    {
+      "title": "Labor",
+      "company": "Innovative Cleaning Services, LLC.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-labor-innovative-cleaning-services-llc-1133982",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-22T19:41:49+00:00"
+    },
+    {
+      "title": "CREATIVE PRODUCER FREELANCE",
+      "company": "FRED &amp; FARID",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-creative-producer-freelance-fred-amp-farid-1133975",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "education",
+        "customer support",
+        "dev",
+        "video",
+        "finance",
+        "scheme",
+        "microsoft",
+        "exec",
+        "legal",
+        "medical",
+        "full time",
+        "digital nomad",
+        "content writing",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-06-22T18:45:09+00:00"
+    },
+    {
+      "title": "Houseman",
+      "company": "The Abaco Club",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-houseman-the-abaco-club-1133892",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "marketing",
+        "ops",
+        "sys admin",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-22T18:24:14+00:00"
+    },
+    {
       "title": "NEW YOUTUBE VIDEO EDITOR",
       "company": "OnlineJobs.PH",
       "location": "Remote",
@@ -432,105 +510,9 @@
       ],
       "salary": "",
       "posted": "2026-06-22T11:24:10+00:00"
-    },
-    {
-      "title": "Executive Assistant Fully",
-      "company": "CoTrain",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-fully-cotrain-1133854",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-06-22T10:07:40+00:00"
-    },
-    {
-      "title": "Digital Marketing Manager",
-      "company": "Hunt St",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-marketing-manager-hunt-st-1133850",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "design",
-        "technical",
-        "customer support",
-        "seo",
-        "ads",
-        "admin",
-        "content writing",
-        "ops",
-        "marketing",
-        "stats",
-        "legal",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-22T08:00:02+00:00"
-    },
-    {
-      "title": "Human Resources Assistant",
-      "company": "Recruit Lytics Hires",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-recruit-lytics-hires-1133851",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "microsoft",
-        "ops",
-        "excel",
-        "legal",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-06-22T06:12:58+00:00"
-    },
-    {
-      "title": "Customer Support",
-      "company": "Recruit Lytics Hires",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-recruit-lytics-hires-1133984",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "sys admin",
-        "education",
-        "technical",
-        "marketing",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-06-22T06:01:00+00:00"
-    },
-    {
-      "title": "Entry Level Administrative Assistant",
-      "company": "Recruit Lytics Hires",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruit-lytics-hires-1133887",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "education",
-        "customer support",
-        "marketing",
-        "video",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-06-22T05:59:03+00:00"
     }
   ],
-  "last_updated": "2026-06-23T18:24:14.071285",
+  "last_updated": "2026-06-23T20:31:01.115126",
   "total": 30,
-  "new": 1
+  "new": 5
 }

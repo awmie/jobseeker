@@ -71,6 +71,56 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Computer Science Specialist",
+      "company": "G.S. International Public School",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-computer-science-specialist-g-s-international-public-school-1133998",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "python"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T17:17:02+00:00"
+    },
+    {
+      "title": "Team Lead Customer care",
+      "company": "Capgemini",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-lead-customer-care-capgemini-1134005",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "technical",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T16:54:43+00:00"
+    },
+    {
+      "title": "Senior Backend Software Developer",
+      "company": "BitPay",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-software-developer-bitpay-1133985",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "backend",
+        "javascript",
+        "crypto",
+        "mongo",
+        "node"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T16:52:28+00:00"
+    },
+    {
       "title": "Human Resources Administrator",
       "company": "Lingraphica",
       "location": "Remote",
@@ -469,68 +519,9 @@
       ],
       "salary": "",
       "posted": "2026-06-23T02:19:19+00:00"
-    },
-    {
-      "title": "Family Success Specialist",
-      "company": "bina",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-family-success-specialist-bina-1133911",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-23T02:09:46+00:00"
-    },
-    {
-      "title": "Data Analyst Excel",
-      "company": "YO IT Consulting",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-excel-yo-it-consulting-1134019",
-      "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "infosec",
-        "education",
-        "transcribing",
-        "speech",
-        "engineer",
-        "analyst",
-        "technical",
-        "customer support",
-        "microsoft",
-        "exec",
-        "data science",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T01:44:57+00:00"
-    },
-    {
-      "title": "Gardener",
-      "company": "Fairmont Hotels &amp; Resorts",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-gardener-fairmont-hotels-amp-resorts-1133988",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "coordinator",
-        "customer support",
-        "travel",
-        "exec",
-        "assembly",
-        "content writing",
-        "ops",
-        "marketing",
-        "excel",
-        "digital nomad",
-        "golang",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T01:44:52+00:00"
     }
   ],
-  "last_updated": "2026-06-24T15:53:05.548435",
+  "last_updated": "2026-06-24T17:47:29.850183",
   "total": 30,
-  "new": 5
+  "new": 3
 }

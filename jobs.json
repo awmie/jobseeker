@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Bright Vision Technologies Site Reliability Engineer Sre",
+      "company": "BRIGHT",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/bright-vision-technologies-site-reliability-engineer-sre",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Remote Talent Cloud Remote Ai Training 20 Hr United States 1",
       "company": "REMOTE",
       "location": "Remote",
@@ -19,13 +26,6 @@
       "company": "ELITE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Air Apps Devops Engineer Mobile",
-      "company": "AIR",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/air-apps-devops-engineer-mobile",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,147 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Creative Director",
+      "company": "Strange Face",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-creative-director-strange-face-1133995",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "non tech",
+        "customer support",
+        "marketing",
+        "c",
+        "exec",
+        "excel",
+        "legal",
+        "medical",
+        "speech",
+        "content writing",
+        "golang",
+        "social media",
+        "analyst",
+        "junior",
+        "art direction",
+        "music",
+        "strategy"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T20:13:49+00:00"
+    },
+    {
+      "title": "Social Media Manager",
+      "company": "Strange Face",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-strange-face-1133993",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "non tech",
+        "customer support",
+        "marketing",
+        "c",
+        "exec",
+        "excel",
+        "legal",
+        "medical",
+        "speech",
+        "content writing",
+        "golang",
+        "social media"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T20:06:20+00:00"
+    },
+    {
+      "title": "Patient Advocate",
+      "company": "Cedar",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-advocate-cedar-1134007",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "virtual assistant",
+        "exec",
+        "customer support",
+        "marketing",
+        "travel",
+        "payroll",
+        "admin",
+        "senior",
+        "ops",
+        "golang",
+        "recruiter",
+        "design",
+        "sys admin",
+        "finance",
+        "education",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T19:53:32+00:00"
+    },
+    {
+      "title": "Executive Assistant &amp; HR Administrator",
+      "company": "People Architects",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-amp-hr-administrator-people-architects-1134006",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "virtual assistant",
+        "exec",
+        "customer support",
+        "marketing",
+        "travel",
+        "payroll",
+        "admin",
+        "senior",
+        "ops",
+        "golang",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T19:39:28+00:00"
+    },
+    {
+      "title": "Social Media Video Editor",
+      "company": "Adoreal",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-video-editor-adoreal-1134001",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "infosec",
+        "customer support",
+        "dev",
+        "exec",
+        "ops",
+        "excel",
+        "digital nomad",
+        "teaching",
+        "education",
+        "web dev",
+        "travel",
+        "junior",
+        "medical",
+        "full time",
+        "part time",
+        "design",
+        "saas",
+        "marketing",
+        "speech",
+        "video",
+        "seo",
+        "content writing",
+        "recruiter",
+        "social media"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T19:24:50+00:00"
     },
     {
       "title": "Social Media Content Creator",
@@ -437,96 +578,9 @@
       ],
       "salary": "",
       "posted": "2026-06-23T08:27:29+00:00"
-    },
-    {
-      "title": "MSK Physiotherapist Virtual",
-      "company": "IPRS Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-msk-physiotherapist-virtual-iprs-health-1133974",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "education",
-        "customer support",
-        "dev",
-        "video",
-        "finance",
-        "scheme",
-        "microsoft",
-        "exec",
-        "legal",
-        "medical",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T07:28:45+00:00"
-    },
-    {
-      "title": "Marketing Coordinator",
-      "company": "RESOLUTE HR CONSULTING",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-coordinator-resolute-hr-consulting-1133917",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T05:20:02+00:00"
-    },
-    {
-      "title": "Logistics Coordinator",
-      "company": "Altis Recruitment",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-logistics-coordinator-altis-recruitment-1133915",
-      "source": "RemoteOK",
-      "tags": [
-        "coordinator",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T05:07:28+00:00"
-    },
-    {
-      "title": "Assistant Project Manager Fragrance",
-      "company": "Slate Brands",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistant-project-manager-fragrance-slate-brands-1133969",
-      "source": "RemoteOK",
-      "tags": [
-        "project manager",
-        "exec",
-        "virtual assistant",
-        "dev",
-        "marketing",
-        "finance",
-        "ops",
-        "excel",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T04:08:15+00:00"
-    },
-    {
-      "title": "Head of Public Understanding",
-      "company": "NOPE",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-public-understanding-nope-1133914",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "communications",
-        "content writing",
-        "ai",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T03:37:28+00:00"
     }
   ],
-  "last_updated": "2026-06-24T19:19:59.962076",
+  "last_updated": "2026-06-24T21:01:37.558783",
   "total": 30,
-  "new": 2
+  "new": 6
 }

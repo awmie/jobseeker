@@ -71,6 +71,28 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Senior Estimator",
+      "company": "Aecon Group Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-estimator-aecon-group-inc-1133989",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "technical",
+        "customer support",
+        "dev",
+        "exec",
+        "senior",
+        "ops",
+        "excel",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T22:42:37+00:00"
+    },
+    {
       "title": "Creative Director",
       "company": "Strange Face",
       "location": "Remote",
@@ -555,32 +577,9 @@
       ],
       "salary": "",
       "posted": "2026-06-23T12:02:43+00:00"
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Torentify",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-torentify-1133970",
-      "source": "RemoteOK",
-      "tags": [
-        "project manager",
-        "exec",
-        "virtual assistant",
-        "dev",
-        "marketing",
-        "finance",
-        "ops",
-        "excel",
-        "full time",
-        "digital nomad",
-        "customer support",
-        "microsoft"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T08:27:29+00:00"
     }
   ],
-  "last_updated": "2026-06-24T22:24:47.097225",
+  "last_updated": "2026-06-24T23:41:04.204718",
   "total": 30,
-  "new": 0
+  "new": 1
 }

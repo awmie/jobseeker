@@ -71,6 +71,56 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "MSK Physiotherapist Virtual",
+      "company": "IPRS Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-msk-physiotherapist-virtual-iprs-health-1133974",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "education",
+        "customer support",
+        "dev",
+        "video",
+        "finance",
+        "scheme",
+        "microsoft",
+        "exec",
+        "legal",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T07:28:45+00:00"
+    },
+    {
+      "title": "Marketing Coordinator",
+      "company": "RESOLUTE HR CONSULTING",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-coordinator-resolute-hr-consulting-1133917",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T05:20:02+00:00"
+    },
+    {
+      "title": "Logistics Coordinator",
+      "company": "Altis Recruitment",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-logistics-coordinator-altis-recruitment-1133915",
+      "source": "RemoteOK",
+      "tags": [
+        "coordinator",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T05:07:28+00:00"
+    },
+    {
       "title": "Assistant Project Manager Fragrance",
       "company": "Slate Brands",
       "location": "Remote",
@@ -462,44 +512,9 @@
       ],
       "salary": "",
       "posted": "2026-06-22T21:06:25+00:00"
-    },
-    {
-      "title": "Handyman",
-      "company": "Sivananda Ashram Yoga Retreat Bahamas",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-handyman-sivananda-ashram-yoga-retreat-bahamas-1133897",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "customer support",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-06-22T20:11:54+00:00"
-    },
-    {
-      "title": "General Interest Applications",
-      "company": "Vermont SportsCar",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-interest-applications-vermont-sportscar-1133983",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-22T19:45:37+00:00"
-    },
-    {
-      "title": "Labor",
-      "company": "Innovative Cleaning Services, LLC.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-labor-innovative-cleaning-services-llc-1133982",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-22T19:41:49+00:00"
     }
   ],
-  "last_updated": "2026-06-24T04:37:06.618986",
+  "last_updated": "2026-06-24T08:01:52.425960",
   "total": 30,
-  "new": 10
+  "new": 3
 }

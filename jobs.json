@@ -71,6 +71,29 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Virtual Assistant",
+      "company": "Torentify",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-torentify-1133970",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "virtual assistant",
+        "dev",
+        "marketing",
+        "finance",
+        "ops",
+        "excel",
+        "full time",
+        "digital nomad",
+        "customer support",
+        "microsoft"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T08:27:29+00:00"
+    },
+    {
       "title": "MSK Physiotherapist Virtual",
       "company": "IPRS Health",
       "location": "Remote",
@@ -470,51 +493,9 @@
       ],
       "salary": "",
       "posted": "2026-06-22T21:37:46+00:00"
-    },
-    {
-      "title": "Manager of People Operations",
-      "company": "Karbon",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-manager-of-people-operations-karbon-1133906",
-      "source": "RemoteOK",
-      "tags": [
-        "video",
-        "exec",
-        "full time",
-        "part time",
-        "customer support",
-        "travel",
-        "ops",
-        "excel",
-        "medical",
-        "design",
-        "saas",
-        "embedded",
-        "hr",
-        "sys admin",
-        "architecture",
-        "technical",
-        "coordinator",
-        "dev",
-        "marketing",
-        "accounting",
-        "finance",
-        "cloud",
-        "api",
-        "senior",
-        "stats",
-        "legal",
-        "golang",
-        "recruiter",
-        "engineer",
-        "education",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-22T21:06:25+00:00"
     }
   ],
-  "last_updated": "2026-06-24T08:01:52.425960",
+  "last_updated": "2026-06-24T11:12:27.736792",
   "total": 30,
-  "new": 3
+  "new": 1
 }

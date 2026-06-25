@@ -71,6 +71,42 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Monitor de Concursos Racioc\u00c3\u00adnio L\u00c3\u00b3gico + Inform\u00c3\u00a1tica",
+      "company": "V\u00c3\u00adcio",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-monitor-de-concursos-raciocinio-logico-informatica-vicio-1134051",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "finance",
+        "web dev",
+        "recruiter",
+        "virtual assistant",
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-06-24T00:51:43+00:00"
+    },
+    {
+      "title": "Data Entry Clerk",
+      "company": "Mercer County Works",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-mercer-county-works-1133999",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "infosec",
+        "customer support",
+        "dev",
+        "exec",
+        "ops",
+        "excel",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-24T00:01:29+00:00"
+    },
+    {
       "title": "Senior Estimator",
       "company": "Aecon Group Inc.",
       "location": "Remote",
@@ -279,6 +315,76 @@
       ],
       "salary": "",
       "posted": "2026-06-23T18:37:53+00:00"
+    },
+    {
+      "title": "General Virtual Assistant",
+      "company": "Filipino Contractors",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-virtual-assistant-filipino-contractors-1134062",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "customer support",
+        "transcribing",
+        "dev",
+        "marketing",
+        "voip",
+        "payroll",
+        "cloud",
+        "php",
+        "exec",
+        "senior",
+        "ops",
+        "sales",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T18:24:53+00:00"
+    },
+    {
+      "title": "Director of Sales Development",
+      "company": "INNERGY",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-sales-development-innergy-1134064",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "customer support",
+        "transcribing",
+        "dev",
+        "marketing",
+        "voip",
+        "payroll",
+        "cloud",
+        "php",
+        "exec",
+        "senior",
+        "ops",
+        "sales",
+        "medical",
+        "recruiter",
+        "digital nomad",
+        "consulting",
+        "strategy",
+        "content writing",
+        "junior",
+        "stats",
+        "full time",
+        "design",
+        "saas"
+      ],
+      "salary": "",
+      "posted": "2026-06-23T18:14:22+00:00"
     },
     {
       "title": "Trim",
@@ -510,76 +616,9 @@
       ],
       "salary": "",
       "posted": "2026-06-23T13:41:58+00:00"
-    },
-    {
-      "title": "Business Analyst",
-      "company": "Rotaract Club of Singapore Management University (SMU)",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-rotaract-club-of-singapore-management-university-smu-1133977",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "crypto",
-        "customer support",
-        "finance",
-        "ops",
-        "medical",
-        "analyst",
-        "sys admin",
-        "dev",
-        "scrum",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T13:21:11+00:00"
-    },
-    {
-      "title": "Docente de Educaci\u00c3\u00b3n Infantil Virtual Ingles B1",
-      "company": "Colegio Cambridge International Education",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-docente-de-educacion-infantil-virtual-ingles-b1-colegio-cambridge-international-education-1133986",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T12:32:03+00:00"
-    },
-    {
-      "title": "Marketing Assistant Fully",
-      "company": "JazzUpCo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-assistant-fully-jazzupco-1133973",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "marketing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T12:11:13+00:00"
-    },
-    {
-      "title": "VIP Relationship Manager",
-      "company": "KAST",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vip-relationship-manager-kast-1133976",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "crypto",
-        "customer support",
-        "finance",
-        "ops",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T12:02:43+00:00"
     }
   ],
-  "last_updated": "2026-06-24T23:41:04.204718",
+  "last_updated": "2026-06-25T01:49:26.466253",
   "total": 30,
-  "new": 1
+  "new": 4
 }

@@ -71,6 +71,45 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Mid Senior AI Cinematic Video Editor",
+      "company": "EverAI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "ai",
+        "other",
+        "art direction"
+      ],
+      "salary": "",
+      "posted": "2026-06-24T09:04:44+00:00"
+    },
+    {
+      "title": "Human Resources Specialist",
+      "company": "Mavida Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-mavida-health-1134013",
+      "source": "RemoteOK",
+      "tags": [
+        "medical",
+        "hr",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-06-24T09:02:52+00:00"
+    },
+    {
+      "title": "Patient Care Advocate",
+      "company": "Hey Jane",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-care-advocate-hey-jane-1134012",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-24T09:01:00+00:00"
+    },
+    {
       "title": "Nurse Advice Swing Shift 5a 10a 10p 5a CST",
       "company": "IntellaTriage",
       "location": "Remote",
@@ -554,104 +593,9 @@
       ],
       "salary": "",
       "posted": "2026-06-23T18:24:53+00:00"
-    },
-    {
-      "title": "Director of Sales Development",
-      "company": "INNERGY",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-sales-development-innergy-1134064",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "customer support",
-        "transcribing",
-        "dev",
-        "marketing",
-        "voip",
-        "payroll",
-        "cloud",
-        "php",
-        "exec",
-        "senior",
-        "ops",
-        "sales",
-        "medical",
-        "recruiter",
-        "digital nomad",
-        "consulting",
-        "strategy",
-        "content writing",
-        "junior",
-        "stats",
-        "full time",
-        "design",
-        "saas"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T18:14:22+00:00"
-    },
-    {
-      "title": "Trim",
-      "company": "Clayton",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-trim-clayton-1133990",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "finance",
-        "medical",
-        "recruiter",
-        "full time",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T17:59:18+00:00"
-    },
-    {
-      "title": "Technical Project Manager",
-      "company": "Nuvolar Works",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-project-manager-nuvolar-works-1134080",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "finance",
-        "exec",
-        "marketing",
-        "analyst",
-        "education",
-        "microsoft",
-        "data science",
-        "jira",
-        "sys admin",
-        "scrum",
-        "scheme",
-        "mobile",
-        "engineer",
-        "project manager",
-        "hr",
-        "consulting",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "cloud",
-        "ops",
-        "excel",
-        "golang",
-        "medical",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-23T17:39:57+00:00"
     }
   ],
-  "last_updated": "2026-06-25T08:49:24.337058",
+  "last_updated": "2026-06-25T11:29:05.990535",
   "total": 30,
   "new": 3
 }

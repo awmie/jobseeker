@@ -71,6 +71,22 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Investment &amp; Lending Associate",
+      "company": "LBC Mortgage",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-investment-amp-lending-associate-lbc-mortgage-1134094",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "finance",
+        "exec",
+        "excel",
+        "legal"
+      ],
+      "salary": "",
+      "posted": "2026-06-24T16:48:44+00:00"
+    },
+    {
       "title": "Principal Product Manager Acquisition Products",
       "company": "ButterflyMX",
       "location": "Remote",
@@ -549,28 +565,9 @@
       ],
       "salary": "",
       "posted": "2026-06-24T00:51:43+00:00"
-    },
-    {
-      "title": "Data Entry Clerk",
-      "company": "Mercer County Works",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-mercer-county-works-1133999",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "infosec",
-        "customer support",
-        "dev",
-        "exec",
-        "ops",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-24T00:01:29+00:00"
     }
   ],
-  "last_updated": "2026-06-25T16:08:54.637231",
+  "last_updated": "2026-06-25T18:24:29.645138",
   "total": 30,
-  "new": 4
+  "new": 1
 }

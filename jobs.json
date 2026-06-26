@@ -71,6 +71,37 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Chief Growth Officer",
+      "company": "Berni and Mick Ireland",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-growth-officer-berni-and-mick-ireland-1134139",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "design",
+        "exec",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "content writing",
+        "senior",
+        "ops",
+        "excel",
+        "ads",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "digital nomad",
+        "education",
+        "travel",
+        "microsoft",
+        "consulting",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-06-25T22:45:16+00:00"
+    },
+    {
       "title": "Line inspector",
       "company": "Job Buzzer",
       "location": "Remote",
@@ -500,25 +531,9 @@
       ],
       "salary": "",
       "posted": "2026-06-25T00:06:09+00:00"
-    },
-    {
-      "title": "Field Reliability Engineer LATAM",
-      "company": "Honeycomb.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-reliability-engineer-latam-honeycomb-io-1134061",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "cloud",
-        "sys admin",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-25T00:00:18+00:00"
     }
   ],
-  "last_updated": "2026-06-26T21:41:43.152168",
+  "last_updated": "2026-06-26T22:50:14.041881",
   "total": 30,
-  "new": 0
+  "new": 1
 }

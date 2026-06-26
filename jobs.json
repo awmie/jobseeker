@@ -71,6 +71,29 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Assistant Marketing Manager",
+      "company": "Little Caesars Pizza",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistant-marketing-manager-little-caesars-pizza-1134117",
+      "source": "RemoteOK",
+      "tags": [
+        "c",
+        "exec",
+        "virtual assistant",
+        "sys admin",
+        "supervisor",
+        "customer support",
+        "testing",
+        "marketing",
+        "travel",
+        "microsoft",
+        "content writing",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-06-25T16:37:11+00:00"
+    },
+    {
       "title": "Scheduling Coordinator Entry Level No Experience Needed",
       "company": "Travel Planning Professionals",
       "location": "Remote",
@@ -554,31 +577,9 @@
       ],
       "salary": "",
       "posted": "2026-06-24T21:16:08+00:00"
-    },
-    {
-      "title": "Office Support Role Pratham Education Foundation",
-      "company": "UN Remote Jobss",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-office-support-role-pratham-education-foundation-un-remote-jobss-1134092",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "transcribing",
-        "testing",
-        "non tech",
-        "customer support",
-        "exec",
-        "sales",
-        "medical",
-        "coordinator",
-        "ops",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-06-24T21:05:06+00:00"
     }
   ],
-  "last_updated": "2026-06-26T14:43:33.057774",
+  "last_updated": "2026-06-26T16:51:03.790404",
   "total": 30,
-  "new": 6
+  "new": 1
 }

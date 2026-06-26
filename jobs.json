@@ -71,6 +71,29 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Test Job",
+      "company": "Newcastle Digest",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-job-newcastle-digest-1134114",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-25T17:27:31+00:00"
+    },
+    {
+      "title": "Product",
+      "company": "fashionxyz",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-fashionxyz-1134115",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-25T17:14:27+00:00"
+    },
+    {
       "title": "Assistant Marketing Manager",
       "company": "Little Caesars Pizza",
       "location": "Remote",
@@ -521,65 +544,9 @@
       ],
       "salary": "",
       "posted": "2026-06-24T23:44:04+00:00"
-    },
-    {
-      "title": "LABORER",
-      "company": "Portales Fire Department",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-laborer-portales-fire-department-1134147",
-      "source": "RemoteOK",
-      "tags": [
-        "project manager",
-        "exec",
-        "product manager",
-        "dev",
-        "medical",
-        "digital nomad",
-        "ops",
-        "web dev"
-      ],
-      "salary": "",
-      "posted": "2026-06-24T23:11:01+00:00"
-    },
-    {
-      "title": "Lead Creative Strategist",
-      "company": "New Engen",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-lead-creative-strategist-new-engen-1134063",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "customer support",
-        "transcribing",
-        "dev",
-        "marketing",
-        "voip",
-        "payroll",
-        "cloud",
-        "php",
-        "exec",
-        "senior",
-        "ops",
-        "sales",
-        "medical",
-        "recruiter",
-        "digital nomad",
-        "consulting",
-        "strategy",
-        "content writing",
-        "junior",
-        "stats",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-06-24T21:16:08+00:00"
     }
   ],
-  "last_updated": "2026-06-26T16:51:03.790404",
+  "last_updated": "2026-06-26T18:19:00.834118",
   "total": 30,
-  "new": 1
+  "new": 2
 }

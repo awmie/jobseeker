@@ -71,6 +71,35 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Line inspector",
+      "company": "Job Buzzer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-line-inspector-job-buzzer-1134140",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-25T20:01:32+00:00"
+    },
+    {
+      "title": "Clinical Trial Associate",
+      "company": "Ollin Biosciences",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-trial-associate-ollin-biosciences-1134124",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "marketing",
+        "exec",
+        "microsoft",
+        "ops",
+        "excel",
+        "biotech",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-06-25T19:29:39+00:00"
+    },
+    {
       "title": "Test Job",
       "company": "Newcastle Digest",
       "location": "Remote",
@@ -487,66 +516,9 @@
       ],
       "salary": "",
       "posted": "2026-06-25T00:00:18+00:00"
-    },
-    {
-      "title": "Curso Humanizaci\u00c3\u00b3n del Servicio",
-      "company": "Comfenalco Valle delagente",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-curso-humanizacion-del-servicio-comfenalco-valle-delagente-1134074",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "technical",
-        "junior",
-        "engineer",
-        "digital nomad",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-06-24T23:46:42+00:00"
-    },
-    {
-      "title": "Marketing Manager Social Media Content Creation",
-      "company": "Academy of Television Arts &amp; Sciences",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-manager-social-media-content-creation-academy-of-television-arts-amp-sciences-1134065",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "customer support",
-        "transcribing",
-        "dev",
-        "marketing",
-        "voip",
-        "payroll",
-        "cloud",
-        "php",
-        "exec",
-        "senior",
-        "ops",
-        "sales",
-        "medical",
-        "recruiter",
-        "digital nomad",
-        "consulting",
-        "strategy",
-        "content writing",
-        "junior",
-        "stats",
-        "full time",
-        "design",
-        "saas",
-        "social media"
-      ],
-      "salary": "",
-      "posted": "2026-06-24T23:44:04+00:00"
     }
   ],
-  "last_updated": "2026-06-26T18:19:00.834118",
+  "last_updated": "2026-06-26T20:14:11.977665",
   "total": 30,
   "new": 2
 }

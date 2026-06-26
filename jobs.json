@@ -71,6 +71,24 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "hh2",
+      "company": "Biztech",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hh2-biztech-1134146",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "product manager",
+        "dev",
+        "medical",
+        "digital nomad",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-06-25T09:06:30+00:00"
+    },
+    {
       "title": "Architectural Designer Assistant",
       "company": "Archisearch",
       "location": "Remote",
@@ -351,6 +369,25 @@
       "posted": "2026-06-24T23:44:04+00:00"
     },
     {
+      "title": "LABORER",
+      "company": "Portales Fire Department",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-laborer-portales-fire-department-1134147",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "product manager",
+        "dev",
+        "medical",
+        "digital nomad",
+        "ops",
+        "web dev"
+      ],
+      "salary": "",
+      "posted": "2026-06-24T23:11:01+00:00"
+    },
+    {
       "title": "Lead Creative Strategist",
       "company": "New Engen",
       "location": "Remote",
@@ -408,6 +445,20 @@
       ],
       "salary": "",
       "posted": "2026-06-24T21:05:06+00:00"
+    },
+    {
+      "title": "Product manager",
+      "company": "DU\u00c4\u0092AST",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-dueast-1134144",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "product manager"
+      ],
+      "salary": "",
+      "posted": "2026-06-24T20:40:57+00:00"
     },
     {
       "title": "Marketing Virtual Assistant",
@@ -494,72 +545,9 @@
       ],
       "salary": "",
       "posted": "2026-06-24T19:45:36+00:00"
-    },
-    {
-      "title": "Spontaneous application Red Deer",
-      "company": "Olymel",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-spontaneous-application-red-deer-olymel-1134084",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "accounting",
-        "finance",
-        "exec",
-        "ops",
-        "sales",
-        "sys admin",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-06-24T19:43:58+00:00"
-    },
-    {
-      "title": "Job vacancies",
-      "company": "GREEN HILLS CLEANING LIMITED",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-job-vacancies-green-hills-cleaning-limited-1134087",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "javascript",
-        "education"
-      ],
-      "salary": "",
-      "posted": "2026-06-24T19:31:23+00:00"
-    },
-    {
-      "title": "SVP Operations",
-      "company": "Serverfarm",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-svp-operations-serverfarm-1134052",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "ops",
-        "travel",
-        "finance",
-        "cloud",
-        "exec",
-        "senior",
-        "legal",
-        "sales",
-        "sys admin",
-        "engineer",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-24T19:24:24+00:00"
     }
   ],
-  "last_updated": "2026-06-26T09:47:04.904778",
+  "last_updated": "2026-06-26T12:03:31.255189",
   "total": 30,
   "new": 3
 }

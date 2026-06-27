@@ -71,6 +71,59 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "User Researcher",
+      "company": "Ministry of Housing, Communities and Local Government",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-user-researcher-ministry-of-housing-communities-and-local-government-1134178",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "embedded",
+        "sys admin",
+        "infosec",
+        "technical",
+        "customer support",
+        "testing",
+        "dev",
+        "scheme",
+        "seo",
+        "exec",
+        "senior",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T15:00:23+00:00"
+    },
+    {
+      "title": "Operator",
+      "company": "Genuit Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-operator-genuit-group-1134162",
+      "source": "RemoteOK",
+      "tags": [
+        "supervisor",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T14:22:04+00:00"
+    },
+    {
+      "title": "Funnel Builder",
+      "company": "DSIGNS AUSTRALIA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-funnel-builder-dsigns-australia-1134183",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "devops",
+        "exec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T13:06:15+00:00"
+    },
+    {
       "title": "Aeronautical Information Service Cadet",
       "company": "Grenada Airports Authority",
       "location": "Remote",
@@ -468,68 +521,9 @@
       ],
       "salary": "",
       "posted": "2026-06-26T00:53:09+00:00"
-    },
-    {
-      "title": "Vice President Supply Chain",
-      "company": "Ramp Talent",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-supply-chain-ramp-talent-1134128",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "marketing",
-        "exec",
-        "microsoft",
-        "ops",
-        "excel",
-        "biotech",
-        "medical",
-        "coordinator",
-        "finance",
-        "content writing",
-        "sales",
-        "hr",
-        "education",
-        "testing",
-        "virtual assistant",
-        "recruiter",
-        "full time",
-        "travel",
-        "design",
-        "speech",
-        "senior",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-25T23:57:41+00:00"
-    },
-    {
-      "title": "Learn more",
-      "company": "Get Vetted",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-learn-more-get-vetted-1134180",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-25T23:38:01+00:00"
-    },
-    {
-      "title": "Asistente de Cuentas Marketing BTL Weldon",
-      "company": "Universia Argentina",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-asistente-de-cuentas-marketing-btl-weldon-universia-argentina-1134134",
-      "source": "RemoteOK",
-      "tags": [
-        "linguistics",
-        "legal",
-        "non tech",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-06-25T23:36:42+00:00"
     }
   ],
-  "last_updated": "2026-06-27T13:42:18.887319",
+  "last_updated": "2026-06-27T15:04:23.613490",
   "total": 30,
   "new": 3
 }

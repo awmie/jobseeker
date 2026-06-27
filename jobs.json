@@ -71,6 +71,25 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Aeronautical Information Service Cadet",
+      "company": "Grenada Airports Authority",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-aeronautical-information-service-cadet-grenada-airports-authority-1134169",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "education",
+        "non tech",
+        "infosec",
+        "technical",
+        "travel",
+        "c",
+        "math"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T12:41:21+00:00"
+    },
+    {
       "title": "Collections Manager",
       "company": "National Service Bureau",
       "location": "Remote",
@@ -98,6 +117,19 @@
       ],
       "salary": "",
       "posted": "2026-06-26T11:15:18+00:00"
+    },
+    {
+      "title": "Process Specialist",
+      "company": "Betfred",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-process-specialist-betfred-1134181",
+      "source": "RemoteOK",
+      "tags": [
+        "game dev",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T10:00:32+00:00"
     },
     {
       "title": "Entry Level Administrative Assistant",
@@ -472,6 +504,16 @@
       "posted": "2026-06-25T23:57:41+00:00"
     },
     {
+      "title": "Learn more",
+      "company": "Get Vetted",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-learn-more-get-vetted-1134180",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-25T23:38:01+00:00"
+    },
+    {
       "title": "Asistente de Cuentas Marketing BTL Weldon",
       "company": "Universia Argentina",
       "location": "Remote",
@@ -485,79 +527,9 @@
       ],
       "salary": "",
       "posted": "2026-06-25T23:36:42+00:00"
-    },
-    {
-      "title": "Water Safety Specialist",
-      "company": "Four Seasons",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-water-safety-specialist-four-seasons-1134130",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "education",
-        "technical",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "exec",
-        "travel",
-        "ops",
-        "golang",
-        "medical",
-        "engineer",
-        "infosec",
-        "video",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-06-25T22:54:20+00:00"
-    },
-    {
-      "title": "Chief Growth Officer",
-      "company": "Berni and Mick Ireland",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-chief-growth-officer-berni-and-mick-ireland-1134139",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "design",
-        "exec",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "content writing",
-        "senior",
-        "ops",
-        "excel",
-        "ads",
-        "ecommerce",
-        "shopify",
-        "full time",
-        "digital nomad",
-        "education",
-        "travel",
-        "microsoft",
-        "consulting",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-06-25T22:45:16+00:00"
-    },
-    {
-      "title": "Leakage Inspector",
-      "company": "Williams Tucker Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-leakage-inspector-williams-tucker-limited-1134163",
-      "source": "RemoteOK",
-      "tags": [
-        "supervisor",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-06-25T20:02:18+00:00"
     }
   ],
-  "last_updated": "2026-06-27T11:55:55.281223",
+  "last_updated": "2026-06-27T13:42:18.887319",
   "total": 30,
-  "new": 1
+  "new": 3
 }

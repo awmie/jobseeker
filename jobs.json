@@ -71,6 +71,35 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Collections Manager",
+      "company": "National Service Bureau",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-collections-manager-national-service-bureau-1134155",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "design",
+        "jira",
+        "saas",
+        "hr",
+        "sys admin",
+        "infosec",
+        "education",
+        "consulting",
+        "technical",
+        "dev",
+        "microsoft",
+        "exec",
+        "ops",
+        "golang",
+        "medical",
+        "digital nomad",
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T11:15:18+00:00"
+    },
+    {
       "title": "Entry Level Administrative Assistant",
       "company": "Recruit Lytics Hiring",
       "location": "Remote",
@@ -526,19 +555,9 @@
       ],
       "salary": "",
       "posted": "2026-06-25T20:02:18+00:00"
-    },
-    {
-      "title": "Line inspector",
-      "company": "Job Buzzer",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-line-inspector-job-buzzer-1134140",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-25T20:01:32+00:00"
     }
   ],
-  "last_updated": "2026-06-27T10:27:27.219073",
+  "last_updated": "2026-06-27T11:55:55.281223",
   "total": 30,
   "new": 1
 }

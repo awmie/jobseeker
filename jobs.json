@@ -71,6 +71,70 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "People Operations Specialist",
+      "company": "VulnCheck",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-people-operations-specialist-vulncheck-1134172",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "infosec",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "exec",
+        "ops",
+        "medical",
+        "recruiter",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T19:57:38+00:00"
+    },
+    {
+      "title": "Frontend Developer Junior",
+      "company": "Universia Per\u00c3\u00ba",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-developer-junior-universia-peru-1134158",
+      "source": "RemoteOK",
+      "tags": [
+        "front end",
+        "dev",
+        "web dev",
+        "javascript",
+        "junior",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T19:18:48+00:00"
+    },
+    {
+      "title": "Analyst Customer Routing",
+      "company": "Gildan",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-analyst-customer-routing-gildan-1134170",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "education",
+        "non tech",
+        "infosec",
+        "technical",
+        "travel",
+        "c",
+        "math",
+        "analyst",
+        "embedded",
+        "customer support",
+        "exec",
+        "microsoft",
+        "excel",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T18:52:19+00:00"
+    },
+    {
       "title": "Simple Speaker",
       "company": "Web Developer: Ravi, One of the best in India",
       "location": "Remote",
@@ -428,85 +492,9 @@
       ],
       "salary": "",
       "posted": "2026-06-26T07:46:59+00:00"
-    },
-    {
-      "title": "Freelance Designer",
-      "company": "Awesomehues",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-awesomehues-1134156",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "design",
-        "jira",
-        "saas",
-        "hr",
-        "sys admin",
-        "infosec",
-        "education",
-        "consulting",
-        "technical",
-        "dev",
-        "microsoft",
-        "exec",
-        "ops",
-        "golang",
-        "medical",
-        "digital nomad",
-        "marketing",
-        "designer",
-        "testing",
-        "finance",
-        "excel",
-        "ads"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T07:37:32+00:00"
-    },
-    {
-      "title": "Game Tester Earn Up $500 per Game",
-      "company": "JobsInMass.com",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-game-tester-earn-up-500-per-game-jobsinmass-com-1134151",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "copywriting",
-        "marketing",
-        "speech",
-        "video",
-        "content writing",
-        "medical",
-        "social media",
-        "part time",
-        "game dev",
-        "testing"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T07:10:28+00:00"
-    },
-    {
-      "title": "SOCIAL MEDIA MANAGER \u00e2\u0080",
-      "company": "OnlineJobs.PH",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-ae-onlinejobs-ph-1134150",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "copywriting",
-        "marketing",
-        "speech",
-        "video",
-        "content writing",
-        "medical",
-        "social media",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T05:55:09+00:00"
     }
   ],
-  "last_updated": "2026-06-27T18:47:34.928908",
+  "last_updated": "2026-06-27T20:00:09.478782",
   "total": 30,
-  "new": 4
+  "new": 3
 }

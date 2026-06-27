@@ -71,6 +71,34 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Customer Support Technician Helpdesk Offboardings &amp; Access",
+      "company": "Pixel Machinery",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-technician-helpdesk-offboardings-amp-access-pixel-machinery-1134154",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "design",
+        "jira",
+        "saas",
+        "hr",
+        "sys admin",
+        "infosec",
+        "education",
+        "consulting",
+        "technical",
+        "dev",
+        "microsoft",
+        "exec",
+        "ops",
+        "golang",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T15:36:59+00:00"
+    },
+    {
       "title": "User Researcher",
       "company": "Ministry of Housing, Communities and Local Government",
       "location": "Remote",
@@ -508,22 +536,9 @@
       ],
       "salary": "",
       "posted": "2026-06-26T02:13:22+00:00"
-    },
-    {
-      "title": "Genealogista",
-      "company": "Amorim Global",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-genealogista-amorim-global-1134174",
-      "source": "RemoteOK",
-      "tags": [
-        "excel",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T00:53:09+00:00"
     }
   ],
-  "last_updated": "2026-06-27T15:04:23.613490",
+  "last_updated": "2026-06-27T16:16:57.275473",
   "total": 30,
-  "new": 3
+  "new": 1
 }

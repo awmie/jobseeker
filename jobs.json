@@ -120,6 +120,39 @@
       "posted": "2026-06-26T07:51:44+00:00"
     },
     {
+      "title": "Human Resources Assistant",
+      "company": "Recruit Lytics Hiring",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-recruit-lytics-hiring-1134179",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "embedded",
+        "sys admin",
+        "infosec",
+        "technical",
+        "customer support",
+        "testing",
+        "dev",
+        "scheme",
+        "seo",
+        "exec",
+        "senior",
+        "recruiter",
+        "digital nomad",
+        "virtual assistant",
+        "hr",
+        "education",
+        "marketing",
+        "microsoft",
+        "ops",
+        "excel",
+        "legal"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T07:51:21+00:00"
+    },
+    {
       "title": "File Clerk",
       "company": "Recruit Lytics Hiring",
       "location": "Remote",
@@ -503,28 +536,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-06-25T20:01:32+00:00"
-    },
-    {
-      "title": "Clinical Trial Associate",
-      "company": "Ollin Biosciences",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-clinical-trial-associate-ollin-biosciences-1134124",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "marketing",
-        "exec",
-        "microsoft",
-        "ops",
-        "excel",
-        "biotech",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-06-25T19:29:39+00:00"
     }
   ],
-  "last_updated": "2026-06-27T08:17:03.393559",
+  "last_updated": "2026-06-27T10:27:27.219073",
   "total": 30,
-  "new": 10
+  "new": 1
 }

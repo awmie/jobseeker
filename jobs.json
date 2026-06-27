@@ -71,6 +71,77 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "I am looking for guide",
+      "company": "Mixed Media Labs, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-i-am-looking-for-guide-mixed-media-labs-inc-1134141",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-06-26T04:03:45+00:00"
+    },
+    {
+      "title": "Claims Specialist",
+      "company": "DTLA Benefits",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-claims-specialist-dtla-benefits-1134173",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "infosec",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "exec",
+        "ops",
+        "medical",
+        "recruiter",
+        "full time",
+        "sys admin",
+        "education",
+        "dev",
+        "finance",
+        "math",
+        "microsoft",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T03:00:49+00:00"
+    },
+    {
+      "title": "View Open Positions",
+      "company": "Minds Worth Meeting Podcast",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-view-open-positions-minds-worth-meeting-podcast-1134149",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "wordpress",
+        "exec",
+        "designer",
+        "ads",
+        "content writing",
+        "ops",
+        "marketing",
+        "photoshop",
+        "illustrator",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "digital nomad",
+        "saas",
+        "consulting",
+        "travel",
+        "finance",
+        "education",
+        "senior",
+        "sales",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T02:13:22+00:00"
+    },
+    {
       "title": "Vice President Supply Chain",
       "company": "Ramp Talent",
       "location": "Remote",
@@ -420,50 +491,9 @@
       ],
       "salary": "",
       "posted": "2026-06-25T12:32:54+00:00"
-    },
-    {
-      "title": "Team leader supervisor",
-      "company": "Clean Bees",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-leader-supervisor-clean-bees-1134161",
-      "source": "RemoteOK",
-      "tags": [
-        "supervisor",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-06-25T12:31:57+00:00"
-    },
-    {
-      "title": "hh2",
-      "company": "Biztech",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-hh2-biztech-1134146",
-      "source": "RemoteOK",
-      "tags": [
-        "project manager",
-        "exec",
-        "product manager",
-        "dev",
-        "medical",
-        "digital nomad",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-06-25T09:06:30+00:00"
-    },
-    {
-      "title": "Open Position \u00e2\u0080\u0094 Dauphine",
-      "company": "AmericaShare",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-open-position-dauphine-americashare-1134160",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-25T07:45:07+00:00"
     }
   ],
-  "last_updated": "2026-06-27T01:48:08.600750",
+  "last_updated": "2026-06-27T05:40:34.520769",
   "total": 30,
-  "new": 6
+  "new": 3
 }

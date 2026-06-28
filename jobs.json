@@ -71,6 +71,30 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Senior Counsel Project Finance &amp; Commercial",
+      "company": "Energy Vault",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-counsel-project-finance-amp-commercial-energy-vault-1134188",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "legal",
+        "customer support",
+        "marketing",
+        "travel",
+        "quality assurance",
+        "finance",
+        "c",
+        "exec",
+        "content writing",
+        "senior",
+        "sys admin",
+        "education"
+      ],
+      "salary": "",
+      "posted": "2026-06-27T16:00:04+00:00"
+    },
+    {
       "title": "Industry Analysis",
       "company": "Citofield",
       "location": "Remote",
@@ -236,6 +260,35 @@
       ],
       "salary": "",
       "posted": "2026-06-26T20:20:01+00:00"
+    },
+    {
+      "title": "My Green Lab",
+      "company": "Office of Energy &amp; Sustainability",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-my-green-lab-office-of-energy-amp-sustainability-1134217",
+      "source": "RemoteOK",
+      "tags": [
+        "embedded",
+        "infosec",
+        "testing",
+        "marketing",
+        "dev",
+        "javascript",
+        "video",
+        "c",
+        "html",
+        "ads",
+        "mobile",
+        "exec",
+        "content writing",
+        "stats",
+        "medical",
+        "ecommerce",
+        "shopify",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T20:14:55+00:00"
     },
     {
       "title": "Stok",
@@ -459,56 +512,9 @@
       ],
       "salary": "",
       "posted": "2026-06-26T17:15:49+00:00"
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Atlas Search",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-atlas-search-1134214",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "exec",
-        "customer support",
-        "marketing",
-        "travel",
-        "finance",
-        "video",
-        "c",
-        "cloud",
-        "senior",
-        "ops",
-        "sales",
-        "medical",
-        "digital nomad",
-        "virtual assistant",
-        "hr",
-        "education",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T17:11:58+00:00"
-    },
-    {
-      "title": "Executive",
-      "company": "Lupin",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-lupin-1134194",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "content writing",
-        "dev",
-        "web dev",
-        "digital nomad",
-        "education",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T16:48:44+00:00"
     }
   ],
-  "last_updated": "2026-06-28T15:52:26.570170",
+  "last_updated": "2026-06-28T16:57:51.250851",
   "total": 30,
-  "new": 0
+  "new": 2
 }

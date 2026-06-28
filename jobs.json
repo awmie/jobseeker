@@ -71,6 +71,25 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Video Editor",
+      "company": "OnlineJobs.PH",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-video-editor-onlinejobs-ph-1134184",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "teaching",
+        "exec",
+        "testing",
+        "video",
+        "content writing",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-27T04:53:58+00:00"
+    },
+    {
       "title": "Freelance Designer",
       "company": "SAN Creatives Agency",
       "location": "Remote",
@@ -454,38 +473,9 @@
       ],
       "salary": "",
       "posted": "2026-06-26T12:41:21+00:00"
-    },
-    {
-      "title": "Collections Manager",
-      "company": "National Service Bureau",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-collections-manager-national-service-bureau-1134155",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "design",
-        "jira",
-        "saas",
-        "hr",
-        "sys admin",
-        "infosec",
-        "education",
-        "consulting",
-        "technical",
-        "dev",
-        "microsoft",
-        "exec",
-        "ops",
-        "golang",
-        "medical",
-        "digital nomad",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T11:15:18+00:00"
     }
   ],
-  "last_updated": "2026-06-28T01:36:24.699816",
+  "last_updated": "2026-06-28T06:00:36.830018",
   "total": 30,
-  "new": 2
+  "new": 1
 }

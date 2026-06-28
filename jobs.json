@@ -71,6 +71,21 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Industry Analysis",
+      "company": "Citofield",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-industry-analysis-citofield-1134182",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "devops",
+        "exec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-06-27T10:58:11+00:00"
+    },
+    {
       "title": "Technical Lead",
       "company": "IT FUTURZ",
       "location": "Remote",
@@ -450,34 +465,9 @@
       ],
       "salary": "",
       "posted": "2026-06-26T15:36:59+00:00"
-    },
-    {
-      "title": "User Researcher",
-      "company": "Ministry of Housing, Communities and Local Government",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-user-researcher-ministry-of-housing-communities-and-local-government-1134178",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "embedded",
-        "sys admin",
-        "infosec",
-        "technical",
-        "customer support",
-        "testing",
-        "dev",
-        "scheme",
-        "seo",
-        "exec",
-        "senior",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T15:00:23+00:00"
     }
   ],
-  "last_updated": "2026-06-28T09:26:08.690023",
+  "last_updated": "2026-06-28T11:19:46.695082",
   "total": 30,
-  "new": 4
+  "new": 1
 }

@@ -71,6 +71,48 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Technical Lead",
+      "company": "IT FUTURZ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-lead-it-futurz-1134198",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-06-27T06:28:40+00:00"
+    },
+    {
+      "title": "Ut Facere Aut",
+      "company": "Innodrei",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ut-facere-aut-innodrei-1134193",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "content writing",
+        "dev",
+        "web dev",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-27T06:08:21+00:00"
+    },
+    {
+      "title": "Error Odio",
+      "company": "Innodrei",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-error-odio-innodrei-1134191",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-06-27T06:08:19+00:00"
+    },
+    {
       "title": "Video Editor",
       "company": "OnlineJobs.PH",
       "location": "Remote",
@@ -253,6 +295,27 @@
       "posted": "2026-06-26T19:57:38+00:00"
     },
     {
+      "title": "Creative Strategist",
+      "company": "Happy Mammoth",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-creative-strategist-happy-mammoth-1134205",
+      "source": "RemoteOK",
+      "tags": [
+        "strategy",
+        "copywriting",
+        "testing",
+        "marketing",
+        "ads",
+        "exec",
+        "content writing",
+        "senior",
+        "medical",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T19:42:21+00:00"
+    },
+    {
       "title": "Frontend Developer Junior",
       "company": "Universia Per\u00c3\u00ba",
       "location": "Remote",
@@ -412,70 +475,9 @@
       ],
       "salary": "",
       "posted": "2026-06-26T15:00:23+00:00"
-    },
-    {
-      "title": "Operator",
-      "company": "Genuit Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-operator-genuit-group-1134162",
-      "source": "RemoteOK",
-      "tags": [
-        "supervisor",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T14:22:04+00:00"
-    },
-    {
-      "title": "Owner",
-      "company": "Cultur'Elles - L'association des femmes du minist\u00c3\u00a8re de la Culture",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-owner-culturelles-lassociation-des-femmes-du-ministere-de-la-culture-1134200",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "exec",
-        "consulting"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T13:46:32+00:00"
-    },
-    {
-      "title": "Funnel Builder",
-      "company": "DSIGNS AUSTRALIA",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-funnel-builder-dsigns-australia-1134183",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "devops",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T13:06:15+00:00"
-    },
-    {
-      "title": "Aeronautical Information Service Cadet",
-      "company": "Grenada Airports Authority",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-aeronautical-information-service-cadet-grenada-airports-authority-1134169",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "education",
-        "non tech",
-        "infosec",
-        "technical",
-        "travel",
-        "c",
-        "math"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T12:41:21+00:00"
     }
   ],
-  "last_updated": "2026-06-28T06:00:36.830018",
+  "last_updated": "2026-06-28T09:26:08.690023",
   "total": 30,
-  "new": 1
+  "new": 4
 }

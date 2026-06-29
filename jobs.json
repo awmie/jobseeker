@@ -71,6 +71,20 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "JANITOR",
+      "company": "Buffalo Wild Wings - Fralich, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-janitor-buffalo-wild-wings-fralich-inc-1134206",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "math",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-06-28T04:01:05+00:00"
+    },
+    {
       "title": "Senior Counsel Project Finance &amp; Commercial",
       "company": "Energy Vault",
       "location": "Remote",
@@ -350,6 +364,20 @@
       "posted": "2026-06-26T20:12:21+00:00"
     },
     {
+      "title": "Competency Assessor Operations",
+      "company": "NextDecade",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-competency-assessor-operations-nextdecade-1134225",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "ops",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-26T20:10:57+00:00"
+    },
+    {
       "title": "IoT Specialist",
       "company": "Jasper Solutions Inc.",
       "location": "Remote",
@@ -432,52 +460,9 @@
       ],
       "salary": "",
       "posted": "2026-06-26T19:42:21+00:00"
-    },
-    {
-      "title": "Frontend Developer Junior",
-      "company": "Universia Per\u00c3\u00ba",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-frontend-developer-junior-universia-peru-1134158",
-      "source": "RemoteOK",
-      "tags": [
-        "front end",
-        "dev",
-        "web dev",
-        "javascript",
-        "junior",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T19:18:48+00:00"
-    },
-    {
-      "title": "Analyst Customer Routing",
-      "company": "Gildan",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analyst-customer-routing-gildan-1134170",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "education",
-        "non tech",
-        "infosec",
-        "technical",
-        "travel",
-        "c",
-        "math",
-        "analyst",
-        "embedded",
-        "customer support",
-        "exec",
-        "microsoft",
-        "excel",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-06-26T18:52:19+00:00"
     }
   ],
-  "last_updated": "2026-06-29T02:28:18.919905",
+  "last_updated": "2026-06-29T07:12:47.364694",
   "total": 30,
-  "new": 1
+  "new": 2
 }

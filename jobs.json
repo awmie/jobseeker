@@ -71,6 +71,42 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Sharetea Edmonton City Centre",
+      "company": "Edmonton City Centre",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sharetea-edmonton-city-centre-edmonton-city-centre-1134251",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "golang",
+        "full time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-06-29T11:28:27+00:00"
+    },
+    {
+      "title": "Testing",
+      "company": "Macquarie Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-testing-macquarie-group-1134237",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "travel",
+        "finance",
+        "medical",
+        "recruiter",
+        "non tech",
+        "testing",
+        "dev",
+        "marketing",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-29T10:39:53+00:00"
+    },
+    {
       "title": "Cuidador a de Ni\u00c3\u00b1os",
       "company": "TUS Media",
       "location": "Remote",
@@ -386,63 +422,9 @@
       ],
       "salary": "",
       "posted": "2026-06-27T06:08:19+00:00"
-    },
-    {
-      "title": "Video Editor",
-      "company": "OnlineJobs.PH",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-video-editor-onlinejobs-ph-1134184",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "teaching",
-        "exec",
-        "testing",
-        "video",
-        "content writing",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-27T04:53:58+00:00"
-    },
-    {
-      "title": "AI Filmmaker",
-      "company": "Foxelli Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-filmmaker-foxelli-group-1134232",
-      "source": "RemoteOK",
-      "tags": [
-        "amazon",
-        "sys admin",
-        "python",
-        "consulting",
-        "customer support",
-        "marketing",
-        "dev",
-        "finance",
-        "ops",
-        "stats",
-        "sales",
-        "golang",
-        "medical",
-        "engineer",
-        "recruiter",
-        "ecommerce",
-        "shopify",
-        "part time",
-        "digital nomad",
-        "music",
-        "testing",
-        "video",
-        "content writing",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-06-27T02:00:18+00:00"
     }
   ],
-  "last_updated": "2026-06-30T09:46:53.514349",
+  "last_updated": "2026-06-30T12:01:35.919208",
   "total": 30,
-  "new": 5
+  "new": 2
 }

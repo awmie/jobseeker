@@ -1,10 +1,10 @@
 {
   "jobs": [
     {
-      "title": "Fortis Games Staff Product Manager",
-      "company": "FORTIS",
+      "title": "Qventus Senior Lead Product Manager Agentic Ai Platform",
+      "company": "QVENTUS",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/fortis-games-staff-product-manager",
+      "url": "https://weworkremotely.com/remote-jobs/qventus-senior-lead-product-manager-agentic-ai-platform",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,28 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Caretaker Manor Park Primary School",
+      "company": "Isle of Man Public Service Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-caretaker-manor-park-primary-school-isle-of-man-public-service-careers-1134239",
+      "source": "RemoteOK",
+      "tags": [
+        "web dev",
+        "content writing",
+        "infosec",
+        "teaching",
+        "education",
+        "customer support",
+        "exec",
+        "finance",
+        "scheme",
+        "medical",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-06-29T22:10:51+00:00"
     },
     {
       "title": "Vice President Operations",
@@ -485,42 +507,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-06-29T05:40:14+00:00"
-    },
-    {
-      "title": "Customer Support Helpdesk Specialist",
-      "company": "Empathy Talent",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-helpdesk-specialist-empathy-talent-1134244",
-      "source": "RemoteOK",
-      "tags": [
-        "copywriting",
-        "customer support",
-        "exec",
-        "part time",
-        "design",
-        "designer",
-        "marketing",
-        "video",
-        "senior",
-        "digital nomad",
-        "hr",
-        "dev",
-        "ops",
-        "full time",
-        "education",
-        "travel",
-        "finance",
-        "stats",
-        "saas",
-        "salesforce",
-        "technical",
-        "microsoft"
-      ],
-      "salary": "",
-      "posted": "2026-06-29T03:41:08+00:00"
     }
   ],
-  "last_updated": "2026-06-30T22:00:01.562876",
+  "last_updated": "2026-06-30T23:21:11.326474",
   "total": 30,
-  "new": 3
+  "new": 2
 }

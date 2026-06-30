@@ -311,6 +311,18 @@
       "posted": "2026-06-28T14:45:13+00:00"
     },
     {
+      "title": "Various",
+      "company": "Glenrands Jaguar &amp; Land Rover",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-various-glenrands-jaguar-amp-land-rover-1134256",
+      "source": "RemoteOK",
+      "tags": [
+        "technical"
+      ],
+      "salary": "",
+      "posted": "2026-06-28T08:33:20+00:00"
+    },
+    {
       "title": "Senior Counsel Project Finance &amp; Commercial",
       "company": "Energy Vault",
       "location": "Remote",
@@ -409,22 +421,9 @@
       ],
       "salary": "",
       "posted": "2026-06-27T06:08:21+00:00"
-    },
-    {
-      "title": "Error Odio",
-      "company": "Innodrei",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-error-odio-innodrei-1134191",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-06-27T06:08:19+00:00"
     }
   ],
-  "last_updated": "2026-06-30T12:01:35.919208",
+  "last_updated": "2026-06-30T14:38:29.379642",
   "total": 30,
-  "new": 2
+  "new": 1
 }

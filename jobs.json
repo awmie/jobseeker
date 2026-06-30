@@ -1,10 +1,17 @@
 {
   "jobs": [
     {
-      "title": "Ignition Inc Mac Msp Help Desk Guru Work From Home",
-      "company": "IGNITION INC",
+      "title": "Fortis Games Staff Product Manager",
+      "company": "FORTIS",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/ignition-inc-mac-msp-help-desk-guru-work-from-home",
+      "url": "https://weworkremotely.com/remote-jobs/fortis-games-staff-product-manager",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Qualifyze Senior Devops Engineer",
+      "company": "QUALIFYZE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/qualifyze-senior-devops-engineer",
       "source": "WeWorkRemotely"
     },
     {
@@ -57,18 +64,47 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Toggl Senior Product Manager 4",
-      "company": "TOGGL",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Reveleer Full Stack Ai Engineer",
       "company": "REVELEER",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Vice President Operations",
+      "company": "Aventum Search",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-operations-aventum-search-1134245",
+      "source": "RemoteOK",
+      "tags": [
+        "copywriting",
+        "customer support",
+        "exec",
+        "part time",
+        "design",
+        "designer",
+        "marketing",
+        "video",
+        "senior",
+        "digital nomad",
+        "hr",
+        "dev",
+        "ops",
+        "full time",
+        "education",
+        "travel",
+        "finance",
+        "stats",
+        "saas",
+        "salesforce",
+        "technical",
+        "microsoft",
+        "c",
+        "admin",
+        "legal"
+      ],
+      "salary": "",
+      "posted": "2026-06-29T21:55:12+00:00"
     },
     {
       "title": "HR Lead",
@@ -482,54 +518,9 @@
       ],
       "salary": "",
       "posted": "2026-06-29T03:41:08+00:00"
-    },
-    {
-      "title": "Admissions Coordinator",
-      "company": "Discovery Institute Drug &amp; Alcohol Rehab New Jersey",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-admissions-coordinator-discovery-institute-drug-amp-alcohol-rehab-new-jersey-1134247",
-      "source": "RemoteOK",
-      "tags": [
-        "copywriting",
-        "customer support",
-        "exec",
-        "part time",
-        "design",
-        "designer",
-        "marketing",
-        "video",
-        "senior",
-        "digital nomad",
-        "hr",
-        "dev",
-        "ops",
-        "full time",
-        "education",
-        "travel",
-        "finance",
-        "stats",
-        "saas",
-        "salesforce",
-        "technical",
-        "microsoft",
-        "c",
-        "admin",
-        "legal",
-        "sys admin",
-        "infosec",
-        "strategy",
-        "content writing",
-        "sales",
-        "golang",
-        "medical",
-        "recruiter",
-        "coordinator"
-      ],
-      "salary": "",
-      "posted": "2026-06-29T00:00:00+00:00"
     }
   ],
-  "last_updated": "2026-06-30T20:30:31.593879",
+  "last_updated": "2026-06-30T22:00:01.562876",
   "total": 30,
-  "new": 6
+  "new": 3
 }

@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Business Administration",
+      "company": "Brainkind",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-administration-brainkind-1134238",
+      "source": "RemoteOK",
+      "tags": [
+        "web dev",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-06-29T17:48:47+00:00"
+    },
+    {
       "title": "Freelance Social Copywriter",
       "company": "Milk Makeup",
       "location": "Remote",
@@ -514,33 +527,9 @@
       ],
       "salary": "",
       "posted": "2026-06-27T17:08:32+00:00"
-    },
-    {
-      "title": "Senior Counsel Project Finance &amp; Commercial",
-      "company": "Energy Vault",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-counsel-project-finance-amp-commercial-energy-vault-1134188",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "legal",
-        "customer support",
-        "marketing",
-        "travel",
-        "quality assurance",
-        "finance",
-        "c",
-        "exec",
-        "content writing",
-        "senior",
-        "sys admin",
-        "education"
-      ],
-      "salary": "",
-      "posted": "2026-06-27T16:00:04+00:00"
     }
   ],
-  "last_updated": "2026-06-30T16:52:43.950423",
+  "last_updated": "2026-06-30T18:28:50.655236",
   "total": 30,
-  "new": 5
+  "new": 1
 }

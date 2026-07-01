@@ -1,10 +1,17 @@
 {
   "jobs": [
     {
-      "title": "7 Figure Leap Relational Sales Lead",
-      "company": "7",
+      "title": "Reveleer Full Stack Ai Engineer",
+      "company": "REVELEER",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/7-figure-leap-relational-sales-lead",
+      "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Binance Dach Community Manager Events",
+      "company": "BINANCE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/binance-dach-community-manager-events",
       "source": "WeWorkRemotely"
     },
     {
@@ -64,11 +71,31 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Reveleer Full Stack Ai Engineer",
-      "company": "REVELEER",
+      "title": "...the seekrette is discovering what you love and doing it often..",
+      "company": "seekrette",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
-      "source": "WeWorkRemotely"
+      "url": "https://remoteOK.com/remote-jobs/remote-the-seekrette-is-discovering-what-you-love-and-doing-it-often-seekrette-1134331",
+      "source": "RemoteOK",
+      "tags": [
+        "web dev",
+        "swift",
+        "education",
+        "dev",
+        "exec",
+        "full time",
+        "digital nomad",
+        "teaching",
+        "marketing",
+        "seo",
+        "content writing",
+        "webmaster",
+        "stats",
+        "sales",
+        "golang",
+        "ads"
+      ],
+      "salary": "",
+      "posted": "2026-06-30T20:06:23+00:00"
     },
     {
       "title": "MANAGER TECHNOLOGY MET",
@@ -590,30 +617,9 @@
       ],
       "salary": "",
       "posted": "2026-06-29T19:24:38+00:00"
-    },
-    {
-      "title": "Freelance Designer",
-      "company": "Haus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-haus-1134241",
-      "source": "RemoteOK",
-      "tags": [
-        "copywriting",
-        "customer support",
-        "exec",
-        "part time",
-        "design",
-        "designer",
-        "marketing",
-        "video",
-        "senior",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-06-29T19:16:29+00:00"
     }
   ],
-  "last_updated": "2026-07-01T19:20:31.884248",
+  "last_updated": "2026-07-01T20:58:16.302366",
   "total": 30,
-  "new": 4
+  "new": 1
 }

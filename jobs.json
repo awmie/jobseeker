@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "7 Figure Leap Relational Sales Lead",
+      "company": "7",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/7-figure-leap-relational-sales-lead",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Kraken Product Manager Ii Financial Systems",
+      "company": "KRAKEN",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/kraken-product-manager-ii-financial-systems",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Qventus Senior Lead Product Manager Agentic Ai Platform",
       "company": "QVENTUS",
       "location": "Remote",
@@ -15,13 +29,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Impact Clients Client Success Coach Csm",
-      "company": "IMPACT",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/impact-clients-client-success-coach-csm",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Remote Talent Cloud Remote Ai Training 20 Hr United States 1",
       "company": "REMOTE",
       "location": "Remote",
@@ -33,13 +40,6 @@
       "company": "ATCOM",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/atcom-senior-net-web-developer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Elite Software Automation Business Analyst 2",
-      "company": "ELITE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,23 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Accommodation Administrator FIFO 14 7 Roster Cairns Queensland",
+      "company": "Sodexo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-accommodation-administrator-fifo-14-7-roster-cairns-queensland-sodexo-1134252",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "marketing",
+        "c",
+        "admin",
+        "exec",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-06-30T00:21:43+00:00"
     },
     {
       "title": "Caretaker Manor Park Primary School",
@@ -497,19 +514,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-06-29T05:42:37+00:00"
-    },
-    {
-      "title": "2035",
-      "company": "4BUILD Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-2035-4build-group-1134229",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-06-29T05:40:14+00:00"
     }
   ],
-  "last_updated": "2026-06-30T23:21:11.326474",
+  "last_updated": "2026-07-01T01:36:09.524395",
   "total": 30,
-  "new": 2
+  "new": 3
 }

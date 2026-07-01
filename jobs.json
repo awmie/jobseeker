@@ -71,6 +71,29 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Social Media and Influencer Manager",
+      "company": "Pete &amp; Gerry's Organics, LLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-and-influencer-manager-pete-amp-gerrys-organics-llc-1134313",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "infosec",
+        "customer support",
+        "testing",
+        "marketing",
+        "speech",
+        "video",
+        "content writing",
+        "stats",
+        "sales",
+        "social media",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-06-30T23:00:27+00:00"
+    },
+    {
       "title": "SVP Banking Operations",
       "company": "Nymbus",
       "location": "Remote",
@@ -589,25 +612,9 @@
       ],
       "salary": "",
       "posted": "2026-06-29T20:03:15+00:00"
-    },
-    {
-      "title": "LEAD",
-      "company": "ABM Industries",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-lead-abm-industries-1134249",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "infosec",
-        "education",
-        "exec",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-06-29T19:45:58+00:00"
     }
   ],
-  "last_updated": "2026-07-01T22:21:59.961171",
+  "last_updated": "2026-07-01T23:48:49.629974",
   "total": 30,
   "new": 1
 }

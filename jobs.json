@@ -71,6 +71,84 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "MANAGER TECHNOLOGY MET",
+      "company": "The Home Depot Canada",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-technology-met-the-home-depot-canada-1134316",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "customer support",
+        "non tech",
+        "exec",
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-06-30T19:04:21+00:00"
+    },
+    {
+      "title": "Mortgage Operations Loan Processor",
+      "company": "Wealthfront",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-mortgage-operations-loan-processor-wealthfront-1134311",
+      "source": "RemoteOK",
+      "tags": [
+        "art direction",
+        "exec",
+        "design",
+        "embedded",
+        "customer support",
+        "marketing",
+        "video",
+        "content writing",
+        "ops",
+        "legal",
+        "medical",
+        "engineer",
+        "recruiter",
+        "digital nomad",
+        "sys admin",
+        "finance",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-06-30T18:20:19+00:00"
+    },
+    {
+      "title": "Full crew",
+      "company": "Atlantic Oceanic LLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-full-crew-atlantic-oceanic-llc-1134321",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-06-30T17:41:38+00:00"
+    },
+    {
+      "title": "Captain",
+      "company": "UICGS / Bowhead Family of Companies",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-captain-uicgs-bowhead-family-of-companies-1134323",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer",
+        "sys admin",
+        "ops",
+        "infosec",
+        "customer support",
+        "dev",
+        "testing",
+        "microsoft",
+        "exec",
+        "excel",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-06-30T17:41:18+00:00"
+    },
+    {
       "title": "Vice President of Customer Growth",
       "company": "PatientIQ",
       "location": "Remote",
@@ -533,110 +611,9 @@
       ],
       "salary": "",
       "posted": "2026-06-29T19:16:29+00:00"
-    },
-    {
-      "title": "Senior Director of Brand Marketing",
-      "company": "Coleto Brands",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-director-of-brand-marketing-coleto-brands-1134246",
-      "source": "RemoteOK",
-      "tags": [
-        "copywriting",
-        "customer support",
-        "exec",
-        "part time",
-        "design",
-        "designer",
-        "marketing",
-        "video",
-        "senior",
-        "digital nomad",
-        "hr",
-        "dev",
-        "ops",
-        "full time",
-        "education",
-        "travel",
-        "finance",
-        "stats",
-        "saas",
-        "salesforce",
-        "technical",
-        "microsoft",
-        "c",
-        "admin",
-        "legal",
-        "sys admin",
-        "infosec",
-        "strategy",
-        "content writing",
-        "sales",
-        "golang",
-        "medical",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-06-29T19:16:15+00:00"
-    },
-    {
-      "title": "Business Administration",
-      "company": "Brainkind",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-administration-brainkind-1134238",
-      "source": "RemoteOK",
-      "tags": [
-        "web dev",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-06-29T17:48:47+00:00"
-    },
-    {
-      "title": "Freelance Social Copywriter",
-      "company": "Milk Makeup",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-social-copywriter-milk-makeup-1134240",
-      "source": "RemoteOK",
-      "tags": [
-        "copywriting",
-        "customer support",
-        "exec",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-06-29T16:36:56+00:00"
-    },
-    {
-      "title": "Director of Service",
-      "company": "Marchay",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-service-marchay-1134243",
-      "source": "RemoteOK",
-      "tags": [
-        "copywriting",
-        "customer support",
-        "exec",
-        "part time",
-        "design",
-        "designer",
-        "marketing",
-        "video",
-        "senior",
-        "digital nomad",
-        "hr",
-        "dev",
-        "ops",
-        "full time",
-        "education",
-        "travel",
-        "finance",
-        "stats"
-      ],
-      "salary": "",
-      "posted": "2026-06-29T16:16:11+00:00"
     }
   ],
-  "last_updated": "2026-07-01T17:31:16.464917",
+  "last_updated": "2026-07-01T19:20:31.884248",
   "total": 30,
-  "new": 0
+  "new": 4
 }

@@ -15,13 +15,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Binance Dach Community Manager Events",
-      "company": "BINANCE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/binance-dach-community-manager-events",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Qventus Senior Lead Product Manager Agentic Ai Platform",
       "company": "QVENTUS",
       "location": "Remote",
@@ -33,6 +26,13 @@
       "company": "QUALIFYZE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/qualifyze-senior-devops-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Designfiles Content Marketing Coordinator",
+      "company": "DESIGNFILES",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/designfiles-content-marketing-coordinator",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,78 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/sofatutor-gmbh-cro-specialist-all-genders",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Social Media Coordinator",
+      "company": "The Nature Conservancy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-the-nature-conservancy-1134360",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "customer support",
+        "dev",
+        "marketing",
+        "travel",
+        "exec",
+        "finance",
+        "ops",
+        "sales",
+        "medical",
+        "ads",
+        "ecommerce",
+        "digital nomad",
+        "coordinator",
+        "strategy",
+        "web dev",
+        "speech",
+        "education",
+        "content writing",
+        "stats",
+        "recruiter",
+        "social media"
+      ],
+      "salary": "",
+      "posted": "2026-07-01T19:50:14+00:00"
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "EfficientAide",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-efficientaide-1134363",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "customer support",
+        "dev",
+        "marketing",
+        "travel",
+        "exec",
+        "finance",
+        "ops",
+        "sales",
+        "medical",
+        "ads",
+        "ecommerce",
+        "digital nomad",
+        "coordinator",
+        "strategy",
+        "web dev",
+        "speech",
+        "education",
+        "content writing",
+        "stats",
+        "recruiter",
+        "social media",
+        "virtual assistant",
+        "amazon",
+        "game dev",
+        "cloud",
+        "engineer",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-01T19:08:00+00:00"
     },
     {
       "title": "Data Scientist",
@@ -433,33 +505,9 @@
       ],
       "salary": "",
       "posted": "2026-07-01T13:08:17+00:00"
-    },
-    {
-      "title": "Asistente administrativa",
-      "company": "Syntepro S.A de C.V.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-asistente-administrativa-syntepro-s-a-de-c-v-1134334",
-      "source": "RemoteOK",
-      "tags": [
-        "c"
-      ],
-      "salary": "",
-      "posted": "2026-07-01T01:46:07+00:00"
-    },
-    {
-      "title": "Tutor profesor clases particulares m\u00c3\u00baltiples actividades",
-      "company": "Apprentus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-tutor-profesor-clases-particulares-multiples-actividades-apprentus-1134317",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching"
-      ],
-      "salary": "",
-      "posted": "2026-07-01T01:45:54+00:00"
     }
   ],
-  "last_updated": "2026-07-02T18:48:28.813366",
+  "last_updated": "2026-07-02T20:10:45.571012",
   "total": 30,
-  "new": 5
+  "new": 3
 }

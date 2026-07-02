@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Docente Tiempo Parcial Derecho Remoto",
+      "company": "Universidad Privada del Norte",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-docente-tiempo-parcial-derecho-remoto-universidad-privada-del-norte-1134390",
+      "source": "RemoteOK",
+      "tags": [
+        "excel",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-01T13:08:17+00:00"
+    },
+    {
       "title": "Asistente administrativa",
       "company": "Syntepro S.A de C.V.",
       "location": "Remote",
@@ -585,27 +598,9 @@
       ],
       "salary": "",
       "posted": "2026-06-30T08:00:03+00:00"
-    },
-    {
-      "title": "Speculative",
-      "company": "Flok Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-speculative-flok-health-1134257",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "education",
-        "exec",
-        "marketing",
-        "scheme",
-        "medical",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-06-30T04:44:20+00:00"
     }
   ],
-  "last_updated": "2026-07-02T11:15:26.916840",
+  "last_updated": "2026-07-02T13:10:17.585228",
   "total": 30,
-  "new": 0
+  "new": 1
 }

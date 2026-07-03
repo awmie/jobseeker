@@ -71,6 +71,16 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Heading",
+      "company": "bankari.sk",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-heading-bankari-sk-1134386",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-02T02:01:59+00:00"
+    },
+    {
       "title": "Industry Officer",
       "company": "Department of Justice and Community Safety, Victoria",
       "location": "Remote",
@@ -90,25 +100,43 @@
       "posted": "2026-07-02T00:53:35+00:00"
     },
     {
-      "title": "Customer Service Representative",
-      "company": "Nestl\u00c3\u00a9 Health Science",
+      "title": "Creative",
+      "company": "The Elites",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-nestle-health-science-1134401",
+      "url": "https://remoteOK.com/remote-jobs/remote-creative-the-elites-1134415",
       "source": "RemoteOK",
       "tags": [
-        "salesforce",
+        "design",
+        "react",
+        "consulting",
+        "technical",
+        "dev",
+        "web dev",
+        "javascript",
+        "css",
+        "html",
+        "exec",
+        "senior",
+        "junior",
+        "sys admin",
+        "engineer",
+        "digital nomad",
+        "teaching",
         "education",
         "customer support",
-        "marketing",
+        "copywriting",
+        "ops",
+        "travel",
+        "speech",
+        "video",
         "finance",
-        "microsoft",
-        "exec",
+        "content writing",
         "excel",
-        "medical",
-        "recruiter"
+        "golang",
+        "medical"
       ],
       "salary": "",
-      "posted": "2026-07-01T23:28:25+00:00"
+      "posted": "2026-07-02T00:35:53+00:00"
     },
     {
       "title": "12 jobs that pay well without a degree",
@@ -204,6 +232,33 @@
       ],
       "salary": "",
       "posted": "2026-07-01T19:50:14+00:00"
+    },
+    {
+      "title": "Orientador a Laboral Freelance Remoto",
+      "company": "Ironhack",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-orientador-a-laboral-freelance-remoto-ironhack-1134414",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "react",
+        "consulting",
+        "technical",
+        "dev",
+        "web dev",
+        "javascript",
+        "css",
+        "html",
+        "exec",
+        "senior",
+        "junior",
+        "sys admin",
+        "engineer",
+        "digital nomad",
+        "teaching"
+      ],
+      "salary": "",
+      "posted": "2026-07-01T19:24:02+00:00"
     },
     {
       "title": "Executive Assistant",
@@ -466,20 +521,6 @@
       "posted": "2026-07-01T15:47:32+00:00"
     },
     {
-      "title": "Handy Person",
-      "company": "CAN Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-handy-person-can-group-1134380",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "virtual assistant",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-01T15:36:35+00:00"
-    },
-    {
       "title": "Resource mobiliser",
       "company": "Vrindavan Chandrodaya Mandir",
       "location": "Remote",
@@ -544,21 +585,9 @@
       ],
       "salary": "",
       "posted": "2026-07-01T14:39:59+00:00"
-    },
-    {
-      "title": "Agency Core 1",
-      "company": "Caterpillar Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-agency-core-1-caterpillar-inc-1134350",
-      "source": "RemoteOK",
-      "tags": [
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-01T14:33:27+00:00"
     }
   ],
-  "last_updated": "2026-07-03T01:19:18.672483",
+  "last_updated": "2026-07-03T05:02:31.865913",
   "total": 30,
-  "new": 1
+  "new": 3
 }

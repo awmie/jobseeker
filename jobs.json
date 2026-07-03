@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Toggl Senior Product Manager 4",
+      "company": "TOGGL",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Atom Partners Junior Crypto Trader Remote",
       "company": "ATOM",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "REVELEER",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Qventus Senior Lead Product Manager Agentic Ai Platform",
-      "company": "QVENTUS",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/qventus-senior-lead-product-manager-agentic-ai-platform",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,59 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/sofatutor-gmbh-cro-specialist-all-genders",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Multi Skilled Operative",
+      "company": "Tarmac",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-multi-skilled-operative-tarmac-1134400",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "speech",
+        "scheme",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-02T10:49:55+00:00"
+    },
+    {
+      "title": "P0005148",
+      "company": "\u00e6\u008d\u00b7\u00e6\u0088\u0090\u00e9\u009b\u0086\u00e5\u009b\u00a2",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-p0005148-1134394",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-02T09:57:12+00:00"
+    },
+    {
+      "title": "Junior UI Engineer",
+      "company": "Arabian Private Holdings",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-ui-engineer-arabian-private-holdings-1134413",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "react",
+        "consulting",
+        "technical",
+        "dev",
+        "web dev",
+        "javascript",
+        "css",
+        "html",
+        "exec",
+        "senior",
+        "junior",
+        "sys admin",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-02T09:06:34+00:00"
     },
     {
       "title": "Heading",
@@ -511,66 +564,9 @@
       ],
       "salary": "",
       "posted": "2026-07-01T15:51:39+00:00"
-    },
-    {
-      "title": "Registrar",
-      "company": "Queensland Government",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-registrar-queensland-government-1134378",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "infosec",
-        "education",
-        "customer support",
-        "exec",
-        "ops",
-        "recruiter",
-        "full time",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-07-01T15:47:32+00:00"
-    },
-    {
-      "title": "Resource mobiliser",
-      "company": "Vrindavan Chandrodaya Mandir",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-resource-mobiliser-vrindavan-chandrodaya-mandir-1134372",
-      "source": "RemoteOK",
-      "tags": [
-        "finance",
-        "non tech",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-07-01T15:23:32+00:00"
-    },
-    {
-      "title": "Junior Crypto Trader",
-      "company": "ATOM PARTNERS LIMITED",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-trader-atom-partners-limited-1134351",
-      "source": "RemoteOK",
-      "tags": [
-        "other",
-        "crypto",
-        "finance",
-        "web3",
-        "bitcoin",
-        "blockchain",
-        "junior",
-        "part time",
-        "education",
-        "analyst",
-        "ethereum",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-07-01T15:05:02+00:00"
     }
   ],
-  "last_updated": "2026-07-03T08:20:19.149279",
+  "last_updated": "2026-07-03T11:04:36.605865",
   "total": 30,
-  "new": 1
+  "new": 3
 }

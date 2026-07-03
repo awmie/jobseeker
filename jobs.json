@@ -71,6 +71,18 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Department Supervisor",
+      "company": "The Home Depot Canada",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-department-supervisor-the-home-depot-canada-1134409",
+      "source": "RemoteOK",
+      "tags": [
+        "supervisor"
+      ],
+      "salary": "",
+      "posted": "2026-07-02T19:03:36+00:00"
+    },
+    {
       "title": "Business Development Executive",
       "company": "Fresha",
       "location": "Remote",
@@ -503,22 +515,9 @@
       ],
       "salary": "",
       "posted": "2026-07-02T00:35:53+00:00"
-    },
-    {
-      "title": "12 jobs that pay well without a degree",
-      "company": "Bluefield Daily Telegraph",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-12-jobs-that-pay-well-without-a-degree-bluefield-daily-telegraph-1134387",
-      "source": "RemoteOK",
-      "tags": [
-        "video",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-01T23:06:25+00:00"
     }
   ],
-  "last_updated": "2026-07-03T18:05:14.781491",
+  "last_updated": "2026-07-03T19:44:32.440887",
   "total": 30,
   "new": 1
 }

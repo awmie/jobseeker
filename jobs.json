@@ -71,6 +71,25 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Industry Officer",
+      "company": "Department of Justice and Community Safety, Victoria",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-industry-officer-department-of-justice-and-community-safety-victoria-1134377",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "infosec",
+        "education",
+        "customer support",
+        "exec",
+        "ops",
+        "recruiter",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-02T00:53:35+00:00"
+    },
+    {
       "title": "Customer Service Representative",
       "company": "Nestl\u00c3\u00a9 Health Science",
       "location": "Remote",
@@ -537,21 +556,9 @@
       ],
       "salary": "",
       "posted": "2026-07-01T14:33:27+00:00"
-    },
-    {
-      "title": "Registrar",
-      "company": "Department of Justice QLD",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-registrar-department-of-justice-qld-1134376",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin"
-      ],
-      "salary": "",
-      "posted": "2026-07-01T14:25:47+00:00"
     }
   ],
-  "last_updated": "2026-07-02T23:44:56.627465",
+  "last_updated": "2026-07-03T01:19:18.672483",
   "total": 30,
-  "new": 2
+  "new": 1
 }

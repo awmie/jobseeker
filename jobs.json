@@ -71,6 +71,16 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "5 Ways Be a Better Listener",
+      "company": "Unigo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-5-ways-be-a-better-listener-unigo-1134411",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-02T22:18:42+00:00"
+    },
+    {
       "title": "Department Supervisor",
       "company": "The Home Depot Canada",
       "location": "Remote",
@@ -476,48 +486,9 @@
       ],
       "salary": "",
       "posted": "2026-07-02T00:53:35+00:00"
-    },
-    {
-      "title": "Creative",
-      "company": "The Elites",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-creative-the-elites-1134415",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "react",
-        "consulting",
-        "technical",
-        "dev",
-        "web dev",
-        "javascript",
-        "css",
-        "html",
-        "exec",
-        "senior",
-        "junior",
-        "sys admin",
-        "engineer",
-        "digital nomad",
-        "teaching",
-        "education",
-        "customer support",
-        "copywriting",
-        "ops",
-        "travel",
-        "speech",
-        "video",
-        "finance",
-        "content writing",
-        "excel",
-        "golang",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-07-02T00:35:53+00:00"
     }
   ],
-  "last_updated": "2026-07-03T21:47:36.755153",
+  "last_updated": "2026-07-03T22:46:01.217417",
   "total": 30,
-  "new": 0
+  "new": 1
 }

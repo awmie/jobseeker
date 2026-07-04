@@ -71,6 +71,16 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "All Positions",
+      "company": "Tamworth Regional Council",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-all-positions-tamworth-regional-council-1134462",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-03T22:24:17+00:00"
+    },
+    {
       "title": "Manager HR Business Partner",
       "company": "LinkedIn",
       "location": "Remote",
@@ -570,37 +580,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-02T22:18:42+00:00"
-    },
-    {
-      "title": "VP Creative",
-      "company": "Kanahoma",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vp-creative-kanahoma-1134447",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "consulting",
-        "exec",
-        "customer support",
-        "testing",
-        "marketing",
-        "web dev",
-        "video",
-        "education",
-        "seo",
-        "content writing",
-        "senior",
-        "ops",
-        "sales",
-        "golang",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-02T22:08:55+00:00"
     }
   ],
-  "last_updated": "2026-07-04T21:43:21.586156",
+  "last_updated": "2026-07-04T22:40:36.668535",
   "total": 30,
-  "new": 2
+  "new": 1
 }

@@ -71,6 +71,61 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Psicopedagogos para alumnos con TDAH",
+      "company": "TUS Media",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-psicopedagogos-para-alumnos-con-tdah-tus-media-1134428",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-03T09:08:50+00:00"
+    },
+    {
+      "title": "Entry Level Administrative Assistant",
+      "company": "ReLyticx HR",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-relyticx-hr-1134433",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-07-03T08:44:20+00:00"
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company": "Numa",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-numa-1134429",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "math",
+        "microsoft",
+        "exec",
+        "data science",
+        "junior",
+        "ops",
+        "excel",
+        "stats"
+      ],
+      "salary": "",
+      "posted": "2026-07-03T08:43:06+00:00"
+    },
+    {
       "title": "Residential Real Estate Title Search Quality Control",
       "company": "Pippin Title",
       "location": "Remote",
@@ -636,57 +691,9 @@
       ],
       "salary": "",
       "posted": "2026-07-02T14:13:05+00:00"
-    },
-    {
-      "title": "Facility Maintenance Technician",
-      "company": "PriceSmart",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-facility-maintenance-technician-pricesmart-1134399",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "technical",
-        "math",
-        "exec",
-        "ops",
-        "marketing",
-        "sys admin",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-07-02T13:54:33+00:00"
-    },
-    {
-      "title": "Docente a Tiempo Parcial para Escuela de Comunicaci\u00c3\u00b3n",
-      "company": "Universidad Cat\u00c3\u00b3lica Santo Toribio de Mogrovejo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-docente-a-tiempo-parcial-para-escuela-de-comunicacion-universidad-catolica-santo-toribio-de-mogrovejo-1134426",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-02T13:04:34+00:00"
-    },
-    {
-      "title": "Senior AI Engineer Architect",
-      "company": "Lemon.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "engineer",
-        "senior",
-        "full time",
-        "ai",
-        "architecture",
-        "python",
-        "sql"
-      ],
-      "salary": "",
-      "posted": "2026-07-02T12:25:12+00:00"
     }
   ],
-  "last_updated": "2026-07-04T07:49:54.488035",
+  "last_updated": "2026-07-04T09:55:34.841774",
   "total": 30,
-  "new": 2
+  "new": 3
 }

@@ -71,6 +71,39 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Member of Marketing Staff",
+      "company": "Slingshot",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-member-of-marketing-staff-slingshot-1134448",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "consulting",
+        "exec",
+        "customer support",
+        "testing",
+        "marketing",
+        "web dev",
+        "video",
+        "education",
+        "seo",
+        "content writing",
+        "senior",
+        "ops",
+        "sales",
+        "golang",
+        "medical",
+        "digital nomad",
+        "travel",
+        "finance",
+        "stats",
+        "engineer",
+        "shopify"
+      ],
+      "salary": "",
+      "posted": "2026-07-03T23:07:30+00:00"
+    },
+    {
       "title": "All Positions",
       "company": "Tamworth Regional Council",
       "location": "Remote",
@@ -570,19 +603,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-02T22:44:58+00:00"
-    },
-    {
-      "title": "5 Ways Be a Better Listener",
-      "company": "Unigo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-5-ways-be-a-better-listener-unigo-1134411",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-02T22:18:42+00:00"
     }
   ],
-  "last_updated": "2026-07-04T22:40:36.668535",
+  "last_updated": "2026-07-04T23:43:08.446411",
   "total": 30,
   "new": 1
 }

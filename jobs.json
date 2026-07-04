@@ -71,6 +71,28 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Technician 3",
+      "company": "Sunbelt Rentals, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-technician-3-sunbelt-rentals-inc-1134419",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "customer support",
+        "testing",
+        "microsoft",
+        "exec",
+        "ops",
+        "education",
+        "recruiter",
+        "supervisor",
+        "marketing",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-03T01:37:48+00:00"
+    },
+    {
       "title": "Specialist Payroll",
       "company": "Delta Air Lines",
       "location": "Remote",
@@ -614,26 +636,9 @@
       ],
       "salary": "",
       "posted": "2026-07-02T11:44:21+00:00"
-    },
-    {
-      "title": "Multi Skilled Operative",
-      "company": "Tarmac",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-multi-skilled-operative-tarmac-1134400",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "speech",
-        "scheme",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-02T10:49:55+00:00"
     }
   ],
-  "last_updated": "2026-07-04T01:20:29.895208",
+  "last_updated": "2026-07-04T04:57:43.194673",
   "total": 30,
-  "new": 6
+  "new": 1
 }

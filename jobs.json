@@ -302,6 +302,43 @@
       "posted": "2026-07-03T16:00:13+00:00"
     },
     {
+      "title": "Buyer I",
+      "company": "Jabil",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-buyer-i-jabil-1134489",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "infosec",
+        "education",
+        "supervisor",
+        "customer support",
+        "dev",
+        "finance",
+        "exec",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-03T14:10:31+00:00"
+    },
+    {
+      "title": "Watch Clerk",
+      "company": "City of Campbell River",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-watch-clerk-city-of-campbell-river-1134493",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "exec",
+        "recruiter",
+        "education",
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-07-03T12:48:22+00:00"
+    },
+    {
       "title": "Supply Chain Director",
       "company": "Novaris Search",
       "location": "Remote",
@@ -599,48 +636,9 @@
       ],
       "salary": "",
       "posted": "2026-07-03T00:46:16+00:00"
-    },
-    {
-      "title": "Product Manager Solar Inverters",
-      "company": "TMEIC Corporation Americas",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-solar-inverters-tmeic-corporation-americas-1134410",
-      "source": "RemoteOK",
-      "tags": [
-        "product manager",
-        "exec",
-        "design",
-        "sys admin",
-        "education",
-        "consulting",
-        "technical",
-        "marketing",
-        "travel",
-        "finance",
-        "excel",
-        "sales",
-        "engineer",
-        "ads",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-03T00:00:04+00:00"
-    },
-    {
-      "title": "Supervisora de Opera\u00c3\u00a7\u00c3\u00b5es e Reservas Remoto",
-      "company": "PANROTAS",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-supervisora-de-operacoes-e-reservas-remoto-panrotas-1134468",
-      "source": "RemoteOK",
-      "tags": [
-        "excel",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-03T00:00:00+00:00"
     }
   ],
-  "last_updated": "2026-07-05T01:25:13.944934",
+  "last_updated": "2026-07-05T05:35:57.167362",
   "total": 30,
-  "new": 1
+  "new": 2
 }

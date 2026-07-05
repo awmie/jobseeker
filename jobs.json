@@ -71,6 +71,31 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Lead Data Scientist",
+      "company": "Brigit",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-data-scientist-brigit-1134476",
+      "source": "RemoteOK",
+      "tags": [
+        "python",
+        "education",
+        "customer support",
+        "testing",
+        "marketing",
+        "dev",
+        "finance",
+        "exec",
+        "data science",
+        "junior",
+        "stats",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-04T16:00:08+00:00"
+    },
+    {
       "title": "Administrative Assistant",
       "company": "Pickle",
       "location": "Remote",
@@ -594,29 +619,9 @@
       ],
       "salary": "",
       "posted": "2026-07-03T11:20:00+00:00"
-    },
-    {
-      "title": "Associate Officer ARFF",
-      "company": "Adani Airport Holdings Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-associate-officer-arff-adani-airport-holdings-ltd-1134460",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "ops",
-        "medical",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-07-03T11:06:16+00:00"
     }
   ],
-  "last_updated": "2026-07-05T15:23:07.915735",
+  "last_updated": "2026-07-05T16:31:54.042453",
   "total": 30,
-  "new": 2
+  "new": 1
 }

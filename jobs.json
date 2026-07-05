@@ -71,6 +71,29 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Human Resources Generalist",
+      "company": "CoberonChronos",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-coberonchronos-1134499",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "hr",
+        "sys admin",
+        "customer support",
+        "dev",
+        "payroll",
+        "education",
+        "exec",
+        "ops",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-04T21:10:36+00:00"
+    },
+    {
       "title": "Lead Data Scientist",
       "company": "Brigit",
       "location": "Remote",
@@ -455,6 +478,21 @@
       "posted": "2026-07-03T20:53:35+00:00"
     },
     {
+      "title": "Assistente de Processos",
+      "company": "Sicoob",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistente-de-processos-sicoob-1134513",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "excel",
+        "non tech",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-03T20:01:55+00:00"
+    },
+    {
       "title": "Special Services Associate AIRDRIE",
       "company": "The Home Depot Canada",
       "location": "Remote",
@@ -559,69 +597,9 @@
       ],
       "salary": "",
       "posted": "2026-07-03T14:10:31+00:00"
-    },
-    {
-      "title": "Watch Clerk",
-      "company": "City of Campbell River",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-watch-clerk-city-of-campbell-river-1134493",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "exec",
-        "recruiter",
-        "education",
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-07-03T12:48:22+00:00"
-    },
-    {
-      "title": "Supply Chain Director",
-      "company": "Novaris Search",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-supply-chain-director-novaris-search-1134454",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "consulting",
-        "exec",
-        "customer support",
-        "testing",
-        "marketing",
-        "web dev",
-        "video",
-        "education",
-        "seo",
-        "content writing",
-        "senior",
-        "ops",
-        "sales",
-        "golang",
-        "medical",
-        "digital nomad",
-        "travel",
-        "finance",
-        "stats",
-        "engineer",
-        "shopify",
-        "speech",
-        "full time",
-        "part time",
-        "hr",
-        "c",
-        "legal",
-        "coordinator",
-        "dev",
-        "cloud",
-        "excel",
-        "sys admin"
-      ],
-      "salary": "",
-      "posted": "2026-07-03T11:20:00+00:00"
     }
   ],
-  "last_updated": "2026-07-05T20:00:33.990294",
+  "last_updated": "2026-07-05T21:12:58.966100",
   "total": 30,
-  "new": 0
+  "new": 2
 }

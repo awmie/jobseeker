@@ -71,6 +71,25 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Business Analyst",
+      "company": "Rotaract Club of NIBM Kandy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-rotaract-club-of-nibm-kandy-1134504",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "sys admin",
+        "customer support",
+        "dev",
+        "scrum",
+        "exec",
+        "excel",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-05T17:18:41+00:00"
+    },
+    {
       "title": "Innovation",
       "company": "Doshi Group",
       "location": "Remote",
@@ -597,24 +616,9 @@
       ],
       "salary": "",
       "posted": "2026-07-03T20:53:35+00:00"
-    },
-    {
-      "title": "Assistente de Processos",
-      "company": "Sicoob",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistente-de-processos-sicoob-1134513",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "excel",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-03T20:01:55+00:00"
     }
   ],
-  "last_updated": "2026-07-06T16:40:15.483126",
+  "last_updated": "2026-07-06T18:30:44.477455",
   "total": 30,
   "new": 1
 }

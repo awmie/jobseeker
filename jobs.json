@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Innovation",
+      "company": "Doshi Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-innovation-doshi-group-1134520",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-05T12:34:47+00:00"
+    },
+    {
       "title": "Supply Chain Analyst",
       "company": "DIVA",
       "location": "Remote",
@@ -594,19 +607,9 @@
       ],
       "salary": "",
       "posted": "2026-07-03T19:37:33+00:00"
-    },
-    {
-      "title": "Special Services Associate AIRDRIE",
-      "company": "The Home Depot Canada",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-special-services-associate-airdrie-the-home-depot-canada-1134446",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-03T19:03:08+00:00"
     }
   ],
-  "last_updated": "2026-07-06T09:42:24.704814",
+  "last_updated": "2026-07-06T13:30:13.784842",
   "total": 30,
   "new": 1
 }

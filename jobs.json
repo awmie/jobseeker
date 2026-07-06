@@ -253,21 +253,6 @@
       "posted": "2026-07-05T00:00:00+00:00"
     },
     {
-      "title": "dishwasher",
-      "company": "P\u00c3\u00bcr &amp; Simple",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-dishwasher-pur-amp-simple-1134492",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "exec",
-        "recruiter",
-        "education"
-      ],
-      "salary": "",
-      "posted": "2026-07-04T22:40:52+00:00"
-    },
-    {
       "title": "Human Resources Generalist",
       "company": "CoberonChronos",
       "location": "Remote",
@@ -582,9 +567,48 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-03T22:24:17+00:00"
+    },
+    {
+      "title": "Manager HR Business Partner",
+      "company": "LinkedIn",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-hr-business-partner-linkedin-1134451",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "consulting",
+        "exec",
+        "customer support",
+        "testing",
+        "marketing",
+        "web dev",
+        "video",
+        "education",
+        "seo",
+        "content writing",
+        "senior",
+        "ops",
+        "sales",
+        "golang",
+        "medical",
+        "digital nomad",
+        "travel",
+        "finance",
+        "stats",
+        "engineer",
+        "shopify",
+        "speech",
+        "full time",
+        "part time",
+        "hr",
+        "c",
+        "legal"
+      ],
+      "salary": "",
+      "posted": "2026-07-03T21:19:00+00:00"
     }
   ],
-  "last_updated": "2026-07-06T21:56:55.815200",
+  "last_updated": "2026-07-06T23:10:21.369570",
   "total": 30,
-  "new": 1
+  "new": 0
 }

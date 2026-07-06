@@ -71,6 +71,31 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Supply Chain Analyst",
+      "company": "DIVA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-supply-chain-analyst-diva-1134516",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "sys admin",
+        "customer support",
+        "travel",
+        "accounting",
+        "finance",
+        "education",
+        "assembly",
+        "exec",
+        "ops",
+        "marketing",
+        "excel",
+        "sales",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-05T00:00:00+00:00"
+    },
+    {
       "title": "dishwasher",
       "company": "P\u00c3\u00bcr &amp; Simple",
       "location": "Remote",
@@ -508,6 +533,34 @@
       "posted": "2026-07-03T20:01:55+00:00"
     },
     {
+      "title": "Editor Paginator",
+      "company": "The Canadian Press",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-editor-paginator-the-canadian-press-1134517",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "sys admin",
+        "customer support",
+        "travel",
+        "accounting",
+        "finance",
+        "education",
+        "assembly",
+        "exec",
+        "ops",
+        "marketing",
+        "excel",
+        "sales",
+        "medical",
+        "video",
+        "content writing",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-07-03T19:37:33+00:00"
+    },
+    {
       "title": "Special Services Associate AIRDRIE",
       "company": "The Home Depot Canada",
       "location": "Remote",
@@ -529,71 +582,9 @@
       ],
       "salary": "",
       "posted": "2026-07-03T17:41:29+00:00"
-    },
-    {
-      "title": "Business Operations Analyst",
-      "company": "TextUs",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-operations-analyst-textus-1134500",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "hr",
-        "sys admin",
-        "customer support",
-        "dev",
-        "payroll",
-        "education",
-        "exec",
-        "ops",
-        "medical",
-        "recruiter",
-        "digital nomad",
-        "analyst",
-        "saas",
-        "salesforce",
-        "video",
-        "finance",
-        "admin",
-        "mobile",
-        "marketing",
-        "excel",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-07-03T17:12:44+00:00"
-    },
-    {
-      "title": "Senior Quality Engineer",
-      "company": "Tellent",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-quality-engineer-tellent-1134436",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "graphql",
-        "hr",
-        "sys admin",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "web dev",
-        "quality assurance",
-        "api",
-        "exec",
-        "senior",
-        "medical",
-        "engineer",
-        "recruiter",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-03T16:00:13+00:00"
     }
   ],
-  "last_updated": "2026-07-06T01:17:30.001822",
+  "last_updated": "2026-07-06T05:39:43.850910",
   "total": 30,
-  "new": 0
+  "new": 2
 }

@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Food Service Specialties Back Office Support",
+      "company": "FOOD",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/food-service-specialties-back-office-support",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Your Resource Group Llc Remote Inside Sales 1",
       "company": "YOUR",
       "location": "Remote",
@@ -33,13 +40,6 @@
       "company": "QUALIFYZE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/qualifyze-senior-devops-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Stone Tile Administrative Assistant",
-      "company": "STONE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/stone-tile-administrative-assistant",
       "source": "WeWorkRemotely"
     },
     {
@@ -594,7 +594,7 @@
       "posted": "2026-07-03T23:07:30+00:00"
     }
   ],
-  "last_updated": "2026-07-07T00:19:31.737272",
+  "last_updated": "2026-07-07T04:28:22.263322",
   "total": 30,
-  "new": 2
+  "new": 1
 }

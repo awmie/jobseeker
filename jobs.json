@@ -71,6 +71,18 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Operator Red days",
+      "company": "Princes Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-operator-red-days-princes-group-1134538",
+      "source": "RemoteOK",
+      "tags": [
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-07-06T16:39:21+00:00"
+    },
+    {
       "title": "Proposal Manager",
       "company": "LinkedIn",
       "location": "Remote",
@@ -267,6 +279,31 @@
       "posted": "2026-07-06T06:47:39+00:00"
     },
     {
+      "title": "File Clerk",
+      "company": "Recruitlytic Hiring",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytic-hiring-1134559",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "customer support",
+        "marketing",
+        "education",
+        "senior",
+        "non tech",
+        "jira",
+        "hr",
+        "finance",
+        "cloud",
+        "admin",
+        "exec",
+        "ops",
+        "legal"
+      ],
+      "salary": "",
+      "posted": "2026-07-06T06:44:28+00:00"
+    },
+    {
       "title": "Expression of Interest",
       "company": "Easygo",
       "location": "Remote",
@@ -447,67 +484,9 @@
       ],
       "salary": "",
       "posted": "2026-07-05T00:00:00+00:00"
-    },
-    {
-      "title": "Junior Front End Developer",
-      "company": "PULSEMEDIA (MENA)",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-mena-1134518",
-      "source": "RemoteOK",
-      "tags": [
-        "front end",
-        "dev",
-        "design",
-        "react",
-        "wordpress",
-        "full stack",
-        "technical",
-        "customer support",
-        "testing",
-        "marketing",
-        "web dev",
-        "javascript",
-        "education",
-        "css",
-        "git",
-        "seo",
-        "mobile",
-        "exec",
-        "content writing",
-        "senior",
-        "junior",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-05T00:00:00+00:00"
-    },
-    {
-      "title": "Human Resources Generalist",
-      "company": "CoberonChronos",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-coberonchronos-1134499",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "hr",
-        "sys admin",
-        "customer support",
-        "dev",
-        "payroll",
-        "education",
-        "exec",
-        "ops",
-        "medical",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-04T21:10:36+00:00"
     }
   ],
-  "last_updated": "2026-07-07T16:03:03.691503",
+  "last_updated": "2026-07-07T18:11:43.974677",
   "total": 30,
-  "new": 3
+  "new": 2
 }

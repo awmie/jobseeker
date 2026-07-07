@@ -71,6 +71,65 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Expression of Interest Transition of Candidate",
+      "company": "Accenture Australia",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-transition-of-candidate-accenture-australia-1134526",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "game dev",
+        "customer support",
+        "marketing",
+        "finance",
+        "scheme",
+        "ops",
+        "legal",
+        "engineer",
+        "digital nomad",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-07-06T10:55:14+00:00"
+    },
+    {
+      "title": "Wireless Systems Technical Support Engineer",
+      "company": "Intracom Telecom",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-wireless-systems-technical-support-engineer-intracom-telecom-1134530",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "infosec",
+        "technical",
+        "dev",
+        "travel",
+        "microsoft",
+        "mobile",
+        "exec",
+        "ops",
+        "telecom",
+        "engineer",
+        "linux",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-06T10:28:03+00:00"
+    },
+    {
+      "title": "GET",
+      "company": "Yokogawa",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-get-yokogawa-1134535",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-06T09:14:43+00:00"
+    },
+    {
       "title": "CRO specialist",
       "company": "sofatutor",
       "location": "Remote",
@@ -469,92 +528,9 @@
       ],
       "salary": "",
       "posted": "2026-07-04T08:21:16+00:00"
-    },
-    {
-      "title": "Entry Level Administrative Assistant",
-      "company": "Recruitlytics Hiring",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytics-hiring-1134471",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "vfx",
-        "designer",
-        "technical",
-        "dev",
-        "marketing",
-        "exec",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "virtual assistant",
-        "education",
-        "customer support",
-        "video",
-        "microsoft",
-        "ops",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-07-04T08:21:03+00:00"
-    },
-    {
-      "title": "Administrative Data Entry File Clerk",
-      "company": "Recruitlytics Hiring",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-recruitlytics-hiring-1134498",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "saas",
-        "embedded",
-        "customer support",
-        "marketing",
-        "analyst",
-        "quality assurance",
-        "finance",
-        "ops",
-        "stats",
-        "sales",
-        "sys admin",
-        "medical",
-        "engineer",
-        "backend",
-        "exec",
-        "digital nomad",
-        "data entry",
-        "jira",
-        "hr",
-        "cloud",
-        "admin",
-        "excel",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-07-04T08:07:12+00:00"
-    },
-    {
-      "title": "File Clerk",
-      "company": "Recruitlytics Hiring",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytics-hiring-1134495",
-      "source": "RemoteOK",
-      "tags": [
-        "jira",
-        "hr",
-        "customer support",
-        "finance",
-        "cloud",
-        "admin",
-        "exec",
-        "ops",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-07-04T08:01:58+00:00"
     }
   ],
-  "last_updated": "2026-07-07T07:59:38.843134",
+  "last_updated": "2026-07-07T11:16:23.160346",
   "total": 30,
-  "new": 5
+  "new": 3
 }

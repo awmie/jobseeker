@@ -71,6 +71,61 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Proposal Manager",
+      "company": "LinkedIn",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-proposal-manager-linkedin-1134548",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "saas",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "content writing",
+        "legal",
+        "sales",
+        "golang",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-06T15:08:08+00:00"
+    },
+    {
+      "title": "SCL Agent",
+      "company": "Skanska Costain STRABAG Joint Venture",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-scl-agent-skanska-costain-strabag-joint-venture-1134541",
+      "source": "RemoteOK",
+      "tags": [
+        "ops",
+        "finance",
+        "golang",
+        "non tech",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-06T14:07:50+00:00"
+    },
+    {
+      "title": "Agent",
+      "company": "Skanska Costain STRABAG Joint Venture",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-agent-skanska-costain-strabag-joint-venture-1134540",
+      "source": "RemoteOK",
+      "tags": [
+        "ops",
+        "finance",
+        "golang",
+        "non tech",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-06T14:07:29+00:00"
+    },
+    {
       "title": "Scrum Master",
       "company": "Holliday Systems Inc",
       "location": "Remote",
@@ -450,89 +505,9 @@
       ],
       "salary": "",
       "posted": "2026-07-04T21:10:36+00:00"
-    },
-    {
-      "title": "Lead Data Scientist",
-      "company": "Brigit",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-lead-data-scientist-brigit-1134476",
-      "source": "RemoteOK",
-      "tags": [
-        "python",
-        "education",
-        "customer support",
-        "testing",
-        "marketing",
-        "dev",
-        "finance",
-        "exec",
-        "data science",
-        "junior",
-        "stats",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-04T16:00:08+00:00"
-    },
-    {
-      "title": "Administrative Assistant",
-      "company": "Pickle",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-pickle-1134486",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "embedded",
-        "hr",
-        "consulting",
-        "exec",
-        "customer support",
-        "dev",
-        "marketing",
-        "accounting",
-        "admin",
-        "ops",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-04T14:24:54+00:00"
-    },
-    {
-      "title": "Founder Ghostwriter for a U.S. based Google Ads Agency",
-      "company": "Paired",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-founder-ghostwriter-for-a-u-s-based-google-ads-agency-paired-1134487",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "embedded",
-        "hr",
-        "consulting",
-        "exec",
-        "customer support",
-        "dev",
-        "marketing",
-        "accounting",
-        "admin",
-        "ops",
-        "recruiter",
-        "digital nomad",
-        "writer",
-        "speech",
-        "video",
-        "ads",
-        "content writing",
-        "senior",
-        "ecommerce"
-      ],
-      "salary": "",
-      "posted": "2026-07-04T14:24:30+00:00"
     }
   ],
-  "last_updated": "2026-07-07T13:28:00.266017",
+  "last_updated": "2026-07-07T16:03:03.691503",
   "total": 30,
-  "new": 1
+  "new": 3
 }

@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Forager Growth Lead",
+      "company": "FORAGER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/forager-growth-lead",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Food Service Specialties Back Office Support",
       "company": "FOOD",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "CREATIVE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/creative-force-saas-product-support-jedi-remote-emea",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Your Resource Group Llc Remote Inside Sales 1",
-      "company": "YOUR",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/your-resource-group-llc-remote-inside-sales-1",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,37 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Scrum Master",
+      "company": "Holliday Systems Inc",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-scrum-master-holliday-systems-inc-1134531",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "infosec",
+        "technical",
+        "dev",
+        "travel",
+        "microsoft",
+        "mobile",
+        "exec",
+        "ops",
+        "telecom",
+        "engineer",
+        "linux",
+        "digital nomad",
+        "scrum",
+        "jira",
+        "education",
+        "consulting",
+        "marketing",
+        "content writing",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-07-06T12:30:37+00:00"
     },
     {
       "title": "Expression of Interest Transition of Candidate",
@@ -499,38 +530,9 @@
       ],
       "salary": "",
       "posted": "2026-07-04T14:24:30+00:00"
-    },
-    {
-      "title": "Customer Support",
-      "company": "Recruitlytics Hiring",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-recruitlytics-hiring-1134472",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "vfx",
-        "designer",
-        "technical",
-        "dev",
-        "marketing",
-        "exec",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "virtual assistant",
-        "education",
-        "customer support",
-        "video",
-        "microsoft",
-        "ops",
-        "excel",
-        "sys admin"
-      ],
-      "salary": "",
-      "posted": "2026-07-04T08:21:16+00:00"
     }
   ],
-  "last_updated": "2026-07-07T11:16:23.160346",
+  "last_updated": "2026-07-07T13:28:00.266017",
   "total": 30,
-  "new": 3
+  "new": 1
 }

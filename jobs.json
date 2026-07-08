@@ -1,13 +1,6 @@
 {
   "jobs": [
     {
-      "title": "Lemon Io Senior React Full Stack Developer 5",
-      "company": "LEMON IO",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Select Saunas Customer Support Specialist",
       "company": "SELECT",
       "location": "Remote",
@@ -15,10 +8,24 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Forager Growth Lead",
-      "company": "FORAGER",
+      "title": "Vidalytics Ai Automation Engineer In House Martech Video Saas",
+      "company": "VIDALYTICS AI",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/forager-growth-lead",
+      "url": "https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Vidalytics Europe Only Gtm Martech Engineer Growth Attribution At Video Martech Saas",
+      "company": "VIDALYTICS",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Vidalytics Europe Only Ai Native Performance Marketing Manager In House Martech Video Saas",
+      "company": "VIDALYTICS",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-ai-native-performance-marketing-manager-in-house-martech-video-saas",
       "source": "WeWorkRemotely"
     },
     {
@@ -40,13 +47,6 @@
       "company": "TOGGL",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Reveleer Full Stack Ai Engineer",
-      "company": "REVELEER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
     },
     {
@@ -529,7 +529,7 @@
       "posted": "2026-07-06T16:39:21+00:00"
     }
   ],
-  "last_updated": "2026-07-08T17:02:22.894899",
+  "last_updated": "2026-07-08T18:25:13.967824",
   "total": 30,
-  "new": 0
+  "new": 3
 }

@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Select Saunas Customer Support Specialist",
+      "company": "SELECT",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/select-saunas-customer-support-specialist",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Forager Growth Lead",
       "company": "FORAGER",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "FOOD",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/food-service-specialties-back-office-support",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Creative Force Saas Product Support Jedi Remote Emea",
-      "company": "CREATIVE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/creative-force-saas-product-support-jedi-remote-emea",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,61 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Regional Training Supervisor",
+      "company": "Guild Garage Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-training-supervisor-guild-garage-group-1134586",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "education",
+        "strategy",
+        "customer support",
+        "copywriting",
+        "marketing",
+        "travel",
+        "speech",
+        "video",
+        "mobile",
+        "content writing",
+        "senior",
+        "medical",
+        "social media",
+        "ecommerce",
+        "full time",
+        "data entry",
+        "dev",
+        "web dev",
+        "microsoft",
+        "ops",
+        "digital nomad",
+        "legal",
+        "design",
+        "technical",
+        "sales",
+        "recruiter",
+        "ads",
+        "art direction",
+        "saas",
+        "testing",
+        "engineer",
+        "hr",
+        "sys admin",
+        "coordinator",
+        "payroll",
+        "finance",
+        "excel",
+        "designer",
+        "golang",
+        "game dev",
+        "supervisor",
+        "adult",
+        "stats"
+      ],
+      "salary": "",
+      "posted": "2026-07-07T12:51:48+00:00"
     },
     {
       "title": "Replacement for Joe test",
@@ -272,6 +327,20 @@
       "posted": "2026-07-06T22:58:27+00:00"
     },
     {
+      "title": "Tutor Virtual Matem\u00c3\u00a1ticas",
+      "company": "Universidad del Valle de Guatemala",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-tutor-virtual-matematicas-universidad-del-valle-de-guatemala-1134593",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "teaching"
+      ],
+      "salary": "",
+      "posted": "2026-07-06T22:29:30+00:00"
+    },
+    {
       "title": "Operations Supervisor Healthcare South Georgia",
       "company": "Belle",
       "location": "Remote",
@@ -401,56 +470,9 @@
       ],
       "salary": "",
       "posted": "2026-07-06T14:07:50+00:00"
-    },
-    {
-      "title": "Agent",
-      "company": "Skanska Costain STRABAG Joint Venture",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-agent-skanska-costain-strabag-joint-venture-1134540",
-      "source": "RemoteOK",
-      "tags": [
-        "ops",
-        "finance",
-        "golang",
-        "non tech",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-07-06T14:07:29+00:00"
-    },
-    {
-      "title": "Scrum Master",
-      "company": "Holliday Systems Inc",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-scrum-master-holliday-systems-inc-1134531",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "infosec",
-        "technical",
-        "dev",
-        "travel",
-        "microsoft",
-        "mobile",
-        "exec",
-        "ops",
-        "telecom",
-        "engineer",
-        "linux",
-        "digital nomad",
-        "scrum",
-        "jira",
-        "education",
-        "consulting",
-        "marketing",
-        "content writing",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-07-06T12:30:37+00:00"
     }
   ],
-  "last_updated": "2026-07-08T11:26:15.765682",
+  "last_updated": "2026-07-08T13:04:39.860984",
   "total": 30,
   "new": 2
 }

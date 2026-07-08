@@ -71,6 +71,68 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Junior Business Analyst",
+      "company": "Arabian Private Holdings",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-business-analyst-arabian-private-holdings-1134577",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "coordinator",
+        "customer support",
+        "admin",
+        "junior",
+        "ops",
+        "marketing",
+        "medical",
+        "analyst",
+        "education",
+        "consulting",
+        "finance",
+        "senior"
+      ],
+      "salary": "",
+      "posted": "2026-07-07T09:06:35+00:00"
+    },
+    {
+      "title": "Online Bidder",
+      "company": "Digitex Technologies",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-online-bidder-digitex-technologies-1134567",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "web dev",
+        "mobile",
+        "marketing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-07T07:38:19+00:00"
+    },
+    {
+      "title": "Designer",
+      "company": "Archisearch",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-archisearch-1134565",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "linguistics",
+        "education",
+        "content writing",
+        "non tech",
+        "video",
+        "illustrator",
+        "finance",
+        "c",
+        "designer"
+      ],
+      "salary": "",
+      "posted": "2026-07-07T07:10:44+00:00"
+    },
+    {
       "title": "Paid Media Specialist Meta & Google Ads",
       "company": "Noventra Group",
       "location": "Remote",
@@ -392,55 +454,9 @@
       ],
       "salary": "",
       "posted": "2026-07-06T10:28:03+00:00"
-    },
-    {
-      "title": "Junior Project Manager",
-      "company": "ASG International",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-project-manager-asg-international-1134576",
-      "source": "RemoteOK",
-      "tags": [
-        "project manager",
-        "exec",
-        "coordinator",
-        "customer support",
-        "admin",
-        "junior",
-        "ops",
-        "marketing",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-07-06T09:15:22+00:00"
-    },
-    {
-      "title": "GET",
-      "company": "Yokogawa",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-get-yokogawa-1134535",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-06T09:14:43+00:00"
-    },
-    {
-      "title": "CRO specialist",
-      "company": "sofatutor",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-cro-specialist-sofatutor-1134522",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-07-06T07:41:14+00:00"
     }
   ],
-  "last_updated": "2026-07-08T07:08:07.426692",
+  "last_updated": "2026-07-08T09:34:17.768069",
   "total": 30,
-  "new": 1
+  "new": 3
 }

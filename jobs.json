@@ -71,6 +71,46 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Replacement for Joe test",
+      "company": "Infinity Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-replacement-for-joe-test-infinity-group-1134556",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-07T10:38:07+00:00"
+    },
+    {
+      "title": "Associate Data Analyst",
+      "company": "Arabian Private Holdings",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-data-analyst-arabian-private-holdings-1134566",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "linguistics",
+        "education",
+        "content writing",
+        "non tech",
+        "video",
+        "illustrator",
+        "finance",
+        "c",
+        "designer",
+        "analyst",
+        "consulting",
+        "customer support",
+        "exec",
+        "data science",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-07-07T10:04:48+00:00"
+    },
+    {
       "title": "Junior Business Analyst",
       "company": "Arabian Private Holdings",
       "location": "Remote",
@@ -408,55 +448,9 @@
       ],
       "salary": "",
       "posted": "2026-07-06T12:30:37+00:00"
-    },
-    {
-      "title": "Expression of Interest Transition of Candidate",
-      "company": "Accenture Australia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-transition-of-candidate-accenture-australia-1134526",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "game dev",
-        "customer support",
-        "marketing",
-        "finance",
-        "scheme",
-        "ops",
-        "legal",
-        "engineer",
-        "digital nomad",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-07-06T10:55:14+00:00"
-    },
-    {
-      "title": "Wireless Systems Technical Support Engineer",
-      "company": "Intracom Telecom",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-wireless-systems-technical-support-engineer-intracom-telecom-1134530",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "infosec",
-        "technical",
-        "dev",
-        "travel",
-        "microsoft",
-        "mobile",
-        "exec",
-        "ops",
-        "telecom",
-        "engineer",
-        "linux",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-06T10:28:03+00:00"
     }
   ],
-  "last_updated": "2026-07-08T09:34:17.768069",
+  "last_updated": "2026-07-08T11:26:15.765682",
   "total": 30,
-  "new": 3
+  "new": 2
 }

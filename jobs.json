@@ -71,6 +71,35 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Mali",
+      "company": "Ghar",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-mali-ghar-1134606",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-08T11:10:49+00:00"
+    },
+    {
+      "title": "Vendor Partner Lead",
+      "company": "LinkedIn",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-vendor-partner-lead-linkedin-1134596",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "content writing",
+        "ops",
+        "legal",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-07-08T09:17:27+00:00"
+    },
+    {
       "title": "Test",
       "company": "Solvay",
       "location": "Remote",
@@ -541,58 +570,9 @@
       ],
       "salary": "",
       "posted": "2026-07-07T20:01:04+00:00"
-    },
-    {
-      "title": "Director Educational Partnerships",
-      "company": "Sonic Automotive",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-educational-partnerships-sonic-automotive-1134581",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "education",
-        "strategy",
-        "customer support",
-        "copywriting",
-        "marketing",
-        "travel",
-        "speech",
-        "video",
-        "mobile",
-        "content writing",
-        "senior",
-        "medical",
-        "social media",
-        "ecommerce",
-        "full time",
-        "data entry",
-        "dev",
-        "web dev",
-        "microsoft",
-        "ops",
-        "digital nomad",
-        "legal",
-        "design",
-        "technical",
-        "sales",
-        "recruiter",
-        "ads"
-      ],
-      "salary": "",
-      "posted": "2026-07-07T19:32:02+00:00"
-    },
-    {
-      "title": "\u00c2\u00a0SUPERVISEUR 26 27",
-      "company": "The Home Depot Canada",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-superviseur-26-27-the-home-depot-canada-1134570",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-07T19:03:57+00:00"
     }
   ],
-  "last_updated": "2026-07-09T08:41:59.066905",
+  "last_updated": "2026-07-09T11:35:09.432386",
   "total": 30,
-  "new": 4
+  "new": 2
 }

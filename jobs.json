@@ -71,6 +71,85 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Controller Financiero",
+      "company": "Veolia",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-controller-financiero-veolia-1134632",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "marketing",
+        "travel",
+        "exec",
+        "content writing",
+        "sales",
+        "golang",
+        "controller",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-07-08T16:33:10+00:00"
+    },
+    {
+      "title": "Test 1 posting",
+      "company": "Sonic Healthcare UK",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-1-posting-sonic-healthcare-uk-1134608",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "education",
+        "customer support",
+        "travel",
+        "finance",
+        "scheme",
+        "ops",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-08T15:30:18+00:00"
+    },
+    {
+      "title": "Attractions Instructor",
+      "company": "Royal Caribbean International",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-attractions-instructor-royal-caribbean-international-1134598",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "sys admin",
+        "infosec",
+        "education",
+        "supervisor",
+        "customer support",
+        "testing",
+        "exec",
+        "math",
+        "ops",
+        "sales",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-08T14:55:45+00:00"
+    },
+    {
+      "title": "Joiner Multi",
+      "company": "United Infrastructure Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-joiner-multi-united-infrastructure-ltd-1134638",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "engineer",
+        "digital nomad",
+        "design",
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-07-08T14:49:48+00:00"
+    },
+    {
       "title": "Events Manager",
       "company": "Lantern",
       "location": "Remote",
@@ -470,86 +549,9 @@
       ],
       "salary": "",
       "posted": "2026-07-08T03:30:47+00:00"
-    },
-    {
-      "title": "RTW Driver",
-      "company": "Parkland Corporation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-rtw-driver-parkland-corporation-1134587",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "supervisor",
-        "testing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T02:37:15+00:00"
-    },
-    {
-      "title": "Asset Management Specialist Water Wastewater Treatment",
-      "company": "Woodard &amp; Curran",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-asset-management-specialist-water-wastewater-treatment-woodard-amp-curran-1134569",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "customer support",
-        "marketing",
-        "design",
-        "travel",
-        "exec",
-        "finance",
-        "math",
-        "content writing",
-        "ops",
-        "medical",
-        "engineer",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T00:00:05+00:00"
-    },
-    {
-      "title": "12 jobs that pay well without a degree",
-      "company": "Unigo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-12-jobs-that-pay-well-without-a-degree-unigo-1134605",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-07T22:20:28+00:00"
-    },
-    {
-      "title": "Social Media Manager TikTok and Founder",
-      "company": "Once Upon a Farm",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-tiktok-and-founder-once-upon-a-farm-1134578",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "education",
-        "strategy",
-        "customer support",
-        "copywriting",
-        "marketing",
-        "travel",
-        "speech",
-        "video",
-        "mobile",
-        "content writing",
-        "senior",
-        "medical",
-        "social media",
-        "ecommerce",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-07T20:57:14+00:00"
     }
   ],
-  "last_updated": "2026-07-09T14:11:20.731637",
+  "last_updated": "2026-07-09T16:40:53.878785",
   "total": 30,
-  "new": 3
+  "new": 4
 }

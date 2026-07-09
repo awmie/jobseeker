@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Nogigiddy Remote Data Entry Clerk 7",
+      "company": "NOGIGIDDY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Select Saunas Customer Support Specialist",
       "company": "SELECT",
       "location": "Remote",
@@ -36,13 +43,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Dataannotation Tech Ft Pt Remote Ai Prompt Engineering Evaluation Will Train",
-      "company": "DATAANNOTATION",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Toggl Senior Product Manager 4",
       "company": "TOGGL",
       "location": "Remote",
@@ -69,6 +69,41 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Asset Management Specialist Water Wastewater Treatment",
+      "company": "Woodard &amp; Curran",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-asset-management-specialist-water-wastewater-treatment-woodard-amp-curran-1134569",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "customer support",
+        "marketing",
+        "design",
+        "travel",
+        "exec",
+        "finance",
+        "math",
+        "content writing",
+        "ops",
+        "medical",
+        "engineer",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-08T00:00:05+00:00"
+    },
+    {
+      "title": "12 jobs that pay well without a degree",
+      "company": "Unigo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-12-jobs-that-pay-well-without-a-degree-unigo-1134605",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-07T22:20:28+00:00"
     },
     {
       "title": "Social Media Manager TikTok and Founder",
@@ -578,48 +613,9 @@
       ],
       "salary": "",
       "posted": "2026-07-07T07:10:44+00:00"
-    },
-    {
-      "title": "Paid Media Specialist Meta & Google Ads",
-      "company": "Noventra Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-paid-media-specialist-meta-google-ads-noventra-group-1134552",
-      "source": "RemoteOK",
-      "tags": [
-        "Marketing",
-        "Paid Media",
-        "Meta Ads",
-        "Facebook Ads",
-        "Google Ads",
-        "PPC",
-        "Performance Marketing",
-        "Ecommerce",
-        "SEM",
-        "Google Analytics",
-        "Google Tag Manager",
-        "Meta Pixel",
-        "Shopify"
-      ],
-      "salary": "",
-      "posted": "2026-07-07T05:08:56+00:00"
-    },
-    {
-      "title": "Custodian",
-      "company": "Hospitality Newfoundland and Labrador",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-custodian-hospitality-newfoundland-and-labrador-1134554",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "c",
-        "exec",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-07T04:29:41+00:00"
     }
   ],
-  "last_updated": "2026-07-08T23:37:28.617944",
+  "last_updated": "2026-07-09T01:13:52.849907",
   "total": 30,
-  "new": 0
+  "new": 2
 }

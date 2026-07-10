@@ -71,6 +71,29 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Firefighter ARFF",
+      "company": "Adani Airport Holdings Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-firefighter-arff-adani-airport-holdings-ltd-1134670",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "dev",
+        "photoshop",
+        "digital nomad",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "ops",
+        "medical",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T11:14:42+00:00"
+    },
+    {
       "title": "Junior Ecommerce Specialist",
       "company": "Haystack",
       "location": "Remote",
@@ -248,6 +271,30 @@
       "posted": "2026-07-09T00:51:09+00:00"
     },
     {
+      "title": "Non USA",
+      "company": "New Relic",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-non-usa-new-relic-1134671",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "dev",
+        "photoshop",
+        "digital nomad",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "ops",
+        "medical",
+        "engineer",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T00:48:36+00:00"
+    },
+    {
       "title": "Founder's Office Finance Super App",
       "company": "Bjak ",
       "location": "Remote",
@@ -408,70 +455,9 @@
       ],
       "salary": "",
       "posted": "2026-07-08T21:32:49+00:00"
-    },
-    {
-      "title": "Accounts Assistant",
-      "company": "CXC Upstream Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-accounts-assistant-cxc-upstream-ltd-1134628",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "sales",
-        "virtual assistant",
-        "sys admin",
-        "dev",
-        "accounting",
-        "payroll",
-        "microsoft",
-        "ops",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T20:56:52+00:00"
-    },
-    {
-      "title": "Freelance Background Artist for YouTube Studio",
-      "company": "Newscape Studios inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-background-artist-for-youtube-studio-newscape-studios-inc-1134620",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "coordinator",
-        "customer support",
-        "dev",
-        "mobile",
-        "exec",
-        "senior",
-        "ops",
-        "medical",
-        "digital nomad",
-        "design",
-        "crypto",
-        "marketing",
-        "video",
-        "finance",
-        "content writing",
-        "education",
-        "legal",
-        "sales",
-        "golang",
-        "full time",
-        "photoshop",
-        "illustrator"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T19:42:56+00:00"
     }
   ],
-  "last_updated": "2026-07-10T10:51:44.933927",
+  "last_updated": "2026-07-10T13:02:50.169656",
   "total": 30,
-  "new": 1
+  "new": 2
 }

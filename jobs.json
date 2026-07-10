@@ -71,6 +71,42 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Founder's Office Finance Super App",
+      "company": "Bjak ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-founders-office-finance-super-app-bjak-1134604",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "consulting",
+        "customer support",
+        "finance",
+        "admin",
+        "mobile",
+        "senior",
+        "ops",
+        "legal"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T00:00:04+00:00"
+    },
+    {
+      "title": "Barista",
+      "company": "Spark",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-barista-spark-1134640",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "engineer",
+        "digital nomad",
+        "design",
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-07-08T23:13:44+00:00"
+    },
+    {
       "title": "SLT HDFC BB Delhi",
       "company": "Aditya Birla Capital",
       "location": "Remote",
@@ -484,44 +520,9 @@
       ],
       "salary": "",
       "posted": "2026-07-08T13:51:13+00:00"
-    },
-    {
-      "title": "Influencer &amp; Community Marketing Executive",
-      "company": "UBT",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-influencer-amp-community-marketing-executive-ubt-1134631",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "marketing",
-        "travel",
-        "exec",
-        "content writing",
-        "sales",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T13:46:28+00:00"
-    },
-    {
-      "title": "Data center technician Dispatch",
-      "company": "Sharp Brains",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-center-technician-dispatch-sharp-brains-1134595",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "customer support",
-        "testing"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T13:02:44+00:00"
     }
   ],
-  "last_updated": "2026-07-09T23:02:12.864080",
+  "last_updated": "2026-07-10T00:14:36.442613",
   "total": 30,
-  "new": 1
+  "new": 2
 }

@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Apex Trade Entry Level Crypto Market Specialist",
+      "company": "APEX",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/apex-trade-entry-level-crypto-market-specialist",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Wonderdog Full Stack Product Engineer Agentic First",
       "company": "WONDERDOG",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "FORWARD",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/forward-push-law-firm-marketing-marketing-quality-lead",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Nogigiddy Remote Data Entry Clerk 7",
-      "company": "NOGIGIDDY",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,37 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/atcom-senior-net-web-developer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Caretaker City Buildings",
+      "company": "City of Kalgoorlie-Boulder",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-caretaker-city-buildings-city-of-kalgoorlie-boulder-1134655",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T15:04:15+00:00"
+    },
+    {
+      "title": "Mason",
+      "company": "United Infrastructure Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-mason-united-infrastructure-ltd-1134639",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "engineer",
+        "digital nomad",
+        "design",
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T14:49:39+00:00"
     },
     {
       "title": "Firefighter ARFF",
@@ -401,63 +432,9 @@
       ],
       "salary": "",
       "posted": "2026-07-08T21:32:49+00:00"
-    },
-    {
-      "title": "SLT HDFC BB Mumbai",
-      "company": "Aditya Birla Capital",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-mumbai-aditya-birla-capital-1134629",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "sales",
-        "virtual assistant",
-        "sys admin",
-        "dev",
-        "accounting",
-        "payroll",
-        "microsoft",
-        "ops",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T21:32:49+00:00"
-    },
-    {
-      "title": "SLT HDFC BB Ahmedabad",
-      "company": "Aditya Birla Capital",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-ahmedabad-aditya-birla-capital-1134630",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "sales",
-        "virtual assistant",
-        "sys admin",
-        "dev",
-        "accounting",
-        "payroll",
-        "microsoft",
-        "ops",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T21:32:49+00:00"
     }
   ],
-  "last_updated": "2026-07-10T13:02:50.169656",
+  "last_updated": "2026-07-10T15:38:26.285425",
   "total": 30,
-  "new": 2
+  "new": 3
 }

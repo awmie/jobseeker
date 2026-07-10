@@ -71,6 +71,23 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Diver",
+      "company": "Amentum",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-diver-amentum-1134647",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "video",
+        "ops",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T20:55:49+00:00"
+    },
+    {
       "title": "Nanny",
       "company": "Jovie",
       "location": "Remote",
@@ -159,6 +176,16 @@
       ],
       "salary": "",
       "posted": "2026-07-09T14:49:39+00:00"
+    },
+    {
+      "title": "Asesor de Atenci\u00c3\u00b3n al Cliente Remoto Sueldo Fijo",
+      "company": "Partner Service",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-asesor-de-atencion-al-cliente-remoto-sueldo-fijo-partner-service-1134688",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-09T13:04:36+00:00"
     },
     {
       "title": "Firefighter ARFF",
@@ -289,6 +316,18 @@
       "posted": "2026-07-09T02:19:04+00:00"
     },
     {
+      "title": "Con o Sin Exp. ATC Remoto Turno Tarde Salario fijo+Variable Firma Contrato con Planilla Completa",
+      "company": "Netcall Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-con-o-sin-exp-atc-remoto-turno-tarde-salario-fijo-variable-firma-contrato-con-planilla-completa-netcall-group-1134689",
+      "source": "RemoteOK",
+      "tags": [
+        "hr"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T01:07:33+00:00"
+    },
+    {
       "title": "Docente Tiempo Parcial Desarrollo de Psicomotricidad en Primera Infancia Remoto",
       "company": "Universidad Privada del Norte",
       "location": "Remote",
@@ -403,57 +442,9 @@
       ],
       "salary": "",
       "posted": "2026-07-09T00:00:04+00:00"
-    },
-    {
-      "title": "General Consideration",
-      "company": "CertaSite",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-consideration-certasite-1134683",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-09T00:00:00+00:00"
-    },
-    {
-      "title": "Barista",
-      "company": "Spark",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-barista-spark-1134640",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "engineer",
-        "digital nomad",
-        "design",
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T23:13:44+00:00"
-    },
-    {
-      "title": "SLT HDFC BB Delhi",
-      "company": "Aditya Birla Capital",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-delhi-aditya-birla-capital-1134624",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T21:32:49+00:00"
     }
   ],
-  "last_updated": "2026-07-10T20:37:56.257862",
+  "last_updated": "2026-07-10T21:39:47.116256",
   "total": 30,
   "new": 3
 }

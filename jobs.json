@@ -71,6 +71,65 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Customer Success Manager",
+      "company": "INNERGY",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-innergy-1134651",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "hr",
+        "sys admin",
+        "infosec",
+        "teaching",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "travel",
+        "video",
+        "cloud",
+        "exec",
+        "linux",
+        "digital nomad",
+        "saas",
+        "salesforce",
+        "education",
+        "consulting",
+        "speech",
+        "finance",
+        "sales",
+        "medical",
+        "engineer",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T22:30:53+00:00"
+    },
+    {
+      "title": "Warehouse Inventory Clerk",
+      "company": "Caribbean Bottling Company (Bahamas) Ltd.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-warehouse-inventory-clerk-caribbean-bottling-company-bahamas-ltd-1134648",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "video",
+        "ops",
+        "non tech",
+        "sys admin",
+        "exec",
+        "math",
+        "microsoft",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T21:58:53+00:00"
+    },
+    {
       "title": "Diver",
       "company": "Amentum",
       "location": "Remote",
@@ -398,53 +457,9 @@
       ],
       "salary": "",
       "posted": "2026-07-09T00:51:09+00:00"
-    },
-    {
-      "title": "Non USA",
-      "company": "New Relic",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-non-usa-new-relic-1134671",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "dev",
-        "photoshop",
-        "digital nomad",
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "ops",
-        "medical",
-        "engineer",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-07-09T00:48:36+00:00"
-    },
-    {
-      "title": "Founder's Office Finance Super App",
-      "company": "Bjak ",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-founders-office-finance-super-app-bjak-1134604",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "consulting",
-        "customer support",
-        "finance",
-        "admin",
-        "mobile",
-        "senior",
-        "ops",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-07-09T00:00:04+00:00"
     }
   ],
-  "last_updated": "2026-07-10T21:39:47.116256",
+  "last_updated": "2026-07-10T22:39:16.452275",
   "total": 30,
-  "new": 3
+  "new": 2
 }

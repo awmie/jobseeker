@@ -71,6 +71,33 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Operador de Portaria Remota Recife PE Seu Novo Emprego",
+      "company": "BuscarVagas - Empregos Brasil",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-seu-novo-emprego-buscarvagas-empregos-brasil-1134659",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-09T07:40:19+00:00"
+    },
+    {
+      "title": "Houseperson",
+      "company": "Accor",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-houseperson-accor-1134656",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "medical",
+        "non tech",
+        "infosec",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T07:37:26+00:00"
+    },
+    {
       "title": "Update Add Your Resume Any Position EOI Infrastructure Projects",
       "company": "Bellwether Group",
       "location": "Remote",
@@ -427,34 +454,9 @@
       ],
       "salary": "",
       "posted": "2026-07-08T19:06:22+00:00"
-    },
-    {
-      "title": "\u00c2\u00a0SUPERVISEUR 31 94",
-      "company": "The Home Depot Canada",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-superviseur-31-94-the-home-depot-canada-1134603",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-08T19:03:02+00:00"
-    },
-    {
-      "title": "Analista Marketing JR Social Media",
-      "company": "Bradesco",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-marketing-jr-social-media-bradesco-1134612",
-      "source": "RemoteOK",
-      "tags": [
-        "excel",
-        "non tech",
-        "marketing",
-        "social media"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T17:39:00+00:00"
     }
   ],
-  "last_updated": "2026-07-10T04:17:55.335879",
+  "last_updated": "2026-07-10T07:55:41.014093",
   "total": 30,
-  "new": 7
+  "new": 2
 }

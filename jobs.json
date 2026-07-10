@@ -71,6 +71,65 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Nanny",
+      "company": "Jovie",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-nanny-jovie-1134660",
+      "source": "RemoteOK",
+      "tags": [
+        "react",
+        "teaching",
+        "education",
+        "customer support",
+        "exec",
+        "sys admin",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T19:42:11+00:00"
+    },
+    {
+      "title": "Health Navigator I",
+      "company": "Moda Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-health-navigator-i-moda-health-1134652",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "hr",
+        "sys admin",
+        "infosec",
+        "teaching",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "travel",
+        "video",
+        "cloud",
+        "exec",
+        "linux",
+        "digital nomad",
+        "saas",
+        "salesforce",
+        "education",
+        "consulting",
+        "speech",
+        "finance",
+        "sales",
+        "medical",
+        "engineer",
+        "recruiter",
+        "supervisor",
+        "microsoft",
+        "content writing",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T19:13:35+00:00"
+    },
+    {
       "title": "Caretaker City Buildings",
       "company": "City of Kalgoorlie-Boulder",
       "location": "Remote",
@@ -346,6 +405,20 @@
       "posted": "2026-07-09T00:00:04+00:00"
     },
     {
+      "title": "General Consideration",
+      "company": "CertaSite",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-consideration-certasite-1134683",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "education",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T00:00:00+00:00"
+    },
+    {
       "title": "Barista",
       "company": "Spark",
       "location": "Remote",
@@ -378,63 +451,9 @@
       ],
       "salary": "",
       "posted": "2026-07-08T21:32:49+00:00"
-    },
-    {
-      "title": "SLT HDFC BB Ludhiana",
-      "company": "Aditya Birla Capital",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-ludhiana-aditya-birla-capital-1134625",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T21:32:49+00:00"
-    },
-    {
-      "title": "SLT HDFC BB Pondicherry",
-      "company": "Aditya Birla Capital",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-pondicherry-aditya-birla-capital-1134626",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T21:32:49+00:00"
-    },
-    {
-      "title": "SLT HDFC BB Chennai",
-      "company": "Aditya Birla Capital",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-chennai-aditya-birla-capital-1134627",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-07-08T21:32:49+00:00"
     }
   ],
-  "last_updated": "2026-07-10T18:59:07.459113",
+  "last_updated": "2026-07-10T20:37:56.257862",
   "total": 30,
-  "new": 0
+  "new": 3
 }

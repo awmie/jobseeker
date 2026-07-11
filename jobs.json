@@ -1,17 +1,17 @@
 {
   "jobs": [
     {
+      "title": "Cortes 23 Senior Qa Engineer 2",
+      "company": "CORTES 23",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Apex Trade Entry Level Crypto Market Specialist",
       "company": "APEX",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/apex-trade-entry-level-crypto-market-specialist",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Wonderdog Full Stack Product Engineer Agentic First",
-      "company": "WONDERDOG",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
       "source": "WeWorkRemotely"
     },
     {
@@ -529,7 +529,7 @@
       "posted": "2026-07-10T06:08:49+00:00"
     }
   ],
-  "last_updated": "2026-07-11T16:30:50.149569",
+  "last_updated": "2026-07-11T17:33:23.983764",
   "total": 30,
-  "new": 0
+  "new": 1
 }

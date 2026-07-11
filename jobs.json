@@ -71,6 +71,33 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Support Technician Level 1 2",
+      "company": "Magic Memories",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-support-technician-level-1-2-magic-memories-1134650",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "hr",
+        "sys admin",
+        "infosec",
+        "teaching",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "travel",
+        "video",
+        "cloud",
+        "exec",
+        "linux",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-10T00:03:02+00:00"
+    },
+    {
       "title": "Customer Success Manager",
       "company": "INNERGY",
       "location": "Remote",
@@ -444,22 +471,9 @@
       ],
       "salary": "",
       "posted": "2026-07-09T00:57:47+00:00"
-    },
-    {
-      "title": "Pesquisador em Teoria da Mudan\u00c3\u00a7a",
-      "company": "Instituto Cordial",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-pesquisador-em-teoria-da-mudanca-instituto-cordial-1134643",
-      "source": "RemoteOK",
-      "tags": [
-        "excel",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-09T00:51:09+00:00"
     }
   ],
-  "last_updated": "2026-07-10T23:37:25.418861",
+  "last_updated": "2026-07-11T01:05:12.580736",
   "total": 30,
-  "new": 0
+  "new": 1
 }

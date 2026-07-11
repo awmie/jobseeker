@@ -71,6 +71,64 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Application",
+      "company": "Conquer AI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-application-conquer-ai-1134673",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "dev",
+        "photoshop",
+        "digital nomad",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "ops",
+        "medical",
+        "engineer",
+        "recruiter",
+        "golang",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-10T10:51:20+00:00"
+    },
+    {
+      "title": "Junior Web Designer",
+      "company": "Arabian Private Holdings",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-arabian-private-holdings-1134699",
+      "source": "RemoteOK",
+      "tags": [
+        "web dev",
+        "design",
+        "consulting",
+        "designer",
+        "customer support",
+        "dev",
+        "marketing",
+        "finance",
+        "exec",
+        "junior",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-10T10:06:26+00:00"
+    },
+    {
+      "title": "Expression of Interest Application",
+      "company": "North Queensland Bio Energy Corporation Limited",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-application-north-queensland-bio-energy-corporation-limited-1134695",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-10T10:06:13+00:00"
+    },
+    {
       "title": "Custodian",
       "company": "Crunch Fitness - Fit Fusion, LLC",
       "location": "Remote",
@@ -543,85 +601,9 @@
       ],
       "salary": "",
       "posted": "2026-07-09T21:58:53+00:00"
-    },
-    {
-      "title": "Diver",
-      "company": "Amentum",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-diver-amentum-1134647",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "testing",
-        "video",
-        "ops",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-09T20:55:49+00:00"
-    },
-    {
-      "title": "Nanny",
-      "company": "Jovie",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-nanny-jovie-1134660",
-      "source": "RemoteOK",
-      "tags": [
-        "react",
-        "teaching",
-        "education",
-        "customer support",
-        "exec",
-        "sys admin",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-07-09T19:42:11+00:00"
-    },
-    {
-      "title": "Health Navigator I",
-      "company": "Moda Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-health-navigator-i-moda-health-1134652",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "hr",
-        "sys admin",
-        "infosec",
-        "teaching",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "travel",
-        "video",
-        "cloud",
-        "exec",
-        "linux",
-        "digital nomad",
-        "saas",
-        "salesforce",
-        "education",
-        "consulting",
-        "speech",
-        "finance",
-        "sales",
-        "medical",
-        "engineer",
-        "recruiter",
-        "supervisor",
-        "microsoft",
-        "content writing",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-09T19:13:35+00:00"
     }
   ],
-  "last_updated": "2026-07-11T09:55:25.335467",
+  "last_updated": "2026-07-11T11:02:42.127022",
   "total": 30,
-  "new": 1
+  "new": 3
 }

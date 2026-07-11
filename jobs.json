@@ -71,6 +71,25 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Australian English Voice Actor Adelaide",
+      "company": "OpsArmy Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-australian-english-voice-actor-adelaide-opsarmy-careers-1134698",
+      "source": "RemoteOK",
+      "tags": [
+        "speech",
+        "game dev",
+        "dev",
+        "video",
+        "content writing",
+        "education",
+        "non tech",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-10T02:20:45+00:00"
+    },
+    {
       "title": "Support Technician Level 1 2",
       "company": "Magic Memories",
       "location": "Remote",
@@ -231,6 +250,32 @@
       ],
       "salary": "",
       "posted": "2026-07-09T19:13:35+00:00"
+    },
+    {
+      "title": "Senior Creative Designer Design Strategist",
+      "company": "Digital",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-creative-designer-design-strategist-digital-1134700",
+      "source": "RemoteOK",
+      "tags": [
+        "web dev",
+        "design",
+        "consulting",
+        "designer",
+        "customer support",
+        "dev",
+        "marketing",
+        "finance",
+        "exec",
+        "junior",
+        "digital nomad",
+        "strategy",
+        "video",
+        "content writing",
+        "senior"
+      ],
+      "salary": "",
+      "posted": "2026-07-09T15:13:13+00:00"
     },
     {
       "title": "Caretaker City Buildings",
@@ -440,40 +485,9 @@
       ],
       "salary": "",
       "posted": "2026-07-09T01:04:54+00:00"
-    },
-    {
-      "title": "Docente Tiempo Parcial Elaboraci\u00c3\u00b3n Materiales Educativos Primera Infancia SJL",
-      "company": "Universidad Privada del Norte",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-docente-tiempo-parcial-elaboracion-materiales-educativos-primera-infancia-sjl-universidad-privada-del-norte-1134609",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-09T01:04:44+00:00"
-    },
-    {
-      "title": "Dispatch Coordinator I",
-      "company": "Belle",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-dispatch-coordinator-i-belle-1134617",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "coordinator",
-        "customer support",
-        "dev",
-        "mobile",
-        "exec",
-        "senior",
-        "ops",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-09T00:57:47+00:00"
     }
   ],
-  "last_updated": "2026-07-11T01:05:12.580736",
+  "last_updated": "2026-07-11T04:23:52.545717",
   "total": 30,
-  "new": 1
+  "new": 2
 }

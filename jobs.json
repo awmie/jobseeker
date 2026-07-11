@@ -71,6 +71,16 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Resume Inbox",
+      "company": "Mark Thomas",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-resume-inbox-mark-thomas-1134682",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-10T12:09:58+00:00"
+    },
+    {
       "title": "QUICK EAT &amp; DRINKS",
       "company": "Khoja Khoji",
       "location": "Remote",
@@ -542,28 +552,9 @@
       ],
       "salary": "",
       "posted": "2026-07-10T06:01:39+00:00"
-    },
-    {
-      "title": "Australian English Voice Actor Adelaide",
-      "company": "OpsArmy Careers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-australian-english-voice-actor-adelaide-opsarmy-careers-1134698",
-      "source": "RemoteOK",
-      "tags": [
-        "speech",
-        "game dev",
-        "dev",
-        "video",
-        "content writing",
-        "education",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-10T02:20:45+00:00"
     }
   ],
-  "last_updated": "2026-07-11T12:00:30.625018",
+  "last_updated": "2026-07-11T13:45:23.026546",
   "total": 30,
-  "new": 3
+  "new": 1
 }

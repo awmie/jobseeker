@@ -71,6 +71,20 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Custodian",
+      "company": "Crunch Fitness - Fit Fusion, LLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-custodian-crunch-fitness-fit-fusion-llc-1134693",
+      "source": "RemoteOK",
+      "tags": [
+        "content writing",
+        "exec",
+        "virtual assistant"
+      ],
+      "salary": "",
+      "posted": "2026-07-10T09:47:56+00:00"
+    },
+    {
       "title": "Administrative Customer Support",
       "company": "Recruitlytixs Hirings",
       "location": "Remote",
@@ -605,35 +619,9 @@
       ],
       "salary": "",
       "posted": "2026-07-09T19:13:35+00:00"
-    },
-    {
-      "title": "Senior Creative Designer Design Strategist",
-      "company": "Digital",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-creative-designer-design-strategist-digital-1134700",
-      "source": "RemoteOK",
-      "tags": [
-        "web dev",
-        "design",
-        "consulting",
-        "designer",
-        "customer support",
-        "dev",
-        "marketing",
-        "finance",
-        "exec",
-        "junior",
-        "digital nomad",
-        "strategy",
-        "video",
-        "content writing",
-        "senior"
-      ],
-      "salary": "",
-      "posted": "2026-07-09T15:13:13+00:00"
     }
   ],
-  "last_updated": "2026-07-11T08:23:20.109429",
+  "last_updated": "2026-07-11T09:55:25.335467",
   "total": 30,
-  "new": 0
+  "new": 1
 }

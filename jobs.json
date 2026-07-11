@@ -71,6 +71,31 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "WAREHOUSE OFFICER",
+      "company": "Nexilon Energy Systems Pvt. Ltd.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-warehouse-officer-nexilon-energy-systems-pvt-ltd-1134694",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-10T14:22:49+00:00"
+    },
+    {
+      "title": "ASSISTENTE ADMINISTRATIVO BARUERI SP",
+      "company": "SGS",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-barueri-sp-sgs-1134705",
+      "source": "RemoteOK",
+      "tags": [
+        "c",
+        "excel",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-10T14:19:10+00:00"
+    },
+    {
       "title": "Resume Inbox",
       "company": "Mark Thomas",
       "location": "Remote",
@@ -502,59 +527,9 @@
       ],
       "salary": "",
       "posted": "2026-07-10T06:08:49+00:00"
-    },
-    {
-      "title": "Customer Support",
-      "company": "Recruitlytixs Hirings",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-recruitlytixs-hirings-1134678",
-      "source": "RemoteOK",
-      "tags": [
-        "jira",
-        "hr",
-        "customer support",
-        "finance",
-        "cloud",
-        "admin",
-        "exec",
-        "ops",
-        "legal",
-        "recruiter",
-        "teaching",
-        "marketing",
-        "c",
-        "sales",
-        "data entry",
-        "virtual assistant",
-        "education",
-        "microsoft",
-        "excel",
-        "sys admin",
-        "technical"
-      ],
-      "salary": "",
-      "posted": "2026-07-10T06:08:14+00:00"
-    },
-    {
-      "title": "We\u00e2\u0080\u0099re not hiring right now \u00e2\u0080\u0094 but we\u00e2\u0080\u0099re growing fast",
-      "company": "VENDED",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-were-not-hiring-right-now-but-were-growing-fast-vended-1134690",
-      "source": "RemoteOK",
-      "tags": [
-        "ios",
-        "dev",
-        "web dev",
-        "api",
-        "sales",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-10T06:01:39+00:00"
     }
   ],
-  "last_updated": "2026-07-11T13:45:23.026546",
+  "last_updated": "2026-07-11T14:40:07.951625",
   "total": 30,
-  "new": 1
+  "new": 2
 }

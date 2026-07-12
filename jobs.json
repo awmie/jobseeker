@@ -71,6 +71,16 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Atendente Relacionamento Ouvidoria",
+      "company": "Vivo (Telef\u00c3\u00b4nica Brasil)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-atendente-relacionamento-ouvidoria-vivo-telefonica-brasil-1134706",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-11T12:00:18+00:00"
+    },
+    {
       "title": "Recepcionista Jr Bela Vista SP",
       "company": "Grupo Amil",
       "location": "Remote",
@@ -195,6 +205,29 @@
       ],
       "salary": "",
       "posted": "2026-07-10T14:19:10+00:00"
+    },
+    {
+      "title": "Deputy Chief Executive Officer",
+      "company": "TheHiveCareers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-deputy-chief-executive-officer-thehivecareers-1134731",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "infosec",
+        "customer support",
+        "marketing",
+        "travel",
+        "accounting",
+        "finance",
+        "education",
+        "senior",
+        "ops",
+        "legal",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-07-10T14:18:43+00:00"
     },
     {
       "title": "Resume Inbox",
@@ -329,64 +362,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-10T10:06:13+00:00"
-    },
-    {
-      "title": "Custodian",
-      "company": "Crunch Fitness - Fit Fusion, LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-custodian-crunch-fitness-fit-fusion-llc-1134693",
-      "source": "RemoteOK",
-      "tags": [
-        "content writing",
-        "exec",
-        "virtual assistant"
-      ],
-      "salary": "",
-      "posted": "2026-07-10T09:47:56+00:00"
-    },
-    {
-      "title": "Administrative Customer Support",
-      "company": "Recruitlytixs Hirings",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-customer-support-recruitlytixs-hirings-1134668",
-      "source": "RemoteOK",
-      "tags": [
-        "writer",
-        "customer support",
-        "exec",
-        "finance",
-        "microsoft",
-        "content writing",
-        "excel",
-        "golang",
-        "medical",
-        "virtual assistant",
-        "education",
-        "marketing",
-        "video",
-        "ops",
-        "travel",
-        "data entry",
-        "jira",
-        "hr",
-        "cloud",
-        "admin",
-        "legal",
-        "sys admin",
-        "dev",
-        "design",
-        "technical",
-        "testing",
-        "adult",
-        "photoshop",
-        "illustrator",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-10T06:27:54+00:00"
     }
   ],
-  "last_updated": "2026-07-12T11:34:33.726469",
+  "last_updated": "2026-07-12T12:31:30.946168",
   "total": 30,
-  "new": 0
+  "new": 2
 }

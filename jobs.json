@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Heading",
+      "company": "UX/UI Design K7 Tech",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-heading-ux-ui-design-k7-tech-1134723",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-11T16:20:00+00:00"
+    },
+    {
       "title": "CRM & Lifecycle Manager",
       "company": "Joko",
       "location": "Remote",
@@ -471,32 +484,9 @@
       ],
       "salary": "",
       "posted": "2026-07-10T14:19:10+00:00"
-    },
-    {
-      "title": "Deputy Chief Executive Officer",
-      "company": "TheHiveCareers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-deputy-chief-executive-officer-thehivecareers-1134731",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "infosec",
-        "customer support",
-        "marketing",
-        "travel",
-        "accounting",
-        "finance",
-        "education",
-        "senior",
-        "ops",
-        "legal",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-07-10T14:18:43+00:00"
     }
   ],
-  "last_updated": "2026-07-12T16:13:56.428389",
+  "last_updated": "2026-07-12T17:26:37.421842",
   "total": 30,
-  "new": 7
+  "new": 1
 }

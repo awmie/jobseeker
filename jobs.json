@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "General Applicant Position",
+      "company": "Hunt Remotely",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-applicant-position-hunt-remotely-1134720",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-11T22:52:07+00:00"
+    },
+    {
       "title": "Healthcare Intake Coordinator Alberta",
       "company": "Carewell",
       "location": "Remote",
@@ -373,23 +386,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-11T01:29:23+00:00"
-    },
-    {
-      "title": "Assistente de Gente e Cultura J\u00c3\u00banior",
-      "company": "JOYn Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistente-de-gente-e-cultura-junior-joyn-group-1134711",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "excel",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T01:03:13+00:00"
     }
   ],
-  "last_updated": "2026-07-12T22:11:33.464985",
+  "last_updated": "2026-07-12T23:09:10.450670",
   "total": 30,
-  "new": 0
+  "new": 1
 }

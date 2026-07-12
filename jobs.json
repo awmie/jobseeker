@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Creative Force Sales Jedi 6",
+      "company": "CREATIVE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/creative-force-sales-jedi-6",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Cortes 23 Senior Qa Engineer 2",
       "company": "CORTES 23",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "APEX",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/apex-trade-entry-level-crypto-market-specialist",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Forward Push Law Firm Marketing Marketing Quality Lead",
-      "company": "FORWARD",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/forward-push-law-firm-marketing-marketing-quality-lead",
       "source": "WeWorkRemotely"
     },
     {
@@ -71,6 +71,21 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Brad Phillips",
+      "company": "MILTON FIRE DEPARTMENT INC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-brad-phillips-milton-fire-department-inc-1134702",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "full time",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-07-11T04:57:22+00:00"
+    },
+    {
       "title": "You",
       "company": "DQC | Data Quality Company",
       "location": "Remote",
@@ -106,6 +121,16 @@
       ],
       "salary": "",
       "posted": "2026-07-11T01:03:13+00:00"
+    },
+    {
+      "title": "Driver",
+      "company": "Urban Movers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-driver-urban-movers-1134721",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-10T23:16:25+00:00"
     },
     {
       "title": "Analista de Atra\u00c3\u00a7\u00c3\u00a3o e Sele\u00c3\u00a7\u00c3\u00a3o Tempor\u00c3\u00a1rio",
@@ -386,75 +411,9 @@
       ],
       "salary": "",
       "posted": "2026-07-10T06:27:19+00:00"
-    },
-    {
-      "title": "Computer User Support",
-      "company": "Recruitlytixs Hirings",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-computer-user-support-recruitlytixs-hirings-1134667",
-      "source": "RemoteOK",
-      "tags": [
-        "writer",
-        "customer support",
-        "exec",
-        "finance",
-        "microsoft",
-        "content writing",
-        "excel",
-        "golang",
-        "medical",
-        "virtual assistant",
-        "education",
-        "marketing",
-        "video",
-        "ops",
-        "travel",
-        "data entry",
-        "jira",
-        "hr",
-        "cloud",
-        "admin",
-        "legal",
-        "sys admin",
-        "dev",
-        "design",
-        "technical",
-        "testing",
-        "adult",
-        "photoshop",
-        "illustrator",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-10T06:27:08+00:00"
-    },
-    {
-      "title": "Entry Level Administrative Assistant",
-      "company": "Recruitlytixs Hirings",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytixs-hirings-1134663",
-      "source": "RemoteOK",
-      "tags": [
-        "writer",
-        "customer support",
-        "exec",
-        "finance",
-        "microsoft",
-        "content writing",
-        "excel",
-        "golang",
-        "medical",
-        "virtual assistant",
-        "education",
-        "marketing",
-        "video",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-10T06:26:57+00:00"
     }
   ],
-  "last_updated": "2026-07-12T03:58:51.786268",
+  "last_updated": "2026-07-12T06:41:21.306985",
   "total": 30,
-  "new": 3
+  "new": 2
 }

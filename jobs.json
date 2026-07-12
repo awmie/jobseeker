@@ -71,6 +71,18 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Recepcionista Jr Bela Vista SP",
+      "company": "Grupo Amil",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-recepcionista-jr-bela-vista-sp-grupo-amil-1134704",
+      "source": "RemoteOK",
+      "tags": [
+        "c"
+      ],
+      "salary": "",
+      "posted": "2026-07-11T08:04:49+00:00"
+    },
+    {
       "title": "Brad Phillips",
       "company": "MILTON FIRE DEPARTMENT INC",
       "location": "Remote",
@@ -214,6 +226,26 @@
       "posted": "2026-07-10T11:50:09+00:00"
     },
     {
+      "title": "ACCOMMODATIONS",
+      "company": "Khoja Khoji",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-accommodations-khoja-khoji-1134725",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "digital nomad",
+        "testing",
+        "education",
+        "dev",
+        "travel",
+        "finance",
+        "marketing",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-10T11:48:28+00:00"
+    },
+    {
       "title": "All Jobs",
       "company": "Expat Shield | Insurance Solutions in Thailand - that\u00e2\u0080\u0099s Chubb Life.",
       "location": "Remote",
@@ -352,68 +384,9 @@
       ],
       "salary": "",
       "posted": "2026-07-10T06:27:54+00:00"
-    },
-    {
-      "title": "Virtual Executive Assistant",
-      "company": "Recruitlytixs Hirings",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruitlytixs-hirings-1134664",
-      "source": "RemoteOK",
-      "tags": [
-        "writer",
-        "customer support",
-        "exec",
-        "finance",
-        "microsoft",
-        "content writing",
-        "excel",
-        "golang",
-        "medical",
-        "virtual assistant",
-        "education",
-        "marketing",
-        "video",
-        "ops",
-        "travel"
-      ],
-      "salary": "",
-      "posted": "2026-07-10T06:27:30+00:00"
-    },
-    {
-      "title": "Administrative Data Entry File Clerk",
-      "company": "Recruitlytixs Hirings",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-recruitlytixs-hirings-1134665",
-      "source": "RemoteOK",
-      "tags": [
-        "writer",
-        "customer support",
-        "exec",
-        "finance",
-        "microsoft",
-        "content writing",
-        "excel",
-        "golang",
-        "medical",
-        "virtual assistant",
-        "education",
-        "marketing",
-        "video",
-        "ops",
-        "travel",
-        "data entry",
-        "jira",
-        "hr",
-        "cloud",
-        "admin",
-        "legal",
-        "sys admin"
-      ],
-      "salary": "",
-      "posted": "2026-07-10T06:27:19+00:00"
     }
   ],
-  "last_updated": "2026-07-12T06:41:21.306985",
+  "last_updated": "2026-07-12T08:53:51.288784",
   "total": 30,
   "new": 2
 }

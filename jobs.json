@@ -71,6 +71,43 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "You",
+      "company": "DQC | Data Quality Company",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-you-dqc-data-quality-company-1134701",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-11T02:21:56+00:00"
+    },
+    {
+      "title": "DPS Employee II",
+      "company": "Paw Paw Police Dept",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-dps-employee-ii-paw-paw-police-dept-1134697",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-11T01:29:23+00:00"
+    },
+    {
+      "title": "Assistente de Gente e Cultura J\u00c3\u00banior",
+      "company": "JOYn Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistente-de-gente-e-cultura-junior-joyn-group-1134711",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "excel",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-11T01:03:13+00:00"
+    },
+    {
       "title": "Analista de Atra\u00c3\u00a7\u00c3\u00a3o e Sele\u00c3\u00a7\u00c3\u00a3o Tempor\u00c3\u00a1rio",
       "company": "Lojas Renner S.A.",
       "location": "Remote",
@@ -415,94 +452,9 @@
       ],
       "salary": "",
       "posted": "2026-07-10T06:26:57+00:00"
-    },
-    {
-      "title": "Data Entry Specialist Assistant Administrator",
-      "company": "Recruitlytixs Hirings",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-recruitlytixs-hirings-1134677",
-      "source": "RemoteOK",
-      "tags": [
-        "jira",
-        "hr",
-        "customer support",
-        "finance",
-        "cloud",
-        "admin",
-        "exec",
-        "ops",
-        "legal",
-        "recruiter",
-        "teaching",
-        "marketing",
-        "c",
-        "sales",
-        "data entry",
-        "virtual assistant",
-        "education",
-        "microsoft",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-07-10T06:25:25+00:00"
-    },
-    {
-      "title": "Data Entry Specialist Assistant Admin",
-      "company": "Recruitlytixs Hirings",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-admin-recruitlytixs-hirings-1134681",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "virtual assistant",
-        "infosec",
-        "education",
-        "customer support",
-        "marketing",
-        "admin",
-        "microsoft",
-        "exec",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-07-10T06:12:45+00:00"
-    },
-    {
-      "title": "Human Resources Assistant",
-      "company": "Recruitlytixs Hirings",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-recruitlytixs-hirings-1134680",
-      "source": "RemoteOK",
-      "tags": [
-        "jira",
-        "hr",
-        "customer support",
-        "finance",
-        "cloud",
-        "admin",
-        "exec",
-        "ops",
-        "legal",
-        "recruiter",
-        "teaching",
-        "marketing",
-        "c",
-        "sales",
-        "data entry",
-        "virtual assistant",
-        "education",
-        "microsoft",
-        "excel",
-        "sys admin",
-        "technical",
-        "video",
-        "coordinator"
-      ],
-      "salary": "",
-      "posted": "2026-07-10T06:10:23+00:00"
     }
   ],
-  "last_updated": "2026-07-12T00:12:48.542713",
+  "last_updated": "2026-07-12T03:58:51.786268",
   "total": 30,
-  "new": 0
+  "new": 3
 }

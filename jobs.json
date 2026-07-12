@@ -1,10 +1,10 @@
 {
   "jobs": [
     {
-      "title": "Creative Force Sales Jedi 6",
-      "company": "CREATIVE",
+      "title": "Credit Wellness Llc Inside Sales Account Executive",
+      "company": "CREDIT",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/creative-force-sales-jedi-6",
+      "url": "https://weworkremotely.com/remote-jobs/credit-wellness-llc-inside-sales-account-executive",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,18 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/atcom-senior-net-web-developer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Graduate Data Scientist",
+      "company": "Work Force Nexus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-data-scientist-work-force-nexus-1134707",
+      "source": "RemoteOK",
+      "tags": [
+        "data science"
+      ],
+      "salary": "",
+      "posted": "2026-07-11T14:00:47+00:00"
     },
     {
       "title": "Atendente Relacionamento Ouvidoria",
@@ -352,19 +364,9 @@
       ],
       "salary": "",
       "posted": "2026-07-10T10:06:26+00:00"
-    },
-    {
-      "title": "Expression of Interest Application",
-      "company": "North Queensland Bio Energy Corporation Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-application-north-queensland-bio-energy-corporation-limited-1134695",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-10T10:06:13+00:00"
     }
   ],
-  "last_updated": "2026-07-12T12:31:30.946168",
+  "last_updated": "2026-07-12T14:08:06.074229",
   "total": 30,
-  "new": 2
+  "new": 1
 }

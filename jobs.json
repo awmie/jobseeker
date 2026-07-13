@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Executive Management",
+      "company": "Netball America",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-management-netball-america-1134752",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-12T22:13:04+00:00"
+    },
+    {
       "title": "Auxiliar Administrativo Comercial Remoto",
       "company": "Empresa Confidencial",
       "location": "Remote",
@@ -500,22 +513,9 @@
       ],
       "salary": "",
       "posted": "2026-07-12T01:29:42+00:00"
-    },
-    {
-      "title": "General Applicant Position",
-      "company": "Hunt Remotely",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-applicant-position-hunt-remotely-1134720",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T22:52:07+00:00"
     }
   ],
-  "last_updated": "2026-07-13T21:26:10.143465",
+  "last_updated": "2026-07-13T22:26:50.390211",
   "total": 30,
-  "new": 0
+  "new": 1
 }

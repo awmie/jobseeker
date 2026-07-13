@@ -71,6 +71,48 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "O&amp;M",
+      "company": "Kirloskar Solar Technologies Pvt Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-oampm-kirloskar-solar-technologies-pvt-ltd-1134745",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-12T10:16:19+00:00"
+    },
+    {
+      "title": "Vacancy Development",
+      "company": "Unicor Pharmatech LLP",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-vacancy-development-unicor-pharmatech-llp-1134727",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-12T09:29:02+00:00"
+    },
+    {
+      "title": "Inbound Sales Closer",
+      "company": "Express Chipping Inc",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-inbound-sales-closer-express-chipping-inc-1134726",
+      "source": "RemoteOK",
+      "tags": [
+        "salesforce",
+        "customer support",
+        "marketing",
+        "web dev",
+        "ads",
+        "exec",
+        "legal",
+        "sales",
+        "sys admin",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-12T08:00:03+00:00"
+    },
+    {
       "title": "English Language Expert",
       "company": "JobsInMass.com",
       "location": "Remote",
@@ -406,43 +448,9 @@
       ],
       "salary": "",
       "posted": "2026-07-11T15:16:57+00:00"
-    },
-    {
-      "title": "Graduate Data Scientist",
-      "company": "Work Force Nexus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-data-scientist-work-force-nexus-1134707",
-      "source": "RemoteOK",
-      "tags": [
-        "data science"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T14:00:47+00:00"
-    },
-    {
-      "title": "Atendente Relacionamento Ouvidoria",
-      "company": "Vivo (Telef\u00c3\u00b4nica Brasil)",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-atendente-relacionamento-ouvidoria-vivo-telefonica-brasil-1134706",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-11T12:00:18+00:00"
-    },
-    {
-      "title": "Recepcionista Jr Bela Vista SP",
-      "company": "Grupo Amil",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-recepcionista-jr-bela-vista-sp-grupo-amil-1134704",
-      "source": "RemoteOK",
-      "tags": [
-        "c"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T08:04:49+00:00"
     }
   ],
-  "last_updated": "2026-07-13T07:26:02.222478",
+  "last_updated": "2026-07-13T10:38:32.797074",
   "total": 30,
-  "new": 2
+  "new": 3
 }

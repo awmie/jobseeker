@@ -71,6 +71,16 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Auxiliar Administrativo Comercial Remoto",
+      "company": "Empresa Confidencial",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-comercial-remoto-empresa-confidencial-1134744",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-12T18:02:45+00:00"
+    },
+    {
       "title": "The Role",
       "company": "Artefacts / Asteria ART",
       "location": "Remote",
@@ -503,31 +513,9 @@
       ],
       "salary": "",
       "posted": "2026-07-11T22:52:07+00:00"
-    },
-    {
-      "title": "Healthcare Intake Coordinator Alberta",
-      "company": "Carewell",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-healthcare-intake-coordinator-alberta-carewell-1134719",
-      "source": "RemoteOK",
-      "tags": [
-        "content writing",
-        "social media",
-        "non tech",
-        "teaching",
-        "customer support",
-        "education",
-        "marketing",
-        "strategy",
-        "full time",
-        "coordinator",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T21:03:37+00:00"
     }
   ],
-  "last_updated": "2026-07-13T17:44:57.253825",
+  "last_updated": "2026-07-13T19:05:53.683995",
   "total": 30,
-  "new": 5
+  "new": 1
 }

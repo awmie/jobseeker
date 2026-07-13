@@ -71,6 +71,35 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "English Language Expert",
+      "company": "JobsInMass.com",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-english-language-expert-jobsinmass-com-1134756",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "medical",
+        "education",
+        "testing",
+        "linguistics",
+        "quality assurance",
+        "content writing",
+        "sys admin"
+      ],
+      "salary": "",
+      "posted": "2026-07-12T04:21:49+00:00"
+    },
+    {
+      "title": "Apply Here",
+      "company": "Conquer AI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-apply-here-conquer-ai-1134722",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-12T04:05:43+00:00"
+    },
+    {
       "title": "HR Assistant",
       "company": "RemoteVA",
       "location": "Remote",
@@ -411,36 +440,9 @@
       ],
       "salary": "",
       "posted": "2026-07-11T08:04:49+00:00"
-    },
-    {
-      "title": "Brad Phillips",
-      "company": "MILTON FIRE DEPARTMENT INC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-brad-phillips-milton-fire-department-inc-1134702",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "full time",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T04:57:22+00:00"
-    },
-    {
-      "title": "Online Birth Certificate",
-      "company": "Ajebask",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-online-birth-certificate-ajebask-1134733",
-      "source": "RemoteOK",
-      "tags": [
-        "c"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T04:19:12+00:00"
     }
   ],
-  "last_updated": "2026-07-13T03:58:03.822978",
+  "last_updated": "2026-07-13T07:26:02.222478",
   "total": 30,
   "new": 2
 }

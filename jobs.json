@@ -1,31 +1,38 @@
 {
   "jobs": [
     {
-      "title": "Proxify Ab Senior Python Ai Engineer 4",
+      "title": "Superplane Devrel Content Creator",
+      "company": "SUPERPLANE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/superplane-devrel-content-creator",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Proxify Ab Senior Java Backend Developer",
       "company": "PROXIFY AB",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-python-ai-engineer-4",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer",
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Proxify Ab Senior Backend Developer Python 8",
+      "title": "Proxify Ab Senior Frontend Developer React Js Next Js 1",
       "company": "PROXIFY AB",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-frontend-developer-react-js-next-js-1",
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Credit Wellness Llc Inside Sales Account Executive",
-      "company": "CREDIT",
+      "title": "Proxify Ab Senior Fullstack Developer React Js Node Js 2",
+      "company": "PROXIFY AB",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/credit-wellness-llc-inside-sales-account-executive",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Cortes 23 Senior Qa Engineer 2",
-      "company": "CORTES 23",
+      "title": "Proxify Ab Senior Data Engineer Python",
+      "company": "PROXIFY AB",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-data-engineer-python",
       "source": "WeWorkRemotely"
     },
     {
@@ -64,11 +71,87 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Atcom Senior Net Web Developer",
-      "company": "ATCOM",
+      "title": "Architectural Drafter Designer",
+      "company": "DevHub",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/atcom-senior-net-web-developer",
-      "source": "WeWorkRemotely"
+      "url": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-devhub-1134758",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "medical",
+        "education",
+        "testing",
+        "linguistics",
+        "quality assurance",
+        "content writing",
+        "sys admin",
+        "design",
+        "designer",
+        "technical",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-12T15:43:10+00:00"
+    },
+    {
+      "title": "Freelance Background Artist for YouTube Studio",
+      "company": "DevHub",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-background-artist-for-youtube-studio-devhub-1134747",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "strategy",
+        "customer support",
+        "testing",
+        "content writing",
+        "marketing",
+        "medical",
+        "social media",
+        "video",
+        "finance",
+        "photoshop"
+      ],
+      "salary": "",
+      "posted": "2026-07-12T15:42:31+00:00"
+    },
+    {
+      "title": "Data Entry Typist",
+      "company": "DevHub",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-typist-devhub-1134736",
+      "source": "RemoteOK",
+      "tags": [
+        "c",
+        "music",
+        "game dev",
+        "dev",
+        "video",
+        "content writing",
+        "ops",
+        "marketing",
+        "internship",
+        "non tech",
+        "digital nomad",
+        "design",
+        "teaching",
+        "education",
+        "designer",
+        "technical",
+        "web dev",
+        "mobile",
+        "photoshop",
+        "illustrator",
+        "data entry",
+        "customer support",
+        "microsoft",
+        "exec",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-12T15:41:16+00:00"
     },
     {
       "title": "Brand Executive",
@@ -388,56 +471,9 @@
       ],
       "salary": "",
       "posted": "2026-07-11T19:18:53+00:00"
-    },
-    {
-      "title": "Online Language Tutors",
-      "company": "Martin Language School",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-online-language-tutors-martin-language-school-1134715",
-      "source": "RemoteOK",
-      "tags": [
-        "designer",
-        "video",
-        "non tech",
-        "strategy",
-        "content writing",
-        "teaching"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T19:09:39+00:00"
-    },
-    {
-      "title": "Content Strategist",
-      "company": "Content Forge",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-content-strategist-content-forge-1134714",
-      "source": "RemoteOK",
-      "tags": [
-        "designer",
-        "video",
-        "non tech",
-        "strategy",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T19:08:14+00:00"
-    },
-    {
-      "title": "Podcast Video Editor",
-      "company": "Hyprwork",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-podcast-video-editor-hyprwork-1134713",
-      "source": "RemoteOK",
-      "tags": [
-        "designer",
-        "video",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T19:06:46+00:00"
     }
   ],
-  "last_updated": "2026-07-13T13:02:17.600170",
+  "last_updated": "2026-07-13T15:47:53.681709",
   "total": 30,
-  "new": 6
+  "new": 7
 }

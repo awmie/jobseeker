@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Proxify Ab Senior Python Ai Engineer 4",
+      "company": "PROXIFY AB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-python-ai-engineer-4",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Proxify Ab Senior Backend Developer Python 8",
+      "company": "PROXIFY AB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Credit Wellness Llc Inside Sales Account Executive",
       "company": "CREDIT",
       "location": "Remote",
@@ -15,24 +29,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Apex Trade Entry Level Crypto Market Specialist",
-      "company": "APEX",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/apex-trade-entry-level-crypto-market-specialist",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Select Saunas Customer Support Specialist",
       "company": "SELECT",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/select-saunas-customer-support-specialist",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Vidalytics Ai Automation Engineer In House Martech Video Saas",
-      "company": "VIDALYTICS AI",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,33 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/atcom-senior-net-web-developer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Brand Executive",
+      "company": "Brand Organic",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-executive-brand-organic-1134730",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-12T12:02:26+00:00"
+    },
+    {
+      "title": "Social Media & Marketing Virtual Assistant",
+      "company": "Outsource Access Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-marketing-virtual-assistant-outsource-access-careers-1134728",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "marketing",
+        "social media",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-12T11:02:51+00:00"
     },
     {
       "title": "O&amp;M",
@@ -142,6 +169,30 @@
       "posted": "2026-07-12T04:05:43+00:00"
     },
     {
+      "title": "Virtual Assistant",
+      "company": "RemoteVA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-remoteva-1134765",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "vfx",
+        "designer",
+        "technical",
+        "education",
+        "digital nomad",
+        "exec",
+        "content writing",
+        "social media",
+        "virtual assistant",
+        "customer support",
+        "dev",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-07-12T02:19:36+00:00"
+    },
+    {
       "title": "HR Assistant",
       "company": "RemoteVA",
       "location": "Remote",
@@ -160,6 +211,23 @@
       ],
       "salary": "",
       "posted": "2026-07-12T02:19:35+00:00"
+    },
+    {
+      "title": "Architectural Designer",
+      "company": "RemoteVA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-architectural-designer-remoteva-1134763",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "vfx",
+        "designer",
+        "technical",
+        "education",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-12T02:18:29+00:00"
     },
     {
       "title": "Interface Designer",
@@ -367,90 +435,9 @@
       ],
       "salary": "",
       "posted": "2026-07-11T19:06:46+00:00"
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Huzzle",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-1134712",
-      "source": "RemoteOK",
-      "tags": [
-        "designer"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T19:05:54+00:00"
-    },
-    {
-      "title": "Heading",
-      "company": "UX/UI Design K7 Tech",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-heading-ux-ui-design-k7-tech-1134723",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T16:20:00+00:00"
-    },
-    {
-      "title": "CRM & Lifecycle Manager",
-      "company": "Joko",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-crm-lifecycle-manager-joko-1134710",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "design",
-        "sys admin",
-        "teaching",
-        "technical",
-        "testing",
-        "marketing",
-        "dev",
-        "virtual assistant",
-        "quality assurance",
-        "mobile",
-        "ops",
-        "engineer",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T16:00:02+00:00"
-    },
-    {
-      "title": "Junior Web Designer",
-      "company": "Hunt Remotely",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-hunt-remotely-1134732",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "infosec",
-        "customer support",
-        "marketing",
-        "travel",
-        "accounting",
-        "finance",
-        "education",
-        "senior",
-        "ops",
-        "legal",
-        "sales",
-        "web dev",
-        "design",
-        "consulting",
-        "designer",
-        "dev",
-        "junior",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T15:16:57+00:00"
     }
   ],
-  "last_updated": "2026-07-13T10:38:32.797074",
+  "last_updated": "2026-07-13T13:02:17.600170",
   "total": 30,
-  "new": 3
+  "new": 6
 }

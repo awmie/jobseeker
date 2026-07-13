@@ -71,6 +71,81 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "HR Assistant",
+      "company": "RemoteVA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-assistant-remoteva-1134729",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "marketing",
+        "social media",
+        "non tech",
+        "hr",
+        "customer support",
+        "dev",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-12T02:19:35+00:00"
+    },
+    {
+      "title": "Interface Designer",
+      "company": "Grow the Roses",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-interface-designer-grow-the-roses-1134742",
+      "source": "RemoteOK",
+      "tags": [
+        "c",
+        "music",
+        "game dev",
+        "dev",
+        "video",
+        "content writing",
+        "ops",
+        "marketing",
+        "internship",
+        "non tech",
+        "digital nomad",
+        "design",
+        "teaching",
+        "education",
+        "designer",
+        "technical",
+        "web dev",
+        "mobile",
+        "photoshop",
+        "illustrator",
+        "data entry",
+        "customer support",
+        "microsoft",
+        "exec",
+        "medical",
+        "consulting",
+        "saas",
+        "sys admin",
+        "cloud",
+        "sales",
+        "engineer",
+        "recruiter",
+        "strategy",
+        "ads",
+        "analyst",
+        "accounting",
+        "finance",
+        "legal",
+        "travel",
+        "speech",
+        "admin",
+        "front end",
+        "css",
+        "html"
+      ],
+      "salary": "",
+      "posted": "2026-07-12T01:29:42+00:00"
+    },
+    {
       "title": "General Applicant Position",
       "company": "Hunt Remotely",
       "location": "Remote",
@@ -363,32 +438,9 @@
       ],
       "salary": "",
       "posted": "2026-07-11T04:19:12+00:00"
-    },
-    {
-      "title": "You",
-      "company": "DQC | Data Quality Company",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-you-dqc-data-quality-company-1134701",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-11T02:21:56+00:00"
-    },
-    {
-      "title": "DPS Employee II",
-      "company": "Paw Paw Police Dept",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-dps-employee-ii-paw-paw-police-dept-1134697",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-11T01:29:23+00:00"
     }
   ],
-  "last_updated": "2026-07-13T00:09:31.166135",
+  "last_updated": "2026-07-13T03:58:03.822978",
   "total": 30,
-  "new": 0
+  "new": 2
 }

@@ -71,6 +71,47 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Caretaker City Buildings",
+      "company": "Jobs in Council",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-caretaker-city-buildings-jobs-in-council-1134796",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-13T20:30:11+00:00"
+    },
+    {
+      "title": "Head of Creative Studio &amp; Brand Operations YOUNG",
+      "company": "YOUNG",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-creative-studio-amp-brand-operations-young-young-1134791",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "exec",
+        "ops",
+        "medical",
+        "writer",
+        "content writing",
+        "junior",
+        "design",
+        "travel",
+        "video",
+        "senior",
+        "marketing",
+        "ads",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-13T20:27:54+00:00"
+    },
+    {
       "title": "HOH",
       "company": "Velvet Taco",
       "location": "Remote",
@@ -82,6 +123,25 @@
       ],
       "salary": "",
       "posted": "2026-07-13T18:21:52+00:00"
+    },
+    {
+      "title": "Apply for our future openings",
+      "company": "Baltic Assist",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-apply-for-our-future-openings-baltic-assist-1134822",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "dev",
+        "education",
+        "finance",
+        "ops",
+        "marketing",
+        "non tech",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-13T18:11:40+00:00"
     },
     {
       "title": "Hiring Operations Team Member BBG etc",
@@ -389,82 +449,9 @@
       ],
       "salary": "",
       "posted": "2026-07-13T05:28:58+00:00"
-    },
-    {
-      "title": "Administrative Data Entry File Clerk",
-      "company": "ReLytics Hires",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-relytics-hires-1134761",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "education",
-        "customer support",
-        "marketing",
-        "video",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel",
-        "data entry",
-        "jira",
-        "hr",
-        "finance",
-        "cloud",
-        "admin",
-        "legal",
-        "sys admin"
-      ],
-      "salary": "",
-      "posted": "2026-07-13T05:28:43+00:00"
-    },
-    {
-      "title": "Entry Level Administrative Assistant",
-      "company": "ReLytics Hires",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-relytics-hires-1134760",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "education",
-        "customer support",
-        "marketing",
-        "video",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-07-13T05:28:19+00:00"
-    },
-    {
-      "title": "Data Entry Specialist Assistant Administrator",
-      "company": "ReLytics Hires",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-relytics-hires-1134772",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "teaching",
-        "education",
-        "math",
-        "digital nomad",
-        "data entry",
-        "virtual assistant",
-        "customer support",
-        "marketing",
-        "admin",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-07-13T05:26:29+00:00"
     }
   ],
-  "last_updated": "2026-07-14T19:56:17.201409",
+  "last_updated": "2026-07-14T21:00:16.609851",
   "total": 30,
-  "new": 0
+  "new": 3
 }

@@ -71,6 +71,50 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "\u00d8\u00a7\u00d9\u0084\u00d8\u00b9\u00d9\u0085\u00d9\u0084 \u00d9\u0085\u00d9\u0086 \u00d8\u00a7\u00d9\u0084\u00d9\u0085\u00d9\u0086\u00d8\u00b2\u00d9\u0084 \u00d9\u0081\u00d9\u008a \u00d8\u00a7\u00d9\u0085\u00d8\u00b1\u00d9\u008a\u00d9\u0083\u00d8\u00a7 20 \u00d9\u0088\u00d8\u00b8\u00d9\u008a\u00d9\u0081\u00d8\u00a9 \u00d8\u00a7\u00d9\u0084\u00d8\u00a7\u00d9\u0083\u00d8\u00ab\u00d8\u00b1 \u00d8\u00b7\u00d9\u0084\u00d8\u00a8\u00d8",
+      "company": "Q8YUSA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-13T09:36:34+00:00"
+    },
+    {
+      "title": "Data Analyst Excel",
+      "company": "JobsInMass.com",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-excel-jobsinmass-com-1134777",
+      "source": "RemoteOK",
+      "tags": [
+        "coordinator",
+        "ops",
+        "exec",
+        "social media",
+        "sys admin",
+        "education",
+        "technical",
+        "customer support",
+        "medical",
+        "analyst",
+        "microsoft",
+        "data science",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-07-13T08:40:47+00:00"
+    },
+    {
+      "title": "Clases de Refuerzo Primaria Media Jornada",
+      "company": "TUS Media",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-clases-de-refuerzo-primaria-media-jornada-tus-media-1134788",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-13T08:39:19+00:00"
+    },
+    {
       "title": "Metro",
       "company": "JARMANI LIMITED",
       "location": "Remote",
@@ -434,46 +478,9 @@
       ],
       "salary": "",
       "posted": "2026-07-12T15:41:16+00:00"
-    },
-    {
-      "title": "Brand Executive",
-      "company": "Brand Organic",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-brand-executive-brand-organic-1134730",
-      "source": "RemoteOK",
-      "tags": [
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-07-12T12:02:26+00:00"
-    },
-    {
-      "title": "Social Media & Marketing Virtual Assistant",
-      "company": "Outsource Access Careers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-marketing-virtual-assistant-outsource-access-careers-1134728",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "marketing",
-        "social media",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-12T11:02:51+00:00"
-    },
-    {
-      "title": "O&amp;M",
-      "company": "Kirloskar Solar Technologies Pvt Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-oampm-kirloskar-solar-technologies-pvt-ltd-1134745",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-12T10:16:19+00:00"
     }
   ],
-  "last_updated": "2026-07-14T08:23:41.868282",
+  "last_updated": "2026-07-14T10:14:22.450437",
   "total": 30,
-  "new": 2
+  "new": 3
 }

@@ -1,17 +1,17 @@
 {
   "jobs": [
     {
+      "title": "Credit Joy Remote Sales Representative",
+      "company": "CREDIT JOY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/credit-joy-remote-sales-representative",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Toptal Senior Rust Engineer Production Backend Systems Remote Latam",
       "company": "TOPTAL",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/toptal-senior-rust-engineer-production-backend-systems-remote-latam",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Superplane Devrel Content Creator",
-      "company": "SUPERPLANE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/superplane-devrel-content-creator",
       "source": "WeWorkRemotely"
     },
     {
@@ -480,7 +480,7 @@
       "posted": "2026-07-12T15:41:16+00:00"
     }
   ],
-  "last_updated": "2026-07-14T11:46:34.898902",
+  "last_updated": "2026-07-14T12:54:37.565603",
   "total": 30,
-  "new": 0
+  "new": 1
 }

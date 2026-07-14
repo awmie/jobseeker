@@ -71,6 +71,18 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Business Analyst",
+      "company": "InterEx Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-interex-group-1134750",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst"
+      ],
+      "salary": "",
+      "posted": "2026-07-13T01:07:01+00:00"
+    },
+    {
       "title": "Executive Management",
       "company": "Netball America",
       "location": "Remote",
@@ -458,64 +470,9 @@
       ],
       "salary": "",
       "posted": "2026-07-12T01:29:59+00:00"
-    },
-    {
-      "title": "Interface Designer",
-      "company": "Grow the Roses",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-interface-designer-grow-the-roses-1134742",
-      "source": "RemoteOK",
-      "tags": [
-        "c",
-        "music",
-        "game dev",
-        "dev",
-        "video",
-        "content writing",
-        "ops",
-        "marketing",
-        "internship",
-        "non tech",
-        "digital nomad",
-        "design",
-        "teaching",
-        "education",
-        "designer",
-        "technical",
-        "web dev",
-        "mobile",
-        "photoshop",
-        "illustrator",
-        "data entry",
-        "customer support",
-        "microsoft",
-        "exec",
-        "medical",
-        "consulting",
-        "saas",
-        "sys admin",
-        "cloud",
-        "sales",
-        "engineer",
-        "recruiter",
-        "strategy",
-        "ads",
-        "analyst",
-        "accounting",
-        "finance",
-        "legal",
-        "travel",
-        "speech",
-        "admin",
-        "front end",
-        "css",
-        "html"
-      ],
-      "salary": "",
-      "posted": "2026-07-12T01:29:42+00:00"
     }
   ],
-  "last_updated": "2026-07-14T00:52:42.722441",
+  "last_updated": "2026-07-14T03:51:07.398676",
   "total": 30,
-  "new": 0
+  "new": 1
 }

@@ -71,6 +71,30 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Metro",
+      "company": "JARMANI LIMITED",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-metro-jarmani-limited-1134798",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-13T07:24:02+00:00"
+    },
+    {
+      "title": "Data Analyst Healthcare",
+      "company": "City of Hope",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-healthcare-city-of-hope-1134759",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "data science",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-13T06:07:18+00:00"
+    },
+    {
       "title": "Virtual Executive Assistant",
       "company": "ReLytics Hires",
       "location": "Remote",
@@ -447,41 +471,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-12T10:16:19+00:00"
-    },
-    {
-      "title": "Vacancy Development",
-      "company": "Unicor Pharmatech LLP",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vacancy-development-unicor-pharmatech-llp-1134727",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-12T09:29:02+00:00"
-    },
-    {
-      "title": "Inbound Sales Closer",
-      "company": "Express Chipping Inc",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-inbound-sales-closer-express-chipping-inc-1134726",
-      "source": "RemoteOK",
-      "tags": [
-        "salesforce",
-        "customer support",
-        "marketing",
-        "web dev",
-        "ads",
-        "exec",
-        "legal",
-        "sales",
-        "sys admin",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-12T08:00:03+00:00"
     }
   ],
-  "last_updated": "2026-07-14T06:01:01.878261",
+  "last_updated": "2026-07-14T08:23:41.868282",
   "total": 30,
-  "new": 7
+  "new": 2
 }

@@ -71,6 +71,30 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Supply Chain Systems Analyst",
+      "company": "Wing",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-supply-chain-systems-analyst-wing-1134803",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "design",
+        "sys admin",
+        "architecture",
+        "technical",
+        "recruiter",
+        "testing",
+        "finance",
+        "api",
+        "exec",
+        "ops",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-13T21:02:42+00:00"
+    },
+    {
       "title": "Caretaker City Buildings",
       "company": "Jobs in Council",
       "location": "Remote",
@@ -431,27 +455,9 @@
       ],
       "salary": "",
       "posted": "2026-07-13T06:07:18+00:00"
-    },
-    {
-      "title": "Virtual Executive Assistant",
-      "company": "ReLytics Hires",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-relytics-hires-1134768",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "education",
-        "customer support",
-        "marketing",
-        "travel",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-13T05:28:58+00:00"
     }
   ],
-  "last_updated": "2026-07-14T21:00:16.609851",
+  "last_updated": "2026-07-14T22:06:31.165477",
   "total": 30,
-  "new": 3
+  "new": 1
 }

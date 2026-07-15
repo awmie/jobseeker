@@ -71,23 +71,30 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Loss Prevention Officer",
-      "company": "PriceSmart",
+      "title": "Photo Editor",
+      "company": "Headout",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-loss-prevention-officer-pricesmart-1134813",
+      "url": "https://remoteOK.com/remote-jobs/remote-photo-editor-headout-1134817",
       "source": "RemoteOK",
       "tags": [
-        "sys admin",
-        "infosec",
+        "teaching",
+        "testing",
+        "english teacher",
+        "non tech",
+        "design",
+        "virtual assistant",
+        "vfx",
         "technical",
-        "supervisor",
-        "finance",
+        "customer support",
         "education",
-        "exec",
+        "digital nomad",
+        "transcribing",
+        "speech",
+        "ops",
         "medical"
       ],
       "salary": "",
-      "posted": "2026-07-14T13:57:33+00:00"
+      "posted": "2026-07-14T16:07:35+00:00"
     },
     {
       "title": "Caretaker",
@@ -300,38 +307,6 @@
       "posted": "2026-07-14T08:22:05+00:00"
     },
     {
-      "title": "Data Entry Specialist",
-      "company": "JobsInMass.com",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-jobsinmass-com-1134806",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "design",
-        "sys admin",
-        "architecture",
-        "technical",
-        "recruiter",
-        "testing",
-        "finance",
-        "api",
-        "exec",
-        "ops",
-        "full time",
-        "digital nomad",
-        "hr",
-        "data entry",
-        "dev",
-        "marketing",
-        "microsoft",
-        "education",
-        "customer support",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-07-14T08:21:32+00:00"
-    },
-    {
       "title": "Graphic Designer",
       "company": "Huzzle.com",
       "location": "Remote",
@@ -524,9 +499,27 @@
       ],
       "salary": "",
       "posted": "2026-07-14T01:13:45+00:00"
+    },
+    {
+      "title": "Create Your Own",
+      "company": "Vitalize",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-create-your-own-vitalize-1134801",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "sys admin",
+        "customer support",
+        "ops",
+        "excel",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T01:11:07+00:00"
     }
   ],
-  "last_updated": "2026-07-15T16:04:04.986430",
+  "last_updated": "2026-07-15T17:34:16.676500",
   "total": 30,
   "new": 1
 }

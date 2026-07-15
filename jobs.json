@@ -71,6 +71,56 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Senior Analyst Project Support",
+      "company": "Cint",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-analyst-project-support-cint-1134818",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "testing",
+        "english teacher",
+        "non tech",
+        "design",
+        "virtual assistant",
+        "vfx",
+        "technical",
+        "customer support",
+        "education",
+        "digital nomad",
+        "transcribing",
+        "speech",
+        "ops",
+        "medical",
+        "analyst",
+        "marketing",
+        "microsoft",
+        "exec",
+        "senior",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T07:20:13+00:00"
+    },
+    {
+      "title": "Equipment Technician",
+      "company": "FAVIO",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-equipment-technician-favio-1134827",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "marketing",
+        "finance",
+        "microsoft",
+        "exec",
+        "excel",
+        "technical"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T07:00:00+00:00"
+    },
+    {
       "title": "Handyperson",
       "company": "WMJobs",
       "location": "Remote",
@@ -420,52 +470,9 @@
       ],
       "salary": "",
       "posted": "2026-07-13T17:07:22+00:00"
-    },
-    {
-      "title": "Pool Technician",
-      "company": "Four Seasons",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-pool-technician-four-seasons-1134787",
-      "source": "RemoteOK",
-      "tags": [
-        "controller",
-        "education",
-        "technical",
-        "customer support",
-        "testing",
-        "exec",
-        "microsoft",
-        "ops",
-        "engineer",
-        "infosec",
-        "legal",
-        "travel",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-07-13T16:54:19+00:00"
-    },
-    {
-      "title": "Product Manager AI",
-      "company": "YipitData",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-yipitdata-1134770",
-      "source": "RemoteOK",
-      "tags": [
-        "product manager",
-        "exec",
-        "dev",
-        "finance",
-        "cloud",
-        "stats",
-        "ecommerce",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-13T16:00:32+00:00"
     }
   ],
-  "last_updated": "2026-07-15T05:51:30.903884",
+  "last_updated": "2026-07-15T07:45:48.094720",
   "total": 30,
-  "new": 1
+  "new": 2
 }

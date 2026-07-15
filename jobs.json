@@ -71,6 +71,60 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Loss Prevention Officer",
+      "company": "PriceSmart",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-loss-prevention-officer-pricesmart-1134813",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "infosec",
+        "technical",
+        "supervisor",
+        "finance",
+        "education",
+        "exec",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T13:57:33+00:00"
+    },
+    {
+      "title": "Caretaker",
+      "company": "EQUANS",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-caretaker-equans-1134829",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "speech",
+        "scheme",
+        "exec",
+        "ops",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T13:41:34+00:00"
+    },
+    {
+      "title": "Job Fair July 27 28",
+      "company": "Dexterra Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-fair-july-27-28-dexterra-group-1134853",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "non tech",
+        "ops",
+        "exec",
+        "full time",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T13:20:37+00:00"
+    },
+    {
       "title": "Human Resources Generalist",
       "company": "HireTalent - Staffing & Recruiting Firm",
       "location": "Remote",
@@ -436,55 +490,9 @@
       ],
       "salary": "",
       "posted": "2026-07-14T01:11:07+00:00"
-    },
-    {
-      "title": "Atenci\u00c3\u00b3n a Clientes Remoto",
-      "company": "Siigo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-atencion-a-clientes-remoto-siigo-1134838",
-      "source": "RemoteOK",
-      "tags": [
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-07-13T23:46:48+00:00"
-    },
-    {
-      "title": "Analista de Log\u00c3\u00adstica",
-      "company": "Universia Argentina",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-logistica-universia-argentina-1134837",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-13T23:36:49+00:00"
-    },
-    {
-      "title": "Supply Chain Systems Analyst",
-      "company": "Wing",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-supply-chain-systems-analyst-wing-1134803",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "design",
-        "sys admin",
-        "architecture",
-        "technical",
-        "recruiter",
-        "testing",
-        "finance",
-        "api",
-        "exec",
-        "ops",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-13T21:02:42+00:00"
     }
   ],
-  "last_updated": "2026-07-15T12:44:42.050742",
+  "last_updated": "2026-07-15T14:28:24.841523",
   "total": 30,
-  "new": 2
+  "new": 3
 }

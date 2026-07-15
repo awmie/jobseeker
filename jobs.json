@@ -1,6 +1,28 @@
 {
   "jobs": [
     {
+      "title": "Video Podcast Editor",
+      "company": "Betches Media",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-video-podcast-editor-betches-media-1134873",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "marketing",
+        "exec",
+        "web dev",
+        "video",
+        "content writing",
+        "senior",
+        "photoshop",
+        "engineer",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T21:24:09+00:00"
+    },
+    {
       "title": "Chief Growth Officer",
       "company": "Original Peptide",
       "location": "Remote",
@@ -164,6 +186,38 @@
       ],
       "salary": "",
       "posted": "2026-07-14T16:07:35+00:00"
+    },
+    {
+      "title": "Junior Contact Center Agent",
+      "company": "Volkswagen Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-contact-center-agent-volkswagen-group-1134886",
+      "source": "RemoteOK",
+      "tags": [
+        "copywriting",
+        "non tech",
+        "product manager",
+        "exec",
+        "design",
+        "saas",
+        "embedded",
+        "customer support",
+        "marketing",
+        "content writing",
+        "senior",
+        "ops",
+        "recruiter",
+        "digital nomad",
+        "admin",
+        "education",
+        "technical",
+        "dev",
+        "finance",
+        "junior",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T15:26:29+00:00"
     },
     {
       "title": "Caretaker",
@@ -456,50 +510,9 @@
       ],
       "salary": "",
       "posted": "2026-07-14T07:20:13+00:00"
-    },
-    {
-      "title": "Equipment Technician",
-      "company": "FAVIO",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-equipment-technician-favio-1134827",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "marketing",
-        "finance",
-        "microsoft",
-        "exec",
-        "excel",
-        "technical"
-      ],
-      "salary": "",
-      "posted": "2026-07-14T07:00:00+00:00"
-    },
-    {
-      "title": "Handyperson",
-      "company": "WMJobs",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-handyperson-wmjobs-1134835",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "speech",
-        "scheme",
-        "exec",
-        "ops",
-        "recruiter",
-        "infosec",
-        "dev",
-        "sys admin",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-14T03:40:20+00:00"
     }
   ],
-  "last_updated": "2026-07-15T20:46:09.256056",
+  "last_updated": "2026-07-15T21:42:04.842211",
   "total": 20,
-  "new": 3
+  "new": 2
 }

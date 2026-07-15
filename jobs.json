@@ -43,10 +43,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Select Saunas Customer Support Specialist",
-      "company": "SELECT",
+      "title": "Crae Group Ltd Customer Support Agent Remote",
+      "company": "CRAE",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/select-saunas-customer-support-specialist",
+      "url": "https://weworkremotely.com/remote-jobs/crae-group-ltd-customer-support-agent-remote",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,49 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Human Resources Generalist",
+      "company": "HireTalent - Staffing & Recruiting Firm",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-hiretalent-staffing-recruiting-firm-1134804",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "design",
+        "sys admin",
+        "architecture",
+        "technical",
+        "recruiter",
+        "testing",
+        "finance",
+        "api",
+        "exec",
+        "ops",
+        "full time",
+        "digital nomad",
+        "hr"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T12:04:35+00:00"
+    },
+    {
+      "title": "Sub Agent Net Zero Teeside",
+      "company": "Balfour Beatty plc",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sub-agent-net-zero-teeside-balfour-beatty-plc-1134830",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "speech",
+        "scheme",
+        "exec",
+        "ops",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T11:55:58+00:00"
     },
     {
       "title": "dishwasher",
@@ -439,43 +482,9 @@
       ],
       "salary": "",
       "posted": "2026-07-13T21:02:42+00:00"
-    },
-    {
-      "title": "Caretaker",
-      "company": "Equans UK &amp; Ireland",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-caretaker-equans-uk-amp-ireland-1134833",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "speech",
-        "scheme",
-        "exec",
-        "ops",
-        "recruiter",
-        "infosec"
-      ],
-      "salary": "",
-      "posted": "2026-07-13T20:56:06+00:00"
-    },
-    {
-      "title": "Caretaker City Buildings",
-      "company": "Jobs in Council",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-caretaker-city-buildings-jobs-in-council-1134796",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-13T20:30:11+00:00"
     }
   ],
-  "last_updated": "2026-07-15T11:15:35.880391",
+  "last_updated": "2026-07-15T12:44:42.050742",
   "total": 30,
-  "new": 1
+  "new": 2
 }

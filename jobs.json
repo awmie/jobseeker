@@ -1,6 +1,23 @@
 {
   "jobs": [
     {
+      "title": "Underwriter",
+      "company": "Coralisle Group Ltd.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-underwriter-coralisle-group-ltd-1134826",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "marketing",
+        "finance",
+        "microsoft",
+        "exec",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T19:00:19+00:00"
+    },
+    {
       "title": "LSA",
       "company": "King Edward VI Preparatory School",
       "location": "Remote",
@@ -434,24 +451,9 @@
       ],
       "salary": "",
       "posted": "2026-07-14T02:18:39+00:00"
-    },
-    {
-      "title": "Online Tutoring Jobs Teaching Vacancy",
-      "company": "GCE-ACADEMY",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-online-tutoring-jobs-teaching-vacancy-gce-academy-1134814",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "testing",
-        "english teacher",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-14T01:13:51+00:00"
     }
   ],
-  "last_updated": "2026-07-15T18:41:50.178011",
+  "last_updated": "2026-07-15T19:51:28.483357",
   "total": 20,
-  "new": 2
+  "new": 1
 }

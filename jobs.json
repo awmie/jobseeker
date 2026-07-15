@@ -1,74 +1,44 @@
 {
   "jobs": [
     {
-      "title": "Loosegrip Junior Designer Part Time Contract",
-      "company": "LOOSEGRIP",
+      "title": "LSA",
+      "company": "King Edward VI Preparatory School",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/loosegrip-junior-designer-part-time-contract",
-      "source": "WeWorkRemotely"
+      "url": "https://remoteOK.com/remote-jobs/remote-lsa-king-edward-vi-preparatory-school-1134831",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "speech",
+        "scheme",
+        "exec",
+        "ops",
+        "recruiter",
+        "infosec"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T17:46:28+00:00"
     },
     {
-      "title": "Credit Joy Remote Sales Representative",
-      "company": "CREDIT JOY",
+      "title": "Estimator",
+      "company": "Airswift",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/credit-joy-remote-sales-representative",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Toptal Senior Rust Engineer Production Backend Systems Remote Latam",
-      "company": "TOPTAL",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-rust-engineer-production-backend-systems-remote-latam",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Proxify Ab Senior Java Backend Developer",
-      "company": "PROXIFY AB",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Proxify Ab Senior Frontend Developer React Js Next Js 1",
-      "company": "PROXIFY AB",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-frontend-developer-react-js-next-js-1",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Proxify Ab Senior Fullstack Developer React Js Node Js 2",
-      "company": "PROXIFY AB",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Crae Group Ltd Customer Support Agent Remote",
-      "company": "CRAE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/crae-group-ltd-customer-support-agent-remote",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Toggl Senior Product Manager 4",
-      "company": "TOGGL",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Qualifyze Senior Devops Engineer",
-      "company": "QUALIFYZE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/qualifyze-senior-devops-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Elite Software Automation Business Analyst 2",
-      "company": "ELITE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
-      "source": "WeWorkRemotely"
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-airswift-1134821",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "customer support",
+        "dev",
+        "api",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T17:37:14+00:00"
     },
     {
       "title": "Photo Editor",
@@ -479,47 +449,9 @@
       ],
       "salary": "",
       "posted": "2026-07-14T01:13:51+00:00"
-    },
-    {
-      "title": "English Language Teacher Jobs Karachi Join GCE Academy",
-      "company": "GCE-ACADEMY",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-english-language-teacher-jobs-karachi-join-gce-academy-gce-academy-1134848",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "education",
-        "dev",
-        "marketing",
-        "exec",
-        "senior",
-        "full time",
-        "part time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-14T01:13:45+00:00"
-    },
-    {
-      "title": "Create Your Own",
-      "company": "Vitalize",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-create-your-own-vitalize-1134801",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "sys admin",
-        "customer support",
-        "ops",
-        "excel",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-14T01:11:07+00:00"
     }
   ],
-  "last_updated": "2026-07-15T17:34:16.676500",
-  "total": 30,
-  "new": 1
+  "last_updated": "2026-07-15T18:41:50.178011",
+  "total": 20,
+  "new": 2
 }

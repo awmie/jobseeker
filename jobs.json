@@ -71,6 +71,29 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Handyperson",
+      "company": "WMJobs",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyperson-wmjobs-1134835",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "speech",
+        "scheme",
+        "exec",
+        "ops",
+        "recruiter",
+        "infosec",
+        "dev",
+        "sys admin",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T03:40:20+00:00"
+    },
+    {
       "title": "Motion Designer",
       "company": "Pragmatike",
       "location": "Remote",
@@ -440,47 +463,9 @@
       ],
       "salary": "",
       "posted": "2026-07-13T16:00:32+00:00"
-    },
-    {
-      "title": "Podcaster and Content Creator Psychology Today",
-      "company": "Psychology Today",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-podcaster-and-content-creator-psychology-today-psychology-today-1134808",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "design",
-        "sys admin",
-        "architecture",
-        "technical",
-        "recruiter",
-        "testing",
-        "finance",
-        "api",
-        "exec",
-        "ops",
-        "full time",
-        "digital nomad",
-        "hr",
-        "data entry",
-        "dev",
-        "marketing",
-        "microsoft",
-        "education",
-        "customer support",
-        "medical",
-        "travel",
-        "accounting",
-        "virtual assistant",
-        "excel",
-        "seo",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-07-13T14:50:31+00:00"
     }
   ],
-  "last_updated": "2026-07-15T03:25:27.123218",
+  "last_updated": "2026-07-15T05:51:30.903884",
   "total": 30,
-  "new": 8
+  "new": 1
 }

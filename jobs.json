@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "dishwasher",
+      "company": "Cafe March 21",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-dishwasher-cafe-march-21-1134850",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T11:11:38+00:00"
+    },
+    {
       "title": "Sales Executive",
       "company": "Unilever",
       "location": "Remote",
@@ -460,35 +473,9 @@
       ],
       "salary": "",
       "posted": "2026-07-13T20:30:11+00:00"
-    },
-    {
-      "title": "Head of Creative Studio &amp; Brand Operations YOUNG",
-      "company": "YOUNG",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-creative-studio-amp-brand-operations-young-young-1134791",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "exec",
-        "ops",
-        "medical",
-        "writer",
-        "content writing",
-        "junior",
-        "design",
-        "travel",
-        "video",
-        "senior",
-        "marketing",
-        "ads",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-13T20:27:54+00:00"
     }
   ],
-  "last_updated": "2026-07-15T09:43:15.837162",
+  "last_updated": "2026-07-15T11:15:35.880391",
   "total": 30,
-  "new": 6
+  "new": 1
 }

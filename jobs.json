@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "title": "Customer Support Agent",
+      "company": "UMAEZ LLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-agent-umaez-llc-1134825",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "sys admin",
+        "marketing",
+        "exec",
+        "ops",
+        "ecommerce"
+      ],
+      "salary": "",
+      "posted": "2026-07-15T00:00:41+00:00"
+    },
+    {
+      "title": "Medical Records and Health Information Manager",
+      "company": "Backpack Healthcare",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-medical-records-and-health-information-manager-backpack-healthcare-1134824",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "customer support",
+        "ops",
+        "legal",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-15T00:00:35+00:00"
+    },
+    {
+      "title": "Licensed Mental Health Therapist",
+      "company": "Backpack Healthcare",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-licensed-mental-health-therapist-backpack-healthcare-1134823",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "medical",
+        "part time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-15T00:00:18+00:00"
+    },
+    {
       "title": "Video Podcast Editor",
       "company": "Betches Media",
       "location": "Remote",
@@ -430,89 +481,9 @@
       ],
       "salary": "",
       "posted": "2026-07-14T08:38:00+00:00"
-    },
-    {
-      "title": "Entry Level Data Entry Clerk Fully",
-      "company": "JobsInMass.com",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-fully-jobsinmass-com-1134807",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "design",
-        "sys admin",
-        "architecture",
-        "technical",
-        "recruiter",
-        "testing",
-        "finance",
-        "api",
-        "exec",
-        "ops",
-        "full time",
-        "digital nomad",
-        "hr",
-        "data entry",
-        "dev",
-        "marketing",
-        "microsoft",
-        "education",
-        "customer support",
-        "medical",
-        "travel",
-        "accounting",
-        "virtual assistant",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-07-14T08:22:05+00:00"
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Huzzle.com",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-com-1134799",
-      "source": "RemoteOK",
-      "tags": [
-        "designer"
-      ],
-      "salary": "",
-      "posted": "2026-07-14T08:14:08+00:00"
-    },
-    {
-      "title": "Senior Analyst Project Support",
-      "company": "Cint",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-analyst-project-support-cint-1134818",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "testing",
-        "english teacher",
-        "non tech",
-        "design",
-        "virtual assistant",
-        "vfx",
-        "technical",
-        "customer support",
-        "education",
-        "digital nomad",
-        "transcribing",
-        "speech",
-        "ops",
-        "medical",
-        "analyst",
-        "marketing",
-        "microsoft",
-        "exec",
-        "senior",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-07-14T07:20:13+00:00"
     }
   ],
-  "last_updated": "2026-07-15T23:40:43.780683",
+  "last_updated": "2026-07-16T01:07:49.948697",
   "total": 20,
-  "new": 0
+  "new": 3
 }

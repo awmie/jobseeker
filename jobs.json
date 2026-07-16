@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "title": "Operations Administrator",
+      "company": "Work Force Nexus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-administrator-work-force-nexus-1134885",
+      "source": "RemoteOK",
+      "tags": [
+        "copywriting",
+        "non tech",
+        "product manager",
+        "exec",
+        "design",
+        "saas",
+        "embedded",
+        "customer support",
+        "marketing",
+        "content writing",
+        "senior",
+        "ops",
+        "recruiter",
+        "digital nomad",
+        "admin"
+      ],
+      "salary": "",
+      "posted": "2026-07-15T21:07:13+00:00"
+    },
+    {
       "title": "Medical Support Technician Scheduler Outpatient",
       "company": "Yukon-Kuskokwim Health Corporation",
       "location": "Remote",
@@ -488,45 +514,9 @@
       ],
       "salary": "",
       "posted": "2026-07-15T10:32:05+00:00"
-    },
-    {
-      "title": "Chief Operating Officer",
-      "company": "Verity Search Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-verity-search-limited-1134888",
-      "source": "RemoteOK",
-      "tags": [
-        "copywriting",
-        "non tech",
-        "product manager",
-        "exec",
-        "design",
-        "saas",
-        "embedded",
-        "customer support",
-        "marketing",
-        "content writing",
-        "senior",
-        "ops",
-        "recruiter",
-        "digital nomad",
-        "admin",
-        "education",
-        "technical",
-        "dev",
-        "finance",
-        "junior",
-        "engineer",
-        "architecture",
-        "designer",
-        "testing",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-07-15T10:14:05+00:00"
     }
   ],
-  "last_updated": "2026-07-16T20:37:58.215051",
+  "last_updated": "2026-07-16T21:43:22.223262",
   "total": 20,
-  "new": 4
+  "new": 1
 }

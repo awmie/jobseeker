@@ -1,6 +1,23 @@
 {
   "jobs": [
     {
+      "title": "Patient Scheduler II",
+      "company": "Essentia Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-scheduler-ii-essentia-health-1134899",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-15T22:52:52+00:00"
+    },
+    {
       "title": "Operations Administrator",
       "company": "Work Force Nexus",
       "location": "Remote",
@@ -501,22 +518,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-15T10:33:09+00:00"
-    },
-    {
-      "title": "Copywriter Clases de Redacci\u00c3\u00b3n Sin Experiencia",
-      "company": "TUS Media",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-copywriter-clases-de-redaccion-sin-experiencia-tus-media-1134883",
-      "source": "RemoteOK",
-      "tags": [
-        "copywriting",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-15T10:32:05+00:00"
     }
   ],
-  "last_updated": "2026-07-16T22:39:56.164510",
+  "last_updated": "2026-07-16T23:37:31.563864",
   "total": 20,
-  "new": 0
+  "new": 1
 }

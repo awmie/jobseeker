@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "title": "Virtual Executive Assistant",
+      "company": "Recruit Lytixs Hires",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruit-lytixs-hires-1134865",
+      "source": "RemoteOK",
+      "tags": [
+        "speech",
+        "exec",
+        "content writing",
+        "sys admin",
+        "medical",
+        "recruiter",
+        "social media",
+        "game dev",
+        "designer",
+        "design",
+        "copywriting",
+        "marketing",
+        "video",
+        "education",
+        "finance",
+        "ads",
+        "digital nomad",
+        "virtual assistant",
+        "customer support",
+        "travel",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-07-15T06:05:11+00:00"
+    },
+    {
+      "title": "Entry Level Administrative Assistant",
+      "company": "Recruit Lytixs Hires",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruit-lytixs-hires-1134855",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-07-15T05:49:45+00:00"
+    },
+    {
       "title": "Programa de Est\u00c3\u00a1gio Forma\u00c3\u00a7\u00c3\u00a3o em Vendas SDR Remoto",
       "company": "Nibo",
       "location": "Remote",
@@ -205,6 +257,41 @@
       "posted": "2026-07-14T19:00:19+00:00"
     },
     {
+      "title": "Assistant Controller",
+      "company": "Treewalk",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistant-controller-treewalk-1134904",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "salesforce",
+        "infosec",
+        "technical",
+        "supervisor",
+        "customer support",
+        "travel",
+        "finance",
+        "microsoft",
+        "exec",
+        "ops",
+        "recruiter",
+        "accounting",
+        "sys admin",
+        "education",
+        "dev",
+        "payroll",
+        "senior",
+        "medical",
+        "full time",
+        "digital nomad",
+        "controller",
+        "golang",
+        "ecommerce"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T18:36:04+00:00"
+    },
+    {
       "title": "LSA",
       "company": "King Edward VI Preparatory School",
       "location": "Remote",
@@ -243,6 +330,48 @@
       ],
       "salary": "",
       "posted": "2026-07-14T17:37:14+00:00"
+    },
+    {
+      "title": "Designer",
+      "company": "Intelligent Change",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-intelligent-change-1134905",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "salesforce",
+        "infosec",
+        "technical",
+        "supervisor",
+        "customer support",
+        "travel",
+        "finance",
+        "microsoft",
+        "exec",
+        "ops",
+        "recruiter",
+        "accounting",
+        "sys admin",
+        "education",
+        "dev",
+        "payroll",
+        "senior",
+        "medical",
+        "full time",
+        "digital nomad",
+        "controller",
+        "golang",
+        "ecommerce",
+        "design",
+        "designer",
+        "copywriting",
+        "marketing",
+        "web dev",
+        "ads",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-07-14T16:10:22+00:00"
     },
     {
       "title": "Photo Editor",
@@ -374,82 +503,9 @@
       ],
       "salary": "",
       "posted": "2026-07-14T13:04:29+00:00"
-    },
-    {
-      "title": "Human Resources Generalist",
-      "company": "HireTalent - Staffing & Recruiting Firm",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-hiretalent-staffing-recruiting-firm-1134804",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "design",
-        "sys admin",
-        "architecture",
-        "technical",
-        "recruiter",
-        "testing",
-        "finance",
-        "api",
-        "exec",
-        "ops",
-        "full time",
-        "digital nomad",
-        "hr"
-      ],
-      "salary": "",
-      "posted": "2026-07-14T12:04:35+00:00"
-    },
-    {
-      "title": "Sub Agent Net Zero Teeside",
-      "company": "Balfour Beatty plc",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sub-agent-net-zero-teeside-balfour-beatty-plc-1134830",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "speech",
-        "scheme",
-        "exec",
-        "ops",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-07-14T11:55:58+00:00"
-    },
-    {
-      "title": "dishwasher",
-      "company": "Cafe March 21",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-dishwasher-cafe-march-21-1134850",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-14T11:11:38+00:00"
-    },
-    {
-      "title": "Sales Executive",
-      "company": "Unilever",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-executive-unilever-1134845",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "marketing",
-        "travel",
-        "exec",
-        "cloud",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-07-14T09:40:33+00:00"
     }
   ],
-  "last_updated": "2026-07-16T04:23:03.644005",
+  "last_updated": "2026-07-16T06:39:37.498468",
   "total": 20,
-  "new": 2
+  "new": 4
 }

@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Proxify Ab Senior Fullstack Developer Python 3",
+      "company": "PROXIFY AB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Garden3D Head Of Design",
       "company": "GARDEN3D",
       "location": "Remote",
@@ -43,13 +50,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Proxify Ab Senior Fullstack Developer React Js Node Js 2",
-      "company": "PROXIFY AB",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Toggl Senior Product Manager 4",
       "company": "TOGGL",
       "location": "Remote",
@@ -69,6 +69,61 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/1password-senior-web-developer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Merchandiser",
+      "company": "Brydens Antigua",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-merchandiser-brydens-antigua-1134949",
+      "source": "RemoteOK",
+      "tags": [
+        "react",
+        "customer support",
+        "math",
+        "medical",
+        "non tech",
+        "education",
+        "technical",
+        "finance",
+        "ops",
+        "legal",
+        "hr"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T18:28:37+00:00"
+    },
+    {
+      "title": "Director Business Development Army",
+      "company": "NOBLE",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-business-development-army-noble-1134952",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "amazon",
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "video",
+        "ads",
+        "content writing",
+        "ops",
+        "shopify",
+        "full time",
+        "digital nomad",
+        "salesforce",
+        "sys admin",
+        "infosec",
+        "microsoft",
+        "senior",
+        "bus dev",
+        "sales",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T17:48:43+00:00"
     },
     {
       "title": "Content & Digital Marketing Specialist",
@@ -494,43 +549,9 @@
       ],
       "salary": "",
       "posted": "2026-07-16T05:47:06+00:00"
-    },
-    {
-      "title": "HR Assistant",
-      "company": "Sundayy",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-hr-assistant-sundayy-1134900",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "medical",
-        "virtual assistant"
-      ],
-      "salary": "",
-      "posted": "2026-07-16T05:02:12+00:00"
-    },
-    {
-      "title": "Create Your Own Role",
-      "company": "NewsletterJobs.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-create-your-own-role-newsletterjobs-io-1134897",
-      "source": "RemoteOK",
-      "tags": [
-        "crypto",
-        "dev",
-        "cloud",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-16T03:01:10+00:00"
     }
   ],
-  "last_updated": "2026-07-17T17:30:01.767966",
+  "last_updated": "2026-07-17T18:36:47.009056",
   "total": 30,
-  "new": 9
+  "new": 2
 }

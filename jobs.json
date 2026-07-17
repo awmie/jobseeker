@@ -1,6 +1,120 @@
 {
   "jobs": [
     {
+      "title": "Garden3D Head Of Design",
+      "company": "GARDEN3D",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/garden3d-head-of-design",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Castr Sales Development Representative Sdr",
+      "company": "CASTR",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/castr-sales-development-representative-sdr",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Carnival Corporation Engineer Sr Devops",
+      "company": "CARNIVAL",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/carnival-corporation-engineer-sr-devops",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "First American Crm Campaign Manager",
+      "company": "FIRST",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/first-american-crm-campaign-manager",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Peroptyx Data Anlayst",
+      "company": "PEROPTYX",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/peroptyx-data-anlayst",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Proxify Ab Senior Frontend Developer React Js Next Js 1",
+      "company": "PROXIFY AB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-frontend-developer-react-js-next-js-1",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Proxify Ab Senior Fullstack Developer React Js Node Js 2",
+      "company": "PROXIFY AB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Toggl Senior Product Manager 4",
+      "company": "TOGGL",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Elite Software Automation Business Analyst 2",
+      "company": "ELITE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "1Password Senior Web Developer",
+      "company": "1PASSWORD",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/1password-senior-web-developer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Content & Digital Marketing Specialist",
+      "company": "Outsource Access Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-digital-marketing-specialist-outsource-access-careers-1134932",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "full time",
+        "sales",
+        "content writing",
+        "marketing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T17:07:06+00:00"
+    },
+    {
+      "title": "Sales Development Representative",
+      "company": "Outsource Access Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-outsource-access-careers-1134931",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "full time",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T17:06:25+00:00"
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Azurreo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-azurreo-1134930",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T17:03:22+00:00"
+    },
+    {
       "title": "Graphic Designer",
       "company": "YouFibre",
       "location": "Remote",
@@ -414,51 +528,9 @@
       ],
       "salary": "",
       "posted": "2026-07-16T03:01:10+00:00"
-    },
-    {
-      "title": "Publisher",
-      "company": "NewsletterJobs.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898",
-      "source": "RemoteOK",
-      "tags": [
-        "crypto",
-        "dev",
-        "cloud",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-16T03:00:05+00:00"
-    },
-    {
-      "title": "Asesor de Atenci\u00c3\u00b3n al Cliente Inmobiliario Call center Remoto",
-      "company": "Los Portales",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-asesor-de-atencion-al-cliente-inmobiliario-call-center-remoto-los-portales-1134942",
-      "source": "RemoteOK",
-      "tags": [
-        "c",
-        "microsoft"
-      ],
-      "salary": "",
-      "posted": "2026-07-16T01:07:43+00:00"
-    },
-    {
-      "title": "Open Position \u00e2\u0080\u0094 Dauphine",
-      "company": "Uptown Theatre for Creative Arts",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-open-position-dauphine-uptown-theatre-for-creative-arts-1134894",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-16T00:01:23+00:00"
     }
   ],
-  "last_updated": "2026-07-17T16:10:00.636025",
-  "total": 20,
-  "new": 7
+  "last_updated": "2026-07-17T17:30:01.767966",
+  "total": 30,
+  "new": 9
 }

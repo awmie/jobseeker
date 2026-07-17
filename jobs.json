@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "title": "Public Health Practitioner",
+      "company": "Public Health Wales",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-public-health-practitioner-public-health-wales-1134978",
+      "source": "RemoteOK",
+      "tags": [
+        "c",
+        "exec",
+        "travel",
+        "finance",
+        "medical",
+        "virtual assistant",
+        "customer support",
+        "senior",
+        "ops",
+        "marketing",
+        "legal",
+        "scheme"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T12:56:34+00:00"
+    },
+    {
       "title": "Exuma Operator",
       "company": "Seven Seas Water Group",
       "location": "Remote",
@@ -458,42 +481,9 @@
       ],
       "salary": "",
       "posted": "2026-07-15T20:02:34+00:00"
-    },
-    {
-      "title": "Creative Strategist",
-      "company": "DREAMLABS",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-creative-strategist-dreamlabs-1134875",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "marketing",
-        "exec",
-        "web dev",
-        "video",
-        "content writing",
-        "senior",
-        "photoshop",
-        "engineer",
-        "ecommerce",
-        "digital nomad",
-        "customer support",
-        "travel",
-        "education",
-        "finance",
-        "ops",
-        "legal",
-        "sales",
-        "golang",
-        "full time",
-        "part time",
-        "strategy"
-      ],
-      "salary": "",
-      "posted": "2026-07-15T20:02:12+00:00"
     }
   ],
-  "last_updated": "2026-07-17T13:15:24.616657",
+  "last_updated": "2026-07-17T14:54:09.104924",
   "total": 20,
-  "new": 3
+  "new": 1
 }

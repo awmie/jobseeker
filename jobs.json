@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "title": "Create Your Own Role",
+      "company": "NewsletterJobs.io",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-create-your-own-role-newsletterjobs-io-1134897",
+      "source": "RemoteOK",
+      "tags": [
+        "crypto",
+        "dev",
+        "cloud",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T03:01:10+00:00"
+    },
+    {
+      "title": "Publisher",
+      "company": "NewsletterJobs.io",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898",
+      "source": "RemoteOK",
+      "tags": [
+        "crypto",
+        "dev",
+        "cloud",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T03:00:05+00:00"
+    },
+    {
       "title": "Asesor de Atenci\u00c3\u00b3n al Cliente Inmobiliario Call center Remoto",
       "company": "Los Portales",
       "location": "Remote",
@@ -35,6 +67,22 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-16T00:00:49+00:00"
+    },
+    {
+      "title": "COURIER",
+      "company": "Doctors Hospital",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-courier-doctors-hospital-1134947",
+      "source": "RemoteOK",
+      "tags": [
+        "react",
+        "customer support",
+        "math",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T00:00:00+00:00"
     },
     {
       "title": "Patient Scheduler II",
@@ -442,54 +490,9 @@
       ],
       "salary": "",
       "posted": "2026-07-15T14:18:38+00:00"
-    },
-    {
-      "title": "Product Director EdTech Digital Learning",
-      "company": "peopleworth",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-director-edtech-digital-learning-peopleworth-1134884",
-      "source": "RemoteOK",
-      "tags": [
-        "copywriting",
-        "non tech",
-        "product manager",
-        "exec",
-        "design",
-        "saas",
-        "embedded",
-        "customer support",
-        "marketing",
-        "content writing",
-        "senior",
-        "ops",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-15T13:27:56+00:00"
-    },
-    {
-      "title": "Auxiliar Administrativo Financeiro Remoto",
-      "company": "Empresa Confidencial",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-financeiro-remoto-empresa-confidencial-1134859",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-15T13:04:20+00:00"
-    },
-    {
-      "title": "Assistente Administrativo Comercial Remoto",
-      "company": "Empresa Confidencial",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-comercial-remoto-empresa-confidencial-1134858",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-15T13:02:30+00:00"
     }
   ],
-  "last_updated": "2026-07-17T01:09:34.389549",
+  "last_updated": "2026-07-17T04:23:20.622718",
   "total": 20,
   "new": 3
 }

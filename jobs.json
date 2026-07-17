@@ -1,6 +1,24 @@
 {
   "jobs": [
     {
+      "title": "HR Assistant",
+      "company": "Sundayy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-assistant-sundayy-1134900",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "medical",
+        "virtual assistant"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T05:02:12+00:00"
+    },
+    {
       "title": "Create Your Own Role",
       "company": "NewsletterJobs.io",
       "location": "Remote",
@@ -83,6 +101,53 @@
       ],
       "salary": "",
       "posted": "2026-07-16T00:00:00+00:00"
+    },
+    {
+      "title": "Associate Customer Engagement",
+      "company": "The Coca-Cola Company",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-customer-engagement-the-coca-cola-company-1134955",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "amazon",
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "video",
+        "ads",
+        "content writing",
+        "ops",
+        "shopify",
+        "full time",
+        "digital nomad",
+        "salesforce",
+        "sys admin",
+        "infosec",
+        "microsoft",
+        "senior",
+        "bus dev",
+        "sales",
+        "medical",
+        "strategy",
+        "dev",
+        "copywriting",
+        "testing",
+        "web dev",
+        "education",
+        "mobile",
+        "stats",
+        "teaching",
+        "technical",
+        "finance",
+        "golang",
+        "engineer",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-07-15T22:55:09+00:00"
     },
     {
       "title": "Patient Scheduler II",
@@ -438,61 +503,9 @@
       ],
       "salary": "",
       "posted": "2026-07-15T15:02:15+00:00"
-    },
-    {
-      "title": "Field Marketing Manager",
-      "company": "CELSIUS",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-marketing-manager-celsius-1134874",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "marketing",
-        "exec",
-        "web dev",
-        "video",
-        "content writing",
-        "senior",
-        "photoshop",
-        "engineer",
-        "ecommerce",
-        "digital nomad",
-        "customer support",
-        "travel",
-        "education",
-        "finance",
-        "ops",
-        "legal",
-        "sales",
-        "golang",
-        "full time",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-07-15T14:30:30+00:00"
-    },
-    {
-      "title": "Australian English Multimedia Voice Artist Perth",
-      "company": "OpsArmy Careers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-australian-english-multimedia-voice-artist-perth-opsarmy-careers-1134936",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "quality assurance",
-        "junior",
-        "speech",
-        "technical",
-        "customer support",
-        "dev",
-        "content writing",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-15T14:18:38+00:00"
     }
   ],
-  "last_updated": "2026-07-17T04:23:20.622718",
+  "last_updated": "2026-07-17T06:34:58.465896",
   "total": 20,
-  "new": 3
+  "new": 2
 }

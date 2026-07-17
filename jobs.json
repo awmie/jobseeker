@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "title": "Museum Specialist ",
+      "company": "Smithsonian Institution",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-museum-specialist-smithsonian-institution-1134957",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "amazon",
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "video",
+        "ads",
+        "content writing",
+        "ops",
+        "shopify",
+        "full time",
+        "digital nomad",
+        "salesforce",
+        "sys admin",
+        "infosec",
+        "microsoft",
+        "senior",
+        "bus dev",
+        "sales",
+        "medical",
+        "strategy",
+        "dev",
+        "copywriting",
+        "testing",
+        "web dev",
+        "education",
+        "mobile",
+        "stats",
+        "teaching",
+        "technical",
+        "finance",
+        "golang",
+        "engineer",
+        "recruiter",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T10:42:30+00:00"
+    },
+    {
       "title": "Date Posted",
       "company": "OptN Inc",
       "location": "Remote",
@@ -482,22 +530,9 @@
       ],
       "salary": "",
       "posted": "2026-07-15T16:18:47+00:00"
-    },
-    {
-      "title": "Entry Level Crypto Market Specialist",
-      "company": "APEX TRADE",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-crypto-market-specialist-apex-trade-1134871",
-      "source": "RemoteOK",
-      "tags": [
-        "other",
-        "finance"
-      ],
-      "salary": "",
-      "posted": "2026-07-15T15:39:53+00:00"
     }
   ],
-  "last_updated": "2026-07-17T10:29:48.679524",
+  "last_updated": "2026-07-17T11:53:59.126650",
   "total": 20,
-  "new": 3
+  "new": 1
 }

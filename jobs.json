@@ -71,6 +71,39 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Don't see a fit Apply here",
+      "company": "Brothers International Food Holdings, LLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-dont-see-a-fit-apply-here-brothers-international-food-holdings-llc-1134946",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T19:26:52+00:00"
+    },
+    {
+      "title": "Procurement Associate",
+      "company": "UNOPS",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-procurement-associate-unops-1134948",
+      "source": "RemoteOK",
+      "tags": [
+        "react",
+        "customer support",
+        "math",
+        "medical",
+        "non tech",
+        "education",
+        "technical",
+        "finance",
+        "ops",
+        "legal"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T19:20:11+00:00"
+    },
+    {
       "title": "Merchandiser",
       "company": "Brydens Antigua",
       "location": "Remote",
@@ -513,45 +546,9 @@
       ],
       "salary": "",
       "posted": "2026-07-16T09:03:16+00:00"
-    },
-    {
-      "title": "Zentix Software",
-      "company": "SuperbCompanies",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-zentix-software-superbcompanies-1134971",
-      "source": "RemoteOK",
-      "tags": [
-        "quality assurance",
-        "sys admin",
-        "exec",
-        "sales",
-        "education",
-        "technical",
-        "customer support",
-        "engineer",
-        "dev",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-16T05:47:21+00:00"
-    },
-    {
-      "title": "Supbot",
-      "company": "SuperbCompanies",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-supbot-superbcompanies-1134969",
-      "source": "RemoteOK",
-      "tags": [
-        "quality assurance",
-        "sys admin",
-        "exec",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-07-16T05:47:06+00:00"
     }
   ],
-  "last_updated": "2026-07-17T18:36:47.009056",
+  "last_updated": "2026-07-17T19:43:23.780149",
   "total": 30,
   "new": 2
 }

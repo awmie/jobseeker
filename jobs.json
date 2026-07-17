@@ -1,6 +1,42 @@
 {
   "jobs": [
     {
+      "title": "Asesor de Atenci\u00c3\u00b3n al Cliente Inmobiliario Call center Remoto",
+      "company": "Los Portales",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-asesor-de-atencion-al-cliente-inmobiliario-call-center-remoto-los-portales-1134942",
+      "source": "RemoteOK",
+      "tags": [
+        "c",
+        "microsoft"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T01:07:43+00:00"
+    },
+    {
+      "title": "Open Position \u00e2\u0080\u0094 Dauphine",
+      "company": "Uptown Theatre for Creative Arts",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-open-position-dauphine-uptown-theatre-for-creative-arts-1134894",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-16T00:01:23+00:00"
+    },
+    {
+      "title": "Danny",
+      "company": "Pinter",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-danny-pinter-1134892",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-16T00:00:49+00:00"
+    },
+    {
       "title": "Patient Scheduler II",
       "company": "Essentia Health",
       "location": "Remote",
@@ -451,76 +487,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-15T13:02:30+00:00"
-    },
-    {
-      "title": "Secretaria Executiva ABLEMP",
-      "company": "Grupo Protege",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-secretaria-executiva-ablemp-grupo-protege-1134857",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-15T13:02:03+00:00"
-    },
-    {
-      "title": "Trabaja como canguro Ayuda con los deberes",
-      "company": "TUS Media",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-trabaja-como-canguro-ayuda-con-los-deberes-tus-media-1134927",
-      "source": "RemoteOK",
-      "tags": [
-        "mobile",
-        "engineer",
-        "exec",
-        "dev",
-        "junior",
-        "digital nomad",
-        "analyst",
-        "customer support",
-        "marketing",
-        "ops",
-        "excel",
-        "stats",
-        "sales",
-        "python",
-        "consulting",
-        "defi",
-        "react",
-        "react.js",
-        "technical",
-        "web dev",
-        "speech",
-        "javascript",
-        "finance",
-        "content writing",
-        "bus dev",
-        "medical",
-        "full time",
-        "part time",
-        "designer",
-        "design",
-        "amazon",
-        "cloud",
-        "git",
-        "microsoft",
-        "ecommerce",
-        "shopify"
-      ],
-      "salary": "",
-      "posted": "2026-07-15T10:44:46+00:00"
-    },
-    {
-      "title": "Entrenador a de F\u00c3\u00batbol Ni\u00c3\u00b1os y J\u00c3\u00b3venes",
-      "company": "TUS Media",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entrenador-a-de-futbol-ninos-y-jovenes-tus-media-1134882",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-15T10:33:09+00:00"
     }
   ],
-  "last_updated": "2026-07-16T23:37:31.563864",
+  "last_updated": "2026-07-17T01:09:34.389549",
   "total": 20,
-  "new": 1
+  "new": 3
 }

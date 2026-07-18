@@ -71,6 +71,28 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Season 25 26",
+      "company": "RecMan.io",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-season-25-26-recman-io-1134967",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-17T09:13:02+00:00"
+    },
+    {
+      "title": "Administrativo A Planificador A",
+      "company": "IGLUBIT",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrativo-a-planificador-a-iglubit-1134973",
+      "source": "RemoteOK",
+      "tags": [
+        "c"
+      ],
+      "salary": "",
+      "posted": "2026-07-17T09:07:42+00:00"
+    },
+    {
       "title": "Desk Operator",
       "company": "Hyatt Regency",
       "location": "Remote",
@@ -485,43 +507,9 @@
       ],
       "salary": "",
       "posted": "2026-07-16T20:04:26+00:00"
-    },
-    {
-      "title": "Executive Assistant the CEO",
-      "company": "Jasper",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-the-ceo-jasper-1134977",
-      "source": "RemoteOK",
-      "tags": [
-        "c",
-        "exec",
-        "travel",
-        "finance",
-        "medical",
-        "virtual assistant",
-        "customer support",
-        "senior",
-        "ops",
-        "marketing",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-07-16T19:56:11+00:00"
-    },
-    {
-      "title": "Don't see a fit Apply here",
-      "company": "Brothers International Food Holdings, LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-dont-see-a-fit-apply-here-brothers-international-food-holdings-llc-1134946",
-      "source": "RemoteOK",
-      "tags": [
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-07-16T19:26:52+00:00"
     }
   ],
-  "last_updated": "2026-07-18T09:03:49.209510",
+  "last_updated": "2026-07-18T10:35:53.713206",
   "total": 30,
-  "new": 4
+  "new": 2
 }

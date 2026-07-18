@@ -71,6 +71,31 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "UGC Creator",
+      "company": "ren",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ugc-creator-ren-1135016",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "supervisor",
+        "customer support",
+        "testing",
+        "finance",
+        "education",
+        "microsoft",
+        "exec",
+        "ops",
+        "golang",
+        "medical",
+        "full time",
+        "video",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-07-17T22:48:40+00:00"
+    },
+    {
       "title": "Yacht Cleaner",
       "company": "Travelopia",
       "location": "Remote",
@@ -484,19 +509,9 @@
       ],
       "salary": "",
       "posted": "2026-07-17T14:30:57+00:00"
-    },
-    {
-      "title": "We Learn",
-      "company": "MoreWithUs - Everyday Jobs",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-we-learn-morewithus-everyday-jobs-1135034",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-17T12:43:12+00:00"
     }
   ],
-  "last_updated": "2026-07-18T22:02:25.342090",
+  "last_updated": "2026-07-18T23:01:47.314351",
   "total": 30,
-  "new": 3
+  "new": 1
 }

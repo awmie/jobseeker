@@ -71,6 +71,27 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Parks Services",
+      "company": "FinditinCW",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-parks-services-finditincw-1135021",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer",
+        "design",
+        "hr",
+        "customer support",
+        "dev",
+        "scheme",
+        "exec",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-17T09:23:32+00:00"
+    },
+    {
       "title": "Season 25 26",
       "company": "RecMan.io",
       "location": "Remote",
@@ -379,6 +400,18 @@
       "posted": "2026-07-17T01:02:51+00:00"
     },
     {
+      "title": "I am a Professional",
+      "company": "Boustead Property Services",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-i-am-a-professional-boustead-property-services-1135018",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-07-17T00:59:56+00:00"
+    },
+    {
       "title": "National Account Manager Foodservice Sales Required",
       "company": "Home Market Foods",
       "location": "Remote",
@@ -433,83 +466,9 @@
       ],
       "salary": "",
       "posted": "2026-07-16T21:34:40+00:00"
-    },
-    {
-      "title": "Creative Strategist",
-      "company": "New Engen",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-creative-strategist-new-engen-1134990",
-      "source": "RemoteOK",
-      "tags": [
-        "part time",
-        "hr",
-        "medical",
-        "exec",
-        "design",
-        "salesforce",
-        "customer support",
-        "dev",
-        "copywriting",
-        "testing",
-        "travel",
-        "speech",
-        "video",
-        "content writing",
-        "marketing",
-        "stats",
-        "sales",
-        "social media",
-        "digital nomad",
-        "recruiter",
-        "finance",
-        "microsoft",
-        "excel",
-        "education",
-        "art direction",
-        "ops",
-        "full time",
-        "sys admin",
-        "wordpress",
-        "teaching",
-        "web dev",
-        "javascript",
-        "c",
-        "css",
-        "html",
-        "drupal",
-        "seo",
-        "ads",
-        "mobile",
-        "legal",
-        "saas",
-        "amazon",
-        "infosec",
-        "music",
-        "consulting",
-        "technical",
-        "strategy",
-        "cloud",
-        "senior"
-      ],
-      "salary": "",
-      "posted": "2026-07-16T20:10:03+00:00"
-    },
-    {
-      "title": "Junior QA Tester",
-      "company": "Work Force Nexus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-qa-tester-work-force-nexus-1134935",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "quality assurance",
-        "junior"
-      ],
-      "salary": "",
-      "posted": "2026-07-16T20:04:26+00:00"
     }
   ],
-  "last_updated": "2026-07-18T10:35:53.713206",
+  "last_updated": "2026-07-18T11:32:52.973501",
   "total": 30,
   "new": 2
 }

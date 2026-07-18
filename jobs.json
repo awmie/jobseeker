@@ -71,6 +71,59 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Yacht Cleaner",
+      "company": "Travelopia",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-yacht-cleaner-travelopia-1135004",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "exec",
+        "ruby",
+        "ops",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-07-17T21:22:33+00:00"
+    },
+    {
+      "title": "Addetto a Customer Service",
+      "company": "Casin\u00c3\u00b2 Lugano SA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-addetto-a-customer-service-casino-lugano-sa-1135023",
+      "source": "RemoteOK",
+      "tags": [
+        "game dev",
+        "microsoft",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-17T21:13:52+00:00"
+    },
+    {
+      "title": "Care Specialist",
+      "company": "Empathy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-care-specialist-empathy-1134999",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "speech",
+        "finance",
+        "c",
+        "exec",
+        "senior",
+        "ops",
+        "excel",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-17T21:10:05+00:00"
+    },
+    {
       "title": "Patient Access Scheduler Centralized Scheduling FT 8 30A 5P",
       "company": "Orchestrate Consulting Group",
       "location": "Remote",
@@ -441,52 +494,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-17T12:43:12+00:00"
-    },
-    {
-      "title": "Parks Services",
-      "company": "FinditinCW",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-parks-services-finditincw-1135021",
-      "source": "RemoteOK",
-      "tags": [
-        "engineer",
-        "design",
-        "hr",
-        "customer support",
-        "dev",
-        "scheme",
-        "exec",
-        "medical",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T09:23:32+00:00"
-    },
-    {
-      "title": "Season 25 26",
-      "company": "RecMan.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-season-25-26-recman-io-1134967",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-17T09:13:02+00:00"
-    },
-    {
-      "title": "Administrativo A Planificador A",
-      "company": "IGLUBIT",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrativo-a-planificador-a-iglubit-1134973",
-      "source": "RemoteOK",
-      "tags": [
-        "c"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T09:07:42+00:00"
     }
   ],
-  "last_updated": "2026-07-18T21:05:14.768150",
+  "last_updated": "2026-07-18T22:02:25.342090",
   "total": 30,
-  "new": 0
+  "new": 3
 }

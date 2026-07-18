@@ -247,6 +247,18 @@
       "posted": "2026-07-17T07:07:51+00:00"
     },
     {
+      "title": "Linemarker",
+      "company": "Intersectional Linemarkers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-linemarker-intersectional-linemarkers-1135022",
+      "source": "RemoteOK",
+      "tags": [
+        "hr"
+      ],
+      "salary": "",
+      "posted": "2026-07-17T05:51:12+00:00"
+    },
+    {
       "title": "Adelaide",
       "company": "Dobinsons Spring &amp; Suspension - Middle East &amp; Africa",
       "location": "Remote",
@@ -450,25 +462,9 @@
       ],
       "salary": "",
       "posted": "2026-07-16T21:39:00+00:00"
-    },
-    {
-      "title": "Founders Associate",
-      "company": "Bits",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-founders-associate-bits-1134976",
-      "source": "RemoteOK",
-      "tags": [
-        "c",
-        "exec",
-        "travel",
-        "finance",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-07-16T21:34:40+00:00"
     }
   ],
-  "last_updated": "2026-07-18T11:32:52.973501",
+  "last_updated": "2026-07-18T12:31:26.426541",
   "total": 30,
-  "new": 2
+  "new": 1
 }

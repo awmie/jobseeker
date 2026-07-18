@@ -71,6 +71,44 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Social Media Assistant Instagram",
+      "company": "OnlineJobs.PH",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-assistant-instagram-onlinejobs-ph-1134993",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "marketing",
+        "exec",
+        "content writing",
+        "social media"
+      ],
+      "salary": "",
+      "posted": "2026-07-17T17:23:45+00:00"
+    },
+    {
+      "title": "Voice Actor",
+      "company": "Gritter Francona",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-voice-actor-gritter-francona-1134994",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "marketing",
+        "exec",
+        "content writing",
+        "social media",
+        "speech",
+        "education",
+        "technical",
+        "customer support",
+        "video",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-17T17:23:21+00:00"
+    },
+    {
       "title": "Videographer",
       "company": "Gritter Francona",
       "location": "Remote",
@@ -461,81 +499,9 @@
       ],
       "salary": "",
       "posted": "2026-07-17T08:00:42+00:00"
-    },
-    {
-      "title": "Management Accountant Dayshift",
-      "company": "D2B",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-management-accountant-dayshift-d2b-1134960",
-      "source": "RemoteOK",
-      "tags": [
-        "accounting",
-        "customer support",
-        "payroll",
-        "finance",
-        "php",
-        "exec",
-        "ops",
-        "excel",
-        "medical",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T08:00:35+00:00"
-    },
-    {
-      "title": "Digital Media Specialist",
-      "company": "Rose, Klein &amp; Marias",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-media-specialist-rose-klein-amp-marias-1134989",
-      "source": "RemoteOK",
-      "tags": [
-        "part time",
-        "hr",
-        "medical",
-        "exec",
-        "design",
-        "salesforce",
-        "customer support",
-        "dev",
-        "copywriting",
-        "testing",
-        "travel",
-        "speech",
-        "video",
-        "content writing",
-        "marketing",
-        "stats",
-        "sales",
-        "social media",
-        "digital nomad",
-        "recruiter",
-        "finance",
-        "microsoft",
-        "excel",
-        "education",
-        "art direction",
-        "ops",
-        "full time",
-        "sys admin",
-        "wordpress",
-        "teaching",
-        "web dev",
-        "javascript",
-        "c",
-        "css",
-        "html",
-        "drupal",
-        "seo",
-        "ads",
-        "mobile",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T07:51:58+00:00"
     }
   ],
-  "last_updated": "2026-07-18T17:10:48.621392",
+  "last_updated": "2026-07-18T18:06:57.303913",
   "total": 30,
-  "new": 5
+  "new": 2
 }

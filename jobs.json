@@ -71,6 +71,37 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Contribute Building a Secure Nation",
+      "company": "Adani Skills &amp; Education",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-contribute-building-a-secure-nation-adani-skills-amp-education-1135010",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "non tech",
+        "infosec",
+        "education",
+        "content writing",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T02:30:32+00:00"
+    },
+    {
+      "title": "Asistente Administrativo",
+      "company": "Blanco Silva Consultor\u00c3\u00ada Inform\u00c3\u00a1tica - BSCI -",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-asistente-administrativo-blanco-silva-consultoria-informatica-bsci-1135036",
+      "source": "RemoteOK",
+      "tags": [
+        "microsoft",
+        "excel",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T01:47:04+00:00"
+    },
+    {
       "title": "UGC Creator",
       "company": "ren",
       "location": "Remote",
@@ -441,77 +472,9 @@
       ],
       "salary": "",
       "posted": "2026-07-17T15:16:05+00:00"
-    },
-    {
-      "title": "Creative Director",
-      "company": "Bellweather Agency",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-creative-director-bellweather-agency-1134988",
-      "source": "RemoteOK",
-      "tags": [
-        "part time",
-        "hr",
-        "medical",
-        "exec",
-        "design",
-        "salesforce",
-        "customer support",
-        "dev",
-        "copywriting",
-        "testing",
-        "travel",
-        "speech",
-        "video",
-        "content writing",
-        "marketing",
-        "stats",
-        "sales",
-        "social media",
-        "digital nomad",
-        "recruiter",
-        "finance",
-        "microsoft",
-        "excel",
-        "education",
-        "art direction",
-        "ops",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T14:41:58+00:00"
-    },
-    {
-      "title": "Social Media Manager",
-      "company": "Degy Entertainment",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-manager-degy-entertainment-1134986",
-      "source": "RemoteOK",
-      "tags": [
-        "part time",
-        "hr",
-        "medical",
-        "exec",
-        "design",
-        "salesforce",
-        "customer support",
-        "dev",
-        "copywriting",
-        "testing",
-        "travel",
-        "speech",
-        "video",
-        "content writing",
-        "marketing",
-        "stats",
-        "sales",
-        "social media",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T14:30:57+00:00"
     }
   ],
-  "last_updated": "2026-07-19T00:02:15.578099",
+  "last_updated": "2026-07-19T03:42:40.342923",
   "total": 30,
-  "new": 0
+  "new": 2
 }

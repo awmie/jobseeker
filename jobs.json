@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Shafqat",
+      "company": "HireTalentt",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-shafqat-hiretalentt-1135048",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T19:39:50+00:00"
+    },
+    {
       "title": "Administrative Specialist",
       "company": "Dade Medical College-Hialeah",
       "location": "Remote",
@@ -96,6 +109,21 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-18T17:27:57+00:00"
+    },
+    {
+      "title": "MANUFACTURING POSITIONS",
+      "company": "Allied Packaging Corporation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manufacturing-positions-allied-packaging-corporation-1135065",
+      "source": "RemoteOK",
+      "tags": [
+        "recruiter",
+        "legal",
+        "full time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T14:23:34+00:00"
     },
     {
       "title": "Placement Officer",
@@ -369,45 +397,9 @@
       ],
       "salary": "",
       "posted": "2026-07-17T21:13:52+00:00"
-    },
-    {
-      "title": "Care Specialist",
-      "company": "Empathy",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-care-specialist-empathy-1134999",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "speech",
-        "finance",
-        "c",
-        "exec",
-        "senior",
-        "ops",
-        "excel",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T21:10:05+00:00"
-    },
-    {
-      "title": "Fire Dispatcher",
-      "company": "City of Campbell River",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-fire-dispatcher-city-of-campbell-river-1135057",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T19:19:54+00:00"
     }
   ],
-  "last_updated": "2026-07-19T19:30:54.152566",
+  "last_updated": "2026-07-19T20:24:51.592723",
   "total": 30,
-  "new": 1
+  "new": 2
 }

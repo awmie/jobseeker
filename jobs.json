@@ -71,6 +71,48 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "HR Generalist",
+      "company": "RG&amp;T Solutions",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-generalist-rgampt-solutions-1135043",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "travel",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "hr",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T05:47:15+00:00"
+    },
+    {
+      "title": "Patient Scheduler",
+      "company": "ARStrat",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-scheduler-arstrat-1135015",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "supervisor",
+        "customer support",
+        "testing",
+        "finance",
+        "education",
+        "microsoft",
+        "exec",
+        "ops",
+        "golang",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T04:43:23+00:00"
+    },
+    {
       "title": "Contribute Building a Secure Nation",
       "company": "Adani Skills &amp; Education",
       "location": "Remote",
@@ -442,39 +484,9 @@
       ],
       "salary": "",
       "posted": "2026-07-17T16:00:37+00:00"
-    },
-    {
-      "title": "Location",
-      "company": "Chugach Commercial Holdings",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-location-chugach-commercial-holdings-1135009",
-      "source": "RemoteOK",
-      "tags": [
-        "finance",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T15:20:34+00:00"
-    },
-    {
-      "title": "Et",
-      "company": "Bedrok",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-et-bedrok-1135024",
-      "source": "RemoteOK",
-      "tags": [
-        "game dev",
-        "microsoft",
-        "full time",
-        "marketing",
-        "sales",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T15:16:05+00:00"
     }
   ],
-  "last_updated": "2026-07-19T03:42:40.342923",
+  "last_updated": "2026-07-19T06:15:54.770966",
   "total": 30,
   "new": 2
 }

@@ -71,6 +71,16 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "OJALA",
+      "company": "Flash Free Lancer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ojala-flash-free-lancer-1135035",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-18T17:27:57+00:00"
+    },
+    {
       "title": "Placement Officer",
       "company": "Grey Sim Learnings Foundation",
       "location": "Remote",
@@ -404,25 +414,9 @@
       ],
       "salary": "",
       "posted": "2026-07-17T18:07:48+00:00"
-    },
-    {
-      "title": "Social Media Assistant Instagram",
-      "company": "OnlineJobs.PH",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-media-assistant-instagram-onlinejobs-ph-1134993",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "marketing",
-        "exec",
-        "content writing",
-        "social media"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T17:23:45+00:00"
     }
   ],
-  "last_updated": "2026-07-19T17:13:44.687911",
+  "last_updated": "2026-07-19T18:09:34.377944",
   "total": 30,
-  "new": 0
+  "new": 1
 }

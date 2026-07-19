@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Nogigiddy Entry Level Account Manager 4",
+      "company": "NOGIGIDDY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/nogigiddy-entry-level-account-manager-4",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Lawnstarter Data Governance Platform Manager",
       "company": "LAWNSTARTER",
       "location": "Remote",
@@ -36,13 +43,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "First American Crm Campaign Manager",
-      "company": "FIRST",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/first-american-crm-campaign-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Proxify Ab Senior Java Backend Developer",
       "company": "PROXIFY AB",
       "location": "Remote",
@@ -69,6 +69,49 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Placement Officer",
+      "company": "Grey Sim Learnings Foundation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-placement-officer-grey-sim-learnings-foundation-1135032",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "technical",
+        "designer",
+        "testing",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T10:30:03+00:00"
+    },
+    {
+      "title": "Job Summary",
+      "company": "LOTHIAN BUSES LIMITED",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-summary-lothian-buses-limited-1135017",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T10:27:53+00:00"
+    },
+    {
+      "title": "Technical Specialist",
+      "company": "PeopleLink Collaboration Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-specialist-peoplelink-collaboration-inc-1135029",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "technical"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T10:20:26+00:00"
     },
     {
       "title": "Presentation Designer",
@@ -386,104 +429,9 @@
       ],
       "salary": "",
       "posted": "2026-07-17T17:23:21+00:00"
-    },
-    {
-      "title": "Videographer",
-      "company": "Gritter Francona",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-videographer-gritter-francona-1135001",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "speech",
-        "finance",
-        "c",
-        "exec",
-        "senior",
-        "ops",
-        "excel",
-        "medical",
-        "full time",
-        "sys admin",
-        "travel",
-        "microsoft",
-        "content writing",
-        "sales",
-        "technical",
-        "video",
-        "ads"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T17:02:37+00:00"
-    },
-    {
-      "title": "Video Producer",
-      "company": "Gritter Francona",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-video-producer-gritter-francona-1135002",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "speech",
-        "finance",
-        "c",
-        "exec",
-        "senior",
-        "ops",
-        "excel",
-        "medical",
-        "full time",
-        "sys admin",
-        "travel",
-        "microsoft",
-        "content writing",
-        "sales",
-        "technical",
-        "video",
-        "ads",
-        "web dev"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T16:55:24+00:00"
-    },
-    {
-      "title": "Scriptwriter",
-      "company": "Gritter Francona",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-scriptwriter-gritter-francona-1135003",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "speech",
-        "finance",
-        "c",
-        "exec",
-        "senior",
-        "ops",
-        "excel",
-        "medical",
-        "full time",
-        "sys admin",
-        "travel",
-        "microsoft",
-        "content writing",
-        "sales",
-        "technical",
-        "video",
-        "ads",
-        "web dev"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T16:49:52+00:00"
     }
   ],
-  "last_updated": "2026-07-19T10:11:45.371709",
+  "last_updated": "2026-07-19T11:29:57.655703",
   "total": 30,
   "new": 3
 }

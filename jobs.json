@@ -71,6 +71,24 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Graphic Designer",
+      "company": "DOSED",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-dosed-1135046",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "game dev",
+        "designer",
+        "content writing",
+        "photoshop",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T21:27:25+00:00"
+    },
+    {
       "title": "Shafqat",
       "company": "HireTalentt",
       "location": "Remote",
@@ -383,23 +401,9 @@
       ],
       "salary": "",
       "posted": "2026-07-17T21:22:33+00:00"
-    },
-    {
-      "title": "Addetto a Customer Service",
-      "company": "Casin\u00c3\u00b2 Lugano SA",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-addetto-a-customer-service-casino-lugano-sa-1135023",
-      "source": "RemoteOK",
-      "tags": [
-        "game dev",
-        "microsoft",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T21:13:52+00:00"
     }
   ],
-  "last_updated": "2026-07-19T21:22:24.515002",
+  "last_updated": "2026-07-19T22:13:26.569359",
   "total": 30,
-  "new": 0
+  "new": 1
 }

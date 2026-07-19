@@ -71,6 +71,49 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Presentation Designer",
+      "company": "INFUSE",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-presentation-designer-infuse-1135025",
+      "source": "RemoteOK",
+      "tags": [
+        "game dev",
+        "microsoft",
+        "full time",
+        "marketing",
+        "sales",
+        "non tech",
+        "design",
+        "infosec",
+        "education",
+        "designer",
+        "dev",
+        "testing",
+        "web dev",
+        "exec",
+        "video",
+        "photoshop",
+        "excel",
+        "recruiter",
+        "illustrator",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T09:56:25+00:00"
+    },
+    {
+      "title": "Expression Of Interest",
+      "company": "White Peak Digital",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-white-peak-digital-1135019",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T09:08:18+00:00"
+    },
+    {
       "title": "React Native Engineer",
       "company": "HelpBnk",
       "location": "Remote",
@@ -188,6 +231,19 @@
       ],
       "salary": "",
       "posted": "2026-07-18T01:47:04+00:00"
+    },
+    {
+      "title": "Plumber",
+      "company": "Accor",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-plumber-accor-1135047",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T01:37:11+00:00"
     },
     {
       "title": "UGC Creator",
@@ -425,76 +481,9 @@
       ],
       "salary": "",
       "posted": "2026-07-17T16:49:52+00:00"
-    },
-    {
-      "title": "Brand Manager",
-      "company": "Cazcanes Tequila",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-brand-manager-cazcanes-tequila-1135000",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "speech",
-        "finance",
-        "c",
-        "exec",
-        "senior",
-        "ops",
-        "excel",
-        "medical",
-        "full time",
-        "sys admin",
-        "travel",
-        "microsoft",
-        "content writing",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T16:46:39+00:00"
-    },
-    {
-      "title": "Animated Graphic Visual Artist",
-      "company": "Gritter Francona",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-animated-graphic-visual-artist-gritter-francona-1134995",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "marketing",
-        "exec",
-        "content writing",
-        "social media",
-        "speech",
-        "education",
-        "technical",
-        "customer support",
-        "video",
-        "medical",
-        "design",
-        "ads",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T16:43:00+00:00"
-    },
-    {
-      "title": "Medical Scheduler",
-      "company": "Home Health Focus AI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-medical-scheduler-home-health-focus-ai-1134985",
-      "source": "RemoteOK",
-      "tags": [
-        "part time",
-        "hr",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T16:04:38+00:00"
     }
   ],
-  "last_updated": "2026-07-19T08:36:13.402828",
+  "last_updated": "2026-07-19T10:11:45.371709",
   "total": 30,
   "new": 3
 }

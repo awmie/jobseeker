@@ -71,6 +71,23 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Administrative Specialist",
+      "company": "Dade Medical College-Hialeah",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-specialist-dade-medical-college-hialeah-1135042",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "travel",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T18:42:01+00:00"
+    },
+    {
       "title": "OJALA",
       "company": "Flash Free Lancer",
       "location": "Remote",
@@ -388,35 +405,9 @@
       ],
       "salary": "",
       "posted": "2026-07-17T19:19:54+00:00"
-    },
-    {
-      "title": "Patient Access Scheduler Centralized Scheduling FT 8 30A 5P",
-      "company": "Orchestrate Consulting Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-patient-access-scheduler-centralized-scheduling-ft-8-30a-5p-orchestrate-consulting-group-1134996",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "marketing",
-        "exec",
-        "content writing",
-        "social media",
-        "speech",
-        "education",
-        "technical",
-        "customer support",
-        "video",
-        "medical",
-        "design",
-        "ads",
-        "digital nomad",
-        "consulting"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T18:07:48+00:00"
     }
   ],
-  "last_updated": "2026-07-19T18:09:34.377944",
+  "last_updated": "2026-07-19T19:30:54.152566",
   "total": 30,
   "new": 1
 }

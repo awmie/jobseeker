@@ -367,6 +367,19 @@
       "posted": "2026-07-17T21:10:05+00:00"
     },
     {
+      "title": "Fire Dispatcher",
+      "company": "City of Campbell River",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-fire-dispatcher-city-of-campbell-river-1135057",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-07-17T19:19:54+00:00"
+    },
+    {
       "title": "Patient Access Scheduler Centralized Scheduling FT 8 30A 5P",
       "company": "Orchestrate Consulting Group",
       "location": "Remote",
@@ -407,31 +420,9 @@
       ],
       "salary": "",
       "posted": "2026-07-17T17:23:45+00:00"
-    },
-    {
-      "title": "Voice Actor",
-      "company": "Gritter Francona",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-voice-actor-gritter-francona-1134994",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "marketing",
-        "exec",
-        "content writing",
-        "social media",
-        "speech",
-        "education",
-        "technical",
-        "customer support",
-        "video",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T17:23:21+00:00"
     }
   ],
-  "last_updated": "2026-07-19T12:29:02.982666",
+  "last_updated": "2026-07-19T14:04:33.045989",
   "total": 30,
-  "new": 0
+  "new": 1
 }

@@ -71,6 +71,52 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "React Native Engineer",
+      "company": "HelpBnk",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-react-native-engineer-helpbnk-1135014",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "react native",
+        "mobile",
+        "iOS",
+        "android"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T08:05:08+00:00"
+    },
+    {
+      "title": "Operador de Portaria Remota Recife PE Profissionais Solicitados",
+      "company": "BuscarVagas - Empregos Brasil",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-profissionais-solicitados-buscarvagas-empregos-brasil-1135037",
+      "source": "RemoteOK",
+      "tags": [
+        "microsoft",
+        "excel",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T07:39:34+00:00"
+    },
+    {
+      "title": "Designer",
+      "company": "RideTEGO",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-ridetego-1135030",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "technical",
+        "designer",
+        "testing"
+      ],
+      "salary": "",
+      "posted": "2026-07-18T07:24:14+00:00"
+    },
+    {
       "title": "HR Generalist",
       "company": "RG&amp;T Solutions",
       "location": "Remote",
@@ -446,47 +492,9 @@
       ],
       "salary": "",
       "posted": "2026-07-17T16:04:38+00:00"
-    },
-    {
-      "title": "Public Relations Associate",
-      "company": "Huntress Talent",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-public-relations-associate-huntress-talent-1134984",
-      "source": "RemoteOK",
-      "tags": [
-        "part time",
-        "hr"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T16:02:44+00:00"
-    },
-    {
-      "title": "Human Resources Specialist",
-      "company": "AllSTEM Connections",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-allstem-connections-1134983",
-      "source": "RemoteOK",
-      "tags": [
-        "part time",
-        "hr"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T16:01:03+00:00"
-    },
-    {
-      "title": "Procurement Specialist",
-      "company": "Lumina Brands",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-procurement-specialist-lumina-brands-1134982",
-      "source": "RemoteOK",
-      "tags": [
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T16:00:37+00:00"
     }
   ],
-  "last_updated": "2026-07-19T06:15:54.770966",
+  "last_updated": "2026-07-19T08:36:13.402828",
   "total": 30,
-  "new": 2
+  "new": 3
 }

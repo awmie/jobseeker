@@ -71,6 +71,24 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Data Mapping Analyst",
+      "company": "Buyers Edge Platform, LLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-mapping-analyst-buyers-edge-platform-llc-1135069",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "dev",
+        "exec",
+        "ops",
+        "stats",
+        "sys admin",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-19T22:00:14+00:00"
+    },
+    {
       "title": "Night Cleaning Crew",
       "company": "Billings Family YMCA",
       "location": "Remote",
@@ -392,24 +410,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-18T17:27:57+00:00"
-    },
-    {
-      "title": "MANUFACTURING POSITIONS",
-      "company": "Allied Packaging Corporation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-manufacturing-positions-allied-packaging-corporation-1135065",
-      "source": "RemoteOK",
-      "tags": [
-        "recruiter",
-        "legal",
-        "full time",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-18T14:23:34+00:00"
     }
   ],
-  "last_updated": "2026-07-20T21:18:42.371195",
+  "last_updated": "2026-07-20T22:25:42.196478",
   "total": 30,
   "new": 1
 }

@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Lawnstarter Senior Product Manager Pricing",
+      "company": "LAWNSTARTER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/lawnstarter-senior-product-manager-pricing",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Nogigiddy Entry Level Account Manager 4",
       "company": "NOGIGIDDY",
       "location": "Remote",
@@ -57,18 +64,21 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Toggl Senior Product Manager 4",
-      "company": "TOGGL",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Elite Software Automation Business Analyst 2",
       "company": "ELITE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Consultor Comercial",
+      "company": "Kodland",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-consultor-comercial-kodland-1135054",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-19T11:07:46+00:00"
     },
     {
       "title": "Data Entry Assistant",
@@ -411,23 +421,9 @@
       ],
       "salary": "",
       "posted": "2026-07-18T08:05:08+00:00"
-    },
-    {
-      "title": "Operador de Portaria Remota Recife PE Profissionais Solicitados",
-      "company": "BuscarVagas - Empregos Brasil",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-profissionais-solicitados-buscarvagas-empregos-brasil-1135037",
-      "source": "RemoteOK",
-      "tags": [
-        "microsoft",
-        "excel",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-18T07:39:34+00:00"
     }
   ],
-  "last_updated": "2026-07-20T10:24:01.048583",
+  "last_updated": "2026-07-20T12:30:10.246391",
   "total": 30,
-  "new": 5
+  "new": 2
 }

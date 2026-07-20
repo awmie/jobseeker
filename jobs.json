@@ -71,6 +71,20 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Pitch us a role",
+      "company": "Alloy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-pitch-us-a-role-alloy-1135062",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "cloud",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-19T06:52:29+00:00"
+    },
+    {
       "title": "SU Administrative Assistant",
       "company": "Somewhere",
       "location": "Remote",
@@ -370,22 +384,9 @@
       ],
       "salary": "",
       "posted": "2026-07-18T01:47:04+00:00"
-    },
-    {
-      "title": "Plumber",
-      "company": "Accor",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-plumber-accor-1135047",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-07-18T01:37:11+00:00"
     }
   ],
-  "last_updated": "2026-07-20T04:05:57.644366",
+  "last_updated": "2026-07-20T07:24:26.979125",
   "total": 30,
   "new": 1
 }

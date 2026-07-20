@@ -71,6 +71,16 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Details",
+      "company": "Majer Unternehmens-Gruppe",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-details-majer-unternehmens-gruppe-1135040",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-19T00:58:56+00:00"
+    },
+    {
       "title": "Graphic Designer",
       "company": "DOSED",
       "location": "Remote",
@@ -385,25 +395,9 @@
       ],
       "salary": "",
       "posted": "2026-07-17T22:48:40+00:00"
-    },
-    {
-      "title": "Yacht Cleaner",
-      "company": "Travelopia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-yacht-cleaner-travelopia-1135004",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "exec",
-        "ruby",
-        "ops",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T21:22:33+00:00"
     }
   ],
-  "last_updated": "2026-07-19T23:13:06.188703",
+  "last_updated": "2026-07-20T02:56:16.039367",
   "total": 30,
-  "new": 0
+  "new": 1
 }

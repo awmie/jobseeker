@@ -71,6 +71,52 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Applied AI Product Strategy & Revenue Lead",
+      "company": "Prime Intellect",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-applied-ai-product-strategy-revenue-lead-prime-intellect-1135061",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "education",
+        "full stack",
+        "exec",
+        "technical",
+        "customer support",
+        "dev",
+        "finance",
+        "legal",
+        "sales",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-19T16:00:03+00:00"
+    },
+    {
+      "title": "Closer SaaS B2B",
+      "company": "Buzzmonitor",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-closer-saas-b2b-buzzmonitor-1135060",
+      "source": "RemoteOK",
+      "tags": [
+        "saas"
+      ],
+      "salary": "",
+      "posted": "2026-07-19T15:08:39+00:00"
+    },
+    {
+      "title": "Analista Comercial Jr I Vendas & Relacionamento",
+      "company": "Bling",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-comercial-jr-i-vendas-relacionamento-bling-1135059",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-19T15:02:04+00:00"
+    },
+    {
       "title": "Safety Investigation Specialist II",
       "company": "Uber",
       "location": "Remote",
@@ -363,66 +409,9 @@
       ],
       "salary": "",
       "posted": "2026-07-18T10:27:53+00:00"
-    },
-    {
-      "title": "Technical Specialist",
-      "company": "PeopleLink Collaboration Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-specialist-peoplelink-collaboration-inc-1135029",
-      "source": "RemoteOK",
-      "tags": [
-        "project manager",
-        "exec",
-        "technical"
-      ],
-      "salary": "",
-      "posted": "2026-07-18T10:20:26+00:00"
-    },
-    {
-      "title": "Presentation Designer",
-      "company": "INFUSE",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-presentation-designer-infuse-1135025",
-      "source": "RemoteOK",
-      "tags": [
-        "game dev",
-        "microsoft",
-        "full time",
-        "marketing",
-        "sales",
-        "non tech",
-        "design",
-        "infosec",
-        "education",
-        "designer",
-        "dev",
-        "testing",
-        "web dev",
-        "exec",
-        "video",
-        "photoshop",
-        "excel",
-        "recruiter",
-        "illustrator",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-18T09:56:25+00:00"
-    },
-    {
-      "title": "Expression Of Interest",
-      "company": "White Peak Digital",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-white-peak-digital-1135019",
-      "source": "RemoteOK",
-      "tags": [
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-07-18T09:08:18+00:00"
     }
   ],
-  "last_updated": "2026-07-20T14:41:32.648358",
+  "last_updated": "2026-07-20T16:14:46.437870",
   "total": 30,
-  "new": 2
+  "new": 3
 }

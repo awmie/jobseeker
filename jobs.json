@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "SU Administrative Assistant",
+      "company": "Somewhere",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-su-administrative-assistant-somewhere-1135041",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-19T03:08:05+00:00"
+    },
+    {
       "title": "Details",
       "company": "Majer Unternehmens-Gruppe",
       "location": "Remote",
@@ -370,34 +383,9 @@
       ],
       "salary": "",
       "posted": "2026-07-18T01:37:11+00:00"
-    },
-    {
-      "title": "UGC Creator",
-      "company": "ren",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ugc-creator-ren-1135016",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "supervisor",
-        "customer support",
-        "testing",
-        "finance",
-        "education",
-        "microsoft",
-        "exec",
-        "ops",
-        "golang",
-        "medical",
-        "full time",
-        "video",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-07-17T22:48:40+00:00"
     }
   ],
-  "last_updated": "2026-07-20T02:56:16.039367",
+  "last_updated": "2026-07-20T04:05:57.644366",
   "total": 30,
   "new": 1
 }

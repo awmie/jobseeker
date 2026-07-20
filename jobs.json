@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Night Cleaning Crew",
+      "company": "Billings Family YMCA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-night-cleaning-crew-billings-family-ymca-1135067",
+      "source": "RemoteOK",
+      "tags": [
+        "ops",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-19T20:09:45+00:00"
+    },
+    {
       "title": "HR Manager Fast Growing E Commerce Startup",
       "company": "Skinnify",
       "location": "Remote",
@@ -394,26 +407,9 @@
       ],
       "salary": "",
       "posted": "2026-07-18T14:23:34+00:00"
-    },
-    {
-      "title": "Placement Officer",
-      "company": "Grey Sim Learnings Foundation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-placement-officer-grey-sim-learnings-foundation-1135032",
-      "source": "RemoteOK",
-      "tags": [
-        "project manager",
-        "exec",
-        "technical",
-        "designer",
-        "testing",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-18T10:30:03+00:00"
     }
   ],
-  "last_updated": "2026-07-20T20:01:48.843676",
+  "last_updated": "2026-07-20T21:18:42.371195",
   "total": 30,
   "new": 1
 }

@@ -36,6 +36,13 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Snapscale Wp Dev Remote",
+      "company": "SNAPSCALE WP",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Castr Sales Development Representative Sdr",
       "company": "CASTR",
       "location": "Remote",
@@ -50,17 +57,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Proxify Ab Senior Java Backend Developer",
-      "company": "PROXIFY AB",
+      "title": "Reveleer Full Stack Ai Engineer",
+      "company": "REVELEER",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Proxify Ab Senior Frontend Developer React Js Next Js 1",
-      "company": "PROXIFY AB",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-frontend-developer-react-js-next-js-1",
+      "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,21 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Safety Investigation Specialist II",
+      "company": "Uber",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-safety-investigation-specialist-ii-uber-1135064",
+      "source": "RemoteOK",
+      "tags": [
+        "recruiter",
+        "legal",
+        "full time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-19T13:46:56+00:00"
     },
     {
       "title": "Consultor Comercial",
@@ -405,25 +420,9 @@
       ],
       "salary": "",
       "posted": "2026-07-18T09:08:18+00:00"
-    },
-    {
-      "title": "React Native Engineer",
-      "company": "HelpBnk",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-react-native-engineer-helpbnk-1135014",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "react native",
-        "mobile",
-        "iOS",
-        "android"
-      ],
-      "salary": "",
-      "posted": "2026-07-18T08:05:08+00:00"
     }
   ],
-  "last_updated": "2026-07-20T12:30:10.246391",
+  "last_updated": "2026-07-20T14:41:32.648358",
   "total": 30,
   "new": 2
 }

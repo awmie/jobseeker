@@ -71,6 +71,25 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Designer",
+      "company": "Simon and Schuster Books",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-simon-and-schuster-books-1135107",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "designer",
+        "adult",
+        "exec",
+        "photoshop",
+        "illustrator",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T10:49:53+00:00"
+    },
+    {
       "title": "Entry Level Administrative Assistant",
       "company": "Re Lytics HR",
       "location": "Remote",
@@ -390,19 +409,9 @@
       ],
       "salary": "",
       "posted": "2026-07-19T13:46:56+00:00"
-    },
-    {
-      "title": "Consultor Comercial",
-      "company": "Kodland",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-consultor-comercial-kodland-1135054",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-19T11:07:46+00:00"
     }
   ],
-  "last_updated": "2026-07-21T09:34:16.194728",
+  "last_updated": "2026-07-21T11:25:38.194276",
   "total": 30,
-  "new": 4
+  "new": 1
 }

@@ -71,6 +71,53 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Logistics & Supply Chain Management Expert",
+      "company": "YO HR Consultancy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-logistics-supply-chain-management-expert-yo-hr-consultancy-1135104",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "consulting",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T17:08:01+00:00"
+    },
+    {
+      "title": "General Labour",
+      "company": "Aecon Group Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-labour-aecon-group-inc-1135105",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "exec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T16:43:06+00:00"
+    },
+    {
+      "title": "Storekeeper",
+      "company": "Aecon Group Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-storekeeper-aecon-group-inc-1135106",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "exec",
+        "ops",
+        "supervisor",
+        "microsoft",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T16:43:06+00:00"
+    },
+    {
       "title": "Finance &amp; HR Specialist",
       "company": "TechHuman",
       "location": "Remote",
@@ -425,47 +472,9 @@
       ],
       "salary": "",
       "posted": "2026-07-20T00:37:11+00:00"
-    },
-    {
-      "title": "Analista Cobran\u00c3\u00a7a Jr Remoto",
-      "company": "Superl\u00c3\u00b3gica Tecnologias",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-cobranca-jr-remoto-superlogica-tecnologias-1135077",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-20T00:12:33+00:00"
-    },
-    {
-      "title": "Representante de Vendas Educacionais",
-      "company": "Kodland",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-representante-de-vendas-educacionais-kodland-1135076",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-20T00:12:17+00:00"
-    },
-    {
-      "title": "Data Mapping Analyst",
-      "company": "Buyers Edge Platform, LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-mapping-analyst-buyers-edge-platform-llc-1135069",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "dev",
-        "exec",
-        "ops",
-        "stats",
-        "sys admin",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-19T22:00:14+00:00"
     }
   ],
-  "last_updated": "2026-07-21T16:17:05.833748",
+  "last_updated": "2026-07-21T17:48:13.785927",
   "total": 30,
-  "new": 5
+  "new": 3
 }

@@ -71,6 +71,88 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Leeds",
+      "company": "Suzuki Garphyttan Wire \u00ef\u00bc\u0088Suzhou\u00ef\u00bc\u0089 Co., Ltd           \u00e9\u0093\u0083\u00e6\u009c\u00a8\u00e5\u008a\u00a0\u00e6\u0099\u00ae\u00e8\u0085\u00be\u00e9\u0092\u00a2\u00e4\u00b8\u009d\u00ef\u00bc\u0088\u00e8\u008b\u008f\u00e5\u00b7\u009e\u00ef\u00bc\u0089\u00e6\u009c\u0089\u00e9\u0099\u0090\u00e5\u0085\u00ac\u00e5\u008f\u00b8",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-leeds-suzuki-garphyttan-wire-suzhou-co-ltd-1135124",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T23:33:09+00:00"
+    },
+    {
+      "title": "Head of People",
+      "company": "Bizee",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-people-bizee-1135129",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "customer support",
+        "video",
+        "exec",
+        "content writing",
+        "digital nomad",
+        "saas",
+        "hr",
+        "sys admin",
+        "marketing",
+        "payroll",
+        "education",
+        "ops",
+        "legal",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T23:14:28+00:00"
+    },
+    {
+      "title": "Testing Recommendation Step",
+      "company": "Jacobs",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-testing-recommendation-step-jacobs-1135130",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "design",
+        "infosec",
+        "education",
+        "customer support",
+        "ops",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T23:13:18+00:00"
+    },
+    {
+      "title": "Freelance Creative Operations Coordinator",
+      "company": "Klick",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-operations-coordinator-klick-1135143",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "consulting",
+        "coordinator",
+        "customer support",
+        "exec",
+        "education",
+        "senior",
+        "ops",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T22:39:44+00:00"
+    },
+    {
       "title": "Dietician",
       "company": "MantraCare",
       "location": "Remote",
@@ -391,84 +473,9 @@
       ],
       "salary": "",
       "posted": "2026-07-20T13:52:38+00:00"
-    },
-    {
-      "title": "Designer",
-      "company": "Simon and Schuster Books",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-designer-simon-and-schuster-books-1135107",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "designer",
-        "adult",
-        "exec",
-        "photoshop",
-        "illustrator",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-20T10:49:53+00:00"
-    },
-    {
-      "title": "Entry Level Administrative Assistant",
-      "company": "Re Lytics HR",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-re-lytics-hr-1135111",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "virtual assistant",
-        "education",
-        "customer support",
-        "marketing",
-        "video",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-07-20T08:19:30+00:00"
-    },
-    {
-      "title": "Test ABC",
-      "company": "Expeditors",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-abc-expeditors-1135138",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "technical",
-        "customer support",
-        "ops",
-        "testing",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-07-20T07:32:35+00:00"
-    },
-    {
-      "title": "I will create chrome extension for you",
-      "company": "Kennflik",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-i-will-create-chrome-extension-for-you-kennflik-1135121",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "content writing",
-        "ops",
-        "sales",
-        "engineer",
-        "full time",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-07-20T06:59:33+00:00"
     }
   ],
-  "last_updated": "2026-07-21T22:32:43.451314",
+  "last_updated": "2026-07-21T23:34:38.280767",
   "total": 30,
-  "new": 2
+  "new": 4
 }

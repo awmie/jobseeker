@@ -1,10 +1,10 @@
 {
   "jobs": [
     {
-      "title": "Nextcloud Hr Generalist",
-      "company": "NEXTCLOUD HR",
+      "title": "Cars Com Business Development Executive Inside",
+      "company": "CARS COM",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/nextcloud-hr-generalist",
+      "url": "https://weworkremotely.com/remote-jobs/cars-com-business-development-executive-inside",
       "source": "WeWorkRemotely"
     },
     {
@@ -19,6 +19,13 @@
       "company": "NOGIGIDDY",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/nogigiddy-entry-level-account-manager-4",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Mp College Consulting College Counselor Specializing In Bs Md Admissions Remote Part Time",
+      "company": "MP",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/mp-college-consulting-college-counselor-specializing-in-bs-md-admissions-remote-part-time",
       "source": "WeWorkRemotely"
     },
     {
@@ -64,11 +71,14 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Elite Software Automation Business Analyst 2",
-      "company": "ELITE",
+      "title": "Programa de Est\u00c3\u00a1gio Banco B3",
+      "company": "Universia Brasil",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
-      "source": "WeWorkRemotely"
+      "url": "https://remoteOK.com/remote-jobs/remote-programa-de-estagio-banco-b3-universia-brasil-1135125",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-20T17:55:06+00:00"
     },
     {
       "title": "Logistics & Supply Chain Management Expert",
@@ -451,30 +461,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-20T02:50:42+00:00"
-    },
-    {
-      "title": "Manufacturing",
-      "company": "STAFFEASE, INC.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-manufacturing-staffease-inc-1135153",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "technical",
-        "customer support",
-        "ops",
-        "design",
-        "digital nomad",
-        "hr",
-        "travel",
-        "exec",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-07-20T00:37:11+00:00"
     }
   ],
-  "last_updated": "2026-07-21T17:48:13.785927",
+  "last_updated": "2026-07-21T18:57:55.730705",
   "total": 30,
   "new": 3
 }

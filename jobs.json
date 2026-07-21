@@ -1,17 +1,17 @@
 {
   "jobs": [
     {
-      "title": "Toptal Technical Program Manager Sap Master Data S 4Hana Migration Remote",
-      "company": "TOPTAL",
+      "title": "Nextcloud Hr Generalist",
+      "company": "NEXTCLOUD HR",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-technical-program-manager-sap-master-data-s-4hana-migration-remote",
+      "url": "https://weworkremotely.com/remote-jobs/nextcloud-hr-generalist",
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Lawnstarter Senior Product Manager Pricing",
+      "title": "Lawnstarter Director Of Product Management",
       "company": "LAWNSTARTER",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/lawnstarter-senior-product-manager-pricing",
+      "url": "https://weworkremotely.com/remote-jobs/lawnstarter-director-of-product-management",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,65 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/elite-software-automation-business-analyst-2",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Finance &amp; HR Specialist",
+      "company": "TechHuman",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-finance-amp-hr-specialist-techhuman-1135108",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "designer",
+        "adult",
+        "exec",
+        "photoshop",
+        "illustrator",
+        "digital nomad",
+        "hr",
+        "consulting",
+        "customer support",
+        "accounting",
+        "payroll",
+        "finance",
+        "microsoft",
+        "ops",
+        "excel",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T15:43:34+00:00"
+    },
+    {
+      "title": "Social Media Content Creator",
+      "company": "Hic",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-hic-1135116",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "dev",
+        "digital nomad",
+        "part time",
+        "design",
+        "saas",
+        "infosec",
+        "marketing",
+        "finance",
+        "scheme",
+        "bus dev",
+        "sales",
+        "medical",
+        "shopify",
+        "speech",
+        "content writing",
+        "golang",
+        "social media"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T15:17:52+00:00"
     },
     {
       "title": "Don't see an open position you'd like fill",
@@ -347,6 +406,27 @@
       "posted": "2026-07-20T02:50:42+00:00"
     },
     {
+      "title": "Manufacturing",
+      "company": "STAFFEASE, INC.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manufacturing-staffease-inc-1135153",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "technical",
+        "customer support",
+        "ops",
+        "design",
+        "digital nomad",
+        "hr",
+        "travel",
+        "exec",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T00:37:11+00:00"
+    },
+    {
       "title": "Analista Cobran\u00c3\u00a7a Jr Remoto",
       "company": "Superl\u00c3\u00b3gica Tecnologias",
       "location": "Remote",
@@ -383,60 +463,9 @@
       ],
       "salary": "",
       "posted": "2026-07-19T22:00:14+00:00"
-    },
-    {
-      "title": "Night Cleaning Crew",
-      "company": "Billings Family YMCA",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-night-cleaning-crew-billings-family-ymca-1135067",
-      "source": "RemoteOK",
-      "tags": [
-        "ops",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-07-19T20:09:45+00:00"
-    },
-    {
-      "title": "HR Manager Fast Growing E Commerce Startup",
-      "company": "Skinnify",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-hr-manager-fast-growing-e-commerce-startup-skinnify-1135063",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "exec",
-        "ecommerce"
-      ],
-      "salary": "",
-      "posted": "2026-07-19T19:02:18+00:00"
-    },
-    {
-      "title": "Applied AI Product Strategy & Revenue Lead",
-      "company": "Prime Intellect",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-applied-ai-product-strategy-revenue-lead-prime-intellect-1135061",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "education",
-        "full stack",
-        "exec",
-        "technical",
-        "customer support",
-        "dev",
-        "finance",
-        "legal",
-        "sales",
-        "golang",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-19T16:00:03+00:00"
     }
   ],
-  "last_updated": "2026-07-21T14:53:14.546495",
+  "last_updated": "2026-07-21T16:17:05.833748",
   "total": 30,
-  "new": 3
+  "new": 5
 }

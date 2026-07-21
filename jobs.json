@@ -71,6 +71,16 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Open sollicitatie",
+      "company": "Hibernis",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-open-sollicitatie-hibernis-1135101",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-20T02:50:42+00:00"
+    },
+    {
       "title": "Analista Cobran\u00c3\u00a7a Jr Remoto",
       "company": "Superl\u00c3\u00b3gica Tecnologias",
       "location": "Remote",
@@ -364,6 +374,19 @@
       "posted": "2026-07-19T03:08:05+00:00"
     },
     {
+      "title": "Asesor de Atenci\u00c3\u00b3n al Cliente Remoto Sueldo Fijo Variable Capacitaci\u00c3\u00b3n pagadas",
+      "company": "Partner Service",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-asesor-de-atencion-al-cliente-remoto-sueldo-fijo-variable-capacitacion-pagadas-partner-service-1135127",
+      "source": "RemoteOK",
+      "tags": [
+        "excel",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-19T01:04:39+00:00"
+    },
+    {
       "title": "Details",
       "company": "Majer Unternehmens-Gruppe",
       "location": "Remote",
@@ -372,40 +395,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-19T00:58:56+00:00"
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "DOSED",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-dosed-1135046",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "game dev",
-        "designer",
-        "content writing",
-        "photoshop",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-18T21:27:25+00:00"
-    },
-    {
-      "title": "Shafqat",
-      "company": "HireTalentt",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-shafqat-hiretalentt-1135048",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-07-18T19:39:50+00:00"
     }
   ],
-  "last_updated": "2026-07-21T01:01:23.674708",
+  "last_updated": "2026-07-21T04:22:53.847646",
   "total": 30,
   "new": 2
 }

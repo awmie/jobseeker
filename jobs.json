@@ -71,6 +71,44 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Entry Level Administrative Assistant",
+      "company": "Re Lytics HR",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-re-lytics-hr-1135111",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T08:19:30+00:00"
+    },
+    {
+      "title": "Test ABC",
+      "company": "Expeditors",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-abc-expeditors-1135138",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "technical",
+        "customer support",
+        "ops",
+        "testing",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T07:32:35+00:00"
+    },
+    {
       "title": "I will create chrome extension for you",
       "company": "Kennflik",
       "location": "Remote",
@@ -150,6 +188,25 @@
       "posted": "2026-07-20T06:04:28+00:00"
     },
     {
+      "title": "Freenow",
+      "company": "Mr Pape",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-freenow-mr-pape-1135140",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "technical",
+        "customer support",
+        "ops",
+        "testing",
+        "exec",
+        "video",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T06:03:25+00:00"
+    },
+    {
       "title": "Papaya",
       "company": "Mr Pape",
       "location": "Remote",
@@ -178,6 +235,25 @@
       ],
       "salary": "",
       "posted": "2026-07-20T06:02:43+00:00"
+    },
+    {
+      "title": "KFC",
+      "company": "Mr Pape",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-kfc-mr-pape-1135139",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "technical",
+        "customer support",
+        "ops",
+        "testing",
+        "exec",
+        "video",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T06:02:22+00:00"
     },
     {
       "title": "Open sollicitatie",
@@ -324,115 +400,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-19T11:07:46+00:00"
-    },
-    {
-      "title": "Data Entry Assistant",
-      "company": "JobsInMass.com",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-assistant-jobsinmass-com-1135073",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "education",
-        "customer support",
-        "dev",
-        "marketing",
-        "travel",
-        "microsoft",
-        "exec",
-        "excel",
-        "recruiter",
-        "full time",
-        "part time",
-        "digital nomad",
-        "infosec",
-        "admin",
-        "virtual assistant"
-      ],
-      "salary": "",
-      "posted": "2026-07-19T08:37:11+00:00"
-    },
-    {
-      "title": "Entry Level Data Entry Clerk Admin",
-      "company": "JobsInMass.com",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-admin-jobsinmass-com-1135071",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "education",
-        "customer support",
-        "dev",
-        "marketing",
-        "travel",
-        "microsoft",
-        "exec",
-        "excel",
-        "recruiter",
-        "full time",
-        "part time",
-        "digital nomad",
-        "infosec",
-        "admin"
-      ],
-      "salary": "",
-      "posted": "2026-07-19T08:37:06+00:00"
-    },
-    {
-      "title": "Virtual Data Entry Clerk",
-      "company": "JobsInMass.com",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-virtual-data-entry-clerk-jobsinmass-com-1135074",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "education",
-        "customer support",
-        "dev",
-        "marketing",
-        "travel",
-        "microsoft",
-        "exec",
-        "excel",
-        "recruiter",
-        "full time",
-        "part time",
-        "digital nomad",
-        "infosec",
-        "admin",
-        "virtual assistant"
-      ],
-      "salary": "",
-      "posted": "2026-07-19T08:37:00+00:00"
-    },
-    {
-      "title": "Entry Level Data Entry Clerk",
-      "company": "JobsInMass.com",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-data-entry-clerk-jobsinmass-com-1135072",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "education",
-        "customer support",
-        "dev",
-        "marketing",
-        "travel",
-        "microsoft",
-        "exec",
-        "excel",
-        "recruiter",
-        "full time",
-        "part time",
-        "digital nomad",
-        "infosec",
-        "admin"
-      ],
-      "salary": "",
-      "posted": "2026-07-19T08:36:59+00:00"
     }
   ],
-  "last_updated": "2026-07-21T07:03:56.971101",
+  "last_updated": "2026-07-21T09:34:16.194728",
   "total": 30,
-  "new": 5
+  "new": 4
 }

@@ -71,6 +71,85 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Human Resources Generalist",
+      "company": "Wheeler Staffing Partners",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-wheeler-staffing-partners-1135109",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "designer",
+        "adult",
+        "exec",
+        "photoshop",
+        "illustrator",
+        "digital nomad",
+        "hr",
+        "consulting",
+        "customer support",
+        "accounting",
+        "payroll",
+        "finance",
+        "microsoft",
+        "ops",
+        "excel",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T20:09:48+00:00"
+    },
+    {
+      "title": "Freelance Video Editer",
+      "company": "Control Shift Video",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-video-editer-control-shift-video-1135128",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "customer support",
+        "video",
+        "exec",
+        "content writing",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T19:11:46+00:00"
+    },
+    {
+      "title": "Freelance Illustrator",
+      "company": "Control Shift Video",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-illustrator-control-shift-video-1135110",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "designer",
+        "adult",
+        "exec",
+        "photoshop",
+        "illustrator",
+        "digital nomad",
+        "hr",
+        "consulting",
+        "customer support",
+        "accounting",
+        "payroll",
+        "finance",
+        "microsoft",
+        "ops",
+        "excel",
+        "medical",
+        "technical",
+        "web dev",
+        "video",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T19:11:44+00:00"
+    },
+    {
       "title": "Programa de Est\u00c3\u00a1gio Banco B3",
       "company": "Universia Brasil",
       "location": "Remote",
@@ -417,53 +496,9 @@
       ],
       "salary": "",
       "posted": "2026-07-20T06:02:48+00:00"
-    },
-    {
-      "title": "Uber Eats",
-      "company": "Mr Pape",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-uber-eats-mr-pape-1135082",
-      "source": "RemoteOK",
-      "tags": [
-        "music",
-        "customer support",
-        "video",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-20T06:02:43+00:00"
-    },
-    {
-      "title": "KFC",
-      "company": "Mr Pape",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-kfc-mr-pape-1135139",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "technical",
-        "customer support",
-        "ops",
-        "testing",
-        "exec",
-        "video",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-07-20T06:02:22+00:00"
-    },
-    {
-      "title": "Open sollicitatie",
-      "company": "Hibernis",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-open-sollicitatie-hibernis-1135101",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-20T02:50:42+00:00"
     }
   ],
-  "last_updated": "2026-07-21T18:57:55.730705",
+  "last_updated": "2026-07-21T20:20:40.225959",
   "total": 30,
   "new": 3
 }

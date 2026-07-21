@@ -71,6 +71,40 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Handyman",
+      "company": "The Construction Index Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyman-the-construction-index-ltd-1135120",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "content writing",
+        "ops",
+        "sales",
+        "engineer",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T21:22:54+00:00"
+    },
+    {
+      "title": "Dream Job",
+      "company": "Freestar",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-dream-job-freestar-1135119",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "content writing",
+        "ops",
+        "sales",
+        "engineer",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-20T21:00:20+00:00"
+    },
+    {
       "title": "Human Resources Generalist",
       "company": "Wheeler Staffing Partners",
       "location": "Remote",
@@ -462,43 +496,9 @@
       ],
       "salary": "",
       "posted": "2026-07-20T06:04:28+00:00"
-    },
-    {
-      "title": "Freenow",
-      "company": "Mr Pape",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freenow-mr-pape-1135140",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "technical",
-        "customer support",
-        "ops",
-        "testing",
-        "exec",
-        "video",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-07-20T06:03:25+00:00"
-    },
-    {
-      "title": "Papaya",
-      "company": "Mr Pape",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-papaya-mr-pape-1135083",
-      "source": "RemoteOK",
-      "tags": [
-        "music",
-        "customer support",
-        "video",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-20T06:02:48+00:00"
     }
   ],
-  "last_updated": "2026-07-21T20:20:40.225959",
+  "last_updated": "2026-07-21T21:36:37.507233",
   "total": 30,
-  "new": 3
+  "new": 2
 }

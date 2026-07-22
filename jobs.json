@@ -71,6 +71,45 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Back Office Staff",
+      "company": "ClassiKam",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-back-office-staff-classikam-1135152",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "technical",
+        "customer support",
+        "ops",
+        "design",
+        "digital nomad",
+        "hr",
+        "travel",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-21T09:18:32+00:00"
+    },
+    {
+      "title": "Brand &amp; Marketing Director",
+      "company": "Peas Recruitment Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-amp-marketing-director-peas-recruitment-ltd-1135146",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "c",
+        "content writing",
+        "marketing",
+        "recruiter",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-21T08:08:44+00:00"
+    },
+    {
       "title": "Designer Residential",
       "company": "NORR",
       "location": "Remote",
@@ -406,52 +445,9 @@
       ],
       "salary": "",
       "posted": "2026-07-20T19:11:46+00:00"
-    },
-    {
-      "title": "Freelance Illustrator",
-      "company": "Control Shift Video",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-illustrator-control-shift-video-1135110",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "designer",
-        "adult",
-        "exec",
-        "photoshop",
-        "illustrator",
-        "digital nomad",
-        "hr",
-        "consulting",
-        "customer support",
-        "accounting",
-        "payroll",
-        "finance",
-        "microsoft",
-        "ops",
-        "excel",
-        "medical",
-        "technical",
-        "web dev",
-        "video",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-07-20T19:11:44+00:00"
-    },
-    {
-      "title": "Programa de Est\u00c3\u00a1gio Banco B3",
-      "company": "Universia Brasil",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-programa-de-estagio-banco-b3-universia-brasil-1135125",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-20T17:55:06+00:00"
     }
   ],
-  "last_updated": "2026-07-22T07:11:54.638624",
+  "last_updated": "2026-07-22T09:38:44.457079",
   "total": 30,
-  "new": 3
+  "new": 2
 }

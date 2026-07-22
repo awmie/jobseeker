@@ -71,6 +71,29 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Bilingual Medical Receptionist",
+      "company": "Entrepreneur Cooperative",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-bilingual-medical-receptionist-entrepreneur-cooperative-1135154",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-21T17:14:05+00:00"
+    },
+    {
+      "title": "test",
+      "company": "Event Staff App",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-event-staff-app-1135189",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-21T17:11:06+00:00"
+    },
+    {
       "title": "Graphic Designer",
       "company": "Chazak Rescue",
       "location": "Remote",
@@ -404,40 +427,9 @@
       ],
       "salary": "",
       "posted": "2026-07-21T06:03:24+00:00"
-    },
-    {
-      "title": "sdgsdg",
-      "company": "Better Rehab",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sdgsdg-better-rehab-1135131",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-21T05:13:20+00:00"
-    },
-    {
-      "title": "Customer Experience Specialist",
-      "company": "DraftKings Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-experience-specialist-draftkings-inc-1135133",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "game dev",
-        "recruiter",
-        "customer support",
-        "testing",
-        "microsoft",
-        "ops",
-        "stats",
-        "full time",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-21T04:03:19+00:00"
     }
   ],
-  "last_updated": "2026-07-22T16:44:58.372780",
+  "last_updated": "2026-07-22T17:55:44.098262",
   "total": 30,
-  "new": 3
+  "new": 2
 }

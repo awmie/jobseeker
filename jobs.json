@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Coinbase Machine Learning Engineer Cx Intelligence",
+      "company": "COINBASE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-machine-learning-engineer-cx-intelligence",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Sandtex Sales Rep",
       "company": "SANDTEX",
       "location": "Remote",
@@ -50,13 +57,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Snapscale Wp Dev Remote",
-      "company": "SNAPSCALE WP",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Carnival Corporation Engineer Sr Devops",
       "company": "CARNIVAL",
       "location": "Remote",
@@ -69,6 +69,35 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Designer Residential",
+      "company": "NORR",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-residential-norr-1135165",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "designer",
+        "dev",
+        "marketing",
+        "education",
+        "photoshop",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-21T06:03:24+00:00"
+    },
+    {
+      "title": "sdgsdg",
+      "company": "Better Rehab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sdgsdg-better-rehab-1135131",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-21T05:13:20+00:00"
     },
     {
       "title": "Customer Experience Specialist",
@@ -420,38 +449,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-20T17:55:06+00:00"
-    },
-    {
-      "title": "Logistics & Supply Chain Management Expert",
-      "company": "YO HR Consultancy",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-logistics-supply-chain-management-expert-yo-hr-consultancy-1135104",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "consulting",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-07-20T17:08:01+00:00"
-    },
-    {
-      "title": "General Labour",
-      "company": "Aecon Group Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-labour-aecon-group-inc-1135105",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-20T16:43:06+00:00"
     }
   ],
-  "last_updated": "2026-07-22T04:27:05.482011",
+  "last_updated": "2026-07-22T07:11:54.638624",
   "total": 30,
-  "new": 6
+  "new": 3
 }

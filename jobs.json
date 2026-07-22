@@ -71,6 +71,20 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Appel \u00c3\u00a0 candidature",
+      "company": "Fondation AMAN-International (FAI)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-appel-a-candidature-fondation-aman-international-fai-1135169",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "exec",
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-07-21T23:26:49+00:00"
+    },
+    {
       "title": "What is a Productive Life",
       "company": "Megan Minns Designs LLC",
       "location": "Remote",
@@ -559,31 +573,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-21T14:56:58+00:00"
-    },
-    {
-      "title": "Head of Business Operations",
-      "company": "Wing",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-business-operations-wing-1135193",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "sys admin",
-        "recruiter",
-        "marketing",
-        "exec",
-        "senior",
-        "ops",
-        "stats",
-        "medical",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-21T14:44:06+00:00"
     }
   ],
-  "last_updated": "2026-07-22T22:40:09.637271",
+  "last_updated": "2026-07-22T23:40:19.326858",
   "total": 30,
-  "new": 3
+  "new": 1
 }

@@ -71,6 +71,66 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Graphic Designer",
+      "company": "Chazak Rescue",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-chazak-rescue-1135170",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "exec",
+        "marketing",
+        "design",
+        "designer",
+        "customer support",
+        "content writing",
+        "photoshop",
+        "ads",
+        "illustrator",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-21T16:41:17+00:00"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "company": "AB InBev",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-analyst-ab-inbev-1135150",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "design",
+        "python",
+        "customer support",
+        "marketing",
+        "finance",
+        "data science",
+        "senior",
+        "stats",
+        "sales",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-21T16:01:55+00:00"
+    },
+    {
+      "title": "Account Development Manager",
+      "company": "Precision Medicine Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-development-manager-precision-medicine-group-1135149",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "marketing",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-07-21T16:00:55+00:00"
+    },
+    {
       "title": "Executive Assistant",
       "company": "Propel",
       "location": "Remote",
@@ -375,52 +435,9 @@
       ],
       "salary": "",
       "posted": "2026-07-21T04:03:19+00:00"
-    },
-    {
-      "title": "Auxiliar de Relacionamento Cirurgias Corporativo SP",
-      "company": "Rede D'Or",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-relacionamento-cirurgias-corporativo-sp-rede-dor-1135132",
-      "source": "RemoteOK",
-      "tags": [
-        "excel",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-21T03:10:39+00:00"
-    },
-    {
-      "title": "Insta",
-      "company": "Hakatemia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-insta-hakatemia-1135137",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "technical",
-        "customer support",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-21T03:05:29+00:00"
-    },
-    {
-      "title": "Nixu",
-      "company": "Hakatemia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-nixu-hakatemia-1135148",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "technical",
-        "customer support",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-21T03:05:24+00:00"
     }
   ],
-  "last_updated": "2026-07-22T15:10:44.158095",
+  "last_updated": "2026-07-22T16:44:58.372780",
   "total": 30,
-  "new": 8
+  "new": 3
 }

@@ -1,17 +1,17 @@
 {
   "jobs": [
     {
+      "title": "Remote Talent Cloud Remote Ai Training 20 Hr United States 1",
+      "company": "REMOTE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-ai-training-20-hr-united-states-1",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Stripe Technical Solutions Engineer",
       "company": "STRIPE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/stripe-technical-solutions-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Prowritersites Freelance Writer",
-      "company": "PROWRITERSITES",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/prowritersites-freelance-writer",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,21 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Team Member Positions Taco Bell Berwick South",
+      "company": "Taco Bell Australia",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-member-positions-taco-bell-berwick-south-taco-bell-australia-1135247",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "customer support",
+        "marketing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-22T13:22:34+00:00"
     },
     {
       "title": "Head of People",
@@ -547,26 +562,9 @@
       ],
       "salary": "",
       "posted": "2026-07-22T05:57:29+00:00"
-    },
-    {
-      "title": "Warehouse position x 2",
-      "company": "GoRegional",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-warehouse-position-x-2-goregional-1135233",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "javascript",
-        "c",
-        "engineer",
-        "education",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T05:55:16+00:00"
     }
   ],
-  "last_updated": "2026-07-23T13:06:06.002067",
+  "last_updated": "2026-07-23T15:21:01.618330",
   "total": 30,
-  "new": 9
+  "new": 1
 }

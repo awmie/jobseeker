@@ -71,6 +71,96 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Job Post #4",
+      "company": "Ward Brothers Construction",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-post-4-ward-brothers-construction-1135262",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-22T16:34:42+00:00"
+    },
+    {
+      "title": "Job Post #6",
+      "company": "Ward Brothers Construction",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-post-6-ward-brothers-construction-1135263",
+      "source": "RemoteOK",
+      "tags": [
+        "hr"
+      ],
+      "salary": "",
+      "posted": "2026-07-22T16:34:32+00:00"
+    },
+    {
+      "title": "Marketing Assistant",
+      "company": "Venture Media",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-assistant-venture-media-1135242",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "travel",
+        "full time",
+        "design",
+        "salesforce",
+        "hr",
+        "education",
+        "customer support",
+        "marketing",
+        "speech",
+        "quality assurance",
+        "finance",
+        "cloud",
+        "ops",
+        "legal",
+        "sales",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad",
+        "coordinator",
+        "dev",
+        "web dev",
+        "admin",
+        "microsoft",
+        "content writing",
+        "virtual assistant",
+        "teaching",
+        "seo",
+        "stats",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-07-22T16:13:37+00:00"
+    },
+    {
+      "title": "Backend Developer",
+      "company": "Bjak ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-backend-developer-bjak-1135217",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "design",
+        "sys admin",
+        "front end",
+        "infosec",
+        "exec",
+        "technical",
+        "customer support",
+        "travel",
+        "finance",
+        "mobile",
+        "ops",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-22T16:00:20+00:00"
+    },
+    {
       "title": "Team Member Positions Taco Bell Berwick South",
       "company": "Taco Bell Australia",
       "location": "Remote",
@@ -476,95 +566,9 @@
       ],
       "salary": "",
       "posted": "2026-07-22T08:00:11+00:00"
-    },
-    {
-      "title": "Technician",
-      "company": "Radina Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technician-radina-group-1135208",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "medical",
-        "full time",
-        "education",
-        "exec",
-        "infosec",
-        "javascript"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T07:55:10+00:00"
-    },
-    {
-      "title": "Office Allrounder Facilities",
-      "company": "GoRegional",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-office-allrounder-facilities-goregional-1135211",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T06:20:54+00:00"
-    },
-    {
-      "title": "Student Placement Officer",
-      "company": "GoRegional",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-student-placement-officer-goregional-1135232",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "javascript",
-        "c",
-        "engineer",
-        "education"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T06:14:51+00:00"
-    },
-    {
-      "title": "Dise\u00c3\u00b1ador Gr\u00c3\u00a1fico Junior",
-      "company": "workLATAM",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-disenador-grafico-junior-worklatam-1135195",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "sys admin",
-        "recruiter",
-        "marketing",
-        "exec",
-        "senior",
-        "ops",
-        "stats",
-        "medical",
-        "full time",
-        "digital nomad",
-        "jira",
-        "saas",
-        "macos",
-        "python",
-        "technical",
-        "customer support",
-        "dev",
-        "travel",
-        "finance",
-        "video",
-        "cloud",
-        "mobile",
-        "excel",
-        "golang",
-        "junior",
-        "photoshop",
-        "illustrator"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T05:57:29+00:00"
     }
   ],
-  "last_updated": "2026-07-23T15:21:01.618330",
+  "last_updated": "2026-07-23T16:52:10.246718",
   "total": 30,
-  "new": 1
+  "new": 4
 }

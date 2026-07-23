@@ -71,6 +71,75 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Engineering and manufacturing",
+      "company": "Bovitas BV",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-and-manufacturing-bovitas-bv-1135245",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-07-22T17:21:24+00:00"
+    },
+    {
+      "title": "Hotel Executive Assistant Manager",
+      "company": "RVS Hospitality Group LLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hotel-executive-assistant-manager-rvs-hospitality-group-llc-1135224",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "video",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "data entry",
+        "jira",
+        "hr",
+        "finance",
+        "cloud",
+        "admin",
+        "legal",
+        "sys admin",
+        "recruiter",
+        "macos",
+        "infosec",
+        "technical",
+        "dev",
+        "scrum",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-22T17:11:25+00:00"
+    },
+    {
+      "title": "UX DESIGNER",
+      "company": "Qaledon by Caledonia Financial Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ux-designer-qaledon-by-caledonia-financial-group-1135227",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "nft",
+        "designer",
+        "testing",
+        "web dev",
+        "finance",
+        "mobile",
+        "marketing",
+        "legal",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-22T17:11:05+00:00"
+    },
+    {
       "title": "Job Post #4",
       "company": "Ward Brothers Construction",
       "location": "Remote",
@@ -511,64 +580,9 @@
       ],
       "salary": "",
       "posted": "2026-07-22T09:06:59+00:00"
-    },
-    {
-      "title": "Corporate Services",
-      "company": "Belcher Bingo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-corporate-services-belcher-bingo-1135212",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "technical"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T09:06:57+00:00"
-    },
-    {
-      "title": "Product Marketing Manager",
-      "company": "AlixPartners",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-alixpartners-1135188",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "consulting",
-        "technical",
-        "customer support",
-        "testing",
-        "marketing",
-        "video",
-        "content writing",
-        "senior",
-        "sales",
-        "golang",
-        "medical",
-        "engineer",
-        "ads"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T08:00:18+00:00"
-    },
-    {
-      "title": "Growth Marketing Intern",
-      "company": "GigFinesse",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-growth-marketing-intern-gigfinesse-1135187",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "music",
-        "game dev",
-        "customer support",
-        "internship"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T08:00:11+00:00"
     }
   ],
-  "last_updated": "2026-07-23T16:52:10.246718",
+  "last_updated": "2026-07-23T18:06:21.179539",
   "total": 30,
-  "new": 4
+  "new": 3
 }

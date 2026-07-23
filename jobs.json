@@ -71,6 +71,29 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Analista de Experi\u00c3\u00aancia do Usu\u00c3\u00a1rio JR Tempor\u00c3\u00a1rio",
+      "company": "ZENVIA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-experiencia-do-usuario-jr-temporario-zenvia-1135190",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-22T11:04:30+00:00"
+    },
+    {
+      "title": "Various",
+      "company": "Usave Power",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-various-usave-power-1135213",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-22T10:54:12+00:00"
+    },
+    {
       "title": "Cargo Operations",
       "company": "Belcher Bingo",
       "location": "Remote",
@@ -448,31 +471,9 @@
       ],
       "salary": "",
       "posted": "2026-07-22T00:06:57+00:00"
-    },
-    {
-      "title": "Aussie World Pty Jobs",
-      "company": "The Shed at Aussie World",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-aussie-world-pty-jobs-the-shed-at-aussie-world-1135175",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-22T00:01:15+00:00"
-    },
-    {
-      "title": "Machine Translation Evaluation English &lt;&gt; German; Project Vistula",
-      "company": "CrowdGen by Appen",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-machine-translation-evaluation-english-ltgt-german-project-vistula-crowdgen-by-appen-1135167",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T00:00:13+00:00"
     }
   ],
-  "last_updated": "2026-07-23T09:37:42.229453",
+  "last_updated": "2026-07-23T11:30:22.615013",
   "total": 30,
-  "new": 5
+  "new": 2
 }

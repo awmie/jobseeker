@@ -71,6 +71,45 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "GRAPHIC DESIGNER",
+      "company": "NEW VINE LIMITED",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-new-vine-limited-1135316",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "designer",
+        "part time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-23T11:39:36+00:00"
+    },
+    {
+      "title": "THE MINO EARRINGS",
+      "company": "Monom Jewellery",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-mino-earrings-monom-jewellery-1135356",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "coordinator",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-23T11:22:18+00:00"
+    },
+    {
+      "title": "THE INTROSPECT CIRCLE HOOPS",
+      "company": "Monom Jewellery",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-introspect-circle-hoops-monom-jewellery-1135354",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-23T11:21:45+00:00"
+    },
+    {
       "title": "UFC GYM Jurnior Graphic Designer",
       "company": "UFC GYM",
       "location": "Remote",
@@ -522,98 +561,9 @@
       ],
       "salary": "",
       "posted": "2026-07-23T00:00:00+00:00"
-    },
-    {
-      "title": "Your Dream Job Come True",
-      "company": "ClassiKam",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-your-dream-job-come-true-classikam-1135266",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-22T22:54:10+00:00"
-    },
-    {
-      "title": "VP Strategic Finance",
-      "company": "Emergence (Automotive Group)",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vp-strategic-finance-emergence-automotive-group-1135243",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "travel",
-        "full time",
-        "design",
-        "salesforce",
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "speech",
-        "quality assurance",
-        "finance",
-        "cloud",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad",
-        "coordinator",
-        "dev",
-        "web dev",
-        "admin",
-        "microsoft",
-        "content writing",
-        "virtual assistant",
-        "teaching",
-        "seo",
-        "stats",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T22:10:32+00:00"
-    },
-    {
-      "title": "Director of IT",
-      "company": "Emergence",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-emergence-1135241",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "travel",
-        "full time",
-        "design",
-        "salesforce",
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "speech",
-        "quality assurance",
-        "finance",
-        "cloud",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad",
-        "coordinator",
-        "dev",
-        "web dev",
-        "admin",
-        "microsoft",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T22:08:16+00:00"
     }
   ],
-  "last_updated": "2026-07-24T11:19:30.195514",
+  "last_updated": "2026-07-24T12:49:46.658587",
   "total": 30,
-  "new": 2
+  "new": 3
 }

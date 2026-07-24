@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Otterly Ai Senior Business Development Representative",
+      "company": "OTTERLY AI",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/otterly-ai-senior-business-development-representative",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Onthegosystems Data Analyst Ai Translation Quality",
       "company": "ONTHEGOSYSTEMS",
       "location": "Remote",
@@ -26,13 +33,6 @@
       "company": "CUSTOMER IO",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/customer-io-contract-it-specialist",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Gno Partners Senior Amazon Brand Manager 1",
-      "company": "GNO",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/gno-partners-senior-amazon-brand-manager-1",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,61 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "HOW DO I PREVENT COOKIES FROM SPREADING DURING BAKING",
+      "company": "The Sweetery",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-how-do-i-prevent-cookies-from-spreading-during-baking-the-sweetery-1135363",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-23T21:30:39+00:00"
+    },
+    {
+      "title": "How Keep Your Pies\u00c2\u00a0From\u00c2\u00a0Getting Soggy Bottoms\u00c2",
+      "company": "The Sweetery",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-23T21:29:51+00:00"
+    },
+    {
+      "title": "Patient Experience Coordinator",
+      "company": "Sunrise",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-experience-coordinator-sunrise-1135341",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "travel",
+        "cloud",
+        "exec",
+        "content writing",
+        "medical",
+        "recruiter",
+        "digital nomad",
+        "product designer",
+        "sys admin",
+        "teaching",
+        "designer",
+        "speech",
+        "quality assurance",
+        "senior",
+        "golang",
+        "engineer",
+        "coordinator",
+        "testing",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-07-23T21:11:52+00:00"
     },
     {
       "title": "Onboarding Specialist",
@@ -557,51 +612,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-23T14:06:34+00:00"
-    },
-    {
-      "title": "Apply for Employment",
-      "company": "Avan Australia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-apply-for-employment-avan-australia-1135315",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-23T13:47:32+00:00"
-    },
-    {
-      "title": "Life",
-      "company": "Kaim Pharmaceuticals",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-life-kaim-pharmaceuticals-1135367",
-      "source": "RemoteOK",
-      "tags": [
-        "wordpress",
-        "customer support",
-        "speech",
-        "education",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-23T13:38:06+00:00"
-    },
-    {
-      "title": "GRAPHIC DESIGNER",
-      "company": "NEW VINE LIMITED",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-new-vine-limited-1135316",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "designer",
-        "part time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-23T11:39:36+00:00"
     }
   ],
-  "last_updated": "2026-07-24T20:37:25.772087",
+  "last_updated": "2026-07-24T21:43:16.609033",
   "total": 30,
-  "new": 3
+  "new": 4
 }

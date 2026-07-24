@@ -1,31 +1,31 @@
 {
   "jobs": [
     {
+      "title": "Customer Io Contract It Specialist",
+      "company": "CUSTOMER IO",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/customer-io-contract-it-specialist",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Bybit Blockchain Risk Control Research Intern",
+      "company": "BYBIT",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/bybit-blockchain-risk-control-research-intern",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Gno Partners Senior Amazon Brand Manager 1",
+      "company": "GNO",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/gno-partners-senior-amazon-brand-manager-1",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Remote Talent Cloud Remote Ai Training 20 Hr United States 1",
       "company": "REMOTE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-ai-training-20-hr-united-states-1",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Twilio Senior Security Engineer Incident Response",
-      "company": "TWILIO",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/twilio-senior-security-engineer-incident-response",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Stripe Technical Solutions Engineer",
-      "company": "STRIPE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/stripe-technical-solutions-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Sandtex Sales Rep",
-      "company": "SANDTEX",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/sandtex-sales-rep",
       "source": "WeWorkRemotely"
     },
     {
@@ -624,7 +624,7 @@
       "posted": "2026-07-22T19:30:35+00:00"
     }
   ],
-  "last_updated": "2026-07-24T04:27:29.469375",
+  "last_updated": "2026-07-24T07:08:18.951654",
   "total": 30,
-  "new": 8
+  "new": 2
 }

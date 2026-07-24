@@ -71,6 +71,40 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Human Resources Business Partner",
+      "company": "Cardiovascular Associates of America - CVAUSA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-business-partner-cardiovascular-associates-of-america-cvausa-1135300",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "education",
+        "designer",
+        "customer support",
+        "marketing",
+        "web dev",
+        "video",
+        "cloud",
+        "exec",
+        "content writing",
+        "junior",
+        "golang",
+        "medical",
+        "ads",
+        "full time",
+        "digital nomad",
+        "hr",
+        "travel",
+        "payroll",
+        "senior",
+        "ops",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-07-23T00:00:00+00:00"
+    },
+    {
       "title": "Your Dream Job Come True",
       "company": "ClassiKam",
       "location": "Remote",
@@ -555,35 +589,9 @@
       ],
       "salary": "",
       "posted": "2026-07-22T16:13:37+00:00"
-    },
-    {
-      "title": "Backend Developer",
-      "company": "Bjak ",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-backend-developer-bjak-1135217",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "design",
-        "sys admin",
-        "front end",
-        "infosec",
-        "exec",
-        "technical",
-        "customer support",
-        "travel",
-        "finance",
-        "mobile",
-        "ops",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T16:00:20+00:00"
     }
   ],
-  "last_updated": "2026-07-23T23:37:57.163555",
+  "last_updated": "2026-07-24T01:06:02.768579",
   "total": 30,
   "new": 1
 }

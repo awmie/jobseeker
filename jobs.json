@@ -71,6 +71,29 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Job Title",
+      "company": "GCL Dreams",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-title-gcl-dreams-1135295",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-23T15:19:06+00:00"
+    },
+    {
+      "title": "Join our UK team",
+      "company": "Workdry Germany",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-our-uk-team-workdry-germany-1135314",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-23T14:41:02+00:00"
+    },
+    {
       "title": "Gestionnaire administratif et financier F H",
       "company": "Universit\u00c3\u00a9 de Bordeaux",
       "location": "Remote",
@@ -468,77 +491,9 @@
       ],
       "salary": "",
       "posted": "2026-07-23T03:12:22+00:00"
-    },
-    {
-      "title": "Appointment Setter",
-      "company": "Everlast Bathrooms",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-appointment-setter-everlast-bathrooms-1135256",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "design",
-        "technical",
-        "testing",
-        "exec",
-        "quality assurance",
-        "finance",
-        "java",
-        "cloud",
-        "nosql",
-        "sql",
-        "mongo",
-        "senior",
-        "sys admin",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad",
-        "web dev",
-        "c",
-        "excel",
-        "marketing",
-        "photoshop",
-        "illustrator",
-        "consulting"
-      ],
-      "salary": "",
-      "posted": "2026-07-23T03:09:36+00:00"
-    },
-    {
-      "title": "Analista de Atendimento TEMPOR\u00c3\u0081RIO Remoto",
-      "company": "Melhor Envio",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-atendimento-temporario-remoto-melhor-envio-1135251",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "design",
-        "technical",
-        "testing",
-        "exec",
-        "quality assurance",
-        "finance",
-        "java",
-        "cloud",
-        "nosql",
-        "sql",
-        "mongo",
-        "senior",
-        "sys admin",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad",
-        "web dev",
-        "c",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-07-23T03:05:34+00:00"
     }
   ],
-  "last_updated": "2026-07-24T14:28:49.772850",
+  "last_updated": "2026-07-24T15:56:20.583551",
   "total": 30,
-  "new": 6
+  "new": 2
 }

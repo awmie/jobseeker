@@ -71,6 +71,48 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "UFC GYM Jurnior Graphic Designer",
+      "company": "UFC GYM",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ufc-gym-jurnior-graphic-designer-ufc-gym-1135299",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "education",
+        "designer",
+        "customer support",
+        "marketing",
+        "web dev",
+        "video",
+        "cloud",
+        "exec",
+        "content writing",
+        "junior",
+        "golang",
+        "medical",
+        "ads",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-23T11:18:07+00:00"
+    },
+    {
+      "title": "Coordinator Infrastructure Design",
+      "company": "Town of Claremont",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-coordinator-infrastructure-design-town-of-claremont-1135355",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "coordinator",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-23T10:25:57+00:00"
+    },
+    {
       "title": "Heading",
       "company": "SkillKraft Technologies",
       "location": "Remote",
@@ -569,54 +611,9 @@
       ],
       "salary": "",
       "posted": "2026-07-22T22:08:16+00:00"
-    },
-    {
-      "title": "Human Resources Generalist",
-      "company": "FIT Solutions, LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-fit-solutions-llc-1135239",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "travel",
-        "full time",
-        "design",
-        "salesforce",
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "speech",
-        "quality assurance",
-        "finance",
-        "cloud",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T22:05:42+00:00"
-    },
-    {
-      "title": "Regional Manager",
-      "company": "Trility Golf Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-manager-trility-golf-group-1135237",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "travel",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-22T22:00:33+00:00"
     }
   ],
-  "last_updated": "2026-07-24T09:31:33.341388",
+  "last_updated": "2026-07-24T11:19:30.195514",
   "total": 30,
-  "new": 6
+  "new": 2
 }

@@ -71,6 +71,44 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "PROJECT SOVEREIGNTY",
+      "company": "conceptMonkey | Product &amp; Innovation Services - Sebastian Benderoth",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-sovereignty-conceptmonkey-product-amp-innovation-services-sebastian-benderoth-1135401",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin"
+      ],
+      "salary": "",
+      "posted": "2026-07-24T21:02:55+00:00"
+    },
+    {
+      "title": "I want all the money",
+      "company": "Something Awful",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-i-want-all-the-money-something-awful-1135400",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-24T20:53:46+00:00"
+    },
+    {
+      "title": "Job hunting indecision",
+      "company": "Something Awful",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-hunting-indecision-something-awful-1135408",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-24T20:42:33+00:00"
+    },
+    {
       "title": "Brand Designer",
       "company": "Co\u00e2\u0080\u0093Star",
       "location": "Remote",
@@ -522,70 +560,9 @@
       ],
       "salary": "",
       "posted": "2026-07-24T05:08:47+00:00"
-    },
-    {
-      "title": "Freelance 3D Architectural Modeller UK Hours",
-      "company": "CGconnect",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-3d-architectural-modeller-uk-hours-cgconnect-1135350",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "design",
-        "embedded",
-        "infosec",
-        "technical",
-        "customer support",
-        "testing",
-        "dev",
-        "scheme",
-        "exec",
-        "content writing",
-        "ops",
-        "stats",
-        "recruiter",
-        "digital nomad",
-        "c",
-        "vfx"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T04:08:25+00:00"
-    },
-    {
-      "title": "Project Coordinator",
-      "company": "Outsource Access Careers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-coordinator-outsource-access-careers-1135338",
-      "source": "RemoteOK",
-      "tags": [
-        "accounting",
-        "virtual assistant",
-        "teaching",
-        "math",
-        "full time",
-        "coordinator"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T03:15:44+00:00"
-    },
-    {
-      "title": "Math Teacher",
-      "company": "MatheMagis Singapore Maths",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-math-teacher-mathemagis-singapore-maths-1135337",
-      "source": "RemoteOK",
-      "tags": [
-        "accounting",
-        "virtual assistant",
-        "teaching",
-        "math",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T03:11:36+00:00"
     }
   ],
-  "last_updated": "2026-07-25T20:35:52.703945",
+  "last_updated": "2026-07-25T21:31:16.560473",
   "total": 30,
-  "new": 5
+  "new": 3
 }

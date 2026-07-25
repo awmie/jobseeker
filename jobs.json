@@ -71,6 +71,23 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Chief Operating Officer",
+      "company": "Berni and Mick Ireland",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-berni-and-mick-ireland-1135353",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "strategy",
+        "marketing",
+        "education",
+        "exec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-07-24T07:35:23+00:00"
+    },
+    {
       "title": "Clinical Pharmacist",
       "company": "Walrus Health",
       "location": "Remote",
@@ -236,6 +253,25 @@
       ],
       "salary": "",
       "posted": "2026-07-24T02:03:19+00:00"
+    },
+    {
+      "title": "Architect CAD &amp; Construction Documentation",
+      "company": "YO IT Consulting",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-architect-cad-amp-construction-documentation-yo-it-consulting-1135406",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "architecture",
+        "design",
+        "vfx",
+        "technical",
+        "hardware",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-24T01:44:37+00:00"
     },
     {
       "title": "Product Designer",
@@ -556,67 +592,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-23T21:29:51+00:00"
-    },
-    {
-      "title": "Patient Experience Coordinator",
-      "company": "Sunrise",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-patient-experience-coordinator-sunrise-1135341",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "customer support",
-        "dev",
-        "marketing",
-        "travel",
-        "cloud",
-        "exec",
-        "content writing",
-        "medical",
-        "recruiter",
-        "digital nomad",
-        "product designer",
-        "sys admin",
-        "teaching",
-        "designer",
-        "speech",
-        "quality assurance",
-        "senior",
-        "golang",
-        "engineer",
-        "coordinator",
-        "testing",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-23T21:11:52+00:00"
-    },
-    {
-      "title": "Onboarding Specialist",
-      "company": "INNERGY",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-onboarding-specialist-innergy-1135339",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "customer support",
-        "dev",
-        "marketing",
-        "travel",
-        "cloud",
-        "exec",
-        "content writing",
-        "medical",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-23T20:33:40+00:00"
     }
   ],
-  "last_updated": "2026-07-25T06:40:35.245320",
+  "last_updated": "2026-07-25T10:17:55.298045",
   "total": 30,
-  "new": 1
+  "new": 2
 }

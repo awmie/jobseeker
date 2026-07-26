@@ -71,6 +71,28 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Operations Specialist",
+      "company": "Sezzle",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-specialist-sezzle-1135398",
+      "source": "RemoteOK",
+      "tags": [
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-07-25T05:10:06+00:00"
+    },
+    {
+      "title": "Neg\u00c3\u00b3cios Analista de Solu\u00c3\u00a7\u00c3\u00b5es de Neg\u00c3\u00b3cios J\u00c3\u00banior",
+      "company": "TOTVS",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-negocios-analista-de-solucoes-de-negocios-junior-totvs-1135397",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-25T05:03:57+00:00"
+    },
+    {
       "title": "IT Support Analyst",
       "company": "Work Force Nexus",
       "location": "Remote",
@@ -537,56 +559,9 @@
       ],
       "salary": "",
       "posted": "2026-07-24T18:21:44+00:00"
-    },
-    {
-      "title": "VP of Strategic Partnerships &amp; Growth",
-      "company": "HealthCorps",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vp-of-strategic-partnerships-amp-growth-healthcorps-1135381",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "salesforce",
-        "hr",
-        "recruiter",
-        "customer support",
-        "dev",
-        "exec",
-        "ops",
-        "stats",
-        "medical",
-        "digital nomad",
-        "marketing",
-        "speech",
-        "content writing",
-        "excel",
-        "part time",
-        "design",
-        "sys admin",
-        "infosec",
-        "education",
-        "architecture",
-        "travel",
-        "finance",
-        "senior",
-        "sales",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T13:03:14+00:00"
-    },
-    {
-      "title": "We don't currently have any open roles",
-      "company": "Vet Vision AI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-we-dont-currently-have-any-open-roles-vet-vision-ai-1135370",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-24T12:10:30+00:00"
     }
   ],
-  "last_updated": "2026-07-26T04:41:43.331137",
+  "last_updated": "2026-07-26T07:19:51.813098",
   "total": 30,
   "new": 2
 }

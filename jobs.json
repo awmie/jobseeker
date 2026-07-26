@@ -71,6 +71,20 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Analista de Projetos Jr",
+      "company": "SulAm\u00c3\u00a9rica",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-projetos-jr-sulamerica-1135421",
+      "source": "RemoteOK",
+      "tags": [
+        "jira",
+        "scrum",
+        "microsoft"
+      ],
+      "salary": "",
+      "posted": "2026-07-25T20:02:56+00:00"
+    },
+    {
       "title": "Join Our Team",
       "company": "Warwick Valley Chamber Of Cmrc",
       "location": "Remote",
@@ -384,22 +398,9 @@
       ],
       "salary": "",
       "posted": "2026-07-24T21:02:55+00:00"
-    },
-    {
-      "title": "I want all the money",
-      "company": "Something Awful",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-i-want-all-the-money-something-awful-1135400",
-      "source": "RemoteOK",
-      "tags": [
-        "finance",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T20:53:46+00:00"
     }
   ],
-  "last_updated": "2026-07-26T19:37:04.328195",
+  "last_updated": "2026-07-26T20:34:25.275864",
   "total": 30,
   "new": 1
 }

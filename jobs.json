@@ -71,6 +71,16 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "RSM",
+      "company": "Ageless Digital Technologies Private Limited",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-rsm-ageless-digital-technologies-private-limited-1135420",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-25T21:32:27+00:00"
+    },
+    {
       "title": "Analista de Projetos Jr",
       "company": "SulAm\u00c3\u00a9rica",
       "location": "Remote",
@@ -386,21 +396,9 @@
       ],
       "salary": "",
       "posted": "2026-07-24T23:09:47+00:00"
-    },
-    {
-      "title": "PROJECT SOVEREIGNTY",
-      "company": "conceptMonkey | Product &amp; Innovation Services - Sebastian Benderoth",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-sovereignty-conceptmonkey-product-amp-innovation-services-sebastian-benderoth-1135401",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T21:02:55+00:00"
     }
   ],
-  "last_updated": "2026-07-26T21:32:25.550618",
+  "last_updated": "2026-07-26T22:35:03.389157",
   "total": 30,
-  "new": 0
+  "new": 1
 }

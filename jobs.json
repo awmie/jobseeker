@@ -71,6 +71,34 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Architect CAD & Construction Documentation",
+      "company": "YO IT Consulting",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-architect-cad-construction-documentation-yo-it-consulting-1135405",
+      "source": "RemoteOK",
+      "tags": [
+        "video",
+        "content writing",
+        "consulting",
+        "architecture"
+      ],
+      "salary": "",
+      "posted": "2026-07-25T09:13:59+00:00"
+    },
+    {
+      "title": "Content Producer",
+      "company": "DesignMeshAI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-content-producer-designmeshai-1135404",
+      "source": "RemoteOK",
+      "tags": [
+        "video",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-07-25T09:11:22+00:00"
+    },
+    {
       "title": "Operations Specialist",
       "company": "Sezzle",
       "location": "Remote",
@@ -490,78 +518,9 @@
       ],
       "salary": "",
       "posted": "2026-07-24T19:29:16+00:00"
-    },
-    {
-      "title": "Head of Operations",
-      "company": "OpenTrack",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-opentrack-1135384",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "salesforce",
-        "hr",
-        "recruiter",
-        "customer support",
-        "dev",
-        "exec",
-        "ops",
-        "stats",
-        "medical",
-        "digital nomad",
-        "marketing",
-        "speech",
-        "content writing",
-        "excel",
-        "part time",
-        "design",
-        "sys admin",
-        "infosec",
-        "education",
-        "architecture",
-        "travel",
-        "finance",
-        "senior",
-        "sales",
-        "full time",
-        "project manager",
-        "video",
-        "amazon",
-        "music",
-        "designer",
-        "adult",
-        "ads",
-        "golang",
-        "consulting",
-        "web dev",
-        "api"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T19:03:51+00:00"
-    },
-    {
-      "title": "Marketing Designer",
-      "company": "albo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-designer-albo-1135376",
-      "source": "RemoteOK",
-      "tags": [
-        "designer",
-        "marketing",
-        "web dev",
-        "exec",
-        "video",
-        "finance",
-        "c",
-        "photoshop",
-        "engineer",
-        "illustrator"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T18:21:44+00:00"
     }
   ],
-  "last_updated": "2026-07-26T07:19:51.813098",
+  "last_updated": "2026-07-26T09:27:36.600003",
   "total": 30,
   "new": 2
 }

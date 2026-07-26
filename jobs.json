@@ -71,6 +71,32 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "IT Support Analyst",
+      "company": "Work Force Nexus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-it-support-analyst-work-force-nexus-1135393",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "customer support",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-25T02:04:59+00:00"
+    },
+    {
+      "title": "Hand Assembly",
+      "company": "Lsn",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hand-assembly-lsn-1135407",
+      "source": "RemoteOK",
+      "tags": [
+        "assembly"
+      ],
+      "salary": "",
+      "posted": "2026-07-25T01:30:17+00:00"
+    },
+    {
       "title": "Trabaja TODO Remoto Asesor de Atenci\u00c3\u00b3n al cliente y crosseling",
       "company": "EntelConnect",
       "location": "Remote",
@@ -558,33 +584,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-24T12:10:30+00:00"
-    },
-    {
-      "title": "https phase.community job_role physical fitness",
-      "company": "PHASE",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-https-phase-community-job-role-physical-fitness-phase-1135365",
-      "source": "RemoteOK",
-      "tags": [
-        "wordpress"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T11:23:26+00:00"
-    },
-    {
-      "title": "https phase.community job_role teachers",
-      "company": "PHASE",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-https-phase-community-job-role-teachers-phase-1135366",
-      "source": "RemoteOK",
-      "tags": [
-        "wordpress"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T11:21:51+00:00"
     }
   ],
-  "last_updated": "2026-07-26T01:10:56.461870",
+  "last_updated": "2026-07-26T04:41:43.331137",
   "total": 30,
   "new": 2
 }

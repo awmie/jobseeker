@@ -71,6 +71,19 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Join Our Team",
+      "company": "Warwick Valley Chamber Of Cmrc",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-warwick-valley-chamber-of-cmrc-1135413",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-25T18:39:47+00:00"
+    },
+    {
       "title": "Come and join us",
       "company": "Innovation @ University Hospitals Tees",
       "location": "Remote",
@@ -384,22 +397,9 @@
       ],
       "salary": "",
       "posted": "2026-07-24T20:53:46+00:00"
-    },
-    {
-      "title": "Job hunting indecision",
-      "company": "Something Awful",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-job-hunting-indecision-something-awful-1135408",
-      "source": "RemoteOK",
-      "tags": [
-        "finance",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T20:42:33+00:00"
     }
   ],
-  "last_updated": "2026-07-26T18:14:32.166296",
+  "last_updated": "2026-07-26T19:37:04.328195",
   "total": 30,
-  "new": 5
+  "new": 1
 }

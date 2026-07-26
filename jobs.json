@@ -71,6 +71,41 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Trabaja TODO Remoto Asesor de Atenci\u00c3\u00b3n al cliente y crosseling",
+      "company": "EntelConnect",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-trabaja-todo-remoto-asesor-de-atencion-al-cliente-y-crosseling-entelconnect-1135399",
+      "source": "RemoteOK",
+      "tags": [
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-07-25T01:08:02+00:00"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "company": "career",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-career-1135389",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "infosec",
+        "dev",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "legal",
+        "sales",
+        "golang",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-25T00:00:12+00:00"
+    },
+    {
       "title": "Brand Content & Communications Associate Manager",
       "company": "FuseGlobal",
       "location": "Remote",
@@ -547,43 +582,9 @@
       ],
       "salary": "",
       "posted": "2026-07-24T11:21:51+00:00"
-    },
-    {
-      "title": "Officer",
-      "company": "Lupin",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-officer-lupin-1135368",
-      "source": "RemoteOK",
-      "tags": [
-        "wordpress",
-        "customer support",
-        "speech",
-        "education",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T10:47:58+00:00"
-    },
-    {
-      "title": "Chief Operating Officer",
-      "company": "Berni and Mick Ireland",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-berni-and-mick-ireland-1135353",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "strategy",
-        "marketing",
-        "education",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T07:35:23+00:00"
     }
   ],
-  "last_updated": "2026-07-25T23:33:59.300023",
+  "last_updated": "2026-07-26T01:10:56.461870",
   "total": 30,
-  "new": 1
+  "new": 2
 }

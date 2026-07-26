@@ -71,6 +71,18 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "THOUGHTFUL NAVIGATOR",
+      "company": "Heather Hill Coaching &amp; Consultancy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-thoughtful-navigator-heather-hill-coaching-amp-consultancy-1135412",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting"
+      ],
+      "salary": "",
+      "posted": "2026-07-25T15:35:58+00:00"
+    },
+    {
       "title": "Architect CAD & Construction Documentation",
       "company": "YO IT Consulting",
       "location": "Remote",
@@ -496,31 +508,9 @@
       ],
       "salary": "",
       "posted": "2026-07-24T19:29:27+00:00"
-    },
-    {
-      "title": "People Operations Specialist",
-      "company": "Blackthorn",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-people-operations-specialist-blackthorn-1135379",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "salesforce",
-        "hr",
-        "recruiter",
-        "customer support",
-        "dev",
-        "exec",
-        "ops",
-        "stats",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-24T19:29:16+00:00"
     }
   ],
-  "last_updated": "2026-07-26T15:04:41.887855",
+  "last_updated": "2026-07-26T16:11:45.508191",
   "total": 30,
-  "new": 0
+  "new": 1
 }

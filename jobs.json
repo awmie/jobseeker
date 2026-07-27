@@ -71,6 +71,22 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Mews",
+      "company": "DutchTechX",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-mews-dutchtechx-1135468",
+      "source": "RemoteOK",
+      "tags": [
+        "admin",
+        "exec",
+        "ads",
+        "sys admin",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-07-26T22:15:55+00:00"
+    },
+    {
       "title": "Innovate with Came",
       "company": "BEMapps.com",
       "location": "Remote",
@@ -409,24 +425,9 @@
       ],
       "salary": "",
       "posted": "2026-07-26T05:24:46+00:00"
-    },
-    {
-      "title": "Starbucks",
-      "company": "World Veterans",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-starbucks-world-veterans-1135431",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "medical",
-        "design",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-26T05:23:22+00:00"
     }
   ],
-  "last_updated": "2026-07-27T22:10:43.031663",
+  "last_updated": "2026-07-27T23:19:05.391638",
   "total": 30,
-  "new": 4
+  "new": 1
 }

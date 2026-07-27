@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Regex Seo Web Designer",
+      "company": "REGEX SEO",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/regex-seo-web-designer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Onthegosystems Ai Native Software Developer",
+      "company": "ONTHEGOSYSTEMS AI",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Lawnstarter Software Engineering Manager 2",
       "company": "LAWNSTARTER",
       "location": "Remote",
@@ -15,13 +29,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Lemon Io Senior Vue Developer",
-      "company": "LEMON IO",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Yoko Co Front End Wordpress Developer",
       "company": "YOKO CO",
       "location": "Remote",
@@ -33,13 +40,6 @@
       "company": "GNO",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/gno-partners-senior-amazon-brand-manager-1",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Trust Based Mobility Video Editing Specialist Direct Response Ai Video Editor",
-      "company": "TRUST",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/trust-based-mobility-video-editing-specialist-direct-response-ai-video-editor",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,63 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Graduate Analyst",
+      "company": "Renewable Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-analyst-renewable-careers-1135440",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "customer support",
+        "video",
+        "education",
+        "digital nomad",
+        "infosec",
+        "vfx",
+        "architecture",
+        "designer",
+        "technical",
+        "dev",
+        "exec",
+        "photoshop",
+        "illustrator",
+        "analyst",
+        "consulting"
+      ],
+      "salary": "",
+      "posted": "2026-07-26T15:14:27+00:00"
+    },
+    {
+      "title": "Joe Armstrong",
+      "company": "DevTube",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-joe-armstrong-devtube-1135489",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "ads",
+        "exec",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-26T11:27:02+00:00"
+    },
+    {
+      "title": "Management",
+      "company": "DevTube",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-management-devtube-1135485",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "ads",
+        "exec",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-26T11:16:00+00:00"
     },
     {
       "title": "General Shop",
@@ -335,51 +392,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-25T21:32:27+00:00"
-    },
-    {
-      "title": "Dubai UAE",
-      "company": "\u00e5\u00af\u008c\u00e9\u00bb\u0098\u00e4\u00b9\u0090\u00e5\u009b\u00bd\u00e9\u0099\u0085\u00e8\u00b4\u00b8\u00e6\u0098\u0093\u00ef\u00bc\u0088\u00e4\u00b8\u008a\u00e6\u00b5\u00b7\u00ef\u00bc\u0089\u00e6\u009c\u0089\u00e9\u0099\u0090\u00e5\u0085\u00ac\u00e5\u008f\u00b8",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-dubai-uae-1135451",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "travel",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-25T20:48:44+00:00"
-    },
-    {
-      "title": "Analista de Projetos Jr",
-      "company": "SulAm\u00c3\u00a9rica",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-projetos-jr-sulamerica-1135421",
-      "source": "RemoteOK",
-      "tags": [
-        "jira",
-        "scrum",
-        "microsoft"
-      ],
-      "salary": "",
-      "posted": "2026-07-25T20:02:56+00:00"
-    },
-    {
-      "title": "Join Our Team",
-      "company": "Warwick Valley Chamber Of Cmrc",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-warwick-valley-chamber-of-cmrc-1135413",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-25T18:39:47+00:00"
     }
   ],
-  "last_updated": "2026-07-27T14:01:42.698364",
+  "last_updated": "2026-07-27T16:29:25.655796",
   "total": 30,
-  "new": 1
+  "new": 5
 }

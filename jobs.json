@@ -71,6 +71,16 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "General Shop",
+      "company": "HEICO",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-shop-heico-1135437",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-26T09:33:11+00:00"
+    },
+    {
       "title": "We are\nfearless pioneers\nopen for any kind",
       "company": "Loonshot Company \u00eb\u00a3\u00ac\u00ec\u0083\u00b7\u00ec\u00bb\u00b4\u00ed\u008d\u00bc\u00eb\u008b\u0088",
       "location": "Remote",
@@ -367,21 +377,9 @@
       ],
       "salary": "",
       "posted": "2026-07-25T18:39:47+00:00"
-    },
-    {
-      "title": "Come and join us",
-      "company": "Innovation @ University Hospitals Tees",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-come-and-join-us-innovation-university-hospitals-tees-1135418",
-      "source": "RemoteOK",
-      "tags": [
-        "speech"
-      ],
-      "salary": "",
-      "posted": "2026-07-25T18:12:22+00:00"
     }
   ],
-  "last_updated": "2026-07-27T08:25:55.255446",
+  "last_updated": "2026-07-27T11:50:20.383685",
   "total": 30,
-  "new": 8
+  "new": 1
 }

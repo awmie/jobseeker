@@ -36,10 +36,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Gno Partners Senior Amazon Brand Manager 1",
-      "company": "GNO",
+      "title": "Jobtable Sales Development Rep Base Uncapped Commission",
+      "company": "JOBTABLE",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/gno-partners-senior-amazon-brand-manager-1",
+      "url": "https://weworkremotely.com/remote-jobs/jobtable-sales-development-rep-base-uncapped-commission",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,77 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Generalist AI Trainer $35 hour",
+      "company": "LinkedIn",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-generalist-ai-trainer-35-hour-linkedin-1135442",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "web dev",
+        "exec",
+        "photoshop",
+        "ecommerce",
+        "education",
+        "data annotation"
+      ],
+      "salary": "",
+      "posted": "2026-07-26T18:02:33+00:00"
+    },
+    {
+      "title": "Digital Designer",
+      "company": "Revlytic",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-designer-revlytic-1135456",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "marketing",
+        "finance",
+        "medical",
+        "consulting",
+        "design",
+        "python",
+        "technical",
+        "math",
+        "data science",
+        "digital nomad",
+        "speech",
+        "designer",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-07-26T17:57:39+00:00"
+    },
+    {
+      "title": "Location Targeting",
+      "company": "AdConversion",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-location-targeting-adconversion-1135467",
+      "source": "RemoteOK",
+      "tags": [
+        "admin",
+        "exec",
+        "ads"
+      ],
+      "salary": "",
+      "posted": "2026-07-26T16:55:04+00:00"
+    },
+    {
+      "title": "Lead",
+      "company": "AdConversion",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-adconversion-1135466",
+      "source": "RemoteOK",
+      "tags": [
+        "admin",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-26T16:52:41+00:00"
     },
     {
       "title": "Graduate Analyst",
@@ -319,82 +390,9 @@
       ],
       "salary": "",
       "posted": "2026-07-26T00:00:13+00:00"
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "16VC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-16vc-1135443",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "web dev",
-        "exec",
-        "photoshop",
-        "ecommerce",
-        "education",
-        "data annotation",
-        "virtual assistant",
-        "coordinator",
-        "marketing",
-        "travel",
-        "finance",
-        "microsoft",
-        "ops",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-26T00:00:00+00:00"
-    },
-    {
-      "title": "Hawg Ops",
-      "company": "Airmen Coders",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-hawg-ops-airmen-coders-1135428",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "marketing",
-        "medical",
-        "non tech",
-        "education",
-        "golang",
-        "react",
-        "dev",
-        "c",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-25T23:55:24+00:00"
-    },
-    {
-      "title": "Skip content",
-      "company": "Airmen Coders",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-skip-content-airmen-coders-1135415",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "dev",
-        "content writing",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-25T23:55:03+00:00"
-    },
-    {
-      "title": "RSM",
-      "company": "Ageless Digital Technologies Private Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-rsm-ageless-digital-technologies-private-limited-1135420",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-25T21:32:27+00:00"
     }
   ],
-  "last_updated": "2026-07-27T16:29:25.655796",
+  "last_updated": "2026-07-27T18:07:41.573291",
   "total": 30,
   "new": 5
 }

@@ -71,6 +71,38 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "https brokehipster.com listings lloyds bank",
+      "company": "Broke Hipster",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-https-brokehipster-com-listings-lloyds-bank-broke-hipster-1135433",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-26T02:10:49+00:00"
+    },
+    {
+      "title": "URBAN",
+      "company": "Viniluxx",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-urban-viniluxx-1135436",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "ios",
+        "dev",
+        "web dev",
+        "exec",
+        "android",
+        "sales",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-26T01:16:25+00:00"
+    },
+    {
       "title": "No open roles right now",
       "company": "Public Health Bureau",
       "location": "Remote",
@@ -358,37 +390,9 @@
       ],
       "salary": "",
       "posted": "2026-07-25T09:11:22+00:00"
-    },
-    {
-      "title": "Freelance Photo Retoucher",
-      "company": "Catbird NYC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-photo-retoucher-catbird-nyc-1135441",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "web dev",
-        "exec",
-        "photoshop",
-        "ecommerce"
-      ],
-      "salary": "",
-      "posted": "2026-07-25T05:39:01+00:00"
-    },
-    {
-      "title": "Operations Specialist",
-      "company": "Sezzle",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-operations-specialist-sezzle-1135398",
-      "source": "RemoteOK",
-      "tags": [
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-25T05:10:06+00:00"
     }
   ],
-  "last_updated": "2026-07-27T01:14:29.855758",
+  "last_updated": "2026-07-27T04:54:18.849417",
   "total": 30,
-  "new": 6
+  "new": 2
 }

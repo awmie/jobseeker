@@ -71,6 +71,62 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "HR Operations Generalist",
+      "company": "Hired",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-generalist-hired-1135450",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "medical",
+        "hr",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-07-27T00:10:06+00:00"
+    },
+    {
+      "title": "Medical Scheduler",
+      "company": "CareStream Advisory Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-medical-scheduler-carestream-advisory-group-1135449",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-27T00:09:18+00:00"
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "IT Resources",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-it-resources-1135448",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant"
+      ],
+      "salary": "",
+      "posted": "2026-07-27T00:07:35+00:00"
+    },
+    {
+      "title": "No positions currently available",
+      "company": "UpTye",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-no-positions-currently-available-uptye-1135504",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "marketing",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-27T00:02:53+00:00"
+    },
+    {
       "title": "Mews",
       "company": "DutchTechX",
       "location": "Remote",
@@ -368,66 +424,9 @@
       ],
       "salary": "",
       "posted": "2026-07-26T07:29:46+00:00"
-    },
-    {
-      "title": "Current Vacancies",
-      "company": "Anderson Stewart Castings",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-current-vacancies-anderson-stewart-castings-1135424",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-26T05:43:21+00:00"
-    },
-    {
-      "title": "Why Join Us",
-      "company": "Anderson Stewart Castings",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-why-join-us-anderson-stewart-castings-1135427",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "marketing",
-        "medical",
-        "non tech",
-        "education",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-07-26T05:43:19+00:00"
-    },
-    {
-      "title": "Join the Family",
-      "company": "Zen Sushi to Go",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-join-the-family-zen-sushi-to-go-1135426",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "marketing",
-        "medical",
-        "non tech",
-        "education",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-07-26T05:35:49+00:00"
-    },
-    {
-      "title": "Walgreens",
-      "company": "World Veterans",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-walgreens-world-veterans-1135430",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-07-26T05:24:46+00:00"
     }
   ],
-  "last_updated": "2026-07-27T23:19:05.391638",
+  "last_updated": "2026-07-28T00:14:19.314146",
   "total": 30,
-  "new": 1
+  "new": 4
 }

@@ -71,6 +71,21 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "The GREEN Program",
+      "company": "Jizr",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-green-program-jizr-1135541",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-27T23:11:50+00:00"
+    },
+    {
       "title": "Transportation Analyst",
       "company": "RemoteFront",
       "location": "Remote",
@@ -518,22 +533,9 @@
       ],
       "salary": "",
       "posted": "2026-07-27T13:10:20+00:00"
-    },
-    {
-      "title": "Entry Level Junior Trader",
-      "company": "Atom Partners",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-junior-trader-atom-partners-1135478",
-      "source": "RemoteOK",
-      "tags": [
-        "other",
-        "finance"
-      ],
-      "salary": "",
-      "posted": "2026-07-27T12:50:24+00:00"
     }
   ],
-  "last_updated": "2026-07-28T22:27:53.084498",
+  "last_updated": "2026-07-28T23:31:01.888606",
   "total": 30,
   "new": 1
 }

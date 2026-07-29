@@ -71,6 +71,63 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Administrative Assistant",
+      "company": "Sundayy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-sundayy-1135547",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "hr",
+        "sys admin",
+        "technical",
+        "customer support",
+        "finance",
+        "education",
+        "ops",
+        "stats",
+        "legal",
+        "medical",
+        "recruiter",
+        "content writing",
+        "marketing",
+        "golang",
+        "virtual assistant"
+      ],
+      "salary": "",
+      "posted": "2026-07-28T06:05:16+00:00"
+    },
+    {
+      "title": "Groundman II",
+      "company": "Town of Westbrook",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-groundman-ii-town-of-westbrook-1135542",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "dev",
+        "engineer",
+        "digital nomad",
+        "finance",
+        "education",
+        "senior",
+        "golang",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-28T04:28:15+00:00"
+    },
+    {
+      "title": "PUSHDOWN",
+      "company": "G13 Advertising",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-pushdown-g13-advertising-1135550",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-28T04:24:38+00:00"
+    },
+    {
       "title": "Senior Vice President Coach",
       "company": "Fulchester Consultants",
       "location": "Remote",
@@ -510,66 +567,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-28T01:24:45+00:00"
-    },
-    {
-      "title": "Auxiliar Administrativo Recepcionista Remoto",
-      "company": "Empresa Confidencial",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-recepcionista-remoto-empresa-confidencial-1135517",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-28T01:01:11+00:00"
-    },
-    {
-      "title": "Maintenance",
-      "company": "Road Ranger",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-road-ranger-1135589",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "dev",
-        "copywriting",
-        "testing",
-        "analyst",
-        "accounting",
-        "payroll",
-        "virtual assistant",
-        "devops",
-        "finance",
-        "exec",
-        "marketing",
-        "legal",
-        "sales",
-        "recruiter",
-        "engineer",
-        "digital nomad",
-        "customer support",
-        "ops",
-        "medical",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-07-28T00:00:00+00:00"
-    },
-    {
-      "title": "The GREEN Program",
-      "company": "Jizr",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-the-green-program-jizr-1135541",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "dev",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-27T23:11:50+00:00"
     }
   ],
-  "last_updated": "2026-07-29T04:20:51.402192",
+  "last_updated": "2026-07-29T07:09:55.909623",
   "total": 30,
-  "new": 18
+  "new": 3
 }

@@ -71,6 +71,60 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Forward Rewards",
+      "company": "FORWARD (Forward Telecom)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-forward-rewards-forward-forward-telecom-1135577",
+      "source": "RemoteOK",
+      "tags": [
+        "telecom",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-28T17:16:30+00:00"
+    },
+    {
+      "title": "Forward DMP",
+      "company": "FORWARD (Forward Telecom)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-forward-dmp-forward-forward-telecom-1135576",
+      "source": "RemoteOK",
+      "tags": [
+        "telecom",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-28T17:16:26+00:00"
+    },
+    {
+      "title": "Not Finding Your Fit Apply Here",
+      "company": "The Buckle, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-not-finding-your-fit-apply-here-the-buckle-inc-1135588",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "dev",
+        "copywriting",
+        "testing",
+        "analyst",
+        "accounting",
+        "payroll",
+        "virtual assistant",
+        "devops",
+        "finance",
+        "exec",
+        "marketing",
+        "legal",
+        "sales",
+        "recruiter",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-28T17:02:49+00:00"
+    },
+    {
       "title": "Analista de Projetos J\u00c3\u00banior DEP",
       "company": "americanas s.a.",
       "location": "Remote",
@@ -516,72 +570,9 @@
       ],
       "salary": "",
       "posted": "2026-07-28T03:27:37+00:00"
-    },
-    {
-      "title": "English Language Specialist",
-      "company": "Hired",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-english-language-specialist-hired-1135529",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "medical",
-        "full time",
-        "non tech",
-        "admin",
-        "ops",
-        "web3",
-        "crypto",
-        "sys admin",
-        "vfx",
-        "designer",
-        "customer support",
-        "marketing",
-        "dev",
-        "web dev",
-        "finance",
-        "mobile",
-        "content writing",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-28T03:24:44+00:00"
-    },
-    {
-      "title": "Head of Operations",
-      "company": "CXD Ventures",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-cxd-ventures-1135527",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "medical",
-        "full time",
-        "non tech",
-        "admin",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-28T03:23:15+00:00"
-    },
-    {
-      "title": "Public Health Administrator",
-      "company": "CORMAC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-public-health-administrator-cormac-1135526",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "medical",
-        "full time",
-        "non tech",
-        "admin"
-      ],
-      "salary": "",
-      "posted": "2026-07-28T03:22:53+00:00"
     }
   ],
-  "last_updated": "2026-07-29T16:51:37.651907",
+  "last_updated": "2026-07-29T17:59:50.495715",
   "total": 30,
-  "new": 2
+  "new": 3
 }

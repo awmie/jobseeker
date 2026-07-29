@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Designfiles Content Marketing Coordinator",
+      "company": "DESIGNFILES",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/designfiles-content-marketing-coordinator",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Keeper Security Account Manager",
       "company": "KEEPER",
       "location": "Remote",
@@ -36,13 +43,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Jobtable Sales Development Rep Base Uncapped Commission",
-      "company": "JOBTABLE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/jobtable-sales-development-rep-base-uncapped-commission",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Elite Software Automation Business Analyst 2",
       "company": "ELITE",
       "location": "Remote",
@@ -69,6 +69,44 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Analista de Projetos J\u00c3\u00banior DEP",
+      "company": "americanas s.a.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-projetos-junior-dep-americanas-s-a-1135615",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "excel",
+        "ecommerce",
+        "non tech",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-28T16:50:07+00:00"
+    },
+    {
+      "title": "Video Editor Reacts",
+      "company": "MrBeast",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-video-editor-reacts-mrbeast-1135607",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "music",
+        "technical",
+        "travel",
+        "speech",
+        "video",
+        "exec",
+        "content writing",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-28T15:45:05+00:00"
     },
     {
       "title": "Senior DevOps Engineer",
@@ -541,67 +579,9 @@
       ],
       "salary": "",
       "posted": "2026-07-28T03:22:53+00:00"
-    },
-    {
-      "title": "Human Resources Benefits Coordinator",
-      "company": "Hoxton Circle",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-benefits-coordinator-hoxton-circle-1135548",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "hr",
-        "sys admin",
-        "technical",
-        "customer support",
-        "finance",
-        "education",
-        "ops",
-        "stats",
-        "legal",
-        "medical",
-        "recruiter",
-        "content writing",
-        "marketing",
-        "golang",
-        "virtual assistant",
-        "design",
-        "coordinator",
-        "testing",
-        "payroll",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-28T03:10:05+00:00"
-    },
-    {
-      "title": "Influencer Marketing Associate Director",
-      "company": "Newhouse",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-influencer-marketing-associate-director-newhouse-1135546",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "hr",
-        "sys admin",
-        "technical",
-        "customer support",
-        "finance",
-        "education",
-        "ops",
-        "stats",
-        "legal",
-        "medical",
-        "recruiter",
-        "content writing",
-        "marketing",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-07-28T03:02:54+00:00"
     }
   ],
-  "last_updated": "2026-07-29T15:30:12.165181",
+  "last_updated": "2026-07-29T16:51:37.651907",
   "total": 30,
-  "new": 3
+  "new": 2
 }

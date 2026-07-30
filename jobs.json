@@ -1,17 +1,17 @@
 {
   "jobs": [
     {
+      "title": "Silverorange Director Of Business Development",
+      "company": "SILVERORANGE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/silverorange-director-of-business-development",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Toptal Step Platform Developer Engineer Mdm Remote",
       "company": "TOPTAL",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/toptal-step-platform-developer-engineer-mdm-remote",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Designfiles Content Marketing Coordinator",
-      "company": "DESIGNFILES",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/designfiles-content-marketing-coordinator",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,93 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Lean Practitioner",
+      "company": "KaizenworldAI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-lean-practitioner-kaizenworldai-1135629",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "javascript"
+      ],
+      "salary": "",
+      "posted": "2026-07-29T15:10:30+00:00"
+    },
+    {
+      "title": "Continuous Improvement Lead",
+      "company": "KaizenworldAI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-continuous-improvement-lead-kaizenworldai-1135630",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "javascript",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-29T15:09:16+00:00"
+    },
+    {
+      "title": "SSG NEP",
+      "company": "EY",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ssg-nep-ey-1135620",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "non tech",
+        "exec",
+        "consulting",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-07-29T14:26:14+00:00"
+    },
+    {
+      "title": "Houseman",
+      "company": "Ocean Hotels Group BARBADOS",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-houseman-ocean-hotels-group-barbados-1135654",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "technical",
+        "customer support",
+        "exec",
+        "ops",
+        "supervisor",
+        "sys admin",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-07-29T13:56:42+00:00"
+    },
+    {
+      "title": "Job Title",
+      "company": "JW Grand",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-title-jw-grand-1135636",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-29T13:21:10+00:00"
+    },
+    {
+      "title": "Join our team",
+      "company": "Mailivery.io",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-mailivery-io-1135637",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "sales",
+        "non tech",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-29T13:10:25+00:00"
     },
     {
       "title": "Lion King",
@@ -371,130 +458,9 @@
       ],
       "salary": "",
       "posted": "2026-07-29T01:44:57+00:00"
-    },
-    {
-      "title": "Supportive Gardener",
-      "company": "Joi AI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-supportive-gardener-joi-ai-1135666",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "exec",
-        "medical",
-        "marketing",
-        "accounting",
-        "ops",
-        "customer support",
-        "music",
-        "dev",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T01:43:02+00:00"
-    },
-    {
-      "title": "Graphic Designer",
-      "company": "Miranda Creative, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "music",
-        "technical",
-        "travel",
-        "speech",
-        "video",
-        "exec",
-        "content writing",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "consulting",
-        "testing",
-        "virtual assistant",
-        "finance",
-        "senior",
-        "ops",
-        "customer support",
-        "dev",
-        "microsoft",
-        "excel",
-        "legal",
-        "designer",
-        "web dev",
-        "cloud",
-        "marketing",
-        "photoshop",
-        "illustrator",
-        "full time",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T01:36:08+00:00"
-    },
-    {
-      "title": "ACT Application Form",
-      "company": "Yo-Bar",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-act-application-form-yo-bar-1135603",
-      "source": "RemoteOK",
-      "tags": [
-        "senior",
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "finance",
-        "exec",
-        "engineer",
-        "ops",
-        "video"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T01:19:23+00:00"
-    },
-    {
-      "title": "Handyman Jobs",
-      "company": "Lsn",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-handyman-jobs-lsn-1135595",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-29T00:56:43+00:00"
-    },
-    {
-      "title": "Drivers wanted",
-      "company": "Lsn",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-drivers-wanted-lsn-1135596",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-29T00:56:21+00:00"
-    },
-    {
-      "title": "\u00c2\u00a1Empieza a trabajar de inmediato",
-      "company": "La Subasta App",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-empieza-a-trabajar-de-inmediato-la-subasta-app-1135627",
-      "source": "RemoteOK",
-      "tags": [
-        "project manager",
-        "exec",
-        "pascal",
-        "cassandra",
-        "testing",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-07-28T23:44:35+00:00"
     }
   ],
-  "last_updated": "2026-07-30T13:02:52.288709",
+  "last_updated": "2026-07-30T15:19:33.606679",
   "total": 30,
-  "new": 3
+  "new": 7
 }

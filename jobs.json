@@ -71,6 +71,22 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "test",
+      "company": "UztexGroup",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-uztexgroup-1135624",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "pascal",
+        "cassandra",
+        "testing"
+      ],
+      "salary": "",
+      "posted": "2026-07-29T07:07:44+00:00"
+    },
+    {
       "title": "BUSINESS &amp; SUPPORT",
       "company": "Amal Semiconductor",
       "location": "Remote",
@@ -259,6 +275,27 @@
       "posted": "2026-07-29T01:44:57+00:00"
     },
     {
+      "title": "Supportive Gardener",
+      "company": "Joi AI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-supportive-gardener-joi-ai-1135666",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "exec",
+        "medical",
+        "marketing",
+        "accounting",
+        "ops",
+        "customer support",
+        "music",
+        "dev",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-29T01:43:02+00:00"
+    },
+    {
       "title": "Graphic Designer",
       "company": "Miranda Creative, Inc.",
       "location": "Remote",
@@ -433,35 +470,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-28T18:15:45+00:00"
-    },
-    {
-      "title": "Forward Rewards",
-      "company": "FORWARD (Forward Telecom)",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-forward-rewards-forward-forward-telecom-1135577",
-      "source": "RemoteOK",
-      "tags": [
-        "telecom",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-28T17:16:30+00:00"
-    },
-    {
-      "title": "Forward DMP",
-      "company": "FORWARD (Forward Telecom)",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-forward-dmp-forward-forward-telecom-1135576",
-      "source": "RemoteOK",
-      "tags": [
-        "telecom",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-28T17:16:26+00:00"
     }
   ],
-  "last_updated": "2026-07-30T06:41:49.715502",
+  "last_updated": "2026-07-30T09:18:02.093028",
   "total": 30,
   "new": 2
 }

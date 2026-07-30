@@ -71,6 +71,29 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "BUSINESS &amp; SUPPORT",
+      "company": "Amal Semiconductor",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-amp-support-amal-semiconductor-1135617",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-29T04:43:24+00:00"
+    },
+    {
+      "title": "Auxiliar de Recursos Humanos",
+      "company": "Universia Brasil",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-recursos-humanos-universia-brasil-1135612",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-29T04:28:10+00:00"
+    },
+    {
       "title": "Chief of Staff the CEO",
       "company": "Everyday Dose",
       "location": "Remote",
@@ -436,53 +459,9 @@
       ],
       "salary": "",
       "posted": "2026-07-28T17:16:26+00:00"
-    },
-    {
-      "title": "Not Finding Your Fit Apply Here",
-      "company": "The Buckle, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-not-finding-your-fit-apply-here-the-buckle-inc-1135588",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "dev",
-        "copywriting",
-        "testing",
-        "analyst",
-        "accounting",
-        "payroll",
-        "virtual assistant",
-        "devops",
-        "finance",
-        "exec",
-        "marketing",
-        "legal",
-        "sales",
-        "recruiter",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-28T17:02:49+00:00"
-    },
-    {
-      "title": "Analista de Projetos J\u00c3\u00banior DEP",
-      "company": "americanas s.a.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-projetos-junior-dep-americanas-s-a-1135615",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "excel",
-        "ecommerce",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-28T16:50:07+00:00"
     }
   ],
-  "last_updated": "2026-07-30T04:12:16.240829",
+  "last_updated": "2026-07-30T06:41:49.715502",
   "total": 30,
-  "new": 8
+  "new": 2
 }

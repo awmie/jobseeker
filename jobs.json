@@ -71,6 +71,64 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Copy Editor",
+      "company": "MissionStaff",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-copy-editor-missionstaff-1135668",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "education",
+        "exec",
+        "content writing",
+        "marketing",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-07-29T19:07:02+00:00"
+    },
+    {
+      "title": "Ecology and Society",
+      "company": "Section on Emergency and Crisis Management (SECM)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ecology-and-society-section-on-emergency-and-crisis-management-secm-1135655",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "technical",
+        "customer support",
+        "exec",
+        "ops",
+        "supervisor",
+        "sys admin",
+        "medical",
+        "infosec",
+        "web dev",
+        "c",
+        "pascal",
+        "mobile",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-07-29T18:38:01+00:00"
+    },
+    {
+      "title": "Postuler chez nous",
+      "company": "Jubin Fr\u00c3\u00a8res",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-postuler-chez-nous-jubin-freres-1135632",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "javascript",
+        "exec",
+        "recruiter",
+        "c"
+      ],
+      "salary": "",
+      "posted": "2026-07-29T18:34:23+00:00"
+    },
+    {
       "title": "HR Generalist 1",
       "company": "TALENT Software Services",
       "location": "Remote",
@@ -415,69 +473,9 @@
       ],
       "salary": "",
       "posted": "2026-07-29T12:14:39+00:00"
-    },
-    {
-      "title": "Butcher",
-      "company": "Lindos Group Of Companies",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-butcher-lindos-group-of-companies-1135653",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "technical",
-        "customer support",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T11:33:53+00:00"
-    },
-    {
-      "title": "Patient Access and Intake Coordinator",
-      "company": "Kindred",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-patient-access-and-intake-coordinator-kindred-1135670",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "education",
-        "exec",
-        "content writing",
-        "marketing",
-        "part time",
-        "design",
-        "technical",
-        "coordinator",
-        "customer support",
-        "travel",
-        "microsoft",
-        "ops",
-        "excel",
-        "medical",
-        "digital nomad",
-        "consulting",
-        "supervisor",
-        "dev",
-        "speech"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T11:19:33+00:00"
-    },
-    {
-      "title": "Senior Demand Generation Manager",
-      "company": "TestGorilla",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-demand-generation-manager-testgorilla-1135606",
-      "source": "RemoteOK",
-      "tags": [
-        "sales",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T11:15:01+00:00"
     }
   ],
-  "last_updated": "2026-07-30T18:11:28.002112",
+  "last_updated": "2026-07-30T19:51:53.284458",
   "total": 30,
-  "new": 4
+  "new": 3
 }

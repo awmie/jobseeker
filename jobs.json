@@ -71,6 +71,25 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Software Engineer GO",
+      "company": "Wakacje.pl",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "dev",
+        "travel",
+        "api",
+        "golang",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-29T20:00:01+00:00"
+    },
+    {
       "title": "Copy Editor",
       "company": "MissionStaff",
       "location": "Remote",
@@ -450,32 +469,9 @@
       ],
       "salary": "",
       "posted": "2026-07-29T12:51:00+00:00"
-    },
-    {
-      "title": "T\u00c3\u00a9l\u00c3\u00a9travail Professeur Particulier",
-      "company": "TUS Media",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-teletravail-professeur-particulier-tus-media-1135639",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "python",
-        "dev",
-        "javascript",
-        "node",
-        "node.js",
-        "ruby",
-        "sys admin",
-        "engineer",
-        "full time",
-        "part time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T12:14:39+00:00"
     }
   ],
-  "last_updated": "2026-07-30T19:51:53.284458",
+  "last_updated": "2026-07-30T20:53:31.558397",
   "total": 30,
-  "new": 3
+  "new": 1
 }

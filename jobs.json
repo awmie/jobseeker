@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "Site Operation",
+      "company": "JAKSON Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-site-operation-jakson-group-1135727",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-30T12:24:24+00:00"
+    },
+    {
       "title": "Current Vacancies",
       "company": "Donnington Group",
       "location": "Remote",
@@ -448,25 +461,9 @@
       ],
       "salary": "",
       "posted": "2026-07-29T17:26:40+00:00"
-    },
-    {
-      "title": "Ship to Shore Technician",
-      "company": "Carnival Corporation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ship-to-shore-technician-carnival-corporation-1135651",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "technical",
-        "customer support",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T17:20:14+00:00"
     }
   ],
-  "last_updated": "2026-07-31T11:39:09.630038",
+  "last_updated": "2026-07-31T13:18:32.174955",
   "total": 20,
-  "new": 4
+  "new": 1
 }

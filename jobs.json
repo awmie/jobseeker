@@ -1,6 +1,50 @@
 {
   "jobs": [
     {
+      "title": "Sales Development Representative Outbound",
+      "company": "Tremendous",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-outbound-tremendous-1135741",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "technical",
+        "writer",
+        "customer support",
+        "exec",
+        "education",
+        "senior",
+        "marketing",
+        "sales",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-30T19:56:26+00:00"
+    },
+    {
+      "title": "Admissions Advisor MasterClass Executive",
+      "company": "MasterClass",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-admissions-advisor-masterclass-executive-masterclass-1135740",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "technical",
+        "writer",
+        "customer support",
+        "exec",
+        "education",
+        "senior",
+        "marketing",
+        "sales",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-30T19:18:12+00:00"
+    },
+    {
       "title": "Cleaner",
       "company": "Beklane Ltd",
       "location": "Remote",
@@ -383,45 +427,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-30T08:30:41+00:00"
-    },
-    {
-      "title": "Growth Marketer",
-      "company": "CLANX",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-growth-marketer-clanx-1135656",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "design",
-        "exec",
-        "recruiter",
-        "travel",
-        "finance",
-        "admin",
-        "content writing",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-30T08:00:30+00:00"
-    },
-    {
-      "title": "READ MORE",
-      "company": "Lancashire Careers Hub",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-read-more-lancashire-careers-hub-1135652",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "technical",
-        "customer support",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-07-30T06:08:38+00:00"
     }
   ],
-  "last_updated": "2026-07-31T18:43:06.160498",
+  "last_updated": "2026-07-31T20:09:20.728460",
   "total": 20,
-  "new": 1
+  "new": 2
 }

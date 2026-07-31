@@ -1,6 +1,87 @@
 {
   "jobs": [
     {
+      "title": "Mes",
+      "company": "PADGET ELECTRONICS Private Limited (DIXON)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-mes-padget-electronics-private-limited-dixon-1135730",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "full time",
+        "controller"
+      ],
+      "salary": "",
+      "posted": "2026-07-30T15:12:13+00:00"
+    },
+    {
+      "title": "A Book of Your Own",
+      "company": "TechWhirl",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-a-book-of-your-own-techwhirl-1135683",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "analyst",
+        "finance",
+        "content writing",
+        "excel",
+        "golang",
+        "non tech",
+        "consulting",
+        "technical",
+        "writer",
+        "testing"
+      ],
+      "salary": "",
+      "posted": "2026-07-30T14:19:46+00:00"
+    },
+    {
+      "title": "This IS Your Dream Job",
+      "company": "TechWhirl",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-this-is-your-dream-job-techwhirl-1135682",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "analyst",
+        "finance",
+        "content writing",
+        "excel",
+        "golang",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-30T14:19:16+00:00"
+    },
+    {
+      "title": "Next Steps",
+      "company": "Corporate Travel Specialists",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-next-steps-corporate-travel-specialists-1135724",
+      "source": "RemoteOK",
+      "tags": [
+        "travel",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-07-30T14:04:46+00:00"
+    },
+    {
+      "title": "Koparka",
+      "company": "Bujak Maszyny",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-koparka-bujak-maszyny-1135729",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "full time",
+        "controller"
+      ],
+      "salary": "",
+      "posted": "2026-07-30T13:47:26+00:00"
+    },
+    {
       "title": "Site Operation",
       "company": "JAKSON Group",
       "location": "Remote",
@@ -337,133 +418,9 @@
       ],
       "salary": "",
       "posted": "2026-07-29T20:00:01+00:00"
-    },
-    {
-      "title": "Copy Editor",
-      "company": "MissionStaff",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-copy-editor-missionstaff-1135668",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "education",
-        "exec",
-        "content writing",
-        "marketing",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T19:07:02+00:00"
-    },
-    {
-      "title": "Ecology and Society",
-      "company": "Section on Emergency and Crisis Management (SECM)",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ecology-and-society-section-on-emergency-and-crisis-management-secm-1135655",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "technical",
-        "customer support",
-        "exec",
-        "ops",
-        "supervisor",
-        "sys admin",
-        "medical",
-        "infosec",
-        "web dev",
-        "c",
-        "pascal",
-        "mobile",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T18:38:01+00:00"
-    },
-    {
-      "title": "Postuler chez nous",
-      "company": "Jubin Fr\u00c3\u00a8res",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-postuler-chez-nous-jubin-freres-1135632",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "javascript",
-        "exec",
-        "recruiter",
-        "c"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T18:34:23+00:00"
-    },
-    {
-      "title": "HR Generalist 1",
-      "company": "TALENT Software Services",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-hr-generalist-1-talent-software-services-1135696",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "music",
-        "customer support",
-        "travel",
-        "video",
-        "exec",
-        "content writing",
-        "ops",
-        "marketing",
-        "ads",
-        "digital nomad",
-        "hr",
-        "dev",
-        "consulting",
-        "technical",
-        "testing",
-        "payroll",
-        "education"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T18:06:26+00:00"
-    },
-    {
-      "title": "Customer Account Associate Albertsons",
-      "company": "Nestl\u00c3\u00a9",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-account-associate-albertsons-nestle-1135671",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "education",
-        "exec",
-        "content writing",
-        "marketing",
-        "part time",
-        "design",
-        "technical",
-        "coordinator",
-        "customer support",
-        "travel",
-        "microsoft",
-        "ops",
-        "excel",
-        "medical",
-        "digital nomad",
-        "consulting",
-        "supervisor",
-        "dev",
-        "speech",
-        "sys admin",
-        "analyst",
-        "finance",
-        "c",
-        "sales",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T17:26:40+00:00"
     }
   ],
-  "last_updated": "2026-07-31T13:18:32.174955",
+  "last_updated": "2026-07-31T15:32:15.485068",
   "total": 20,
-  "new": 1
+  "new": 5
 }

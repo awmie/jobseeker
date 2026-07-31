@@ -1,6 +1,50 @@
 {
   "jobs": [
     {
+      "title": "Trafic",
+      "company": "Filmtheater Cinecenter",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-trafic-filmtheater-cinecenter-1135731",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "full time",
+        "controller"
+      ],
+      "salary": "",
+      "posted": "2026-07-30T09:26:30+00:00"
+    },
+    {
+      "title": "Other",
+      "company": "Atoms &amp; Space",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-other-atoms-amp-space-1135667",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-30T08:30:41+00:00"
+    },
+    {
+      "title": "Growth Marketer",
+      "company": "CLANX",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-growth-marketer-clanx-1135656",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "design",
+        "exec",
+        "recruiter",
+        "travel",
+        "finance",
+        "admin",
+        "content writing",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-30T08:00:30+00:00"
+    },
+    {
       "title": "READ MORE",
       "company": "Lancashire Careers Hub",
       "location": "Remote",
@@ -407,66 +451,9 @@
       ],
       "salary": "",
       "posted": "2026-07-29T15:49:47+00:00"
-    },
-    {
-      "title": "Program &amp; Events Coordinator",
-      "company": "LSP Association",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-program-amp-events-coordinator-lsp-association-1135669",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "education",
-        "exec",
-        "content writing",
-        "marketing",
-        "part time",
-        "design",
-        "technical",
-        "coordinator",
-        "customer support",
-        "travel",
-        "microsoft",
-        "ops",
-        "excel",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T15:31:39+00:00"
-    },
-    {
-      "title": "US Tax Preparer",
-      "company": "Ambit Tax and Accounting",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-us-tax-preparer-ambit-tax-and-accounting-1135646",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "design",
-        "exec",
-        "digital nomad",
-        "accounting",
-        "dev"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T15:22:50+00:00"
-    },
-    {
-      "title": "Lean Practitioner",
-      "company": "KaizenworldAI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-lean-practitioner-kaizenworldai-1135629",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "javascript"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T15:10:30+00:00"
     }
   ],
-  "last_updated": "2026-07-31T06:40:25.726839",
+  "last_updated": "2026-07-31T09:31:57.716714",
   "total": 20,
-  "new": 2
+  "new": 3
 }

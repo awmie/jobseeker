@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Cleaner",
+      "company": "Beklane Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-cleaner-beklane-ltd-1135733",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "travel",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-30T18:05:16+00:00"
+    },
+    {
       "title": "People and Culture Manager",
       "company": "Casa Tr\u00c3\u00a8s Events",
       "location": "Remote",
@@ -405,32 +419,9 @@
       ],
       "salary": "",
       "posted": "2026-07-30T06:08:38+00:00"
-    },
-    {
-      "title": "Deputy Manager Sales HR",
-      "company": "VARUN BEVERAGES LIMITED",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-deputy-manager-sales-hr-varun-beverages-limited-1135737",
-      "source": "RemoteOK",
-      "tags": [
-        "python",
-        "hr",
-        "exec",
-        "sys admin",
-        "education",
-        "customer support",
-        "dev",
-        "admin",
-        "sales",
-        "medical",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-30T04:41:01+00:00"
     }
   ],
-  "last_updated": "2026-07-31T17:07:57.228402",
+  "last_updated": "2026-07-31T18:43:06.160498",
   "total": 20,
-  "new": 6
+  "new": 1
 }

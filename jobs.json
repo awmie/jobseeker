@@ -71,6 +71,30 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Traveler Care Specialist Luxury Travel",
+      "company": "Zicasso",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-traveler-care-specialist-luxury-travel-zicasso-1135640",
+      "source": "RemoteOK",
+      "tags": [
+        "travel",
+        "education",
+        "transcribing",
+        "dev",
+        "marketing",
+        "exec",
+        "video",
+        "ops",
+        "excel",
+        "stats",
+        "sales",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-30T00:00:04+00:00"
+    },
+    {
       "title": "Software Engineer GO",
       "company": "Wakacje.pl",
       "location": "Remote",
@@ -454,24 +478,9 @@
       ],
       "salary": "",
       "posted": "2026-07-29T13:10:25+00:00"
-    },
-    {
-      "title": "Lion King",
-      "company": "BiFlorica",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-lion-king-biflorica-1135623",
-      "source": "RemoteOK",
-      "tags": [
-        "project manager",
-        "exec",
-        "pascal",
-        "cassandra"
-      ],
-      "salary": "",
-      "posted": "2026-07-29T12:51:00+00:00"
     }
   ],
-  "last_updated": "2026-07-30T23:14:09.085385",
+  "last_updated": "2026-07-31T00:16:15.759161",
   "total": 30,
-  "new": 0
+  "new": 1
 }

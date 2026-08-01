@@ -1,6 +1,56 @@
 {
   "jobs": [
     {
+      "title": "Join Praemium Expression of Interest",
+      "company": "Praemium",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-praemium-expression-of-interest-praemium-1135757",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-31T10:07:47+00:00"
+    },
+    {
+      "title": "Journalist",
+      "company": "Citywire Espa\u00c3\u00b1a",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-journalist-citywire-espana-1135763",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "speech",
+        "finance",
+        "exec",
+        "ops",
+        "golang",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-31T09:38:32+00:00"
+    },
+    {
+      "title": "Journalist Citywire Spain",
+      "company": "Citywire",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-journalist-citywire-spain-citywire-1135761",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "speech",
+        "finance",
+        "exec",
+        "ops",
+        "golang",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-07-31T09:32:36+00:00"
+    },
+    {
       "title": "GenAI Engineer AI Builder AI Agent Associate Specialist",
       "company": "Magic Compass Limited",
       "location": "Remote",
@@ -380,72 +430,9 @@
       ],
       "salary": "",
       "posted": "2026-07-30T16:00:20+00:00"
-    },
-    {
-      "title": "AI Trainer Freelance Data Annotator",
-      "company": "Mindrift - Data annotation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-freelance-data-annotator-mindrift-data-annotation-1135680",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "data annotation",
-        "content writing",
-        "part time",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-30T16:00:14+00:00"
-    },
-    {
-      "title": "Administrative Assistant",
-      "company": "Viable Medical Solutions",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "music",
-        "customer support",
-        "travel",
-        "video",
-        "exec",
-        "content writing",
-        "ops",
-        "marketing",
-        "ads",
-        "digital nomad",
-        "hr",
-        "dev",
-        "consulting",
-        "technical",
-        "testing",
-        "payroll",
-        "education",
-        "virtual assistant",
-        "sales",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-30T15:59:26+00:00"
-    },
-    {
-      "title": "Mes",
-      "company": "PADGET ELECTRONICS Private Limited (DIXON)",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-mes-padget-electronics-private-limited-dixon-1135730",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "full time",
-        "controller"
-      ],
-      "salary": "",
-      "posted": "2026-07-30T15:12:13+00:00"
     }
   ],
-  "last_updated": "2026-08-01T09:17:24.232543",
+  "last_updated": "2026-08-01T10:52:03.002554",
   "total": 20,
-  "new": 1
+  "new": 3
 }

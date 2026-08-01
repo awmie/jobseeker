@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Permanent Jobs",
+      "company": "New Zealand Apples and Pears",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-permanent-jobs-new-zealand-apples-and-pears-1135747",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "golang",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-07-31T07:02:41+00:00"
+    },
+    {
       "title": "Traffic Controller",
       "company": "Aussie Traffic Control",
       "location": "Remote",
@@ -425,27 +439,9 @@
       ],
       "salary": "",
       "posted": "2026-07-30T14:19:46+00:00"
-    },
-    {
-      "title": "This IS Your Dream Job",
-      "company": "TechWhirl",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-this-is-your-dream-job-techwhirl-1135682",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "analyst",
-        "finance",
-        "content writing",
-        "excel",
-        "golang",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-30T14:19:16+00:00"
     }
   ],
-  "last_updated": "2026-08-01T04:32:44.018335",
+  "last_updated": "2026-08-01T07:06:55.098392",
   "total": 20,
-  "new": 6
+  "new": 1
 }

@@ -1,6 +1,69 @@
 {
   "jobs": [
     {
+      "title": "Tequila Market Manager New Jersey",
+      "company": "Bandero Tequila",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-tequila-market-manager-new-jersey-bandero-tequila-1135754",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "marketing",
+        "travel",
+        "legal",
+        "sales",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-31T22:31:25+00:00"
+    },
+    {
+      "title": "Human Resources Coordinator",
+      "company": "Pacific Health Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-pacific-health-group-1135783",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "sys admin",
+        "education",
+        "recruiter",
+        "coordinator",
+        "customer support",
+        "marketing",
+        "exec",
+        "payroll",
+        "finance",
+        "ops",
+        "medical",
+        "internship",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-31T22:29:53+00:00"
+    },
+    {
+      "title": "Tequila Market Manager New York",
+      "company": "Bandero Tequila",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-tequila-market-manager-new-york-bandero-tequila-1135753",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "marketing",
+        "travel",
+        "legal",
+        "sales",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-07-31T22:25:52+00:00"
+    },
+    {
       "title": "Join Our Team",
       "company": "Miraculous Maids",
       "location": "Remote",
@@ -329,96 +392,9 @@
       ],
       "salary": "",
       "posted": "2026-07-31T02:43:34+00:00"
-    },
-    {
-      "title": "Executive Operations &amp; Project Manager",
-      "company": "Viva Wellness Drip",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-operations-amp-project-manager-viva-wellness-drip-1135744",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "technical",
-        "writer",
-        "customer support",
-        "exec",
-        "education",
-        "senior",
-        "marketing",
-        "sales",
-        "medical",
-        "full time",
-        "virtual assistant",
-        "finance",
-        "ops",
-        "recruiter",
-        "design",
-        "saas",
-        "sys admin",
-        "dev",
-        "payroll",
-        "golang",
-        "digital nomad",
-        "project manager",
-        "travel",
-        "microsoft",
-        "mobile",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T02:30:50+00:00"
-    },
-    {
-      "title": "Nanny Camp Hill",
-      "company": "Mini Connections",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-nanny-camp-hill-mini-connections-1135760",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "recruiter",
-        "non tech",
-        "design",
-        "hr",
-        "infosec",
-        "teaching",
-        "game dev",
-        "testing",
-        "travel",
-        "accounting",
-        "finance",
-        "video",
-        "education",
-        "exec",
-        "marketing",
-        "telecom",
-        "legal",
-        "sales",
-        "medical",
-        "full time",
-        "part time",
-        "digital nomad",
-        "music"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T02:19:01+00:00"
-    },
-    {
-      "title": "1. IDEAS IMPACT",
-      "company": "CSR Ideas",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-1-ideas-impact-csr-ideas-1135732",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "full time",
-        "controller"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T02:15:14+00:00"
     }
   ],
-  "last_updated": "2026-08-01T21:38:22.299436",
+  "last_updated": "2026-08-01T22:36:07.323342",
   "total": 20,
-  "new": 0
+  "new": 3
 }

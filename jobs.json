@@ -1,6 +1,65 @@
 {
   "jobs": [
     {
+      "title": "Join Our Team",
+      "company": "Miraculous Maids",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-miraculous-maids-1135748",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-07-31T19:40:53+00:00"
+    },
+    {
+      "title": "Voice Over Artist",
+      "company": "Bored Panda",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-voice-over-artist-bored-panda-1135765",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "speech",
+        "finance",
+        "exec",
+        "ops",
+        "golang",
+        "digital nomad",
+        "illustrator",
+        "customer support",
+        "video",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-07-31T19:24:20+00:00"
+    },
+    {
+      "title": "HR Generalist",
+      "company": "Aditi Consulting",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-generalist-aditi-consulting-1135755",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "marketing",
+        "travel",
+        "legal",
+        "sales",
+        "medical",
+        "full time",
+        "hr",
+        "consulting",
+        "recruiter",
+        "speech",
+        "education",
+        "microsoft",
+        "mobile",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-07-31T19:23:37+00:00"
+    },
+    {
       "title": "Th\u00e1\u00bb\u00b1c T\u00e1\u00ba\u00adp Sinh Ph\u00c3\u00a1t Tri\u00e1\u00bb\u0083n Kinh Doanh",
       "company": "ACC Hospitality",
       "location": "Remote",
@@ -372,58 +431,9 @@
       ],
       "salary": "",
       "posted": "2026-07-31T01:54:56+00:00"
-    },
-    {
-      "title": "RGeneral Production",
-      "company": "Dana Incorporated",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-rgeneral-production-dana-incorporated-1135713",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "content writing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-30T22:10:16+00:00"
-    },
-    {
-      "title": "Future Job Test",
-      "company": "Flock Freight",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-future-job-test-flock-freight-1135715",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-30T22:06:08+00:00"
-    },
-    {
-      "title": "Sales Development Representative Outbound",
-      "company": "Tremendous",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-outbound-tremendous-1135741",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "technical",
-        "writer",
-        "customer support",
-        "exec",
-        "education",
-        "senior",
-        "marketing",
-        "sales",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-30T19:56:26+00:00"
     }
   ],
-  "last_updated": "2026-08-01T18:40:46.811826",
+  "last_updated": "2026-08-01T19:54:22.686212",
   "total": 20,
-  "new": 0
+  "new": 3
 }

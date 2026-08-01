@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "title": "GenAI Engineer AI Builder AI Agent Associate Specialist",
+      "company": "Magic Compass Limited",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735",
+      "source": "RemoteOK",
+      "tags": [
+        "ai",
+        "blockchain",
+        "machine learning",
+        "deep learning",
+        "artificial intelligence",
+        "neural networks",
+        "Claude",
+        "OpenClaw",
+        "Codex",
+        "AI Agent",
+        "OpenAI",
+        "Prompt Engineering",
+        "Risk Management",
+        "crypto",
+        "web3"
+      ],
+      "salary": "",
+      "posted": "2026-07-31T08:46:48+00:00"
+    },
+    {
       "title": "Permanent Jobs",
       "company": "New Zealand Apples and Pears",
       "location": "Remote",
@@ -417,31 +443,9 @@
       ],
       "salary": "",
       "posted": "2026-07-30T15:12:13+00:00"
-    },
-    {
-      "title": "A Book of Your Own",
-      "company": "TechWhirl",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-a-book-of-your-own-techwhirl-1135683",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "analyst",
-        "finance",
-        "content writing",
-        "excel",
-        "golang",
-        "non tech",
-        "consulting",
-        "technical",
-        "writer",
-        "testing"
-      ],
-      "salary": "",
-      "posted": "2026-07-30T14:19:46+00:00"
     }
   ],
-  "last_updated": "2026-08-01T07:06:55.098392",
+  "last_updated": "2026-08-01T09:17:24.232543",
   "total": 20,
   "new": 1
 }

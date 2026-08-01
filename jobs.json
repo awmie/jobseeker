@@ -1,6 +1,43 @@
 {
   "jobs": [
     {
+      "title": "Th\u00e1\u00bb\u00b1c T\u00e1\u00ba\u00adp Sinh Ph\u00c3\u00a1t Tri\u00e1\u00bb\u0083n Kinh Doanh",
+      "company": "ACC Hospitality",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-thuc-tap-sinh-phat-trien-kinh-doanh-acc-hospitality-1135780",
+      "source": "RemoteOK",
+      "tags": [
+        "c"
+      ],
+      "salary": "",
+      "posted": "2026-07-31T17:26:38+00:00"
+    },
+    {
+      "title": "Range Keeper",
+      "company": "Black &amp; McDonald Limited",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-range-keeper-black-amp-mcdonald-limited-1135751",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "consulting",
+        "senior",
+        "ops",
+        "sales",
+        "golang",
+        "digital nomad",
+        "front end",
+        "infosec",
+        "education",
+        "marketing",
+        "dev",
+        "exec",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-07-31T17:11:52+00:00"
+    },
+    {
       "title": "Other areas",
       "company": "Zegogo Corporation",
       "location": "Remote",
@@ -384,45 +421,9 @@
       ],
       "salary": "",
       "posted": "2026-07-30T19:56:26+00:00"
-    },
-    {
-      "title": "Admissions Advisor MasterClass Executive",
-      "company": "MasterClass",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-admissions-advisor-masterclass-executive-masterclass-1135740",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "technical",
-        "writer",
-        "customer support",
-        "exec",
-        "education",
-        "senior",
-        "marketing",
-        "sales",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-30T19:18:12+00:00"
-    },
-    {
-      "title": "Cleaner",
-      "company": "Beklane Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-cleaner-beklane-ltd-1135733",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "travel",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-30T18:05:16+00:00"
     }
   ],
-  "last_updated": "2026-08-01T16:37:46.818001",
+  "last_updated": "2026-08-01T17:40:42.879915",
   "total": 20,
-  "new": 0
+  "new": 2
 }

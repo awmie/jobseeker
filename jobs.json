@@ -1,6 +1,48 @@
 {
   "jobs": [
     {
+      "title": "Patient Outreach Specialist",
+      "company": "Grapefruit Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-outreach-specialist-grapefruit-health-1135789",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "teaching",
+        "education",
+        "recruiter",
+        "supervisor",
+        "customer support",
+        "dev",
+        "virtual assistant",
+        "video",
+        "medical",
+        "part time",
+        "non tech",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T16:00:13+00:00"
+    },
+    {
+      "title": "Licensed Customer Service Representative",
+      "company": "Liberty Mutual Insurance",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-licensed-customer-service-representative-liberty-mutual-insurance-1135788",
+      "source": "RemoteOK",
+      "tags": [
+        "embedded",
+        "education",
+        "customer support",
+        "marketing",
+        "c",
+        "golang",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T16:00:06+00:00"
+    },
+    {
       "title": "Join The Berry Avionics Team",
       "company": "Berry Avionics",
       "location": "Remote",
@@ -301,77 +343,9 @@
       ],
       "salary": "",
       "posted": "2026-08-01T02:17:23+00:00"
-    },
-    {
-      "title": "Chief Operating Officer",
-      "company": "U.S. Hunger",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-u-s-hunger-1135756",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "customer support",
-        "marketing",
-        "travel",
-        "legal",
-        "sales",
-        "medical",
-        "full time",
-        "hr",
-        "consulting",
-        "recruiter",
-        "speech",
-        "education",
-        "microsoft",
-        "mobile",
-        "excel",
-        "design",
-        "ops",
-        "finance",
-        "c",
-        "senior",
-        "stats",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-01T01:54:09+00:00"
-    },
-    {
-      "title": "Safety Advisor",
-      "company": "Keolis Australia &amp; New Zealand",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-safety-advisor-keolis-australia-amp-new-zealand-1135759",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "recruiter",
-        "non tech",
-        "design",
-        "hr",
-        "infosec",
-        "teaching",
-        "game dev",
-        "testing",
-        "travel",
-        "accounting",
-        "finance",
-        "video",
-        "education",
-        "exec",
-        "marketing",
-        "telecom",
-        "legal",
-        "sales",
-        "medical",
-        "full time",
-        "part time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-01T01:47:02+00:00"
     }
   ],
-  "last_updated": "2026-08-02T15:48:45.236003",
+  "last_updated": "2026-08-02T16:40:44.914823",
   "total": 20,
-  "new": 3
+  "new": 2
 }

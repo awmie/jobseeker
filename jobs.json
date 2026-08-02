@@ -1,6 +1,45 @@
 {
   "jobs": [
     {
+      "title": "Join The Berry Avionics Team",
+      "company": "Berry Avionics",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-the-berry-avionics-team-berry-avionics-1135912",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "testing"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T15:45:16+00:00"
+    },
+    {
+      "title": "WordiQt",
+      "company": "koodup",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-wordiqt-koodup-1135838",
+      "source": "RemoteOK",
+      "tags": [
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T15:08:18+00:00"
+    },
+    {
+      "title": "Story Seed",
+      "company": "koodup",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-story-seed-koodup-1135839",
+      "source": "RemoteOK",
+      "tags": [
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T15:08:15+00:00"
+    },
+    {
       "title": "Labourer",
       "company": "One Way",
       "location": "Remote",
@@ -330,78 +369,9 @@
       ],
       "salary": "",
       "posted": "2026-08-01T01:47:02+00:00"
-    },
-    {
-      "title": "Freelance Creative Director",
-      "company": "BMWL",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "amazon",
-        "designer",
-        "customer support",
-        "video",
-        "exec",
-        "junior",
-        "marketing",
-        "ecommerce",
-        "digital nomad",
-        "art direction",
-        "consulting",
-        "ads",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T23:38:35+00:00"
-    },
-    {
-      "title": "Tequila Market Manager New Jersey",
-      "company": "Bandero Tequila",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-tequila-market-manager-new-jersey-bandero-tequila-1135754",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "customer support",
-        "marketing",
-        "travel",
-        "legal",
-        "sales",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T22:31:25+00:00"
-    },
-    {
-      "title": "Human Resources Coordinator",
-      "company": "Pacific Health Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-pacific-health-group-1135783",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "sys admin",
-        "education",
-        "recruiter",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "exec",
-        "payroll",
-        "finance",
-        "ops",
-        "medical",
-        "internship",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T22:29:53+00:00"
     }
   ],
-  "last_updated": "2026-08-02T14:51:18.315553",
+  "last_updated": "2026-08-02T15:48:45.236003",
   "total": 20,
-  "new": 5
+  "new": 3
 }

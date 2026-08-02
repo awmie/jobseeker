@@ -1,6 +1,23 @@
 {
   "jobs": [
     {
+      "title": "Housekeeper",
+      "company": "Phoenix Senior Living",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-housekeeper-phoenix-senior-living-1135787",
+      "source": "RemoteOK",
+      "tags": [
+        "ads",
+        "sys admin",
+        "supervisor",
+        "education",
+        "senior",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T11:56:27+00:00"
+    },
+    {
       "title": "UNC",
       "company": "LiveSomeWhere",
       "location": "Remote",
@@ -386,19 +403,9 @@
       ],
       "salary": "",
       "posted": "2026-07-31T17:11:52+00:00"
-    },
-    {
-      "title": "ASSISTENTE ADMINISTRATIVO RH DP",
-      "company": "Samba Hospitality Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-rh-dp-samba-hospitality-group-1135843",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-07-31T16:44:12+00:00"
     }
   ],
-  "last_updated": "2026-08-02T10:57:02.550059",
+  "last_updated": "2026-08-02T12:04:06.365683",
   "total": 20,
-  "new": 4
+  "new": 1
 }

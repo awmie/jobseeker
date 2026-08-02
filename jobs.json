@@ -70,6 +70,22 @@
       "posted": "2026-08-01T10:08:16+00:00"
     },
     {
+      "title": "Managing Director",
+      "company": "Berni and Mick Ireland",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-managing-director-berni-and-mick-ireland-1135908",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "consulting",
+        "marketing",
+        "senior",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T06:38:19+00:00"
+    },
+    {
       "title": "Y Combinator \u00e2\u0080\u0094 Aceleradora de Startups",
       "company": "Espa\u00c3\u00b1ol Sin Fronteras",
       "location": "Remote",
@@ -378,34 +394,9 @@
       ],
       "salary": "",
       "posted": "2026-07-31T17:26:38+00:00"
-    },
-    {
-      "title": "Range Keeper",
-      "company": "Black &amp; McDonald Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-range-keeper-black-amp-mcdonald-limited-1135751",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "consulting",
-        "senior",
-        "ops",
-        "sales",
-        "golang",
-        "digital nomad",
-        "front end",
-        "infosec",
-        "education",
-        "marketing",
-        "dev",
-        "exec",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T17:11:52+00:00"
     }
   ],
-  "last_updated": "2026-08-02T12:04:06.365683",
+  "last_updated": "2026-08-02T13:48:20.617531",
   "total": 20,
   "new": 1
 }

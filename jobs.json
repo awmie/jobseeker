@@ -1,6 +1,157 @@
 {
   "jobs": [
     {
+      "title": "Y Combinator \u00e2\u0080\u0094 Aceleradora de Startups",
+      "company": "Espa\u00c3\u00b1ol Sin Fronteras",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-y-combinator-aceleradora-de-startups-espanol-sin-fronteras-1135762",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "speech",
+        "finance",
+        "exec",
+        "ops",
+        "golang",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T03:27:13+00:00"
+    },
+    {
+      "title": "Estimator",
+      "company": "MTrec Recruitment",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-mtrec-recruitment-1135768",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "exec",
+        "finance",
+        "scheme",
+        "excel",
+        "sales",
+        "engineer",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T02:44:41+00:00"
+    },
+    {
+      "title": "Estimator",
+      "company": "One Way",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-one-way-1135769",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "exec",
+        "finance",
+        "scheme",
+        "excel",
+        "sales",
+        "engineer",
+        "recruiter",
+        "education",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T02:43:33+00:00"
+    },
+    {
+      "title": "Service Locator",
+      "company": "BAM UK &amp; Ireland",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-service-locator-bam-uk-amp-ireland-1135771",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "exec",
+        "finance",
+        "scheme",
+        "excel",
+        "sales",
+        "engineer",
+        "recruiter",
+        "education",
+        "ops",
+        "customer support",
+        "infosec",
+        "travel",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T02:43:25+00:00"
+    },
+    {
+      "title": "Chief Operating Officer",
+      "company": "U.S. Hunger",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-u-s-hunger-1135756",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "marketing",
+        "travel",
+        "legal",
+        "sales",
+        "medical",
+        "full time",
+        "hr",
+        "consulting",
+        "recruiter",
+        "speech",
+        "education",
+        "microsoft",
+        "mobile",
+        "excel",
+        "design",
+        "ops",
+        "finance",
+        "c",
+        "senior",
+        "stats",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T01:54:09+00:00"
+    },
+    {
+      "title": "Safety Advisor",
+      "company": "Keolis Australia &amp; New Zealand",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-safety-advisor-keolis-australia-amp-new-zealand-1135759",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "recruiter",
+        "non tech",
+        "design",
+        "hr",
+        "infosec",
+        "teaching",
+        "game dev",
+        "testing",
+        "travel",
+        "accounting",
+        "finance",
+        "video",
+        "education",
+        "exec",
+        "marketing",
+        "telecom",
+        "legal",
+        "sales",
+        "medical",
+        "full time",
+        "part time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T01:47:02+00:00"
+    },
+    {
       "title": "Tequila Market Manager New Jersey",
       "company": "Bandero Tequila",
       "location": "Remote",
@@ -290,111 +441,9 @@
       ],
       "salary": "",
       "posted": "2026-07-31T10:07:47+00:00"
-    },
-    {
-      "title": "Journalist",
-      "company": "Citywire Espa\u00c3\u00b1a",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-journalist-citywire-espana-1135763",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "speech",
-        "finance",
-        "exec",
-        "ops",
-        "golang",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T09:38:32+00:00"
-    },
-    {
-      "title": "Journalist Citywire Spain",
-      "company": "Citywire",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-journalist-citywire-spain-citywire-1135761",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "speech",
-        "finance",
-        "exec",
-        "ops",
-        "golang",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T09:32:36+00:00"
-    },
-    {
-      "title": "GenAI Engineer AI Builder AI Agent Associate Specialist",
-      "company": "Magic Compass Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735",
-      "source": "RemoteOK",
-      "tags": [
-        "ai",
-        "blockchain",
-        "machine learning",
-        "deep learning",
-        "artificial intelligence",
-        "neural networks",
-        "Claude",
-        "OpenClaw",
-        "Codex",
-        "AI Agent",
-        "OpenAI",
-        "Prompt Engineering",
-        "Risk Management",
-        "crypto",
-        "web3"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T08:46:48+00:00"
-    },
-    {
-      "title": "Permanent Jobs",
-      "company": "New Zealand Apples and Pears",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-permanent-jobs-new-zealand-apples-and-pears-1135747",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "golang",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T07:02:41+00:00"
-    },
-    {
-      "title": "Traffic Controller",
-      "company": "Aussie Traffic Control",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-traffic-controller-aussie-traffic-control-1135728",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "full time",
-        "controller"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T02:48:38+00:00"
-    },
-    {
-      "title": "AI\u00e5\u009f\u00b9\u00e8\u00ae\u00ad\u00e8\u00ae\u00b2\u00e5\u00b8\u0088 \u00e7\u00a1\u0095\u00e5\u008d\u009a\u00e9\u00a1\u00b9\u00e7\u009b\u00ae\u00ef\u00bc\u0088\u00e7\u00ba\u00bf\u00e4\u00b8\u008a\u00ef\u00bc",
-      "company": "\u00e8\u00bd\u00af\u00e8\u00a3\u0085\u00e8\u00ae\u00be\u00e8\u00ae\u00a1\u00e5\u0085\u00ac\u00e5\u008f\u00b8",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/",
-      "source": "RemoteOK",
-      "tags": [
-        "python"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T02:43:34+00:00"
     }
   ],
-  "last_updated": "2026-08-02T01:11:17.624479",
+  "last_updated": "2026-08-02T04:37:20.380392",
   "total": 20,
-  "new": 0
+  "new": 6
 }

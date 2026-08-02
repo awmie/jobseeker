@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "title": "UNC",
+      "company": "LiveSomeWhere",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-unc-livesomewhere-1135777",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T10:25:58+00:00"
+    },
+    {
+      "title": "ROCHESTER",
+      "company": "LiveSomeWhere",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-rochester-livesomewhere-1135779",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T10:24:10+00:00"
+    },
+    {
+      "title": "Elite",
+      "company": "Social Value, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-elite-social-value-inc-1135776",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T10:08:24+00:00"
+    },
+    {
+      "title": "Basic",
+      "company": "Social Value, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-basic-social-value-inc-1135775",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-01T10:08:16+00:00"
+    },
+    {
       "title": "Y Combinator \u00e2\u0080\u0094 Aceleradora de Startups",
       "company": "Espa\u00c3\u00b1ol Sin Fronteras",
       "location": "Remote",
@@ -344,117 +396,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-07-31T16:44:12+00:00"
-    },
-    {
-      "title": "Other areas",
-      "company": "Zegogo Corporation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-other-areas-zegogo-corporation-1135758",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "recruiter",
-        "non tech",
-        "design",
-        "hr",
-        "infosec",
-        "teaching",
-        "game dev",
-        "testing",
-        "travel",
-        "accounting",
-        "finance",
-        "video",
-        "education",
-        "exec",
-        "marketing",
-        "telecom",
-        "legal",
-        "sales",
-        "medical",
-        "full time",
-        "part time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T14:50:03+00:00"
-    },
-    {
-      "title": "Product Engineer",
-      "company": "SuperPlane",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-engineer-superplane-1135739",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "javascript",
-        "react",
-        "ai"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T14:48:13+00:00"
-    },
-    {
-      "title": "Client Onboarding Manager",
-      "company": "Connecteam",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-client-onboarding-manager-connecteam-1135743",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "technical",
-        "writer",
-        "customer support",
-        "exec",
-        "education",
-        "senior",
-        "marketing",
-        "sales",
-        "medical",
-        "full time",
-        "virtual assistant",
-        "finance",
-        "ops",
-        "recruiter",
-        "design",
-        "saas",
-        "sys admin",
-        "dev",
-        "payroll",
-        "golang",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T14:08:21+00:00"
-    },
-    {
-      "title": "Entry Level Virtual Assistant $14 $18 hour",
-      "company": "Filipino Contractors",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-virtual-assistant-14-18-hour-filipino-contractors-1135742",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "technical",
-        "writer",
-        "customer support",
-        "exec",
-        "education",
-        "senior",
-        "marketing",
-        "sales",
-        "medical",
-        "full time",
-        "virtual assistant",
-        "finance",
-        "ops",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-07-31T12:46:47+00:00"
     }
   ],
-  "last_updated": "2026-08-02T09:24:24.457602",
+  "last_updated": "2026-08-02T10:57:02.550059",
   "total": 20,
-  "new": 0
+  "new": 4
 }

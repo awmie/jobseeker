@@ -1,6 +1,77 @@
 {
   "jobs": [
     {
+      "title": "L\u00c3\u0089N",
+      "company": "Patice",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-len-patice-1136036",
+      "source": "RemoteOK",
+      "tags": [
+        "amazon",
+        "web dev",
+        "engineer",
+        "ecommerce",
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-08-02T16:33:20+00:00"
+    },
+    {
+      "title": "Fire Technician",
+      "company": "Chubb Fire &amp; Security",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-fire-technician-chubb-fire-amp-security-1136000",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "technical",
+        "customer support",
+        "dev",
+        "microsoft",
+        "senior",
+        "ops",
+        "engineer",
+        "digital nomad",
+        "sys admin",
+        "education",
+        "testing",
+        "exec",
+        "excel",
+        "payroll",
+        "medical",
+        "video",
+        "marketing",
+        "travel",
+        "finance",
+        "mobile",
+        "hr",
+        "recruiter",
+        "supervisor",
+        "consulting",
+        "assembly",
+        "saas",
+        "golang",
+        "coordinator",
+        "product manager",
+        "bus dev",
+        "sales",
+        "amazon",
+        "salesforce",
+        "infosec",
+        "embedded",
+        "java",
+        "c",
+        "c plus plus",
+        "cloud",
+        "linux",
+        "speech",
+        "adult",
+        "junior"
+      ],
+      "salary": "",
+      "posted": "2026-08-02T16:31:39+00:00"
+    },
+    {
       "title": "\u00c2\u00bfNECESITO UNA APP O NO",
       "company": "eXtremaNET Consultores",
       "location": "Remote",
@@ -340,43 +411,9 @@
       ],
       "salary": "",
       "posted": "2026-08-02T01:50:08+00:00"
-    },
-    {
-      "title": "\u00ce\u00a6\u00ce\u00b1\u00ce\u00bd\u00cf\u0084\u00ce\u00b1\u00cf\u0083\u00cf\u0084\u00ce\u00b9\u00ce\u00ba\u00ce\u00ac \u00ce\u0094\u00cf\u0089\u00ce\u00bc\u00ce\u00ac\u00cf\u0084\u00ce\u00b9\u00ce",
-      "company": "Imaginary Rooms",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-02T01:22:20+00:00"
-    },
-    {
-      "title": "Patient Outreach Specialist",
-      "company": "Grapefruit Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-patient-outreach-specialist-grapefruit-health-1135789",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "teaching",
-        "education",
-        "recruiter",
-        "supervisor",
-        "customer support",
-        "dev",
-        "virtual assistant",
-        "video",
-        "medical",
-        "part time",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-01T16:00:13+00:00"
     }
   ],
-  "last_updated": "2026-08-03T16:01:44.993956",
+  "last_updated": "2026-08-03T17:59:56.875741",
   "total": 20,
-  "new": 7
+  "new": 2
 }

@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "title": "Failure Breeds Success",
+      "company": "Deliberate Development",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-failure-breeds-success-deliberate-development-1135924",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "finance",
+        "exec",
+        "api",
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-08-02T18:19:27+00:00"
+    },
+    {
+      "title": "Put the Effort",
+      "company": "Deliberate Development",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-put-the-effort-deliberate-development-1135923",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "finance",
+        "exec",
+        "api",
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-08-02T18:19:11+00:00"
+    },
+    {
       "title": "L\u00c3\u0089N",
       "company": "Patice",
       "location": "Remote",
@@ -366,54 +398,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-02T03:06:48+00:00"
-    },
-    {
-      "title": "Junior Designer",
-      "company": "Haystack",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-designer-haystack-1135900",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "amazon",
-        "designer",
-        "customer support",
-        "video",
-        "exec",
-        "junior",
-        "marketing",
-        "ecommerce",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-02T01:55:47+00:00"
-    },
-    {
-      "title": "Data Entry Administrator",
-      "company": "PulseMediaNL",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-administrator-pulsemedianl-1135903",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "infosec",
-        "education",
-        "customer support",
-        "dev",
-        "marketing",
-        "admin",
-        "microsoft",
-        "exec",
-        "content writing",
-        "ops",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-02T01:50:08+00:00"
     }
   ],
-  "last_updated": "2026-08-03T17:59:56.875741",
+  "last_updated": "2026-08-03T19:47:57.572021",
   "total": 20,
   "new": 2
 }

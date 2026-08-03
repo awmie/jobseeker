@@ -1,6 +1,51 @@
 {
   "jobs": [
     {
+      "title": "Compatibility",
+      "company": "DanielTems",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-compatibility-danieltems-1135929",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "marketing",
+        "speech",
+        "exec",
+        "golang",
+        "part time",
+        "infosec",
+        "cloud",
+        "medical",
+        "design",
+        "embedded",
+        "sys admin",
+        "customer support",
+        "finance",
+        "ops",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-02T21:05:22+00:00"
+    },
+    {
+      "title": "These 10 things on your cv could be the reason you are not getting hired",
+      "company": "Anansewaa",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-these-10-things-on-your-cv-could-be-the-reason-you-are-not-getting-hired-anansewaa-1136039",
+      "source": "RemoteOK",
+      "tags": [
+        "amazon",
+        "web dev",
+        "engineer",
+        "ecommerce",
+        "marketing",
+        "dev",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-02T20:59:49+00:00"
+    },
+    {
       "title": "Menu",
       "company": "Bevoxe",
       "location": "Remote",
@@ -378,36 +423,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-02T08:28:38+00:00"
-    },
-    {
-      "title": "Team Member",
-      "company": "Barefoot Student",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-member-barefoot-student-1135906",
-      "source": "RemoteOK",
-      "tags": [
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-08-02T07:34:27+00:00"
-    },
-    {
-      "title": "We hire rarely \u00e2\u0080\u0094 and carefully",
-      "company": "MITRITY",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-we-hire-rarely-and-carefully-mitrity-1135922",
-      "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "finance",
-        "exec",
-        "api"
-      ],
-      "salary": "",
-      "posted": "2026-08-02T04:20:41+00:00"
     }
   ],
-  "last_updated": "2026-08-03T20:47:25.675091",
+  "last_updated": "2026-08-03T21:52:36.310401",
   "total": 20,
-  "new": 1
+  "new": 2
 }

@@ -1,6 +1,98 @@
 {
   "jobs": [
     {
+      "title": "Estimator",
+      "company": "Jobot",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-jobot-1135961",
+      "source": "RemoteOK",
+      "tags": [
+        "supervisor",
+        "customer support",
+        "legal",
+        "medical",
+        "full time",
+        "part time",
+        "non tech",
+        "infosec",
+        "education",
+        "dev",
+        "exec",
+        "ops",
+        "golang",
+        "digital nomad",
+        "mobile",
+        "virtual assistant",
+        "content writing",
+        "recruiter",
+        "engineer",
+        "accounting",
+        "finance",
+        "hr",
+        "technical",
+        "sys admin",
+        "teaching",
+        "embedded",
+        "marketing",
+        "sales",
+        "telecom",
+        "microsoft",
+        "testing",
+        "design",
+        "travel"
+      ],
+      "salary": "",
+      "posted": "2026-08-02T09:12:31+00:00"
+    },
+    {
+      "title": "Baby BB Jam",
+      "company": "Patti&amp;More!",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-baby-bb-jam-pattiampmore-1135911",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "testing"
+      ],
+      "salary": "",
+      "posted": "2026-08-02T08:38:09+00:00"
+    },
+    {
+      "title": "BB Jam Burger",
+      "company": "Patti&amp;More!",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-bb-jam-burger-pattiampmore-1135913",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "testing"
+      ],
+      "salary": "",
+      "posted": "2026-08-02T08:37:44+00:00"
+    },
+    {
+      "title": "Estimator",
+      "company": "Revo Restore",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-revo-restore-1135918",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-02T08:28:38+00:00"
+    },
+    {
+      "title": "Team Member",
+      "company": "Barefoot Student",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-member-barefoot-student-1135906",
+      "source": "RemoteOK",
+      "tags": [
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-02T07:34:27+00:00"
+    },
+    {
       "title": "We hire rarely \u00e2\u0080\u0094 and carefully",
       "company": "MITRITY",
       "location": "Remote",
@@ -244,92 +336,53 @@
       "posted": "2026-08-01T14:16:56+00:00"
     },
     {
-      "title": "Housekeeper",
-      "company": "Phoenix Senior Living",
+      "title": "Business Development Representative ANZ",
+      "company": "JFrog",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-housekeeper-phoenix-senior-living-1135787",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-anz-jfrog-1135994",
       "source": "RemoteOK",
       "tags": [
-        "ads",
+        "design",
+        "technical",
+        "customer support",
+        "dev",
+        "microsoft",
+        "senior",
+        "ops",
+        "engineer",
+        "digital nomad",
         "sys admin",
-        "supervisor",
         "education",
-        "senior",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-01T11:56:27+00:00"
-    },
-    {
-      "title": "UNC",
-      "company": "LiveSomeWhere",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-unc-livesomewhere-1135777",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-01T10:25:58+00:00"
-    },
-    {
-      "title": "ROCHESTER",
-      "company": "LiveSomeWhere",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-rochester-livesomewhere-1135779",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-01T10:24:10+00:00"
-    },
-    {
-      "title": "Elite",
-      "company": "Social Value, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-elite-social-value-inc-1135776",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-01T10:08:24+00:00"
-    },
-    {
-      "title": "Basic",
-      "company": "Social Value, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-basic-social-value-inc-1135775",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-01T10:08:16+00:00"
-    },
-    {
-      "title": "Managing Director",
-      "company": "Berni and Mick Ireland",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-managing-director-berni-and-mick-ireland-1135908",
-      "source": "RemoteOK",
-      "tags": [
+        "testing",
         "exec",
-        "consulting",
+        "excel",
+        "payroll",
+        "medical",
+        "video",
         "marketing",
-        "senior",
-        "ops"
+        "travel",
+        "finance",
+        "mobile",
+        "hr",
+        "recruiter",
+        "supervisor",
+        "consulting",
+        "assembly",
+        "saas",
+        "golang",
+        "coordinator",
+        "product manager",
+        "bus dev",
+        "sales",
+        "amazon",
+        "salesforce",
+        "infosec"
       ],
       "salary": "",
-      "posted": "2026-08-01T06:38:19+00:00"
+      "posted": "2026-08-01T12:50:59+00:00"
     }
   ],
-  "last_updated": "2026-08-03T06:48:41.797066",
+  "last_updated": "2026-08-03T10:29:15.869179",
   "total": 20,
-  "new": 1
+  "new": 6
 }

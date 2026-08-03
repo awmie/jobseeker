@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "L\u00e2\u0080\u0099\u00c3\u0089volution Du T\u00c3\u00a9l\u00c3\u00a9travail Les Enseignements Du Rapport De La DARES Novembre 2024",
+      "company": "Office Notarial des Vallons de Vilaine",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-levolution-du-teletravail-les-enseignements-du-rapport-de-la-dares-novembre-2024-office-notarial-des-vallons-de-vilaine-1135925",
+      "source": "RemoteOK",
+      "tags": [
+        "video",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-02T22:15:18+00:00"
+    },
+    {
       "title": "Compatibility",
       "company": "DanielTems",
       "location": "Remote",
@@ -93,6 +106,28 @@
       ],
       "salary": "",
       "posted": "2026-08-02T18:19:11+00:00"
+    },
+    {
+      "title": "Profesor A De Ele \u00e2\u0080\u0094 Ense\u00c3\u00b1anza Innovadora Horario Flexible",
+      "company": "Apprentus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-profesor-a-de-ele-ensenanza-innovadora-horario-flexible-apprentus-1136062",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "front end",
+        "designer",
+        "dev",
+        "seo",
+        "content writing",
+        "junior",
+        "marketing",
+        "engineer",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-02T17:41:43+00:00"
     },
     {
       "title": "L\u00c3\u0089N",
@@ -400,32 +435,9 @@
       ],
       "salary": "",
       "posted": "2026-08-02T08:38:09+00:00"
-    },
-    {
-      "title": "BB Jam Burger",
-      "company": "Patti&amp;More!",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-bb-jam-burger-pattiampmore-1135913",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "testing"
-      ],
-      "salary": "",
-      "posted": "2026-08-02T08:37:44+00:00"
-    },
-    {
-      "title": "Estimator",
-      "company": "Revo Restore",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-revo-restore-1135918",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-02T08:28:38+00:00"
     }
   ],
-  "last_updated": "2026-08-03T21:52:36.310401",
+  "last_updated": "2026-08-03T22:51:54.782357",
   "total": 20,
   "new": 2
 }

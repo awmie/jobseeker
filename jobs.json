@@ -1,6 +1,47 @@
 {
   "jobs": [
     {
+      "title": "Custom Software Engineer",
+      "company": "Accenture in India",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-custom-software-engineer-accenture-in-india-1136072",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "dev",
+        "design",
+        "technical",
+        "customer support",
+        "education",
+        "exec",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T18:14:44+00:00"
+    },
+    {
+      "title": "Expression of Interest",
+      "company": "Heim",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-heim-1136059",
+      "source": "RemoteOK",
+      "tags": [
+        "adult",
+        "golang",
+        "hr",
+        "testing",
+        "marketing",
+        "exec",
+        "finance",
+        "cloud",
+        "ops",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T17:22:53+00:00"
+    },
+    {
       "title": "Food &amp; Beverage Positions",
       "company": "MEF Ltd",
       "location": "Remote",
@@ -414,73 +455,9 @@
       ],
       "salary": "",
       "posted": "2026-08-03T06:37:28+00:00"
-    },
-    {
-      "title": "Build Anything Launch \u00e2\u0080\u0094 99 Seconds",
-      "company": "Clarity-Fox",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-build-anything-launch-99-seconds-clarity-fox-1135957",
-      "source": "RemoteOK",
-      "tags": [
-        "supervisor",
-        "customer support",
-        "legal",
-        "medical",
-        "full time",
-        "part time",
-        "non tech",
-        "infosec",
-        "education",
-        "dev",
-        "exec",
-        "ops",
-        "golang",
-        "digital nomad",
-        "mobile",
-        "virtual assistant",
-        "content writing",
-        "recruiter",
-        "engineer",
-        "accounting",
-        "finance",
-        "hr",
-        "technical",
-        "sys admin",
-        "teaching",
-        "embedded",
-        "marketing",
-        "sales",
-        "telecom",
-        "microsoft",
-        "testing",
-        "design",
-        "travel"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T05:03:52+00:00"
-    },
-    {
-      "title": "AGC Studio",
-      "company": "AGC Studio",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-agc-studio-agc-studio-1135931",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "speech",
-        "video",
-        "node",
-        "seo",
-        "content writing",
-        "marketing",
-        "ads",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T04:14:28+00:00"
     }
   ],
-  "last_updated": "2026-08-04T17:15:22.941616",
+  "last_updated": "2026-08-04T18:56:18.911533",
   "total": 20,
   "new": 2
 }

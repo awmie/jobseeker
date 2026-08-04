@@ -1,6 +1,47 @@
 {
   "jobs": [
     {
+      "title": "Handy Person",
+      "company": "London Borough of Merton",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-handy-person-london-borough-of-merton-1136058",
+      "source": "RemoteOK",
+      "tags": [
+        "adult",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T12:46:29+00:00"
+    },
+    {
+      "title": "JOHN FOLBERTH",
+      "company": "Beer City Code",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-john-folberth-beer-city-code-1136051",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "marketing",
+        "content writing",
+        "dev",
+        "microsoft",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T12:41:57+00:00"
+    },
+    {
+      "title": "TOM BOWEN",
+      "company": "Ms Represents",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-tom-bowen-ms-represents-1136049",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-03T11:32:34+00:00"
+    },
+    {
       "title": "Test Job 3",
       "company": "PinPoint Middleware Test Company",
       "location": "Remote",
@@ -413,59 +454,9 @@
       ],
       "salary": "",
       "posted": "2026-08-03T01:09:49+00:00"
-    },
-    {
-      "title": "General Laborer",
-      "company": "Lsn",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-laborer-lsn-1136048",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-03T01:03:14+00:00"
-    },
-    {
-      "title": "L\u00e2\u0080\u0099\u00c3\u0089volution Du T\u00c3\u00a9l\u00c3\u00a9travail Les Enseignements Du Rapport De La DARES Novembre 2024",
-      "company": "Office Notarial des Vallons de Vilaine",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-levolution-du-teletravail-les-enseignements-du-rapport-de-la-dares-novembre-2024-office-notarial-des-vallons-de-vilaine-1135925",
-      "source": "RemoteOK",
-      "tags": [
-        "video",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-02T22:15:18+00:00"
-    },
-    {
-      "title": "Compatibility",
-      "company": "DanielTems",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-compatibility-danieltems-1135929",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "marketing",
-        "speech",
-        "exec",
-        "golang",
-        "part time",
-        "infosec",
-        "cloud",
-        "medical",
-        "design",
-        "embedded",
-        "sys admin",
-        "customer support",
-        "finance",
-        "ops",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-02T21:05:22+00:00"
     }
   ],
-  "last_updated": "2026-08-04T11:12:14.956119",
+  "last_updated": "2026-08-04T13:09:35.967164",
   "total": 20,
-  "new": 6
+  "new": 3
 }

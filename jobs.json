@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "title": "Application Developer",
+      "company": "Accenture in India",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-application-developer-accenture-in-india-1136075",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "dev",
+        "design",
+        "technical",
+        "customer support",
+        "education",
+        "exec",
+        "engineer",
+        "digital nomad",
+        "vfx",
+        "ops",
+        "stats",
+        "consulting",
+        "speech",
+        "java"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T20:34:35+00:00"
+    },
+    {
       "title": "Labourer",
       "company": "Groupe Lebel",
       "location": "Remote",
@@ -379,25 +405,9 @@
       ],
       "salary": "",
       "posted": "2026-08-03T08:53:55+00:00"
-    },
-    {
-      "title": "folk",
-      "company": "Cllimber",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-folk-cllimber-1136037",
-      "source": "RemoteOK",
-      "tags": [
-        "amazon",
-        "web dev",
-        "engineer",
-        "ecommerce",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T08:53:38+00:00"
     }
   ],
-  "last_updated": "2026-08-04T20:24:12.878143",
+  "last_updated": "2026-08-04T21:46:39.979212",
   "total": 20,
-  "new": 3
+  "new": 1
 }

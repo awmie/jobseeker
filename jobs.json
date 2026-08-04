@@ -1,6 +1,115 @@
 {
   "jobs": [
     {
+      "title": "Test Job 3",
+      "company": "PinPoint Middleware Test Company",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-job-3-pinpoint-middleware-test-company-1136043",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "cloud",
+        "ops",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T11:06:19+00:00"
+    },
+    {
+      "title": "Marketing Coordinator Partner Programs",
+      "company": "Digiday",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-coordinator-partner-programs-digiday-1136045",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "coordinator",
+        "marketing",
+        "exec",
+        "content writing",
+        "sales",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T10:38:06+00:00"
+    },
+    {
+      "title": "Fireman",
+      "company": "Dishman Carbogen Amcis Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-fireman-dishman-carbogen-amcis-ltd-1136040",
+      "source": "RemoteOK",
+      "tags": [
+        "amazon",
+        "web dev",
+        "engineer",
+        "ecommerce",
+        "marketing",
+        "dev",
+        "digital nomad",
+        "sys admin",
+        "travel"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T10:08:19+00:00"
+    },
+    {
+      "title": "AH SIC CAM",
+      "company": "Aditya Birla Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ah-sic-cam-aditya-birla-group-1136073",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "dev",
+        "design",
+        "technical",
+        "customer support",
+        "education",
+        "exec",
+        "engineer",
+        "digital nomad",
+        "vfx",
+        "ops",
+        "stats"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T09:35:04+00:00"
+    },
+    {
+      "title": "Kit",
+      "company": "Cllimber",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-kit-cllimber-1136034",
+      "source": "RemoteOK",
+      "tags": [
+        "amazon",
+        "web dev",
+        "engineer",
+        "ecommerce",
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T08:53:55+00:00"
+    },
+    {
+      "title": "folk",
+      "company": "Cllimber",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-folk-cllimber-1136037",
+      "source": "RemoteOK",
+      "tags": [
+        "amazon",
+        "web dev",
+        "engineer",
+        "ecommerce",
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T08:53:38+00:00"
+    },
+    {
       "title": "AI Integration &amp; Automation",
       "company": "Kleverio",
       "location": "Remote",
@@ -354,114 +463,9 @@
       ],
       "salary": "",
       "posted": "2026-08-02T21:05:22+00:00"
-    },
-    {
-      "title": "These 10 things on your cv could be the reason you are not getting hired",
-      "company": "Anansewaa",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-these-10-things-on-your-cv-could-be-the-reason-you-are-not-getting-hired-anansewaa-1136039",
-      "source": "RemoteOK",
-      "tags": [
-        "amazon",
-        "web dev",
-        "engineer",
-        "ecommerce",
-        "marketing",
-        "dev",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-02T20:59:49+00:00"
-    },
-    {
-      "title": "Menu",
-      "company": "Bevoxe",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-menu-bevoxe-1135927",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "marketing",
-        "speech",
-        "exec",
-        "golang",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-08-02T20:31:52+00:00"
-    },
-    {
-      "title": "Failure Breeds Success",
-      "company": "Deliberate Development",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-failure-breeds-success-deliberate-development-1135924",
-      "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "finance",
-        "exec",
-        "api",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-08-02T18:19:27+00:00"
-    },
-    {
-      "title": "Put the Effort",
-      "company": "Deliberate Development",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-put-the-effort-deliberate-development-1135923",
-      "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "finance",
-        "exec",
-        "api",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-08-02T18:19:11+00:00"
-    },
-    {
-      "title": "Profesor A De Ele \u00e2\u0080\u0094 Ense\u00c3\u00b1anza Innovadora Horario Flexible",
-      "company": "Apprentus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-profesor-a-de-ele-ensenanza-innovadora-horario-flexible-apprentus-1136062",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "front end",
-        "designer",
-        "dev",
-        "seo",
-        "content writing",
-        "junior",
-        "marketing",
-        "engineer",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-02T17:41:43+00:00"
-    },
-    {
-      "title": "L\u00c3\u0089N",
-      "company": "Patice",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-len-patice-1136036",
-      "source": "RemoteOK",
-      "tags": [
-        "amazon",
-        "web dev",
-        "engineer",
-        "ecommerce",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-08-02T16:33:20+00:00"
     }
   ],
-  "last_updated": "2026-08-04T08:51:18.955516",
+  "last_updated": "2026-08-04T11:12:14.956119",
   "total": 20,
-  "new": 3
+  "new": 6
 }

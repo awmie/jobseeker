@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "title": "Food &amp; Beverage Positions",
+      "company": "MEF Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-food-amp-beverage-positions-mef-ltd-1136052",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-03T17:12:02+00:00"
+    },
+    {
+      "title": "Regional Flight Operations Support Manager",
+      "company": "Wing",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-flight-operations-support-manager-wing-1136054",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "education",
+        "recruiter",
+        "customer support",
+        "travel",
+        "finance",
+        "ops",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T17:00:01+00:00"
+    },
+    {
       "title": "SH Blasting Officer",
       "company": "Aditya Birla Group",
       "location": "Remote",
@@ -446,61 +478,9 @@
       ],
       "salary": "",
       "posted": "2026-08-03T04:14:28+00:00"
-    },
-    {
-      "title": "Jasper",
-      "company": "Hot9ja",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-jasper-hot9ja-1135932",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "speech",
-        "video",
-        "node",
-        "seo",
-        "content writing",
-        "marketing",
-        "ads",
-        "non tech",
-        "design",
-        "infosec",
-        "technical",
-        "customer support",
-        "dev",
-        "travel",
-        "chatbot",
-        "exec",
-        "ops",
-        "engineer",
-        "ecommerce",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T02:41:20+00:00"
-    },
-    {
-      "title": "Julius AI",
-      "company": "Hot9ja",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-julius-ai-hot9ja-1136041",
-      "source": "RemoteOK",
-      "tags": [
-        "amazon",
-        "web dev",
-        "engineer",
-        "ecommerce",
-        "marketing",
-        "dev",
-        "digital nomad",
-        "sys admin",
-        "travel"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T02:40:44+00:00"
     }
   ],
-  "last_updated": "2026-08-04T15:33:55.285752",
+  "last_updated": "2026-08-04T17:15:22.941616",
   "total": 20,
-  "new": 4
+  "new": 2
 }

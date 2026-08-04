@@ -1,6 +1,104 @@
 {
   "jobs": [
     {
+      "title": "SH Blasting Officer",
+      "company": "Aditya Birla Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sh-blasting-officer-aditya-birla-group-1136071",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T15:33:34+00:00"
+    },
+    {
+      "title": "Sales Coordinator New York",
+      "company": "Tito's Handmade Vodka",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-coordinator-new-york-titos-handmade-vodka-1136055",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "education",
+        "recruiter",
+        "customer support",
+        "travel",
+        "finance",
+        "ops",
+        "medical",
+        "full time",
+        "digital nomad",
+        "coordinator",
+        "microsoft",
+        "excel",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T14:43:58+00:00"
+    },
+    {
+      "title": "Managing Director Discovery and Insight",
+      "company": "TED Conferences",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-managing-director-discovery-and-insight-ted-conferences-1136056",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "education",
+        "recruiter",
+        "customer support",
+        "travel",
+        "finance",
+        "ops",
+        "medical",
+        "full time",
+        "digital nomad",
+        "coordinator",
+        "microsoft",
+        "excel",
+        "sales",
+        "sys admin",
+        "technical",
+        "testing",
+        "senior"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T14:04:26+00:00"
+    },
+    {
+      "title": "Social Media Coordinator",
+      "company": "Clandestine Magazine",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-clandestine-magazine-1136063",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "front end",
+        "designer",
+        "dev",
+        "seo",
+        "content writing",
+        "junior",
+        "marketing",
+        "engineer",
+        "full time",
+        "digital nomad",
+        "music",
+        "coordinator",
+        "customer support",
+        "speech",
+        "exec",
+        "scheme",
+        "social media",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T13:11:14+00:00"
+    },
+    {
       "title": "Handy Person",
       "company": "London Borough of Merton",
       "location": "Remote",
@@ -400,63 +498,9 @@
       ],
       "salary": "",
       "posted": "2026-08-03T02:40:44+00:00"
-    },
-    {
-      "title": "Wear What You Love is HIRING",
-      "company": "Provo Towne Centre",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-wear-what-you-love-is-hiring-provo-towne-centre-1136068",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-03T01:47:46+00:00"
-    },
-    {
-      "title": "Next Up",
-      "company": "eCare-Software LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-next-up-ecare-software-llc-1136044",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "cloud",
-        "ops",
-        "medical",
-        "non tech",
-        "dev",
-        "teaching",
-        "marketing",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T01:46:38+00:00"
-    },
-    {
-      "title": "help wanted",
-      "company": "Lsn",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-help-wanted-lsn-1136047",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-03T01:29:41+00:00"
-    },
-    {
-      "title": "General Production",
-      "company": "Dana Solutions LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-production-dana-solutions-llc-1136069",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "content writing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T01:09:49+00:00"
     }
   ],
-  "last_updated": "2026-08-04T13:09:35.967164",
+  "last_updated": "2026-08-04T15:33:55.285752",
   "total": 20,
-  "new": 3
+  "new": 4
 }

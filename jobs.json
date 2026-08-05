@@ -1,6 +1,75 @@
 {
   "jobs": [
     {
+      "title": "LiftResume AI",
+      "company": "Myriadloop",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-liftresume-ai-myriadloop-1136078",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-04T00:37:56+00:00"
+    },
+    {
+      "title": "ApnaStock",
+      "company": "YT Corporation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-apnastock-yt-corporation-1136084",
+      "source": "RemoteOK",
+      "tags": [
+        "travel",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T00:34:51+00:00"
+    },
+    {
+      "title": "Regional Sales Manager",
+      "company": "Balco, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-balco-inc-1136097",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "wordpress",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "travel",
+        "cloud",
+        "ads",
+        "exec",
+        "content writing",
+        "stats",
+        "sales",
+        "recruiter",
+        "digital nomad",
+        "embedded",
+        "hr",
+        "sys admin",
+        "game dev",
+        "technical",
+        "payroll",
+        "finance",
+        "api",
+        "ops",
+        "engineer",
+        "education",
+        "coordinator",
+        "medical",
+        "full time",
+        "microsoft",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T00:00:00+00:00"
+    },
+    {
       "title": "Application Developer",
       "company": "Accenture in India",
       "location": "Remote",
@@ -349,70 +418,9 @@
       ],
       "salary": "",
       "posted": "2026-08-03T11:06:19+00:00"
-    },
-    {
-      "title": "Marketing Coordinator Partner Programs",
-      "company": "Digiday",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-coordinator-partner-programs-digiday-1136045",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "coordinator",
-        "marketing",
-        "exec",
-        "content writing",
-        "sales",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T10:38:06+00:00"
-    },
-    {
-      "title": "Fireman",
-      "company": "Dishman Carbogen Amcis Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-fireman-dishman-carbogen-amcis-ltd-1136040",
-      "source": "RemoteOK",
-      "tags": [
-        "amazon",
-        "web dev",
-        "engineer",
-        "ecommerce",
-        "marketing",
-        "dev",
-        "digital nomad",
-        "sys admin",
-        "travel"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T10:08:19+00:00"
-    },
-    {
-      "title": "AH SIC CAM",
-      "company": "Aditya Birla Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ah-sic-cam-aditya-birla-group-1136073",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "dev",
-        "design",
-        "technical",
-        "customer support",
-        "education",
-        "exec",
-        "engineer",
-        "digital nomad",
-        "vfx",
-        "ops",
-        "stats"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T09:35:04+00:00"
     }
   ],
-  "last_updated": "2026-08-04T23:46:14.547662",
+  "last_updated": "2026-08-05T01:08:14.396001",
   "total": 20,
-  "new": 1
+  "new": 3
 }

@@ -122,6 +122,24 @@
       "posted": "2026-08-04T00:00:00+00:00"
     },
     {
+      "title": "Graphic designer",
+      "company": "Super Creative",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-super-creative-1136123",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "designer",
+        "video",
+        "marketing",
+        "photoshop",
+        "illustrator",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-03T22:08:49+00:00"
+    },
+    {
       "title": "Application Developer",
       "company": "Accenture in India",
       "location": "Remote",
@@ -368,22 +386,9 @@
       ],
       "salary": "",
       "posted": "2026-08-03T13:11:14+00:00"
-    },
-    {
-      "title": "Handy Person",
-      "company": "London Borough of Merton",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-handy-person-london-borough-of-merton-1136058",
-      "source": "RemoteOK",
-      "tags": [
-        "adult",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T12:46:29+00:00"
     }
   ],
-  "last_updated": "2026-08-05T04:26:41.578807",
+  "last_updated": "2026-08-05T07:14:50.322403",
   "total": 20,
-  "new": 4
+  "new": 1
 }

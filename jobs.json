@@ -1,6 +1,65 @@
 {
   "jobs": [
     {
+      "title": "Application for Payment Template",
+      "company": "The Site Office",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-application-for-payment-template-the-site-office-1136148",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T20:22:27+00:00"
+    },
+    {
+      "title": "Guide",
+      "company": "Svetoviz",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-guide-svetoviz-1136139",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T19:54:35+00:00"
+    },
+    {
+      "title": "Document Controller",
+      "company": "Fox Group of Companies",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-document-controller-fox-group-of-companies-1136102",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "infosec",
+        "education",
+        "technical",
+        "supervisor",
+        "customer support",
+        "testing",
+        "video",
+        "ops",
+        "controller"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T19:38:59+00:00"
+    },
+    {
       "title": "Currently no vacancies",
       "company": "Securancy Intelligence",
       "location": "Remote",
@@ -306,83 +365,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-04T08:51:11+00:00"
-    },
-    {
-      "title": "Employment by Occupation",
-      "company": "Best in Britain",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-employment-by-occupation-best-in-britain-1136134",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-04T07:26:32+00:00"
-    },
-    {
-      "title": "Employment Status",
-      "company": "Best in Britain",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-employment-status-best-in-britain-1136155",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud",
-        "finance",
-        "microsoft",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T07:26:17+00:00"
-    },
-    {
-      "title": "Partner Support Associate",
-      "company": "Check",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-partner-support-associate-check-1136095",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "saas",
-        "salesforce",
-        "wordpress",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "travel",
-        "cloud",
-        "ads",
-        "exec",
-        "content writing",
-        "stats",
-        "sales",
-        "recruiter",
-        "digital nomad",
-        "embedded",
-        "hr",
-        "sys admin",
-        "game dev",
-        "technical",
-        "payroll",
-        "finance",
-        "api",
-        "ops",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T07:25:36+00:00"
     }
   ],
-  "last_updated": "2026-08-05T19:26:49.751543",
+  "last_updated": "2026-08-05T20:43:53.752730",
   "total": 20,
-  "new": 4
+  "new": 3
 }

@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "title": "Marketing Specialist",
+      "company": "INNERGY",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-innergy-1136094",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "wordpress",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "travel",
+        "cloud",
+        "ads",
+        "exec",
+        "content writing",
+        "stats",
+        "sales",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T15:06:47+00:00"
+    },
+    {
       "title": "Clinical Coordination Manager",
       "company": "Enable Dental",
       "location": "Remote",
@@ -252,6 +281,36 @@
       "posted": "2026-08-04T07:25:36+00:00"
     },
     {
+      "title": "Compliance",
+      "company": "Curcle",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-compliance-curcle-1136179",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "full time",
+        "part time",
+        "sys admin",
+        "infosec",
+        "technical",
+        "customer support",
+        "marketing",
+        "finance",
+        "c",
+        "sales",
+        "medical",
+        "mobile",
+        "dev",
+        "chatbot",
+        "ops",
+        "legal",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T04:07:04+00:00"
+    },
+    {
       "title": "Community",
       "company": "Program Delta Performance Group",
       "location": "Remote",
@@ -324,33 +383,9 @@
       ],
       "salary": "",
       "posted": "2026-08-04T01:48:10+00:00"
-    },
-    {
-      "title": "LiftResume AI",
-      "company": "Myriadloop",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-liftresume-ai-myriadloop-1136078",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-04T00:37:56+00:00"
-    },
-    {
-      "title": "ApnaStock",
-      "company": "YT Corporation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-apnastock-yt-corporation-1136084",
-      "source": "RemoteOK",
-      "tags": [
-        "travel",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T00:34:51+00:00"
     }
   ],
-  "last_updated": "2026-08-05T14:27:40.323409",
+  "last_updated": "2026-08-05T16:15:17.477480",
   "total": 20,
-  "new": 1
+  "new": 2
 }

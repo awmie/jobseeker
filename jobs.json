@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "title": "Creeler",
+      "company": "Shaw Industries",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-creeler-shaw-industries-1136092",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "finance",
+        "exec",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T16:45:18+00:00"
+    },
+    {
+      "title": "Lead Hand",
+      "company": "Dexterra",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-hand-dexterra-1136174",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "full time",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T16:29:49+00:00"
+    },
+    {
       "title": "Marketing Specialist",
       "company": "INNERGY",
       "location": "Remote",
@@ -346,46 +375,9 @@
       ],
       "salary": "",
       "posted": "2026-08-04T02:20:43+00:00"
-    },
-    {
-      "title": "Mark Lefebvre",
-      "company": "SC AI Impact Alliance",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-mark-lefebvre-sc-ai-impact-alliance-1136145",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T02:14:26+00:00"
-    },
-    {
-      "title": "Close satellite support",
-      "company": "BRAVO1ALPHA BV",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-close-satellite-support-bravo1alpha-bv-1136076",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "css",
-        "ops",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T01:48:10+00:00"
     }
   ],
-  "last_updated": "2026-08-05T16:15:17.477480",
+  "last_updated": "2026-08-05T17:55:38.091454",
   "total": 20,
   "new": 2
 }

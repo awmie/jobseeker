@@ -1,6 +1,118 @@
 {
   "jobs": [
     {
+      "title": "Testing",
+      "company": "Richmond and Wandsworth Councils",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-testing-richmond-and-wandsworth-councils-1136093",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "finance",
+        "exec",
+        "digital nomad",
+        "testing"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T11:12:22+00:00"
+    },
+    {
+      "title": "Graphic Designer Freelance",
+      "company": "DAMIANI Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-freelance-damiani-group-1136122",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "designer",
+        "video",
+        "marketing",
+        "photoshop",
+        "illustrator",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T11:01:04+00:00"
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "TIMBERTEK",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-timbertek-1136108",
+      "source": "RemoteOK",
+      "tags": [
+        "data entry",
+        "virtual assistant",
+        "teaching",
+        "education",
+        "marketing",
+        "exec",
+        "sys admin",
+        "finance",
+        "sales",
+        "medical",
+        "customer support",
+        "video",
+        "microsoft",
+        "ops",
+        "excel",
+        "technical",
+        "dev",
+        "digital nomad",
+        "admin",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T11:00:10+00:00"
+    },
+    {
+      "title": "Express your interest",
+      "company": "Signal",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-express-your-interest-signal-1136091",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "finance",
+        "exec",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T10:33:54+00:00"
+    },
+    {
+      "title": "System Online Shopping",
+      "company": "Ouba",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-system-online-shopping-ouba-1136087",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T10:23:53+00:00"
+    },
+    {
+      "title": "What Remains",
+      "company": "Ouba",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-what-remains-ouba-1136090",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-04T10:23:09+00:00"
+    },
+    {
+      "title": "Still Hungry",
+      "company": "Ouba",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-still-hungry-ouba-1136089",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-04T10:14:35+00:00"
+    },
+    {
       "title": "NO CURRENT OPENINGS",
       "company": "Dimensionality",
       "location": "Remote",
@@ -238,144 +350,9 @@
       ],
       "salary": "",
       "posted": "2026-08-04T00:00:00+00:00"
-    },
-    {
-      "title": "Graphic designer",
-      "company": "Super Creative",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-super-creative-1136123",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "designer",
-        "video",
-        "marketing",
-        "photoshop",
-        "illustrator",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T22:08:49+00:00"
-    },
-    {
-      "title": "Liste",
-      "company": "Quicksite s\u00c3\u00a0rl",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-liste-quicksite-sarl-1136142",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T21:56:20+00:00"
-    },
-    {
-      "title": "Application Developer",
-      "company": "Accenture in India",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-application-developer-accenture-in-india-1136075",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "dev",
-        "design",
-        "technical",
-        "customer support",
-        "education",
-        "exec",
-        "engineer",
-        "digital nomad",
-        "vfx",
-        "ops",
-        "stats",
-        "consulting",
-        "speech",
-        "java"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T20:34:35+00:00"
-    },
-    {
-      "title": "Labourer",
-      "company": "Groupe Lebel",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-labourer-groupe-lebel-1136070",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "content writing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T20:06:53+00:00"
-    },
-    {
-      "title": "Student Success Coach",
-      "company": "FindTutors",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-student-success-coach-findtutors-1136086",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "customer support",
-        "marketing",
-        "education",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T19:35:02+00:00"
-    },
-    {
-      "title": "Custom Software Engineer",
-      "company": "Accenture in India",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-custom-software-engineer-accenture-in-india-1136072",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "dev",
-        "design",
-        "technical",
-        "customer support",
-        "education",
-        "exec",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T18:14:44+00:00"
-    },
-    {
-      "title": "Expression of Interest",
-      "company": "Heim",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-heim-1136059",
-      "source": "RemoteOK",
-      "tags": [
-        "adult",
-        "golang",
-        "hr",
-        "testing",
-        "marketing",
-        "exec",
-        "finance",
-        "cloud",
-        "ops",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-03T17:22:53+00:00"
     }
   ],
-  "last_updated": "2026-08-05T09:58:22.981859",
+  "last_updated": "2026-08-05T12:02:57.360325",
   "total": 20,
   "new": 7
 }

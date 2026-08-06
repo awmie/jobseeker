@@ -1,6 +1,217 @@
 {
   "jobs": [
     {
+      "title": "The AI Optimization Playbook",
+      "company": "InBrief.ai",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-ai-optimization-playbook-inbrief-ai-1136119",
+      "source": "RemoteOK",
+      "tags": [
+        "cloud",
+        "engineer",
+        "admin",
+        "ops",
+        "finance",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-05T00:02:14+00:00"
+    },
+    {
+      "title": "VISUAL INSPECTION",
+      "company": "Tyrell Solar",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-visual-inspection-tyrell-solar-1136157",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-08-05T00:01:34+00:00"
+    },
+    {
+      "title": "Silicon Valley",
+      "company": "Zyke",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-silicon-valley-zyke-1136138",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-05T00:00:35+00:00"
+    },
+    {
+      "title": "Avi Go",
+      "company": "BAT Pros",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-avi-go-bat-pros-1136141",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T23:51:39+00:00"
+    },
+    {
+      "title": "Send us your CV",
+      "company": "NibraSec",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-send-us-your-cv-nibrasec-1136114",
+      "source": "RemoteOK",
+      "tags": [
+        "cloud",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T23:51:09+00:00"
+    },
+    {
+      "title": "Information",
+      "company": "LDT (Latham Direct Timber)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-information-ldt-latham-direct-timber-1136116",
+      "source": "RemoteOK",
+      "tags": [
+        "cloud",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T23:32:37+00:00"
+    },
+    {
+      "title": "Senior Director of Global Operations",
+      "company": "Wing",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-director-of-global-operations-wing-1136209",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad",
+        "dev",
+        "senior",
+        "medical",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T23:14:59+00:00"
+    },
+    {
+      "title": "Director of Marketing",
+      "company": "Wing",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-marketing-wing-1136208",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T23:14:56+00:00"
+    },
+    {
+      "title": "Krish Gupta",
+      "company": "Eddy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-krish-gupta-eddy-1136146",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T23:12:18+00:00"
+    },
+    {
+      "title": "ZAP",
+      "company": "CliAvalia",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-zap-cliavalia-1136159",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical",
+        "education"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T23:10:18+00:00"
+    },
+    {
+      "title": "Shutlify",
+      "company": "Twitan.com",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-shutlify-twitan-com-1136117",
+      "source": "RemoteOK",
+      "tags": [
+        "cloud",
+        "engineer",
+        "admin",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-08-04T23:09:41+00:00"
+    },
+    {
       "title": "Waitology",
       "company": "MP Software",
       "location": "Remote",
@@ -140,229 +351,9 @@
       ],
       "salary": "",
       "posted": "2026-08-04T21:55:13+00:00"
-    },
-    {
-      "title": "Seatdo",
-      "company": "Qorsi",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-seatdo-qorsi-1136158",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud",
-        "finance",
-        "microsoft",
-        "medical",
-        "education"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T21:49:09+00:00"
-    },
-    {
-      "title": "Learning Intelligence",
-      "company": "MacSweeney LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-learning-intelligence-macsweeney-llc-1136113",
-      "source": "RemoteOK",
-      "tags": [
-        "cloud"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T21:46:50+00:00"
-    },
-    {
-      "title": "Boston Flight",
-      "company": "MacSweeney LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-boston-flight-macsweeney-llc-1136147",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T21:46:48+00:00"
-    },
-    {
-      "title": "I\u00e2\u0080\u0099m a Mac",
-      "company": "MacSweeney LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-im-a-mac-macsweeney-llc-1136115",
-      "source": "RemoteOK",
-      "tags": [
-        "cloud",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T21:46:21+00:00"
-    },
-    {
-      "title": "Data Entry Assistant",
-      "company": "PT. Mastersystem Infotama",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-assistant-pt-mastersystem-infotama-1136103",
-      "source": "RemoteOK",
-      "tags": [
-        "data entry",
-        "virtual assistant",
-        "teaching",
-        "education",
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T21:43:18+00:00"
-    },
-    {
-      "title": "Julius AI",
-      "company": "Spore N Sprouts",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-julius-ai-spore-n-sprouts-1136150",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud",
-        "finance"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T21:36:30+00:00"
-    },
-    {
-      "title": "The CRM updates itself the moment a call ends",
-      "company": "Apex Local",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-the-crm-updates-itself-the-moment-a-call-ends-apex-local-1136154",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud",
-        "finance",
-        "microsoft",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T21:27:41+00:00"
-    },
-    {
-      "title": "EMPLOYEES",
-      "company": "Allied Enterprises Baku LTD",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-employees-allied-enterprises-baku-ltd-1136140",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T21:06:07+00:00"
-    },
-    {
-      "title": "15 15",
-      "company": "Paul B",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-15-15-paul-b-1136153",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud",
-        "finance",
-        "microsoft",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T20:54:14+00:00"
-    },
-    {
-      "title": "Diver III",
-      "company": "Amentum",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-diver-iii-amentum-1136101",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "infosec",
-        "education",
-        "technical",
-        "supervisor",
-        "customer support",
-        "testing",
-        "video",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T20:44:57+00:00"
-    },
-    {
-      "title": "Application for Payment Template",
-      "company": "The Site Office",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-application-for-payment-template-the-site-office-1136148",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T20:22:27+00:00"
     }
   ],
-  "last_updated": "2026-08-05T23:01:19.667357",
+  "last_updated": "2026-08-06T00:06:59.233556",
   "total": 20,
-  "new": 8
+  "new": 11
 }

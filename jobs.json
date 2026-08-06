@@ -1,6 +1,161 @@
 {
   "jobs": [
     {
+      "title": "Essentials",
+      "company": "Nexerada",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-essentials-nexerada-1136198",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "non tech",
+        "finance",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-05T02:57:19+00:00"
+    },
+    {
+      "title": "The Ledbury",
+      "company": "My Baristyle",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-ledbury-my-baristyle-1136194",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-05T02:29:57+00:00"
+    },
+    {
+      "title": "House Cleaning",
+      "company": "feef.in",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-house-cleaning-feef-in-1136161",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "customer support",
+        "non tech",
+        "quality assurance",
+        "math",
+        "ops",
+        "golang",
+        "web dev",
+        "infosec",
+        "cloud",
+        "finance",
+        "microsoft",
+        "medical",
+        "education"
+      ],
+      "salary": "",
+      "posted": "2026-08-05T02:21:55+00:00"
+    },
+    {
+      "title": "Head of Security",
+      "company": "Tremendous",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-security-tremendous-1136210",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "architecture",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "content writing",
+        "ops",
+        "golang",
+        "full time",
+        "digital nomad",
+        "dev",
+        "senior",
+        "medical",
+        "engineer",
+        "infosec",
+        "react",
+        "embedded",
+        "technical",
+        "finance",
+        "cloud",
+        "postgres",
+        "typescript",
+        "ruby"
+      ],
+      "salary": "",
+      "posted": "2026-08-05T01:57:42+00:00"
+    },
+    {
+      "title": "Online Marketing Traineeship",
+      "company": "Tyroola.com.au",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-online-marketing-traineeship-tyroola-com-au-1136162",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "marketing",
+        "content writing",
+        "ecommerce",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-05T01:56:14+00:00"
+    },
+    {
+      "title": "Jr Frontend Developer",
+      "company": "Tatweer-lb",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-jr-frontend-developer-tatweer-lb-1136124",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "designer",
+        "video",
+        "marketing",
+        "photoshop",
+        "illustrator",
+        "digital nomad",
+        "front end",
+        "dev"
+      ],
+      "salary": "",
+      "posted": "2026-08-05T01:29:55+00:00"
+    },
+    {
+      "title": "Open roles",
+      "company": "CleanDims",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-open-roles-cleandims-1136121",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-05T01:28:11+00:00"
+    },
+    {
+      "title": "ScrapeWire",
+      "company": "HDGForge",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-scrapewire-hdgforge-1136120",
+      "source": "RemoteOK",
+      "tags": [
+        "cloud",
+        "engineer",
+        "admin",
+        "ops",
+        "finance",
+        "exec",
+        "sys admin"
+      ],
+      "salary": "",
+      "posted": "2026-08-05T01:17:33+00:00"
+    },
+    {
       "title": "The AI Optimization Playbook",
       "company": "InBrief.ai",
       "location": "Remote",
@@ -223,137 +378,9 @@
       ],
       "salary": "",
       "posted": "2026-08-04T22:31:38+00:00"
-    },
-    {
-      "title": "Asistente virtual administrativo",
-      "company": "Universia Brasil",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-asistente-virtual-administrativo-universia-brasil-1136125",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-04T22:28:41+00:00"
-    },
-    {
-      "title": "Capturista de datos Remoto e hibrido",
-      "company": "Universia Brasil",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-capturista-de-datos-remoto-e-hibrido-universia-brasil-1136128",
-      "source": "RemoteOK",
-      "tags": [
-        "supervisor",
-        "excel",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T22:28:41+00:00"
-    },
-    {
-      "title": "Company Name",
-      "company": "Jalandhar Local",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-company-name-jalandhar-local-1136160",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud",
-        "finance",
-        "microsoft",
-        "medical",
-        "education"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T22:24:49+00:00"
-    },
-    {
-      "title": "Optimize",
-      "company": "Yemma",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-optimize-yemma-1136111",
-      "source": "RemoteOK",
-      "tags": [
-        "cloud"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T22:21:18+00:00"
-    },
-    {
-      "title": "Share",
-      "company": "Yemma",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-share-yemma-1136112",
-      "source": "RemoteOK",
-      "tags": [
-        "cloud"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T22:21:17+00:00"
-    },
-    {
-      "title": "Business &amp; Management",
-      "company": "Quizzly.ai",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-amp-management-quizzly-ai-1136118",
-      "source": "RemoteOK",
-      "tags": [
-        "cloud",
-        "engineer",
-        "admin",
-        "ops",
-        "finance",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T22:08:42+00:00"
-    },
-    {
-      "title": "Creative Professions",
-      "company": "Quizzly.ai",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-creative-professions-quizzly-ai-1136149",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "customer support",
-        "non tech",
-        "quality assurance",
-        "math",
-        "ops",
-        "golang",
-        "web dev",
-        "infosec",
-        "cloud",
-        "finance"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T22:08:42+00:00"
-    },
-    {
-      "title": "Pessoa Estagi\u00c3\u00a1ria em Gest\u00c3\u00a3o de Filantropia",
-      "company": "Sitawi Finan\u00c3\u00a7as do Bem",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-pessoa-estagiaria-em-gestao-de-filantropia-sitawi-financas-do-bem-1136127",
-      "source": "RemoteOK",
-      "tags": [
-        "supervisor",
-        "excel",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-04T21:55:13+00:00"
     }
   ],
-  "last_updated": "2026-08-06T00:06:59.233556",
+  "last_updated": "2026-08-06T03:31:52.817870",
   "total": 20,
-  "new": 11
+  "new": 8
 }

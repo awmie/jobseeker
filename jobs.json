@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "title": "A glimpse of the pool",
+      "company": "SEO",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-a-glimpse-of-the-pool-seo-1136292",
+      "source": "RemoteOK",
+      "tags": [
+        "seo"
+      ],
+      "salary": "",
+      "posted": "2026-08-06T23:26:20+00:00"
+    },
+    {
+      "title": "Drive Now",
+      "company": "CarRentalRating.com",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-drive-now-carrentalrating-com-1136287",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-06T23:23:04+00:00"
+    },
+    {
       "title": "Porter",
       "company": "NHS Ayrshire &amp; Arran",
       "location": "Remote",
@@ -264,46 +288,9 @@
       ],
       "salary": "",
       "posted": "2026-08-05T18:07:25+00:00"
-    },
-    {
-      "title": "Routesetters",
-      "company": "SetRsoft",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-routesetters-setrsoft-1136200",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech",
-        "finance",
-        "exec",
-        "saas",
-        "sys admin",
-        "vfx"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T17:32:38+00:00"
-    },
-    {
-      "title": "The right person can still introduce themselves",
-      "company": "OmeSync",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-the-right-person-can-still-introduce-themselves-omesync-1136233",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech",
-        "design",
-        "speech",
-        "admin",
-        "exec",
-        "digital nomad",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T17:25:29+00:00"
     }
   ],
-  "last_updated": "2026-08-07T23:02:36.252159",
+  "last_updated": "2026-08-07T23:42:39.403971",
   "total": 20,
-  "new": 0
+  "new": 2
 }

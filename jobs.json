@@ -1,6 +1,40 @@
 {
   "jobs": [
     {
+      "title": "Wave Chaser",
+      "company": "Skinventory",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-wave-chaser-skinventory-1136266",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-06T09:48:05+00:00"
+    },
+    {
+      "title": "Omega",
+      "company": "Skinventory",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-omega-skinventory-1136256",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech",
+        "education"
+      ],
+      "salary": "",
+      "posted": "2026-08-06T09:43:18+00:00"
+    },
+    {
+      "title": "Creating Connections That Inspire Success",
+      "company": "Mukti Switzerland",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-creating-connections-that-inspire-success-mukti-switzerland-1136267",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-06T08:58:01+00:00"
+    },
+    {
       "title": "YHA QUEENSLAND",
       "company": "Elockers.Com Pty Ltd",
       "location": "Remote",
@@ -329,86 +363,9 @@
       ],
       "salary": "",
       "posted": "2026-08-05T15:54:44+00:00"
-    },
-    {
-      "title": "FutureLens",
-      "company": "xsbrt",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-futurelens-xsbrt-1136259",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech",
-        "education"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T15:53:13+00:00"
-    },
-    {
-      "title": "owlette",
-      "company": "Tridant",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-owlette-tridant-1136206",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech",
-        "finance",
-        "exec",
-        "saas",
-        "sys admin",
-        "vfx",
-        "c",
-        "embedded",
-        "infosec",
-        "technical",
-        "customer support",
-        "web dev",
-        "travel",
-        "html",
-        "ads",
-        "content writing",
-        "marketing",
-        "stats",
-        "golang",
-        "recruiter",
-        "engineer",
-        "consulting",
-        "dev",
-        "virtual assistant",
-        "firebase",
-        "cloud",
-        "typescript",
-        "node",
-        "api",
-        "apache",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T15:43:23+00:00"
-    },
-    {
-      "title": "With the Ranks",
-      "company": "apply.coop",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-with-the-ranks-apply-coop-1136246",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "exec",
-        "digital nomad",
-        "ruby",
-        "education",
-        "finance",
-        "medical",
-        "ecommerce"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T15:14:08+00:00"
     }
   ],
-  "last_updated": "2026-08-07T08:58:00.486163",
+  "last_updated": "2026-08-07T10:03:53.490079",
   "total": 20,
-  "new": 0
+  "new": 3
 }

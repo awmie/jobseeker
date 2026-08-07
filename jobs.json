@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "Chief Engineer",
+      "company": "Svitzer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-engineer-svitzer-1136275",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-08-06T15:21:14+00:00"
+    },
+    {
       "title": "Junior Team Members weekdays availability",
       "company": "Supply Coffee",
       "location": "Remote",
@@ -311,40 +323,9 @@
       ],
       "salary": "",
       "posted": "2026-08-05T16:55:43+00:00"
-    },
-    {
-      "title": "Automotive Estimator",
-      "company": "J&amp;D Quality Smash Repairs",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-automotive-estimator-jampd-quality-smash-repairs-1136229",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "marketing",
-        "sales",
-        "ecommerce",
-        "shopify",
-        "non tech",
-        "embedded",
-        "infosec",
-        "travel",
-        "finance",
-        "video",
-        "laravel",
-        "html",
-        "ads",
-        "content writing",
-        "senior",
-        "ops",
-        "stats",
-        "golang",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T16:29:53+00:00"
     }
   ],
-  "last_updated": "2026-08-07T14:59:29.654143",
+  "last_updated": "2026-08-07T16:01:24.094310",
   "total": 20,
-  "new": 0
+  "new": 1
 }

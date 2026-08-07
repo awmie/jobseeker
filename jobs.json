@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "Stoic",
+      "company": "New Atlantis",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-stoic-new-atlantis-1136271",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "data annotation"
+      ],
+      "salary": "",
+      "posted": "2026-08-06T11:15:44+00:00"
+    },
+    {
       "title": "Aditya Mudbhary",
       "company": "Durbean",
       "location": "Remote",
@@ -341,28 +354,9 @@
       ],
       "salary": "",
       "posted": "2026-08-05T16:00:23+00:00"
-    },
-    {
-      "title": "Performance optimization",
-      "company": "UXGeek.tech",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-performance-optimization-uxgeek-tech-1136201",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech",
-        "finance",
-        "exec",
-        "saas",
-        "sys admin",
-        "vfx",
-        "c"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T15:58:55+00:00"
     }
   ],
-  "last_updated": "2026-08-07T11:03:03.576718",
+  "last_updated": "2026-08-07T11:52:47.580065",
   "total": 20,
   "new": 1
 }

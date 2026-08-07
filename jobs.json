@@ -1,6 +1,23 @@
 {
   "jobs": [
     {
+      "title": "Junior Team Members weekdays availability",
+      "company": "Supply Coffee",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-team-members-weekdays-availability-supply-coffee-1136278",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "marketing",
+        "junior",
+        "ops",
+        "full time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-06T12:52:03+00:00"
+    },
+    {
       "title": "The Future Belongs People Who Build Together",
       "company": "EventThone Network",
       "location": "Remote",
@@ -325,24 +342,9 @@
       ],
       "salary": "",
       "posted": "2026-08-05T16:29:53+00:00"
-    },
-    {
-      "title": "Vibes on Rails",
-      "company": "Managing AI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vibes-on-rails-managing-ai-1136244",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "exec",
-        "digital nomad",
-        "ruby"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T16:10:39+00:00"
     }
   ],
-  "last_updated": "2026-08-07T12:40:29.491914",
+  "last_updated": "2026-08-07T13:58:43.913562",
   "total": 20,
   "new": 1
 }

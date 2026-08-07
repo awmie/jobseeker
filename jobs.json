@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "IDEAS THAT\nSTICK.\nliterally \u00f0\u009f\u0098",
+      "company": "Sticky Today",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer",
+        "saas",
+        "exec",
+        "dev",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-06T16:41:48+00:00"
+    },
+    {
       "title": "Chief Engineer",
       "company": "Svitzer",
       "location": "Remote",
@@ -290,42 +306,9 @@
       ],
       "salary": "",
       "posted": "2026-08-05T17:17:10+00:00"
-    },
-    {
-      "title": "Labourers",
-      "company": "Simmons Civil",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-labourers-simmons-civil-1136230",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "marketing",
-        "sales",
-        "ecommerce",
-        "shopify",
-        "non tech",
-        "embedded",
-        "infosec",
-        "travel",
-        "finance",
-        "video",
-        "laravel",
-        "html",
-        "ads",
-        "content writing",
-        "senior",
-        "ops",
-        "stats",
-        "golang",
-        "engineer",
-        "education",
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T16:55:43+00:00"
     }
   ],
-  "last_updated": "2026-08-07T16:01:24.094310",
+  "last_updated": "2026-08-07T17:01:52.048550",
   "total": 20,
   "new": 1
 }

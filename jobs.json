@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "The Future Belongs People Who Build Together",
+      "company": "EventThone Network",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-future-belongs-people-who-build-together-eventthone-network-1136273",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-06T12:00:00+00:00"
+    },
+    {
       "title": "Stoic",
       "company": "New Atlantis",
       "location": "Remote",
@@ -330,33 +340,9 @@
       ],
       "salary": "",
       "posted": "2026-08-05T16:10:39+00:00"
-    },
-    {
-      "title": "Java Developer",
-      "company": "Clera",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-java-developer-clera-1136188",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "design",
-        "education",
-        "docker",
-        "java",
-        "cloud",
-        "ops",
-        "sys admin",
-        "golang",
-        "engineer",
-        "backend",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T16:00:23+00:00"
     }
   ],
-  "last_updated": "2026-08-07T11:52:47.580065",
+  "last_updated": "2026-08-07T12:40:29.491914",
   "total": 20,
   "new": 1
 }

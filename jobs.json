@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Multiple Positions",
+      "company": "City of Lancaster, Pennsylvania",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-multiple-positions-city-of-lancaster-pennsylvania-1136274",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-06T17:33:48+00:00"
+    },
+    {
       "title": "IDEAS THAT\nSTICK.\nliterally \u00f0\u009f\u0098",
       "company": "Sticky Today",
       "location": "Remote",
@@ -286,29 +300,9 @@
       ],
       "salary": "",
       "posted": "2026-08-05T17:24:14+00:00"
-    },
-    {
-      "title": "LEGACY OF THE HORIZON",
-      "company": "Kuykendall Industries",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-legacy-of-the-horizon-kuykendall-industries-1136234",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech",
-        "design",
-        "speech",
-        "admin",
-        "exec",
-        "digital nomad",
-        "ops",
-        "architecture"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T17:17:10+00:00"
     }
   ],
-  "last_updated": "2026-08-07T17:01:52.048550",
+  "last_updated": "2026-08-07T17:55:13.771897",
   "total": 20,
   "new": 1
 }

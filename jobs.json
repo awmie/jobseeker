@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "Aditya Mudbhary",
+      "company": "Durbean",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-aditya-mudbhary-durbean-1136283",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-06T10:46:57+00:00"
+    },
+    {
       "title": "Wave Chaser",
       "company": "Skinventory",
       "location": "Remote",
@@ -350,22 +360,9 @@
       ],
       "salary": "",
       "posted": "2026-08-05T15:58:55+00:00"
-    },
-    {
-      "title": "Ideas Brief Library",
-      "company": "xsbrt",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ideas-brief-library-xsbrt-1136254",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T15:54:44+00:00"
     }
   ],
-  "last_updated": "2026-08-07T10:03:53.490079",
+  "last_updated": "2026-08-07T11:03:03.576718",
   "total": 20,
-  "new": 3
+  "new": 1
 }

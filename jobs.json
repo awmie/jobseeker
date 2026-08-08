@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "Various \n@ Luigi\u00e2\u0080\u0099s Box",
+      "company": "Neulogy Ventures",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-various-luigis-box-neulogy-ventures-1136307",
+      "source": "RemoteOK",
+      "tags": [
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-08-07T11:07:23+00:00"
+    },
+    {
       "title": "Open Vacancies",
       "company": "CCDC - The Cambridge Crystallographic Data Centre",
       "location": "Remote",
@@ -242,26 +254,9 @@
       ],
       "salary": "",
       "posted": "2026-08-06T15:21:14+00:00"
-    },
-    {
-      "title": "Junior Team Members weekdays availability",
-      "company": "Supply Coffee",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-team-members-weekdays-availability-supply-coffee-1136278",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "marketing",
-        "junior",
-        "ops",
-        "full time",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-06T12:52:03+00:00"
     }
   ],
-  "last_updated": "2026-08-08T10:45:17.974747",
+  "last_updated": "2026-08-08T11:12:10.156460",
   "total": 20,
-  "new": 0
+  "new": 1
 }

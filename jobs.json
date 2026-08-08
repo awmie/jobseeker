@@ -1,6 +1,39 @@
 {
   "jobs": [
     {
+      "title": "Open Vacancies",
+      "company": "CCDC - The Cambridge Crystallographic Data Centre",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-open-vacancies-ccdc-the-cambridge-crystallographic-data-centre-1136303",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "assembly",
+        "non tech",
+        "design",
+        "customer support",
+        "dev",
+        "finance",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-07T09:16:16+00:00"
+    },
+    {
+      "title": "THINK WE COULD BE A GOOD FIT",
+      "company": "Tees Components",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-think-we-could-be-a-good-fit-tees-components-1136302",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "assembly",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-07T09:16:08+00:00"
+    },
+    {
       "title": "Traba",
       "company": "ODF",
       "location": "Remote",
@@ -226,32 +259,9 @@
       ],
       "salary": "",
       "posted": "2026-08-06T12:52:03+00:00"
-    },
-    {
-      "title": "The Future Belongs People Who Build Together",
-      "company": "EventThone Network",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-the-future-belongs-people-who-build-together-eventthone-network-1136273",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-06T12:00:00+00:00"
-    },
-    {
-      "title": "Stoic",
-      "company": "New Atlantis",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-stoic-new-atlantis-1136271",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "data annotation"
-      ],
-      "salary": "",
-      "posted": "2026-08-06T11:15:44+00:00"
     }
   ],
-  "last_updated": "2026-08-08T08:52:15.640183",
+  "last_updated": "2026-08-08T09:26:49.885304",
   "total": 20,
-  "new": 0
+  "new": 2
 }

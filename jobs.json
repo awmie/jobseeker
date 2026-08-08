@@ -1,6 +1,21 @@
 {
   "jobs": [
     {
+      "title": "Our vacancies",
+      "company": "Geeks Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-our-vacancies-geeks-ltd-1136289",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "marketing",
+        "exec",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-07T06:02:59+00:00"
+    },
+    {
       "title": "CANDIDATURE SPONTAN\u00c3\u0089E",
       "company": "ALSEI",
       "location": "Remote",
@@ -234,19 +249,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-06T10:46:57+00:00"
-    },
-    {
-      "title": "Wave Chaser",
-      "company": "Skinventory",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-wave-chaser-skinventory-1136266",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-06T09:48:05+00:00"
     }
   ],
-  "last_updated": "2026-08-08T05:30:20.530720",
+  "last_updated": "2026-08-08T06:09:52.432582",
   "total": 20,
-  "new": 2
+  "new": 1
 }

@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "title": "Assembler",
+      "company": "Manunor Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assembler-manunor-inc-1136312",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-07T19:15:25+00:00"
+    },
+    {
+      "title": "Page Not Found",
+      "company": "PAXIO",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-page-not-found-paxio-1136324",
+      "source": "RemoteOK",
+      "tags": [
+        "game dev",
+        "customer support",
+        "dev",
+        "video",
+        "exec",
+        "senior",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-07T19:01:50+00:00"
+    },
+    {
       "title": "$15.15 $17 HR depending on location",
       "company": "Wildflower",
       "location": "Remote",
@@ -239,32 +267,9 @@
       ],
       "salary": "",
       "posted": "2026-08-07T02:12:23+00:00"
-    },
-    {
-      "title": "CR281 Customs Agent",
-      "company": "FedEx",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-cr281-customs-agent-fedex-1136279",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-07T00:16:33+00:00"
-    },
-    {
-      "title": "A People\u00e2\u0080\u0099s Place",
-      "company": "John Keells Consumer Foods Sector",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-a-peoples-place-john-keells-consumer-foods-sector-1136295",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-07T00:03:07+00:00"
     }
   ],
-  "last_updated": "2026-08-08T19:01:36.157725",
+  "last_updated": "2026-08-08T19:37:49.051289",
   "total": 20,
   "new": 2
 }

@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "How Apply",
+      "company": "The Philadelphia School",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-how-apply-the-philadelphia-school-1136304",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-07T15:12:19+00:00"
+    },
+    {
       "title": "Senior React Full stack Developer",
       "company": "Lemon.io",
       "location": "Remote",
@@ -245,23 +255,9 @@
       ],
       "salary": "",
       "posted": "2026-08-06T19:22:08+00:00"
-    },
-    {
-      "title": "Multiple Positions",
-      "company": "City of Lancaster, Pennsylvania",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-multiple-positions-city-of-lancaster-pennsylvania-1136274",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-06T17:33:48+00:00"
     }
   ],
-  "last_updated": "2026-08-08T14:58:30.111980",
+  "last_updated": "2026-08-08T15:35:27.292013",
   "total": 20,
-  "new": 0
+  "new": 1
 }

@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "title": "Senior React Full stack Developer",
+      "company": "Lemon.io",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "engineer",
+        "senior",
+        "full time",
+        "python",
+        "aws",
+        "gcp",
+        "javascript",
+        "react",
+        "node",
+        "ruby",
+        "typescript"
+      ],
+      "salary": "",
+      "posted": "2026-08-07T13:08:19+00:00"
+    },
+    {
       "title": "Oops something happened",
       "company": "Haus.com",
       "location": "Remote",
@@ -236,25 +259,9 @@
       ],
       "salary": "",
       "posted": "2026-08-06T17:33:48+00:00"
-    },
-    {
-      "title": "IDEAS THAT\nSTICK.\nliterally \u00f0\u009f\u0098",
-      "company": "Sticky Today",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/",
-      "source": "RemoteOK",
-      "tags": [
-        "engineer",
-        "saas",
-        "exec",
-        "dev",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-06T16:41:48+00:00"
     }
   ],
-  "last_updated": "2026-08-08T13:08:04.016097",
+  "last_updated": "2026-08-08T13:54:06.006464",
   "total": 20,
   "new": 1
 }

@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "Test",
+      "company": "Compact Home Lifts",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-compact-home-lifts-1136290",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-07T02:12:23+00:00"
+    },
+    {
       "title": "CR281 Customs Agent",
       "company": "FedEx",
       "location": "Remote",
@@ -233,32 +246,9 @@
       ],
       "salary": "",
       "posted": "2026-08-06T01:12:05+00:00"
-    },
-    {
-      "title": "Maintenance Technician",
-      "company": "The McBride Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-the-mcbride-group-1136269",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "supervisor",
-        "customer support",
-        "finance",
-        "microsoft",
-        "exec",
-        "ops",
-        "legal",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T23:50:54+00:00"
     }
   ],
-  "last_updated": "2026-08-08T00:30:46.859411",
+  "last_updated": "2026-08-08T02:30:17.533113",
   "total": 20,
-  "new": 4
+  "new": 1
 }

@@ -1,6 +1,49 @@
 {
   "jobs": [
     {
+      "title": "CR281 Customs Agent",
+      "company": "FedEx",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-cr281-customs-agent-fedex-1136279",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-07T00:16:33+00:00"
+    },
+    {
+      "title": "A People\u00e2\u0080\u0099s Place",
+      "company": "John Keells Consumer Foods Sector",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-a-peoples-place-john-keells-consumer-foods-sector-1136295",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-07T00:03:07+00:00"
+    },
+    {
+      "title": "Join Our Team",
+      "company": "Nebraska Public Power District",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-nebraska-public-power-district-1136284",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-06T23:50:11+00:00"
+    },
+    {
+      "title": "JOIN THE Family",
+      "company": "Jayco, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-join-the-family-jayco-inc-1136282",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-06T23:47:33+00:00"
+    },
+    {
       "title": "A glimpse of the pool",
       "company": "SEO",
       "location": "Remote",
@@ -213,84 +256,9 @@
       ],
       "salary": "",
       "posted": "2026-08-05T23:50:54+00:00"
-    },
-    {
-      "title": "Technical Storekeeper",
-      "company": "Carnival Corporation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-storekeeper-carnival-corporation-1136268",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "supervisor",
-        "customer support",
-        "finance",
-        "microsoft",
-        "exec",
-        "ops",
-        "legal",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T23:19:41+00:00"
-    },
-    {
-      "title": "12650000",
-      "company": "Radical Reversibility",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-12650000-radical-reversibility-1136202",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech",
-        "finance",
-        "exec",
-        "saas",
-        "sys admin",
-        "vfx",
-        "c"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T19:01:14+00:00"
-    },
-    {
-      "title": "There is no such thing as coincidence",
-      "company": "Radical Reversibility",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-there-is-no-such-thing-as-coincidence-radical-reversibility-1136203",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech",
-        "finance",
-        "exec",
-        "saas",
-        "sys admin",
-        "vfx",
-        "c"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T18:58:48+00:00"
-    },
-    {
-      "title": "CROWN MELBOURNE",
-      "company": "Crown &amp; Pearl",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-crown-melbourne-crown-amp-pearl-1136263",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech",
-        "education"
-      ],
-      "salary": "",
-      "posted": "2026-08-05T18:07:25+00:00"
     }
   ],
-  "last_updated": "2026-08-07T23:42:39.403971",
+  "last_updated": "2026-08-08T00:30:46.859411",
   "total": 20,
-  "new": 2
+  "new": 4
 }

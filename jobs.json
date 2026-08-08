@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "Traba",
+      "company": "ODF",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-traba-odf-1136297",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-07T06:43:19+00:00"
+    },
+    {
       "title": "Our vacancies",
       "company": "Geeks Ltd",
       "location": "Remote",
@@ -239,19 +249,9 @@
       ],
       "salary": "",
       "posted": "2026-08-06T11:15:44+00:00"
-    },
-    {
-      "title": "Aditya Mudbhary",
-      "company": "Durbean",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-aditya-mudbhary-durbean-1136283",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-06T10:46:57+00:00"
     }
   ],
-  "last_updated": "2026-08-08T06:09:52.432582",
+  "last_updated": "2026-08-08T07:12:46.086320",
   "total": 20,
   "new": 1
 }

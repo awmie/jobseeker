@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "The Three Bills",
+      "company": "Giant Leap Consulting",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-the-three-bills-giant-leap-consulting-1136315",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-07T21:07:53+00:00"
+    },
+    {
       "title": "Assembler",
       "company": "Manunor Inc.",
       "location": "Remote",
@@ -254,22 +267,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-07T03:56:12+00:00"
-    },
-    {
-      "title": "Test",
-      "company": "Compact Home Lifts",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-compact-home-lifts-1136290",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-07T02:12:23+00:00"
     }
   ],
-  "last_updated": "2026-08-08T21:04:28.928458",
+  "last_updated": "2026-08-08T21:41:36.316011",
   "total": 20,
-  "new": 0
+  "new": 1
 }

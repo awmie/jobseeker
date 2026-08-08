@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "Holly Can Fix It",
+      "company": "Four Seasons",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-holly-can-fix-it-four-seasons-1136305",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "supervisor",
+        "exec",
+        "legal",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-08-07T16:53:42+00:00"
+    },
+    {
       "title": "Cleaner",
       "company": "JobsMedia.io",
       "location": "Remote",
@@ -244,21 +260,9 @@
       ],
       "salary": "",
       "posted": "2026-08-06T23:26:20+00:00"
-    },
-    {
-      "title": "Drive Now",
-      "company": "CarRentalRating.com",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-drive-now-carrentalrating-com-1136287",
-      "source": "RemoteOK",
-      "tags": [
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-08-06T23:23:04+00:00"
     }
   ],
-  "last_updated": "2026-08-08T16:44:35.121953",
+  "last_updated": "2026-08-08T17:13:52.317821",
   "total": 20,
-  "new": 0
+  "new": 1
 }

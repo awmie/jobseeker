@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "Oops something happened",
+      "company": "Haus.com",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-oops-something-happened-haus-com-1136301",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-07T12:25:20+00:00"
+    },
+    {
       "title": "Various \n@ Luigi\u00e2\u0080\u0099s Box",
       "company": "Neulogy Ventures",
       "location": "Remote",
@@ -242,21 +252,9 @@
       ],
       "salary": "",
       "posted": "2026-08-06T16:41:48+00:00"
-    },
-    {
-      "title": "Chief Engineer",
-      "company": "Svitzer",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-chief-engineer-svitzer-1136275",
-      "source": "RemoteOK",
-      "tags": [
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-06T15:21:14+00:00"
     }
   ],
-  "last_updated": "2026-08-08T12:03:43.769136",
+  "last_updated": "2026-08-08T13:08:04.016097",
   "total": 20,
-  "new": 0
+  "new": 1
 }

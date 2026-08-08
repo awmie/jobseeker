@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "title": "$15.15 $17 HR depending on location",
+      "company": "Wildflower",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-15-15-17-hr-depending-on-location-wildflower-1136308",
+      "source": "RemoteOK",
+      "tags": [
+        "hr"
+      ],
+      "salary": "",
+      "posted": "2026-08-07T18:28:57+00:00"
+    },
+    {
+      "title": "CURRENT JOBS OPENING",
+      "company": "Captain PQ chemical industries Pvt. Limited",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-current-jobs-opening-captain-pq-chemical-industries-pvt-limited-1136309",
+      "source": "RemoteOK",
+      "tags": [
+        "hr"
+      ],
+      "salary": "",
+      "posted": "2026-08-07T18:26:50+00:00"
+    },
+    {
       "title": "LABOURER",
       "company": "BRIMBLE",
       "location": "Remote",
@@ -238,29 +262,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-07T00:03:07+00:00"
-    },
-    {
-      "title": "Join Our Team",
-      "company": "Nebraska Public Power District",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-join-our-team-nebraska-public-power-district-1136284",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-06T23:50:11+00:00"
-    },
-    {
-      "title": "JOIN THE Family",
-      "company": "Jayco, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-join-the-family-jayco-inc-1136282",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-06T23:47:33+00:00"
     }
   ],
-  "last_updated": "2026-08-08T18:15:01.265013",
+  "last_updated": "2026-08-08T19:01:36.157725",
   "total": 20,
-  "new": 0
+  "new": 2
 }

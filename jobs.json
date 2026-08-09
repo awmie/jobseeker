@@ -1,6 +1,44 @@
 {
   "jobs": [
     {
+      "title": "Management",
+      "company": "Casna Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-management-casna-group-1136326",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-08T04:42:31+00:00"
+    },
+    {
+      "title": "Corporate",
+      "company": "Ulta 3 Cosmetics &amp; Salon",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-corporate-ulta-3-cosmetics-amp-salon-1136331",
+      "source": "RemoteOK",
+      "tags": [
+        "game dev",
+        "mobile"
+      ],
+      "salary": "",
+      "posted": "2026-08-08T04:13:37+00:00"
+    },
+    {
+      "title": "Distribution Centers",
+      "company": "Ulta 3 Cosmetics &amp; Salon",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-distribution-centers-ulta-3-cosmetics-amp-salon-1136332",
+      "source": "RemoteOK",
+      "tags": [
+        "game dev",
+        "mobile"
+      ],
+      "salary": "",
+      "posted": "2026-08-08T04:13:26+00:00"
+    },
+    {
       "title": "Veck IO",
       "company": "ProductionBeast",
       "location": "Remote",
@@ -211,52 +249,9 @@
       ],
       "salary": "",
       "posted": "2026-08-07T11:07:23+00:00"
-    },
-    {
-      "title": "Open Vacancies",
-      "company": "CCDC - The Cambridge Crystallographic Data Centre",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-open-vacancies-ccdc-the-cambridge-crystallographic-data-centre-1136303",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "assembly",
-        "non tech",
-        "design",
-        "customer support",
-        "dev",
-        "finance",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-07T09:16:16+00:00"
-    },
-    {
-      "title": "THINK WE COULD BE A GOOD FIT",
-      "company": "Tees Components",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-think-we-could-be-a-good-fit-tees-components-1136302",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "assembly",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-07T09:16:08+00:00"
-    },
-    {
-      "title": "Traba",
-      "company": "ODF",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-traba-odf-1136297",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-07T06:43:19+00:00"
     }
   ],
-  "last_updated": "2026-08-09T03:55:38.983451",
+  "last_updated": "2026-08-09T05:03:10.308923",
   "total": 20,
-  "new": 4
+  "new": 3
 }

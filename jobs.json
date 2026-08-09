@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "Nocts",
+      "company": "Skinventory",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-nocts-skinventory-1136329",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-08T09:38:52+00:00"
+    },
+    {
       "title": "Hiring Process",
       "company": "Beltrami County",
       "location": "Remote",
@@ -230,23 +240,9 @@
       ],
       "salary": "",
       "posted": "2026-08-07T16:53:42+00:00"
-    },
-    {
-      "title": "Cleaner",
-      "company": "JobsMedia.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-cleaner-jobsmedia-io-1136306",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "exec",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-07T15:44:58+00:00"
     }
   ],
-  "last_updated": "2026-08-09T09:09:25.072268",
+  "last_updated": "2026-08-09T09:54:23.826091",
   "total": 20,
   "new": 1
 }

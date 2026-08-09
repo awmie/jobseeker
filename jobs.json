@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "YOUR JOB DESCRIPTION HERE",
+      "company": "Compucorp Inc",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-your-job-description-here-compucorp-inc-1136336",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-08T13:23:12+00:00"
+    },
+    {
       "title": "CLASSIC",
       "company": "Get a Job",
       "location": "Remote",
@@ -226,21 +236,9 @@
       ],
       "salary": "",
       "posted": "2026-08-07T19:01:50+00:00"
-    },
-    {
-      "title": "$15.15 $17 HR depending on location",
-      "company": "Wildflower",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-15-15-17-hr-depending-on-location-wildflower-1136308",
-      "source": "RemoteOK",
-      "tags": [
-        "hr"
-      ],
-      "salary": "",
-      "posted": "2026-08-07T18:28:57+00:00"
     }
   ],
-  "last_updated": "2026-08-09T13:08:30.571069",
+  "last_updated": "2026-08-09T13:56:40.090958",
   "total": 20,
-  "new": 3
+  "new": 1
 }

@@ -1,6 +1,28 @@
 {
   "jobs": [
     {
+      "title": "'This Time Feels Different",
+      "company": "CHINADebate",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-this-time-feels-different-chinadebate-1136327",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-08T05:28:17+00:00"
+    },
+    {
+      "title": "Faint Cracks",
+      "company": "CHINADebate",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-faint-cracks-chinadebate-1136323",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-08T05:25:08+00:00"
+    },
+    {
       "title": "Management",
       "company": "Casna Group",
       "location": "Remote",
@@ -227,31 +249,9 @@
       ],
       "salary": "",
       "posted": "2026-08-07T13:08:19+00:00"
-    },
-    {
-      "title": "Oops something happened",
-      "company": "Haus.com",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-oops-something-happened-haus-com-1136301",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-07T12:25:20+00:00"
-    },
-    {
-      "title": "Various \n@ Luigi\u00e2\u0080\u0099s Box",
-      "company": "Neulogy Ventures",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-various-luigis-box-neulogy-ventures-1136307",
-      "source": "RemoteOK",
-      "tags": [
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-08-07T11:07:23+00:00"
     }
   ],
-  "last_updated": "2026-08-09T05:03:10.308923",
+  "last_updated": "2026-08-09T05:53:50.196441",
   "total": 20,
-  "new": 3
+  "new": 2
 }

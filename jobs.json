@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "St George\u00e2\u0080\u0099s Cares",
+      "company": "Quintessence Films Limited",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-st-georges-cares-quintessence-films-limited-1136334",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-08T15:19:50+00:00"
+    },
+    {
       "title": "YOUR JOB DESCRIPTION HERE",
       "company": "Compucorp Inc",
       "location": "Remote",
@@ -218,27 +228,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-07T19:15:25+00:00"
-    },
-    {
-      "title": "Page Not Found",
-      "company": "PAXIO",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-page-not-found-paxio-1136324",
-      "source": "RemoteOK",
-      "tags": [
-        "game dev",
-        "customer support",
-        "dev",
-        "video",
-        "exec",
-        "senior",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-07T19:01:50+00:00"
     }
   ],
-  "last_updated": "2026-08-09T15:04:16.933881",
+  "last_updated": "2026-08-09T15:41:51.463574",
   "total": 20,
-  "new": 0
+  "new": 1
 }

@@ -1,6 +1,42 @@
 {
   "jobs": [
     {
+      "title": "CLASSIC",
+      "company": "Get a Job",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-classic-get-a-job-1136333",
+      "source": "RemoteOK",
+      "tags": [
+        "game dev",
+        "mobile"
+      ],
+      "salary": "",
+      "posted": "2026-08-08T12:24:00+00:00"
+    },
+    {
+      "title": "WereBox",
+      "company": "PlayToMax",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-werebox-playtomax-1136330",
+      "source": "RemoteOK",
+      "tags": [
+        "game dev",
+        "mobile"
+      ],
+      "salary": "",
+      "posted": "2026-08-08T12:11:12+00:00"
+    },
+    {
+      "title": "Exit Searcher",
+      "company": "PlayToMax",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-exit-searcher-playtomax-1136328",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-08T12:10:40+00:00"
+    },
+    {
       "title": "Nocts",
       "company": "Skinventory",
       "location": "Remote",
@@ -202,47 +238,9 @@
       ],
       "salary": "",
       "posted": "2026-08-07T18:28:57+00:00"
-    },
-    {
-      "title": "CURRENT JOBS OPENING",
-      "company": "Captain PQ chemical industries Pvt. Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-current-jobs-opening-captain-pq-chemical-industries-pvt-limited-1136309",
-      "source": "RemoteOK",
-      "tags": [
-        "hr"
-      ],
-      "salary": "",
-      "posted": "2026-08-07T18:26:50+00:00"
-    },
-    {
-      "title": "LABOURER",
-      "company": "BRIMBLE",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-labourer-brimble-1136313",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-07T17:31:28+00:00"
-    },
-    {
-      "title": "Holly Can Fix It",
-      "company": "Four Seasons",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-holly-can-fix-it-four-seasons-1136305",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "supervisor",
-        "exec",
-        "legal",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-07T16:53:42+00:00"
     }
   ],
-  "last_updated": "2026-08-09T12:00:49.152833",
+  "last_updated": "2026-08-09T13:08:30.571069",
   "total": 20,
-  "new": 0
+  "new": 3
 }

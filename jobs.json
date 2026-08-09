@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "Hiring Process",
+      "company": "Beltrami County",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hiring-process-beltrami-county-1136346",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-08T06:22:42+00:00"
+    },
+    {
       "title": "Wholesale",
       "company": "Mercanti",
       "location": "Remote",
@@ -234,19 +244,9 @@
       ],
       "salary": "",
       "posted": "2026-08-07T15:44:58+00:00"
-    },
-    {
-      "title": "How Apply",
-      "company": "The Philadelphia School",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-how-apply-the-philadelphia-school-1136304",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-07T15:12:19+00:00"
     }
   ],
-  "last_updated": "2026-08-09T08:23:37.973209",
+  "last_updated": "2026-08-09T09:09:25.072268",
   "total": 20,
-  "new": 0
+  "new": 1
 }

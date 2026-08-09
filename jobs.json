@@ -1,6 +1,24 @@
 {
   "jobs": [
     {
+      "title": "Wholesale",
+      "company": "Mercanti",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-wholesale-mercanti-1136325",
+      "source": "RemoteOK",
+      "tags": [
+        "game dev",
+        "customer support",
+        "dev",
+        "video",
+        "exec",
+        "senior",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-08T06:05:55+00:00"
+    },
+    {
       "title": "'This Time Feels Different",
       "company": "CHINADebate",
       "location": "Remote",
@@ -226,32 +244,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-07T15:12:19+00:00"
-    },
-    {
-      "title": "Senior React Full stack Developer",
-      "company": "Lemon.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "engineer",
-        "senior",
-        "full time",
-        "python",
-        "aws",
-        "gcp",
-        "javascript",
-        "react",
-        "node",
-        "ruby",
-        "typescript"
-      ],
-      "salary": "",
-      "posted": "2026-08-07T13:08:19+00:00"
     }
   ],
-  "last_updated": "2026-08-09T05:53:50.196441",
+  "last_updated": "2026-08-09T06:43:38.987020",
   "total": 20,
-  "new": 2
+  "new": 1
 }

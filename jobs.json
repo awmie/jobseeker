@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Jobs",
+      "company": "Whiterose Janitorial Services",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-jobs-whiterose-janitorial-services-1136357",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "exec",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-08-09T15:12:24+00:00"
+    },
+    {
       "title": "Beekeeper Academy of Achievement",
       "company": "American Academy of Achievement",
       "location": "Remote",
@@ -234,19 +248,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-08T03:04:36+00:00"
-    },
-    {
-      "title": "Driving Directions",
-      "company": "ProductionBeast",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-driving-directions-productionbeast-1136319",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-08T02:59:31+00:00"
     }
   ],
-  "last_updated": "2026-08-10T14:40:27.853277",
+  "last_updated": "2026-08-10T15:37:07.481577",
   "total": 20,
-  "new": 0
+  "new": 1
 }

@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "FC Lead",
+      "company": "Cart.com",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-fc-lead-cart-com-1136375",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-10T22:15:08+00:00"
+    },
+    {
       "title": "service professionals",
       "company": "Homelyo",
       "location": "Remote",
@@ -267,27 +279,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-08T06:22:42+00:00"
-    },
-    {
-      "title": "Wholesale",
-      "company": "Mercanti",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-wholesale-mercanti-1136325",
-      "source": "RemoteOK",
-      "tags": [
-        "game dev",
-        "customer support",
-        "dev",
-        "video",
-        "exec",
-        "senior",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-08T06:05:55+00:00"
     }
   ],
-  "last_updated": "2026-08-11T22:02:51.055218",
+  "last_updated": "2026-08-11T22:56:05.506833",
   "total": 20,
-  "new": 0
+  "new": 1
 }

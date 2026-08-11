@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "General Staff Position",
+      "company": "Hunt Remotely",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-staff-position-hunt-remotely-1136362",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-10T04:02:55+00:00"
+    },
+    {
       "title": "Jobs",
       "company": "Whiterose Janitorial Services",
       "location": "Remote",
@@ -238,19 +248,9 @@
       ],
       "salary": "",
       "posted": "2026-08-08T04:13:26+00:00"
-    },
-    {
-      "title": "Veck IO",
-      "company": "ProductionBeast",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-veck-io-productionbeast-1136320",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-08T03:04:36+00:00"
     }
   ],
-  "last_updated": "2026-08-11T02:49:13.477097",
+  "last_updated": "2026-08-11T04:07:00.266152",
   "total": 20,
-  "new": 0
+  "new": 1
 }

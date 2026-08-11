@@ -1,6 +1,43 @@
 {
   "jobs": [
     {
+      "title": "Electrician Royal Beach Club",
+      "company": "Royal Caribbean International",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-electrician-royal-beach-club-royal-caribbean-international-1136364",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "supervisor",
+        "exec",
+        "finance",
+        "video",
+        "ops",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-08-10T13:51:12+00:00"
+    },
+    {
+      "title": "Detail Specialist",
+      "company": "U-Haul",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-detail-specialist-u-haul-1136363",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "payroll",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-10T13:49:05+00:00"
+    },
+    {
       "title": "12TH PASS",
       "company": "Simond Fibertech Limited - India",
       "location": "Remote",
@@ -244,31 +281,9 @@
       ],
       "salary": "",
       "posted": "2026-08-08T05:28:17+00:00"
-    },
-    {
-      "title": "Faint Cracks",
-      "company": "CHINADebate",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-faint-cracks-chinadebate-1136323",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-08T05:25:08+00:00"
-    },
-    {
-      "title": "Management",
-      "company": "Casna Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-management-casna-group-1136326",
-      "source": "RemoteOK",
-      "tags": [
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-08-08T04:42:31+00:00"
     }
   ],
-  "last_updated": "2026-08-11T13:36:14.570311",
+  "last_updated": "2026-08-11T14:40:19.444787",
   "total": 20,
-  "new": 0
+  "new": 2
 }

@@ -1,6 +1,28 @@
 {
   "jobs": [
     {
+      "title": "Group leader",
+      "company": "PAYTM SERVICES PVT LTD",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-group-leader-paytm-services-pvt-ltd-1136372",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-11T02:21:57+00:00"
+    },
+    {
+      "title": "Handyman",
+      "company": "Ocean Hotels Group BARBADOS",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyman-ocean-hotels-group-barbados-1136373",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-11T01:56:42+00:00"
+    },
+    {
       "title": "Expression of Interest",
       "company": "Immutable",
       "location": "Remote",
@@ -31,6 +53,26 @@
       ],
       "salary": "",
       "posted": "2026-08-10T22:15:08+00:00"
+    },
+    {
+      "title": "Message Center Operator",
+      "company": "Amentum",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-message-center-operator-amentum-1136452",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "education",
+        "technical",
+        "customer support",
+        "testing",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-08-10T20:56:39+00:00"
     },
     {
       "title": "service professionals",
@@ -84,51 +126,6 @@
       ],
       "salary": "",
       "posted": "2026-08-10T13:49:05+00:00"
-    },
-    {
-      "title": "Carpenter",
-      "company": "Hawaiian",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-carpenter-hawaiian-1136417",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "marketing",
-        "travel",
-        "speech",
-        "finance",
-        "sales",
-        "medical",
-        "recruiter",
-        "non tech",
-        "architecture",
-        "exec",
-        "education",
-        "ops",
-        "golang",
-        "scheme",
-        "full time",
-        "game dev",
-        "engineer",
-        "music",
-        "ios",
-        "design",
-        "swift",
-        "technical",
-        "dev",
-        "c",
-        "haskell",
-        "senior",
-        "digital nomad",
-        "microsoft",
-        "excel",
-        "virtual assistant",
-        "html",
-        "legal",
-        "teaching"
-      ],
-      "salary": "",
-      "posted": "2026-08-10T12:59:56+00:00"
     },
     {
       "title": "12TH PASS",
@@ -308,35 +305,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-08T13:23:12+00:00"
-    },
-    {
-      "title": "CLASSIC",
-      "company": "Get a Job",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-classic-get-a-job-1136333",
-      "source": "RemoteOK",
-      "tags": [
-        "game dev",
-        "mobile"
-      ],
-      "salary": "",
-      "posted": "2026-08-08T12:24:00+00:00"
-    },
-    {
-      "title": "WereBox",
-      "company": "PlayToMax",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-werebox-playtomax-1136330",
-      "source": "RemoteOK",
-      "tags": [
-        "game dev",
-        "mobile"
-      ],
-      "salary": "",
-      "posted": "2026-08-08T12:11:12+00:00"
     }
   ],
-  "last_updated": "2026-08-12T00:41:35.810455",
+  "last_updated": "2026-08-12T03:10:52.341588",
   "total": 20,
-  "new": 1
+  "new": 3
 }

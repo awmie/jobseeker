@@ -1,6 +1,78 @@
 {
   "jobs": [
     {
+      "title": "Talk us here if you can\u00e2\u0080\u0099t find the job that you\u00e2\u0080\u0099re looking for",
+      "company": "Universal Wolf",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-talk-us-here-if-you-cant-find-the-job-that-youre-looking-for-universal-wolf-1136450",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "exec",
+        "ops",
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-08-11T11:20:43+00:00"
+    },
+    {
+      "title": "Estimator",
+      "company": "CGC Recruitment",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-cgc-recruitment-1136416",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "sales",
+        "medical",
+        "recruiter",
+        "non tech",
+        "architecture",
+        "exec",
+        "education",
+        "ops",
+        "golang",
+        "scheme",
+        "full time",
+        "game dev",
+        "engineer",
+        "music",
+        "ios",
+        "design",
+        "swift",
+        "technical",
+        "dev",
+        "c",
+        "haskell",
+        "senior",
+        "digital nomad",
+        "microsoft",
+        "excel",
+        "virtual assistant",
+        "html",
+        "legal",
+        "teaching"
+      ],
+      "salary": "",
+      "posted": "2026-08-11T10:51:23+00:00"
+    },
+    {
+      "title": "Expression of Interest",
+      "company": "Alloy Robotics",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
+      "source": "RemoteOK",
+      "tags": [
+        "robotics"
+      ],
+      "salary": "",
+      "posted": "2026-08-11T10:41:45+00:00"
+    },
+    {
       "title": "Non Teaching Staff",
       "company": "University of Patanjali",
       "location": "Remote",
@@ -307,53 +379,9 @@
       ],
       "salary": "",
       "posted": "2026-08-10T10:17:15+00:00"
-    },
-    {
-      "title": "General Staff Position",
-      "company": "Hunt Remotely",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-staff-position-hunt-remotely-1136362",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-10T04:02:55+00:00"
-    },
-    {
-      "title": "Sales Team Member Cotton On Westfield Bondi",
-      "company": "Cotton On Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-team-member-cotton-on-westfield-bondi-cotton-on-group-1136393",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "marketing",
-        "travel",
-        "speech",
-        "finance",
-        "sales",
-        "medical",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-10T02:41:43+00:00"
-    },
-    {
-      "title": "Jobs",
-      "company": "Whiterose Janitorial Services",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-jobs-whiterose-janitorial-services-1136357",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "exec",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-09T15:12:24+00:00"
     }
   ],
-  "last_updated": "2026-08-12T10:27:40.362645",
+  "last_updated": "2026-08-12T11:22:38.373405",
   "total": 20,
-  "new": 0
+  "new": 3
 }

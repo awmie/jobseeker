@@ -1,6 +1,26 @@
 {
   "jobs": [
     {
+      "title": "Ganger",
+      "company": "Jobs in Council",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ganger-jobs-in-council-1136451",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "infosec",
+        "supervisor",
+        "customer support",
+        "testing",
+        "marketing",
+        "legal",
+        "medical",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-08-11T20:29:53+00:00"
+    },
+    {
       "title": "Artificial Intelligence Specialist",
       "company": "Modi's Boutique",
       "location": "Remote",
@@ -549,34 +569,9 @@
       ],
       "salary": "",
       "posted": "2026-08-11T08:00:43+00:00"
-    },
-    {
-      "title": "Senior Software QA Engineer",
-      "company": "CoverGo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-qa-engineer-covergo-1136378",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "customer support",
-        "testing",
-        "quality assurance",
-        "video",
-        "finance",
-        "c",
-        "api",
-        "exec",
-        "content writing",
-        "senior",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-11T08:00:19+00:00"
     }
   ],
-  "last_updated": "2026-08-12T20:22:16.216769",
+  "last_updated": "2026-08-12T21:09:47.244226",
   "total": 20,
   "new": 1
 }

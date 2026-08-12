@@ -43,6 +43,20 @@
       "posted": "2026-08-11T00:41:10+00:00"
     },
     {
+      "title": "Facilities Technician II #JR100294",
+      "company": "City of Peoria, Arizona",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-facilities-technician-ii-jr100294-city-of-peoria-arizona-1136454",
+      "source": "RemoteOK",
+      "tags": [
+        "ops",
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-11T00:00:00+00:00"
+    },
+    {
       "title": "FC Lead",
       "company": "Cart.com",
       "location": "Remote",
@@ -53,6 +67,18 @@
       ],
       "salary": "",
       "posted": "2026-08-10T22:15:08+00:00"
+    },
+    {
+      "title": "Interdisciplinary",
+      "company": "US Army Corps of Engineers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-interdisciplinary-us-army-corps-of-engineers-1136453",
+      "source": "RemoteOK",
+      "tags": [
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-08-10T21:58:31+00:00"
     },
     {
       "title": "Message Center Operator",
@@ -285,29 +311,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-08T17:42:59+00:00"
-    },
-    {
-      "title": "St George\u00e2\u0080\u0099s Cares",
-      "company": "Quintessence Films Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-st-georges-cares-quintessence-films-limited-1136334",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-08T15:19:50+00:00"
-    },
-    {
-      "title": "YOUR JOB DESCRIPTION HERE",
-      "company": "Compucorp Inc",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-your-job-description-here-compucorp-inc-1136336",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-08T13:23:12+00:00"
     }
   ],
-  "last_updated": "2026-08-12T03:10:52.341588",
+  "last_updated": "2026-08-12T05:01:49.864630",
   "total": 20,
-  "new": 3
+  "new": 2
 }

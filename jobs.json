@@ -1,6 +1,50 @@
 {
   "jobs": [
     {
+      "title": "barber",
+      "company": "Tommy Gun's Original Barbershop",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-barber-tommy-guns-original-barbershop-1136548",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "supervisor",
+        "web dev",
+        "travel",
+        "exec",
+        "sales",
+        "customer support",
+        "recruiter",
+        "marketing",
+        "testing",
+        "technical",
+        "dev",
+        "medical",
+        "digital nomad",
+        "sys admin",
+        "virtual assistant",
+        "finance",
+        "ops",
+        "full time",
+        "part time",
+        "music",
+        "payroll",
+        "internship",
+        "game dev",
+        "excel",
+        "hr",
+        "speech",
+        "golang",
+        "infosec",
+        "consulting",
+        "ecommerce",
+        "assembly",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-08-11T14:44:39+00:00"
+    },
+    {
       "title": "Junior Crypto Trader",
       "company": "ATOM Partners",
       "location": "Remote",
@@ -346,30 +390,9 @@
       ],
       "salary": "",
       "posted": "2026-08-10T20:15:16+00:00"
-    },
-    {
-      "title": "Electrician Royal Beach Club",
-      "company": "Royal Caribbean International",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-electrician-royal-beach-club-royal-caribbean-international-1136364",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "supervisor",
-        "exec",
-        "finance",
-        "video",
-        "ops",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-10T13:51:12+00:00"
     }
   ],
-  "last_updated": "2026-08-12T14:42:37.535879",
+  "last_updated": "2026-08-12T15:39:42.015656",
   "total": 20,
-  "new": 0
+  "new": 1
 }

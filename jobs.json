@@ -1,6 +1,60 @@
 {
   "jobs": [
     {
+      "title": "Non Teaching Staff",
+      "company": "University of Patanjali",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-non-teaching-staff-university-of-patanjali-1136385",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching"
+      ],
+      "salary": "",
+      "posted": "2026-08-11T08:38:36+00:00"
+    },
+    {
+      "title": "Sales Development Representative Attribute\u00e2\u0084",
+      "company": "DoiT",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "marketing",
+        "cloud",
+        "microsoft",
+        "exec",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-08-11T08:00:43+00:00"
+    },
+    {
+      "title": "Senior Software QA Engineer",
+      "company": "CoverGo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-qa-engineer-covergo-1136378",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "customer support",
+        "testing",
+        "quality assurance",
+        "video",
+        "finance",
+        "c",
+        "api",
+        "exec",
+        "content writing",
+        "senior",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-11T08:00:19+00:00"
+    },
+    {
       "title": "Join a team helping people make better financial decisions",
       "company": "Valley Bank Women in Business",
       "location": "Remote",
@@ -297,108 +351,9 @@
       ],
       "salary": "",
       "posted": "2026-08-09T15:12:24+00:00"
-    },
-    {
-      "title": "factory labourer manufacturing",
-      "company": "HongSheng North America Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-factory-labourer-manufacturing-hongsheng-north-america-inc-1136543",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "supervisor",
-        "web dev",
-        "travel",
-        "exec",
-        "sales",
-        "customer support",
-        "recruiter",
-        "marketing",
-        "testing",
-        "technical",
-        "dev",
-        "medical",
-        "digital nomad",
-        "sys admin",
-        "virtual assistant",
-        "finance",
-        "ops",
-        "full time",
-        "part time",
-        "music",
-        "payroll",
-        "internship",
-        "game dev",
-        "excel",
-        "hr",
-        "speech",
-        "golang",
-        "infosec",
-        "consulting",
-        "ecommerce",
-        "assembly"
-      ],
-      "salary": "",
-      "posted": "2026-08-09T00:04:39+00:00"
-    },
-    {
-      "title": "Meat Department Manager",
-      "company": "Walmart Canada",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-meat-department-manager-walmart-canada-1136552",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "supervisor",
-        "web dev",
-        "travel",
-        "exec",
-        "sales",
-        "customer support",
-        "recruiter",
-        "marketing",
-        "testing",
-        "technical",
-        "dev",
-        "medical",
-        "digital nomad",
-        "sys admin",
-        "virtual assistant",
-        "finance",
-        "ops",
-        "full time",
-        "part time",
-        "music",
-        "payroll",
-        "internship",
-        "game dev",
-        "excel",
-        "hr",
-        "speech",
-        "golang",
-        "infosec",
-        "consulting",
-        "ecommerce",
-        "assembly",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-08T23:34:43+00:00"
-    },
-    {
-      "title": "Beekeeper Academy of Achievement",
-      "company": "American Academy of Achievement",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-beekeeper-academy-of-achievement-american-academy-of-achievement-1136345",
-      "source": "RemoteOK",
-      "tags": [
-        "c"
-      ],
-      "salary": "",
-      "posted": "2026-08-08T22:34:52+00:00"
     }
   ],
-  "last_updated": "2026-08-12T07:57:17.456312",
+  "last_updated": "2026-08-12T09:14:09.883738",
   "total": 20,
-  "new": 0
+  "new": 3
 }

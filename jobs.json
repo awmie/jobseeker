@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "title": "Junior Crypto Trader",
+      "company": "ATOM Partners",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-trader-atom-partners-1136383",
+      "source": "RemoteOK",
+      "tags": [
+        "other",
+        "crypto",
+        "web3",
+        "bitcoin",
+        "remote",
+        "trader",
+        "finance",
+        "web dev",
+        "defi",
+        "blockchain",
+        "education",
+        "worldwide"
+      ],
+      "salary": "",
+      "posted": "2026-08-11T12:28:07+00:00"
+    },
+    {
+      "title": "Lifeguard",
+      "company": "City of Kamloops",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-lifeguard-city-of-kamloops-1136557",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "education",
+        "admin",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-11T12:24:19+00:00"
+    },
+    {
+      "title": "Your Next Role",
+      "company": "Warmup PLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-your-next-role-warmup-plc-1136448",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-11T12:10:04+00:00"
+    },
+    {
       "title": "Talk us here if you can\u00e2\u0080\u0099t find the job that you\u00e2\u0080\u0099re looking for",
       "company": "Universal Wolf",
       "location": "Remote",
@@ -319,69 +367,9 @@
       ],
       "salary": "",
       "posted": "2026-08-10T13:51:12+00:00"
-    },
-    {
-      "title": "Detail Specialist",
-      "company": "U-Haul",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-detail-specialist-u-haul-1136363",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "payroll",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-10T13:49:05+00:00"
-    },
-    {
-      "title": "12TH PASS",
-      "company": "Simond Fibertech Limited - India",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-12th-pass-simond-fibertech-limited-india-1136368",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "mobile",
-        "sys admin",
-        "full time",
-        "non tech",
-        "payroll",
-        "dev",
-        "exec",
-        "ops",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-10T10:53:24+00:00"
-    },
-    {
-      "title": "Payroll specialist UK",
-      "company": "EZSpace Ventures",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-payroll-specialist-uk-ezspace-ventures-1136367",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "mobile",
-        "sys admin",
-        "full time",
-        "non tech",
-        "payroll",
-        "dev",
-        "exec",
-        "ops",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-10T10:17:15+00:00"
     }
   ],
-  "last_updated": "2026-08-12T12:05:17.069337",
+  "last_updated": "2026-08-12T13:39:31.571777",
   "total": 20,
-  "new": 0
+  "new": 3
 }

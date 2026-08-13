@@ -1,6 +1,48 @@
 {
   "jobs": [
     {
+      "title": "Seeking a job",
+      "company": "ALEH Writing Services (AWS)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-seeking-a-job-aleh-writing-services-aws-1136558",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-12T08:29:55+00:00"
+    },
+    {
+      "title": "Live In Nanny Bermuda",
+      "company": "Tucker's Farm Corporation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-live-in-nanny-bermuda-tuckers-farm-corporation-1136562",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "video",
+        "full time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-12T08:23:32+00:00"
+    },
+    {
+      "title": "Project leaders",
+      "company": "Niyukti Systems, Inc",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-leaders-niyukti-systems-inc-1136561",
+      "source": "RemoteOK",
+      "tags": [
+        "ecommerce",
+        "ops",
+        "project manager",
+        "exec",
+        "ads",
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-08-12T07:59:46+00:00"
+    },
+    {
       "title": "Coffee Roaster Campos Coffee",
       "company": "JDE Peet's",
       "location": "Remote",
@@ -511,81 +553,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-11T12:10:04+00:00"
-    },
-    {
-      "title": "Talk us here if you can\u00e2\u0080\u0099t find the job that you\u00e2\u0080\u0099re looking for",
-      "company": "Universal Wolf",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-talk-us-here-if-you-cant-find-the-job-that-youre-looking-for-universal-wolf-1136450",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "exec",
-        "ops",
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-08-11T11:20:43+00:00"
-    },
-    {
-      "title": "Estimator",
-      "company": "CGC Recruitment",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-cgc-recruitment-1136416",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "marketing",
-        "travel",
-        "speech",
-        "finance",
-        "sales",
-        "medical",
-        "recruiter",
-        "non tech",
-        "architecture",
-        "exec",
-        "education",
-        "ops",
-        "golang",
-        "scheme",
-        "full time",
-        "game dev",
-        "engineer",
-        "music",
-        "ios",
-        "design",
-        "swift",
-        "technical",
-        "dev",
-        "c",
-        "haskell",
-        "senior",
-        "digital nomad",
-        "microsoft",
-        "excel",
-        "virtual assistant",
-        "html",
-        "legal",
-        "teaching"
-      ],
-      "salary": "",
-      "posted": "2026-08-11T10:51:23+00:00"
-    },
-    {
-      "title": "Expression of Interest",
-      "company": "Alloy Robotics",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "source": "RemoteOK",
-      "tags": [
-        "robotics"
-      ],
-      "salary": "",
-      "posted": "2026-08-11T10:41:45+00:00"
     }
   ],
-  "last_updated": "2026-08-13T07:46:53.388384",
+  "last_updated": "2026-08-13T08:56:17.252398",
   "total": 20,
-  "new": 0
+  "new": 3
 }

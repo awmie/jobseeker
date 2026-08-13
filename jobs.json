@@ -1,6 +1,43 @@
 {
   "jobs": [
     {
+      "title": "Tunnel Agent",
+      "company": "Skanska Costain STRABAG Joint Venture",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-tunnel-agent-skanska-costain-strabag-joint-venture-1136576",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-12T14:18:43+00:00"
+    },
+    {
+      "title": "Sub Agent",
+      "company": "Skanska Costain STRABAG Joint Venture",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-costain-strabag-joint-venture-1136585",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-12T14:18:43+00:00"
+    },
+    {
+      "title": "Test Job Title",
+      "company": "RecMan.io",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-job-title-recman-io-1136578",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-12T13:57:07+00:00"
+    },
+    {
       "title": "Operator",
       "company": "SLB",
       "location": "Remote",
@@ -451,119 +488,9 @@
       ],
       "salary": "",
       "posted": "2026-08-11T16:49:47+00:00"
-    },
-    {
-      "title": "Maintenance Technician",
-      "company": "Goddard Enterprises Ltd.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-goddard-enterprises-ltd-1136387",
-      "source": "RemoteOK",
-      "tags": [
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "golang",
-        "non tech",
-        "digital nomad",
-        "sys admin",
-        "technical",
-        "supervisor",
-        "customer support",
-        "microsoft",
-        "exec",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-11T15:45:45+00:00"
-    },
-    {
-      "title": "barber",
-      "company": "Tommy Gun's Original Barbershop",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-barber-tommy-guns-original-barbershop-1136548",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "supervisor",
-        "web dev",
-        "travel",
-        "exec",
-        "sales",
-        "customer support",
-        "recruiter",
-        "marketing",
-        "testing",
-        "technical",
-        "dev",
-        "medical",
-        "digital nomad",
-        "sys admin",
-        "virtual assistant",
-        "finance",
-        "ops",
-        "full time",
-        "part time",
-        "music",
-        "payroll",
-        "internship",
-        "game dev",
-        "excel",
-        "hr",
-        "speech",
-        "golang",
-        "infosec",
-        "consulting",
-        "ecommerce",
-        "assembly",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-11T14:44:39+00:00"
-    },
-    {
-      "title": "Junior Crypto Trader",
-      "company": "ATOM Partners",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-trader-atom-partners-1136383",
-      "source": "RemoteOK",
-      "tags": [
-        "other",
-        "crypto",
-        "web3",
-        "bitcoin",
-        "remote",
-        "trader",
-        "finance",
-        "web dev",
-        "defi",
-        "blockchain",
-        "education",
-        "worldwide"
-      ],
-      "salary": "",
-      "posted": "2026-08-11T12:28:07+00:00"
     }
   ],
-  "last_updated": "2026-08-13T13:20:44.728333",
+  "last_updated": "2026-08-13T14:34:06.499496",
   "total": 20,
-  "new": 0
+  "new": 3
 }

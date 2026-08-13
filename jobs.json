@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "Looking for Job",
+      "company": "ALEH Writing Services (AWS)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-looking-for-job-aleh-writing-services-aws-1136584",
+      "source": "RemoteOK",
+      "tags": [
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-12T20:32:14+00:00"
+    },
+    {
       "title": "Bell Person",
       "company": "Fairmont Hotels &amp; Resorts",
       "location": "Remote",
@@ -353,26 +365,9 @@
       ],
       "salary": "",
       "posted": "2026-08-11T20:06:27+00:00"
-    },
-    {
-      "title": "Merchandising Execution Associate MARLBOROUGH",
-      "company": "The Home Depot Canada",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-merchandising-execution-associate-marlborough-the-home-depot-canada-1136504",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "supervisor",
-        "web dev",
-        "travel",
-        "exec",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-08-11T19:04:10+00:00"
     }
   ],
-  "last_updated": "2026-08-13T20:17:12.424072",
+  "last_updated": "2026-08-13T21:06:57.697284",
   "total": 20,
   "new": 1
 }

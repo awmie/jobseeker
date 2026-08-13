@@ -1,6 +1,46 @@
 {
   "jobs": [
     {
+      "title": "Technician",
+      "company": "The Security Centre Limited.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-technician-the-security-centre-limited-1136590",
+      "source": "RemoteOK",
+      "tags": [
+        "sales",
+        "engineer",
+        "technical",
+        "ecommerce",
+        "teaching",
+        "admin",
+        "education",
+        "infosec",
+        "design",
+        "hr",
+        "sys admin",
+        "customer support",
+        "testing",
+        "travel",
+        "exec",
+        "ops",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-12T21:35:51+00:00"
+    },
+    {
+      "title": "All Other Future Considerations",
+      "company": "WB Melback Corporation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-all-other-future-considerations-wb-melback-corporation-1136583",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-12T21:26:49+00:00"
+    },
+    {
       "title": "Looking for Job",
       "company": "ALEH Writing Services (AWS)",
       "location": "Remote",
@@ -308,66 +348,9 @@
       ],
       "salary": "",
       "posted": "2026-08-12T00:00:23+00:00"
-    },
-    {
-      "title": "Ganger",
-      "company": "Jobs in Council",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ganger-jobs-in-council-1136451",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "infosec",
-        "supervisor",
-        "customer support",
-        "testing",
-        "marketing",
-        "legal",
-        "medical",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-08-11T20:29:53+00:00"
-    },
-    {
-      "title": "Artificial Intelligence Specialist",
-      "company": "Modi's Boutique",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-artificial-intelligence-specialist-modis-boutique-1136555",
-      "source": "RemoteOK",
-      "tags": [
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "golang",
-        "non tech",
-        "digital nomad",
-        "artificial intelligence"
-      ],
-      "salary": "",
-      "posted": "2026-08-11T20:06:27+00:00"
     }
   ],
-  "last_updated": "2026-08-13T21:06:57.697284",
+  "last_updated": "2026-08-13T21:59:08.200693",
   "total": 20,
-  "new": 1
+  "new": 2
 }

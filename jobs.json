@@ -1,6 +1,36 @@
 {
   "jobs": [
     {
+      "title": "Bell Person",
+      "company": "Fairmont Hotels &amp; Resorts",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-bell-person-fairmont-hotels-amp-resorts-1136591",
+      "source": "RemoteOK",
+      "tags": [
+        "sales",
+        "engineer",
+        "technical",
+        "ecommerce",
+        "teaching",
+        "admin",
+        "education",
+        "infosec",
+        "design",
+        "hr",
+        "sys admin",
+        "customer support",
+        "testing",
+        "travel",
+        "exec",
+        "ops",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-12T19:45:12+00:00"
+    },
+    {
       "title": "Title TBD",
       "company": "IBAC",
       "location": "Remote",
@@ -340,45 +370,9 @@
       ],
       "salary": "",
       "posted": "2026-08-11T19:04:10+00:00"
-    },
-    {
-      "title": "Loss Prevention Specialist",
-      "company": "The Home Depot Canada",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-loss-prevention-specialist-the-home-depot-canada-1136390",
-      "source": "RemoteOK",
-      "tags": [
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "golang",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-11T19:04:09+00:00"
     }
   ],
-  "last_updated": "2026-08-13T19:36:56.873826",
+  "last_updated": "2026-08-13T20:17:12.424072",
   "total": 20,
   "new": 1
 }

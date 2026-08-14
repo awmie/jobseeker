@@ -1,6 +1,27 @@
 {
   "jobs": [
     {
+      "title": "Product Manager",
+      "company": "Resourceful Talent Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-resourceful-talent-group-1136579",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "saas",
+        "technical",
+        "dev",
+        "finance",
+        "ops",
+        "engineer",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-13T00:00:03+00:00"
+    },
+    {
       "title": "Technician",
       "company": "The Security Centre Limited.",
       "location": "Remote",
@@ -325,32 +346,9 @@
       ],
       "salary": "",
       "posted": "2026-08-12T05:32:34+00:00"
-    },
-    {
-      "title": "Staff Software Engineer",
-      "company": "Evolve",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "design",
-        "embedded",
-        "sys admin",
-        "infosec",
-        "architecture",
-        "testing",
-        "devops",
-        "cloud",
-        "exec",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-12T00:00:23+00:00"
     }
   ],
-  "last_updated": "2026-08-13T23:30:54.663453",
+  "last_updated": "2026-08-14T00:09:45.063684",
   "total": 20,
-  "new": 0
+  "new": 1
 }

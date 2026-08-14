@@ -1,6 +1,43 @@
 {
   "jobs": [
     {
+      "title": "Room Attendant",
+      "company": "The Abaco Club",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-room-attendant-the-abaco-club-1136695",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "supervisor",
+        "travel",
+        "exec",
+        "virtual assistant",
+        "finance",
+        "senior",
+        "ops",
+        "full time",
+        "customer support",
+        "dev",
+        "digital nomad",
+        "hr",
+        "medical",
+        "recruiter",
+        "marketing",
+        "junior",
+        "golang",
+        "engineer",
+        "legal",
+        "wordpress",
+        "microsoft",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-08-13T18:24:15+00:00"
+    },
+    {
       "title": "Locator",
       "company": "Aecon Group Inc.",
       "location": "Remote",
@@ -356,22 +393,9 @@
       ],
       "salary": "",
       "posted": "2026-08-12T14:18:43+00:00"
-    },
-    {
-      "title": "Test Job Title",
-      "company": "RecMan.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-job-title-recman-io-1136578",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-12T13:57:07+00:00"
     }
   ],
-  "last_updated": "2026-08-14T17:29:46.255146",
+  "last_updated": "2026-08-14T18:27:03.265279",
   "total": 20,
   "new": 1
 }

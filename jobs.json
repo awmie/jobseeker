@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "Carve Out Lead",
+      "company": "Arbex",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-carve-out-lead-arbex-1136624",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-13T18:52:32+00:00"
+    },
+    {
       "title": "Room Attendant",
       "company": "The Abaco Club",
       "location": "Remote",
@@ -381,21 +393,9 @@
       ],
       "salary": "",
       "posted": "2026-08-12T14:18:43+00:00"
-    },
-    {
-      "title": "Sub Agent",
-      "company": "Skanska Costain STRABAG Joint Venture",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-costain-strabag-joint-venture-1136585",
-      "source": "RemoteOK",
-      "tags": [
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-08-12T14:18:43+00:00"
     }
   ],
-  "last_updated": "2026-08-14T18:27:03.265279",
+  "last_updated": "2026-08-14T19:28:56.957323",
   "total": 20,
   "new": 1
 }

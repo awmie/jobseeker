@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "title": "Locator",
+      "company": "Aecon Group Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-locator-aecon-group-inc-1136666",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "sys admin",
+        "education",
+        "supervisor",
+        "coordinator",
+        "customer support",
+        "dev",
+        "travel",
+        "exec",
+        "excel",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-13T16:43:11+00:00"
+    },
+    {
       "title": "Senior Data Engineer",
       "company": "Lemon.io",
       "location": "Remote",
@@ -346,29 +369,9 @@
       ],
       "salary": "",
       "posted": "2026-08-12T13:57:07+00:00"
-    },
-    {
-      "title": "Operator",
-      "company": "SLB",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-operator-slb-1136563",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "video",
-        "full time",
-        "non tech",
-        "technical",
-        "testing",
-        "microsoft",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-08-12T10:34:31+00:00"
     }
   ],
-  "last_updated": "2026-08-14T16:27:27.206634",
+  "last_updated": "2026-08-14T17:29:46.255146",
   "total": 20,
-  "new": 4
+  "new": 1
 }

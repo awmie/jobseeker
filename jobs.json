@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "Appliances Sales Associate PRINCE GEORGE",
+      "company": "The Home Depot Canada",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-appliances-sales-associate-prince-george-the-home-depot-canada-1136679",
+      "source": "RemoteOK",
+      "tags": [
+        "sales",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-13T01:03:44+00:00"
+    },
+    {
       "title": "Product Manager",
       "company": "Resourceful Talent Group",
       "location": "Remote",
@@ -326,29 +339,9 @@
       ],
       "salary": "",
       "posted": "2026-08-12T07:59:46+00:00"
-    },
-    {
-      "title": "Coffee Roaster Campos Coffee",
-      "company": "JDE Peet's",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-coffee-roaster-campos-coffee-jde-peets-1136571",
-      "source": "RemoteOK",
-      "tags": [
-        "teaching",
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "ops",
-        "excel",
-        "golang",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-08-12T05:32:34+00:00"
     }
   ],
-  "last_updated": "2026-08-14T12:23:57.804051",
+  "last_updated": "2026-08-14T13:50:39.989638",
   "total": 20,
-  "new": 0
+  "new": 1
 }

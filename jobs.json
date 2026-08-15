@@ -1,6 +1,44 @@
 {
   "jobs": [
     {
+      "title": "Engineering Manager Thailand",
+      "company": "Bjak ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "sys admin",
+        "front end",
+        "infosec",
+        "technical",
+        "dev",
+        "testing",
+        "finance",
+        "cloud",
+        "mobile",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-14T08:00:04+00:00"
+    },
+    {
+      "title": "Quality Checker",
+      "company": "InTechNative",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-quality-checker-intechnative-1136776",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "javascript"
+      ],
+      "salary": "",
+      "posted": "2026-08-14T07:58:11+00:00"
+    },
+    {
       "title": "Current Openings",
       "company": "Black Talon Security",
       "location": "Remote",
@@ -374,6 +412,50 @@
       "posted": "2026-08-13T08:10:05+00:00"
     },
     {
+      "title": "Facilities Planner",
+      "company": "Booz Allen Hamilton",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-facilities-planner-booz-allen-hamilton-1136789",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "javascript",
+        "technical",
+        "exec",
+        "sys admin",
+        "customer support",
+        "web dev",
+        "virtual assistant",
+        "video",
+        "api",
+        "ops",
+        "marketing",
+        "engineer",
+        "ecommerce",
+        "education",
+        "consulting",
+        "testing",
+        "analyst",
+        "design",
+        "digital nomad",
+        "hr",
+        "dev",
+        "payroll",
+        "finance",
+        "content writing",
+        "junior",
+        "travel",
+        "excel",
+        "microsoft",
+        "senior",
+        "medical",
+        "full time",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-08-13T02:09:24+00:00"
+    },
+    {
       "title": "Appliances Sales Associate PRINCE GEORGE",
       "company": "The Home Depot Canada",
       "location": "Remote",
@@ -406,61 +488,9 @@
       ],
       "salary": "",
       "posted": "2026-08-13T00:00:03+00:00"
-    },
-    {
-      "title": "Technician",
-      "company": "The Security Centre Limited.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technician-the-security-centre-limited-1136590",
-      "source": "RemoteOK",
-      "tags": [
-        "sales",
-        "engineer",
-        "technical",
-        "ecommerce",
-        "teaching",
-        "admin",
-        "education",
-        "infosec",
-        "design",
-        "hr",
-        "sys admin",
-        "customer support",
-        "testing",
-        "travel",
-        "exec",
-        "ops",
-        "medical",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-12T21:35:51+00:00"
-    },
-    {
-      "title": "All Other Future Considerations",
-      "company": "WB Melback Corporation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-all-other-future-considerations-wb-melback-corporation-1136583",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-12T21:26:49+00:00"
-    },
-    {
-      "title": "Looking for Job",
-      "company": "ALEH Writing Services (AWS)",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-looking-for-job-aleh-writing-services-aws-1136584",
-      "source": "RemoteOK",
-      "tags": [
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-08-12T20:32:14+00:00"
     }
   ],
-  "last_updated": "2026-08-15T07:47:49.817119",
+  "last_updated": "2026-08-15T08:10:09.253994",
   "total": 20,
-  "new": 0
+  "new": 3
 }

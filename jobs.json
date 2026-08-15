@@ -1,6 +1,44 @@
 {
   "jobs": [
     {
+      "title": "Store Manager",
+      "company": "Wolt",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-wolt-1136747",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "education",
+        "customer support",
+        "finance",
+        "c",
+        "scheme",
+        "exec",
+        "medical",
+        "marketing",
+        "full time",
+        "design",
+        "infosec",
+        "music",
+        "digital nomad",
+        "technical",
+        "engineer",
+        "teaching",
+        "math",
+        "recruiter",
+        "sys admin",
+        "golang",
+        "microsoft",
+        "excel",
+        "sales",
+        "travel",
+        "ops",
+        "virtual assistant"
+      ],
+      "salary": "",
+      "posted": "2026-08-14T15:44:08+00:00"
+    },
+    {
       "title": "Test Job",
       "company": "Link Snacks",
       "location": "Remote",
@@ -441,33 +479,9 @@
       ],
       "salary": "",
       "posted": "2026-08-13T10:57:25+00:00"
-    },
-    {
-      "title": "Store Manager Macpac Adelaide Airport",
-      "company": "Macpac Ltd.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-macpac-adelaide-airport-macpac-ltd-1136707",
-      "source": "RemoteOK",
-      "tags": [
-        "architecture",
-        "medical",
-        "exec",
-        "education",
-        "customer support",
-        "marketing",
-        "virtual assistant",
-        "ops",
-        "sales",
-        "infosec",
-        "travel",
-        "finance",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T08:10:05+00:00"
     }
   ],
-  "last_updated": "2026-08-15T15:39:06.286014",
+  "last_updated": "2026-08-15T15:55:31.226727",
   "total": 20,
-  "new": 0
+  "new": 1
 }

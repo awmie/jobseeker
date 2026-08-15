@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "Current Openings",
+      "company": "Black Talon Security",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-current-openings-black-talon-security-1136664",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec"
+      ],
+      "salary": "",
+      "posted": "2026-08-14T05:27:50+00:00"
+    },
+    {
       "title": "Gardener Handyman Driver",
       "company": "NT Health",
       "location": "Remote",
@@ -446,39 +458,9 @@
       ],
       "salary": "",
       "posted": "2026-08-12T20:32:14+00:00"
-    },
-    {
-      "title": "Bell Person",
-      "company": "Fairmont Hotels &amp; Resorts",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-bell-person-fairmont-hotels-amp-resorts-1136591",
-      "source": "RemoteOK",
-      "tags": [
-        "sales",
-        "engineer",
-        "technical",
-        "ecommerce",
-        "teaching",
-        "admin",
-        "education",
-        "infosec",
-        "design",
-        "hr",
-        "sys admin",
-        "customer support",
-        "testing",
-        "travel",
-        "exec",
-        "ops",
-        "medical",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-12T19:45:12+00:00"
     }
   ],
-  "last_updated": "2026-08-15T05:12:03.985359",
+  "last_updated": "2026-08-15T05:41:52.403859",
   "total": 20,
-  "new": 0
+  "new": 1
 }

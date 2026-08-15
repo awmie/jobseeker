@@ -1,6 +1,48 @@
 {
   "jobs": [
     {
+      "title": "Infanteer",
+      "company": "Canadian Armed Forces | Forces arm\u00c3\u00a9es canadiennes",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-infanteer-canadian-armed-forces-forces-armees-canadiennes-1136677",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "education",
+        "customer support",
+        "ops",
+        "recruiter",
+        "engineer",
+        "full time",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-08-14T10:56:33+00:00"
+    },
+    {
+      "title": "Engineer Officer",
+      "company": "Canadian Armed Forces | Forces arm\u00c3\u00a9es canadiennes",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineer-officer-canadian-armed-forces-forces-armees-canadiennes-1136678",
+      "source": "RemoteOK",
+      "tags": [
+        "teaching",
+        "education",
+        "customer support",
+        "ops",
+        "recruiter",
+        "engineer",
+        "full time",
+        "part time",
+        "sys admin",
+        "technical",
+        "exec",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-08-14T10:44:01+00:00"
+    },
+    {
       "title": "Engineering Manager Thailand",
       "company": "Bjak ",
       "location": "Remote",
@@ -454,43 +496,9 @@
       ],
       "salary": "",
       "posted": "2026-08-13T02:09:24+00:00"
-    },
-    {
-      "title": "Appliances Sales Associate PRINCE GEORGE",
-      "company": "The Home Depot Canada",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-appliances-sales-associate-prince-george-the-home-depot-canada-1136679",
-      "source": "RemoteOK",
-      "tags": [
-        "sales",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T01:03:44+00:00"
-    },
-    {
-      "title": "Product Manager",
-      "company": "Resourceful Talent Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-resourceful-talent-group-1136579",
-      "source": "RemoteOK",
-      "tags": [
-        "product manager",
-        "exec",
-        "saas",
-        "technical",
-        "dev",
-        "finance",
-        "ops",
-        "engineer",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T00:00:03+00:00"
     }
   ],
-  "last_updated": "2026-08-15T10:42:52.153052",
+  "last_updated": "2026-08-15T10:59:31.132178",
   "total": 20,
-  "new": 0
+  "new": 2
 }

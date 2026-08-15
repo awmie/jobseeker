@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "Test Job",
+      "company": "Link Snacks",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-job-link-snacks-1136686",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-14T12:49:18+00:00"
+    },
+    {
       "title": "Infanteer",
       "company": "Canadian Armed Forces | Forces arm\u00c3\u00a9es canadiennes",
       "location": "Remote",
@@ -452,53 +465,9 @@
       ],
       "salary": "",
       "posted": "2026-08-13T08:10:05+00:00"
-    },
-    {
-      "title": "Facilities Planner",
-      "company": "Booz Allen Hamilton",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-facilities-planner-booz-allen-hamilton-1136789",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "javascript",
-        "technical",
-        "exec",
-        "sys admin",
-        "customer support",
-        "web dev",
-        "virtual assistant",
-        "video",
-        "api",
-        "ops",
-        "marketing",
-        "engineer",
-        "ecommerce",
-        "education",
-        "consulting",
-        "testing",
-        "analyst",
-        "design",
-        "digital nomad",
-        "hr",
-        "dev",
-        "payroll",
-        "finance",
-        "content writing",
-        "junior",
-        "travel",
-        "excel",
-        "microsoft",
-        "senior",
-        "medical",
-        "full time",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T02:09:24+00:00"
     }
   ],
-  "last_updated": "2026-08-15T11:59:45.179688",
+  "last_updated": "2026-08-15T12:52:30.965473",
   "total": 20,
-  "new": 0
+  "new": 1
 }

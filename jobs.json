@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "Why Your First Weeks a New Role Shape Everything That Follows",
+      "company": "Decode-X",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-why-your-first-weeks-a-new-role-shape-everything-that-follows-decode-x-1136792",
+      "source": "RemoteOK",
+      "tags": [
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-08-14T23:12:43+00:00"
+    },
+    {
       "title": "Shop Assistant Cammeray",
       "company": "Harris Farm Markets",
       "location": "Remote",
@@ -438,57 +450,9 @@
       ],
       "salary": "",
       "posted": "2026-08-13T13:00:29+00:00"
-    },
-    {
-      "title": "Team Member",
-      "company": "Subway\u00c2\u00ae Australia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-member-subwayr-australia-1136726",
-      "source": "RemoteOK",
-      "tags": [
-        "architecture",
-        "medical",
-        "exec",
-        "education",
-        "customer support",
-        "marketing",
-        "virtual assistant",
-        "ops",
-        "sales",
-        "infosec",
-        "travel",
-        "finance",
-        "recruiter",
-        "design",
-        "python",
-        "vfx",
-        "technical",
-        "supervisor",
-        "c",
-        "c plus plus",
-        "senior",
-        "digital nomad",
-        "legal",
-        "payroll",
-        "admin",
-        "scheme",
-        "full time",
-        "dev",
-        "english teacher",
-        "teaching",
-        "hr",
-        "music",
-        "junior",
-        "sys admin",
-        "golang",
-        "engineer",
-        "game dev"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T12:51:45+00:00"
     }
   ],
-  "last_updated": "2026-08-15T22:55:09.004674",
+  "last_updated": "2026-08-15T23:16:59.514576",
   "total": 20,
-  "new": 0
+  "new": 1
 }

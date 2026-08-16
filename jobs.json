@@ -61,6 +61,30 @@
       "posted": "2026-08-14T23:12:43+00:00"
     },
     {
+      "title": "Store Manager White House Black Market",
+      "company": "Chico's FAS, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-white-house-black-market-chicos-fas-inc-1136826",
+      "source": "RemoteOK",
+      "tags": [
+        "ecommerce",
+        "exec",
+        "marketing",
+        "finance",
+        "senior",
+        "ops",
+        "sales",
+        "design",
+        "customer support",
+        "dev",
+        "payroll",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-14T22:49:33+00:00"
+    },
+    {
       "title": "Maintenance Planner",
       "company": "The HEINEKEN Company",
       "location": "Remote",
@@ -298,6 +322,18 @@
       "posted": "2026-08-13T23:28:31+00:00"
     },
     {
+      "title": "Porteiro Ribeir\u00c3\u00a3o Preto",
+      "company": "Savegnago Supermercados",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-porteiro-ribeirao-preto-savegnago-supermercados-1136821",
+      "source": "RemoteOK",
+      "tags": [
+        "ecommerce"
+      ],
+      "salary": "",
+      "posted": "2026-08-13T21:50:46+00:00"
+    },
+    {
       "title": "Gardener Handyman Driver",
       "company": "NT Health",
       "location": "Remote",
@@ -375,52 +411,9 @@
       ],
       "salary": "",
       "posted": "2026-08-13T18:24:15+00:00"
-    },
-    {
-      "title": "Locator",
-      "company": "Aecon Group Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-locator-aecon-group-inc-1136666",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "sys admin",
-        "education",
-        "supervisor",
-        "coordinator",
-        "customer support",
-        "dev",
-        "travel",
-        "exec",
-        "excel",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T16:43:11+00:00"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "company": "Lemon.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "engineer",
-        "full time",
-        "senior",
-        "python",
-        "sql",
-        "aws",
-        "gcp",
-        "apache"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T16:06:05+00:00"
     }
   ],
-  "last_updated": "2026-08-16T12:54:14.225625",
+  "last_updated": "2026-08-16T13:26:19.718646",
   "total": 20,
-  "new": 0
+  "new": 2
 }

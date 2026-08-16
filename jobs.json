@@ -1,6 +1,36 @@
 {
   "jobs": [
     {
+      "title": "Current openings",
+      "company": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-current-openings-mobiux-labs-uk-limited-formerly-vida-technologies-ltd-1136793",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "customer support",
+        "javascript"
+      ],
+      "salary": "",
+      "posted": "2026-08-15T00:12:49+00:00"
+    },
+    {
+      "title": "QA Tester Entry Level",
+      "company": "Ace IT Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "dev",
+        "analyst",
+        "quality assurance",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-15T00:00:25+00:00"
+    },
+    {
       "title": "Why Your First Weeks a New Role Shape Everything That Follows",
       "company": "Decode-X",
       "location": "Remote",
@@ -379,80 +409,9 @@
       ],
       "salary": "",
       "posted": "2026-08-13T15:34:11+00:00"
-    },
-    {
-      "title": "Porter",
-      "company": "W Hotels",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-porter-w-hotels-1136724",
-      "source": "RemoteOK",
-      "tags": [
-        "architecture",
-        "medical",
-        "exec",
-        "education",
-        "customer support",
-        "marketing",
-        "virtual assistant",
-        "ops",
-        "sales",
-        "infosec",
-        "travel",
-        "finance",
-        "recruiter",
-        "design",
-        "python",
-        "vfx",
-        "technical",
-        "supervisor",
-        "c",
-        "c plus plus",
-        "senior",
-        "digital nomad",
-        "legal",
-        "payroll",
-        "admin",
-        "scheme",
-        "full time",
-        "dev",
-        "english teacher",
-        "teaching",
-        "hr",
-        "music",
-        "junior",
-        "sys admin",
-        "golang",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T14:45:57+00:00"
-    },
-    {
-      "title": "Store Manager Macpac Carindale",
-      "company": "Macpac Ltd.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-macpac-carindale-macpac-ltd-1136709",
-      "source": "RemoteOK",
-      "tags": [
-        "architecture",
-        "medical",
-        "exec",
-        "education",
-        "customer support",
-        "marketing",
-        "virtual assistant",
-        "ops",
-        "sales",
-        "infosec",
-        "travel",
-        "finance",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T13:00:29+00:00"
     }
   ],
-  "last_updated": "2026-08-15T23:55:14.093486",
+  "last_updated": "2026-08-16T01:08:38.808213",
   "total": 20,
-  "new": 0
+  "new": 2
 }

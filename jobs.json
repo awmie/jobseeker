@@ -1,6 +1,24 @@
 {
   "jobs": [
     {
+      "title": "Sandblaster",
+      "company": "Tiger Calcium Services Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sandblaster-tiger-calcium-services-inc-1136800",
+      "source": "RemoteOK",
+      "tags": [
+        "music",
+        "education",
+        "exec",
+        "marketing",
+        "sales",
+        "medical",
+        "testing"
+      ],
+      "salary": "",
+      "posted": "2026-08-15T01:20:47+00:00"
+    },
+    {
       "title": "Current openings",
       "company": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
       "location": "Remote",
@@ -391,27 +409,9 @@
       ],
       "salary": "",
       "posted": "2026-08-13T15:54:35+00:00"
-    },
-    {
-      "title": "HYGPOOLOP",
-      "company": "Hovis Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-hygpoolop-hovis-ltd-1136597",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "finance",
-        "recruiter",
-        "non tech",
-        "scheme",
-        "medical",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T15:34:11+00:00"
     }
   ],
-  "last_updated": "2026-08-16T01:08:38.808213",
+  "last_updated": "2026-08-16T02:33:42.461157",
   "total": 20,
-  "new": 2
+  "new": 1
 }

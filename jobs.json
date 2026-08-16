@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "title": "Cabin Cleaning Agent",
+      "company": "Menzies Aviation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "education",
+        "customer support",
+        "controller",
+        "accounting",
+        "finance",
+        "microsoft",
+        "ops",
+        "excel",
+        "medical",
+        "recruiter",
+        "infosec",
+        "testing"
+      ],
+      "salary": "",
+      "posted": "2026-08-15T16:07:53+00:00"
+    },
+    {
       "title": "Sandblaster",
       "company": "Tiger Calcium Services Inc.",
       "location": "Remote",
@@ -374,46 +398,9 @@
       ],
       "salary": "",
       "posted": "2026-08-13T18:52:32+00:00"
-    },
-    {
-      "title": "Room Attendant",
-      "company": "The Abaco Club",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-room-attendant-the-abaco-club-1136695",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "supervisor",
-        "travel",
-        "exec",
-        "virtual assistant",
-        "finance",
-        "senior",
-        "ops",
-        "full time",
-        "customer support",
-        "dev",
-        "digital nomad",
-        "hr",
-        "medical",
-        "recruiter",
-        "marketing",
-        "junior",
-        "golang",
-        "engineer",
-        "legal",
-        "wordpress",
-        "microsoft",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T18:24:15+00:00"
     }
   ],
-  "last_updated": "2026-08-16T16:00:52.362265",
+  "last_updated": "2026-08-16T16:34:58.908984",
   "total": 20,
-  "new": 0
+  "new": 1
 }

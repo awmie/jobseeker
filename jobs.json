@@ -284,6 +284,20 @@
       "posted": "2026-08-14T05:27:50+00:00"
     },
     {
+      "title": "404",
+      "company": "Train Rex",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-404-train-rex-1136816",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "exec",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-08-13T23:28:31+00:00"
+    },
+    {
       "title": "Gardener Handyman Driver",
       "company": "NT Health",
       "location": "Remote",
@@ -404,24 +418,9 @@
       ],
       "salary": "",
       "posted": "2026-08-13T16:06:05+00:00"
-    },
-    {
-      "title": "Sub Agent",
-      "company": "Skanska",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sub-agent-skanska-1136596",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "finance",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T15:54:35+00:00"
     }
   ],
-  "last_updated": "2026-08-16T11:00:20.048289",
+  "last_updated": "2026-08-16T11:28:00.472616",
   "total": 20,
-  "new": 0
+  "new": 1
 }

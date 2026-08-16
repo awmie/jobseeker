@@ -131,44 +131,6 @@
       "posted": "2026-08-14T16:00:49+00:00"
     },
     {
-      "title": "Store Manager",
-      "company": "Wolt",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-wolt-1136747",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "education",
-        "customer support",
-        "finance",
-        "c",
-        "scheme",
-        "exec",
-        "medical",
-        "marketing",
-        "full time",
-        "design",
-        "infosec",
-        "music",
-        "digital nomad",
-        "technical",
-        "engineer",
-        "teaching",
-        "math",
-        "recruiter",
-        "sys admin",
-        "golang",
-        "microsoft",
-        "excel",
-        "sales",
-        "travel",
-        "ops",
-        "virtual assistant"
-      ],
-      "salary": "",
-      "posted": "2026-08-14T15:44:08+00:00"
-    },
-    {
       "title": "Test Job",
       "company": "Link Snacks",
       "location": "Remote",
@@ -409,9 +371,27 @@
       ],
       "salary": "",
       "posted": "2026-08-13T15:54:35+00:00"
+    },
+    {
+      "title": "HYGPOOLOP",
+      "company": "Hovis Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hygpoolop-hovis-ltd-1136597",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "finance",
+        "recruiter",
+        "non tech",
+        "scheme",
+        "medical",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-08-13T15:34:11+00:00"
     }
   ],
-  "last_updated": "2026-08-16T07:58:18.012494",
+  "last_updated": "2026-08-16T08:35:45.608472",
   "total": 20,
   "new": 0
 }

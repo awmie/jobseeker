@@ -1,6 +1,55 @@
 {
   "jobs": [
     {
+      "title": "Member of Technical Staff Engineering",
+      "company": "Physical Superintelligence",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "infosec",
+        "technical",
+        "dev",
+        "testing",
+        "cloud",
+        "exec",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-16T00:00:23+00:00"
+    },
+    {
+      "title": "Strategic Account Executive Lodging",
+      "company": "FreedomPay",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "infosec",
+        "game dev",
+        "consulting",
+        "marketing",
+        "travel",
+        "speech",
+        "exec",
+        "finance",
+        "education",
+        "api",
+        "mobile",
+        "senior",
+        "ops",
+        "stats",
+        "sales",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-16T00:00:16+00:00"
+    },
+    {
       "title": "Staff Software Development Engineer SDM",
       "company": "Delinea",
       "location": "Remote",
@@ -401,35 +450,9 @@
       ],
       "salary": "",
       "posted": "2026-08-13T23:28:31+00:00"
-    },
-    {
-      "title": "Porteiro Ribeir\u00c3\u00a3o Preto",
-      "company": "Savegnago Supermercados",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-porteiro-ribeirao-preto-savegnago-supermercados-1136821",
-      "source": "RemoteOK",
-      "tags": [
-        "ecommerce"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T21:50:46+00:00"
-    },
-    {
-      "title": "Gardener Handyman Driver",
-      "company": "NT Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-gardener-handyman-driver-nt-health-1136625",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "exec",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T20:09:23+00:00"
     }
   ],
-  "last_updated": "2026-08-17T00:00:13.074226",
+  "last_updated": "2026-08-17T01:48:52.924019",
   "total": 20,
   "new": 2
 }

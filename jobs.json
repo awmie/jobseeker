@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "title": "Executive Assistant",
+      "company": "Numeris",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-numeris-1136808",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "hr",
+        "sys admin",
+        "education",
+        "game dev",
+        "customer support",
+        "marketing",
+        "travel",
+        "finance",
+        "c",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "excel",
+        "legal",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-08-16T08:00:03+00:00"
+    },
+    {
       "title": "Getting It Right",
       "company": "Brite Enterprises",
       "location": "Remote",
@@ -437,22 +465,9 @@
       ],
       "salary": "",
       "posted": "2026-08-14T08:00:04+00:00"
-    },
-    {
-      "title": "Quality Checker",
-      "company": "InTechNative",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-quality-checker-intechnative-1136776",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "javascript"
-      ],
-      "salary": "",
-      "posted": "2026-08-14T07:58:11+00:00"
     }
   ],
-  "last_updated": "2026-08-17T07:28:36.117378",
+  "last_updated": "2026-08-17T08:08:20.705045",
   "total": 20,
-  "new": 0
+  "new": 1
 }

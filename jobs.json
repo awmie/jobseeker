@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "title": "Getting It Right",
+      "company": "Brite Enterprises",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-getting-it-right-brite-enterprises-1136803",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-16T02:09:25+00:00"
+    },
+    {
+      "title": "Custom Role",
+      "company": "TAR",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-custom-role-tar-1136831",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "sales",
+        "golang",
+        "non tech",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-16T01:56:57+00:00"
+    },
+    {
       "title": "Member of Technical Staff Engineering",
       "company": "Physical Superintelligence",
       "location": "Remote",
@@ -424,35 +450,9 @@
       ],
       "salary": "",
       "posted": "2026-08-14T07:58:11+00:00"
-    },
-    {
-      "title": "Current Openings",
-      "company": "Black Talon Security",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-current-openings-black-talon-security-1136664",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec"
-      ],
-      "salary": "",
-      "posted": "2026-08-14T05:27:50+00:00"
-    },
-    {
-      "title": "404",
-      "company": "Train Rex",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-404-train-rex-1136816",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "exec",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-13T23:28:31+00:00"
     }
   ],
-  "last_updated": "2026-08-17T01:48:52.924019",
+  "last_updated": "2026-08-17T02:48:20.402857",
   "total": 20,
   "new": 2
 }

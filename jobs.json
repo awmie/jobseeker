@@ -1,6 +1,24 @@
 {
   "jobs": [
     {
+      "title": "Planner Cayman Islands",
+      "company": "Bouygues B\u00c3\u00a2timent International",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-planner-cayman-islands-bouygues-batiment-international-1136863",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "dev",
+        "exec",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-17T14:34:11+00:00"
+    },
+    {
       "title": "Field Services Engineer",
       "company": "Schwing Stetter India",
       "location": "Remote",
@@ -484,24 +502,9 @@
       ],
       "salary": "",
       "posted": "2026-08-15T01:20:47+00:00"
-    },
-    {
-      "title": "Team Member",
-      "company": "Costa Coffee Ireland",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-member-costa-coffee-ireland-1136848",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-15T00:58:56+00:00"
     }
   ],
-  "last_updated": "2026-08-18T14:08:03.488133",
+  "last_updated": "2026-08-18T14:49:51.682838",
   "total": 20,
-  "new": 0
+  "new": 1
 }

@@ -1,6 +1,26 @@
 {
   "jobs": [
     {
+      "title": "Fire Fighter",
+      "company": "Adani Airport Holdings Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-fire-fighter-adani-airport-holdings-ltd-1136926",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "ops",
+        "medical",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-08-17T17:14:35+00:00"
+    },
+    {
       "title": "Maintenance and Grounds Officer",
       "company": "Department of Education and Training",
       "location": "Remote",
@@ -440,29 +460,9 @@
       ],
       "salary": "",
       "posted": "2026-08-16T01:56:57+00:00"
-    },
-    {
-      "title": "Member of Technical Staff Engineering",
-      "company": "Physical Superintelligence",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "infosec",
-        "technical",
-        "dev",
-        "testing",
-        "cloud",
-        "exec",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-16T00:00:23+00:00"
     }
   ],
-  "last_updated": "2026-08-18T17:14:06.702078",
+  "last_updated": "2026-08-18T17:45:50.646015",
   "total": 20,
-  "new": 0
+  "new": 1
 }

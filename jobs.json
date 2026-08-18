@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "title": "Billing Executive",
+      "company": "Sanya Pharma Pvt Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-billing-executive-sanya-pharma-pvt-ltd-1136899",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "finance",
+        "exec",
+        "senior",
+        "legal",
+        "technical",
+        "marketing",
+        "excel",
+        "sales",
+        "engineer",
+        "recruiter",
+        "full time",
+        "sys admin",
+        "infosec",
+        "education",
+        "dev",
+        "digital nomad",
+        "hr",
+        "microsoft",
+        "ops",
+        "supervisor",
+        "medical",
+        "architecture",
+        "design",
+        "virtual assistant",
+        "speech",
+        "content writing",
+        "travel",
+        "accounting",
+        "payroll",
+        "scheme",
+        "junior",
+        "designer",
+        "video",
+        "photoshop",
+        "illustrator",
+        "c"
+      ],
+      "salary": "",
+      "posted": "2026-08-17T10:54:02+00:00"
+    },
+    {
       "title": "Senior Contracts and Budget Associate",
       "company": "Precision Medicine Group",
       "location": "Remote",
@@ -453,25 +501,9 @@
       ],
       "salary": "",
       "posted": "2026-08-15T00:12:49+00:00"
-    },
-    {
-      "title": "QA Tester Entry Level",
-      "company": "Ace IT Careers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "dev",
-        "analyst",
-        "quality assurance",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-15T00:00:25+00:00"
     }
   ],
-  "last_updated": "2026-08-18T10:39:32.741551",
+  "last_updated": "2026-08-18T11:01:07.862974",
   "total": 20,
-  "new": 0
+  "new": 1
 }

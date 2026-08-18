@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Expression of Interest with First Quantum",
+      "company": "First Quantum Minerals",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-with-first-quantum-first-quantum-minerals-1136944",
+      "source": "RemoteOK",
+      "tags": [
+        "recruiter",
+        "ops",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-17T18:21:49+00:00"
+    },
+    {
       "title": "Fire Fighter",
       "company": "Adani Airport Holdings Ltd",
       "location": "Remote",
@@ -444,25 +458,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-16T02:09:25+00:00"
-    },
-    {
-      "title": "Custom Role",
-      "company": "TAR",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-custom-role-tar-1136831",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "sales",
-        "golang",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-16T01:56:57+00:00"
     }
   ],
-  "last_updated": "2026-08-18T18:13:09.199794",
+  "last_updated": "2026-08-18T18:57:22.869384",
   "total": 20,
-  "new": 0
+  "new": 1
 }

@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "Field Services Engineer",
+      "company": "Schwing Stetter India",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-services-engineer-schwing-stetter-india-1136862",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-08-17T13:14:55+00:00"
+    },
+    {
       "title": "Billing Executive",
       "company": "Sanya Pharma Pvt Ltd",
       "location": "Remote",
@@ -487,23 +499,9 @@
       ],
       "salary": "",
       "posted": "2026-08-15T00:58:56+00:00"
-    },
-    {
-      "title": "Current openings",
-      "company": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-current-openings-mobiux-labs-uk-limited-formerly-vida-technologies-ltd-1136793",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "customer support",
-        "javascript"
-      ],
-      "salary": "",
-      "posted": "2026-08-15T00:12:49+00:00"
     }
   ],
-  "last_updated": "2026-08-18T12:40:47.503187",
+  "last_updated": "2026-08-18T13:29:48.649893",
   "total": 20,
-  "new": 0
+  "new": 1
 }

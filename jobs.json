@@ -1,6 +1,67 @@
 {
   "jobs": [
     {
+      "title": "Maintenance and Grounds Officer",
+      "company": "Department of Education and Training",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-and-grounds-officer-department-of-education-and-training-1136946",
+      "source": "RemoteOK",
+      "tags": [
+        "recruiter",
+        "ops",
+        "non tech",
+        "customer support",
+        "marketing",
+        "finance",
+        "medical",
+        "engineer",
+        "education",
+        "infosec",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-17T16:47:27+00:00"
+    },
+    {
+      "title": "What should I ask them when they say 'Do you have any questions for us ",
+      "company": "Baldwin Blueprint",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-what-should-i-ask-them-when-they-say-do-you-have-any-questions-for-us-baldwin-blueprint-1136933",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "exec",
+        "customer support",
+        "dev",
+        "ops",
+        "digital nomad",
+        "marketing",
+        "sales",
+        "testing",
+        "finance",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-08-17T16:45:29+00:00"
+    },
+    {
+      "title": "What does 'fast paced environment' actually mean for my day day",
+      "company": "Baldwin Blueprint",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-what-does-fast-paced-environment-actually-mean-for-my-day-day-baldwin-blueprint-1136931",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "exec",
+        "customer support",
+        "dev",
+        "ops",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-17T16:41:37+00:00"
+    },
+    {
       "title": "Hotline Paralegal",
       "company": "Legal Services NYC",
       "location": "Remote",
@@ -399,95 +460,9 @@
       ],
       "salary": "",
       "posted": "2026-08-16T00:00:23+00:00"
-    },
-    {
-      "title": "Strategic Account Executive Lodging",
-      "company": "FreedomPay",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "infosec",
-        "game dev",
-        "consulting",
-        "marketing",
-        "travel",
-        "speech",
-        "exec",
-        "finance",
-        "education",
-        "api",
-        "mobile",
-        "senior",
-        "ops",
-        "stats",
-        "sales",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-08-16T00:00:16+00:00"
-    },
-    {
-      "title": "Staff Software Development Engineer SDM",
-      "company": "Delinea",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "design",
-        "saas",
-        "sys admin",
-        "infosec",
-        "vfx",
-        "technical",
-        "web dev",
-        "exec",
-        "devops",
-        "education",
-        "finance",
-        "cloud",
-        "api",
-        "admin",
-        "ops",
-        "golang",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-16T00:00:10+00:00"
-    },
-    {
-      "title": "Senior Software Engineer Case Execution",
-      "company": "Pivotal Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "front end",
-        "python",
-        "customer support",
-        "design",
-        "admin",
-        "exec",
-        "senior",
-        "ops",
-        "sys admin",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-16T00:00:03+00:00"
     }
   ],
-  "last_updated": "2026-08-18T16:13:45.873332",
+  "last_updated": "2026-08-18T16:50:05.531956",
   "total": 20,
-  "new": 2
+  "new": 3
 }

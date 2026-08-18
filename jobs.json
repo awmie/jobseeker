@@ -1,6 +1,55 @@
 {
   "jobs": [
     {
+      "title": "Hotline Paralegal",
+      "company": "Legal Services NYC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hotline-paralegal-legal-services-nyc-1136861",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "education",
+        "dev",
+        "marketing",
+        "exec",
+        "legal",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-17T16:00:38+00:00"
+    },
+    {
+      "title": "Principal Data Engineer",
+      "company": "Vomela",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "education",
+        "technical",
+        "dev",
+        "speech",
+        "devops",
+        "cloud",
+        "git",
+        "microsoft",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "sales",
+        "medical",
+        "engineer",
+        "apache",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-17T16:00:06+00:00"
+    },
+    {
       "title": "FLM",
       "company": "Hovis Ltd",
       "location": "Remote",
@@ -436,71 +485,9 @@
       ],
       "salary": "",
       "posted": "2026-08-16T00:00:03+00:00"
-    },
-    {
-      "title": "English Editor",
-      "company": "MDPI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-english-editor-mdpi-1136891",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "finance",
-        "exec",
-        "senior",
-        "legal",
-        "technical",
-        "marketing",
-        "excel",
-        "sales",
-        "engineer",
-        "recruiter",
-        "full time",
-        "sys admin",
-        "infosec",
-        "education",
-        "dev",
-        "digital nomad",
-        "hr",
-        "microsoft",
-        "ops",
-        "supervisor",
-        "medical",
-        "architecture",
-        "design",
-        "virtual assistant",
-        "speech",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-08-15T16:23:45+00:00"
-    },
-    {
-      "title": "Cabin Cleaning Agent",
-      "company": "Menzies Aviation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "education",
-        "customer support",
-        "controller",
-        "accounting",
-        "finance",
-        "microsoft",
-        "ops",
-        "excel",
-        "medical",
-        "recruiter",
-        "infosec",
-        "testing"
-      ],
-      "salary": "",
-      "posted": "2026-08-15T16:07:53+00:00"
     }
   ],
-  "last_updated": "2026-08-18T15:49:39.896235",
+  "last_updated": "2026-08-18T16:13:45.873332",
   "total": 20,
-  "new": 1
+  "new": 2
 }

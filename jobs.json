@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "title": "General Merchandise Department Manager",
+      "company": "Walmart Canada",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-merchandise-department-manager-walmart-canada-1136940",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "designer",
+        "education",
+        "assembly",
+        "exec",
+        "medical",
+        "marketing",
+        "ops",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-08-17T23:34:13+00:00"
+    },
+    {
       "title": "Expression of Interest with First Quantum",
       "company": "First Quantum Minerals",
       "location": "Remote",
@@ -448,19 +471,9 @@
       ],
       "salary": "",
       "posted": "2026-08-16T04:44:40+00:00"
-    },
-    {
-      "title": "Getting It Right",
-      "company": "Brite Enterprises",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-getting-it-right-brite-enterprises-1136803",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-16T02:09:25+00:00"
     }
   ],
-  "last_updated": "2026-08-18T23:23:07.678119",
+  "last_updated": "2026-08-18T23:43:31.677552",
   "total": 20,
-  "new": 0
+  "new": 1
 }

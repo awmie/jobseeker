@@ -1,6 +1,47 @@
 {
   "jobs": [
     {
+      "title": "Compensation Benefits Manager",
+      "company": "Saisons Brother Holding",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-compensation-benefits-manager-saisons-brother-holding-1136895",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "finance",
+        "exec",
+        "senior",
+        "legal",
+        "technical",
+        "marketing",
+        "excel",
+        "sales",
+        "engineer",
+        "recruiter",
+        "full time",
+        "sys admin",
+        "infosec",
+        "education",
+        "dev",
+        "digital nomad",
+        "hr",
+        "microsoft",
+        "ops",
+        "supervisor",
+        "medical",
+        "architecture",
+        "design",
+        "virtual assistant",
+        "speech",
+        "content writing",
+        "travel",
+        "accounting",
+        "payroll"
+      ],
+      "salary": "",
+      "posted": "2026-08-17T07:14:19+00:00"
+    },
+    {
       "title": "Nexus",
       "company": "Flurix.AI",
       "location": "Remote",
@@ -472,34 +513,9 @@
       ],
       "salary": "",
       "posted": "2026-08-14T17:36:11+00:00"
-    },
-    {
-      "title": "Brand Protection & Marketplace Compliance Analyst",
-      "company": "MultiplyMii",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-brand-protection-marketplace-compliance-analyst-multiplymii-1136687",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "amazon",
-        "salesforce",
-        "technical",
-        "recruiter",
-        "customer support",
-        "marketing",
-        "speech",
-        "exec",
-        "content writing",
-        "excel",
-        "sales",
-        "ecommerce",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-08-14T16:00:49+00:00"
     }
   ],
-  "last_updated": "2026-08-18T07:08:50.994911",
+  "last_updated": "2026-08-18T07:51:46.422030",
   "total": 20,
-  "new": 0
+  "new": 1
 }

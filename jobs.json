@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Email Developer",
+      "company": "The Home Depot Canada",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-email-developer-the-home-depot-canada-1136967",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "marketing",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T19:03:48+00:00"
+    },
+    {
       "title": "General Cleaner Caribe Hilton",
       "company": "Hilton",
       "location": "Remote",
@@ -428,31 +442,9 @@
       ],
       "salary": "",
       "posted": "2026-08-17T16:47:27+00:00"
-    },
-    {
-      "title": "What should I ask them when they say 'Do you have any questions for us ",
-      "company": "Baldwin Blueprint",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-what-should-i-ask-them-when-they-say-do-you-have-any-questions-for-us-baldwin-blueprint-1136933",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "exec",
-        "customer support",
-        "dev",
-        "ops",
-        "digital nomad",
-        "marketing",
-        "sales",
-        "testing",
-        "finance",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-08-17T16:45:29+00:00"
     }
   ],
-  "last_updated": "2026-08-19T19:03:14.515552",
+  "last_updated": "2026-08-19T19:33:53.408324",
   "total": 20,
-  "new": 0
+  "new": 1
 }

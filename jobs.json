@@ -1,6 +1,26 @@
 {
   "jobs": [
     {
+      "title": "Solutions Delivery Manager",
+      "company": "Benchling",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "technical",
+        "marketing",
+        "sales",
+        "biotech",
+        "medical",
+        "education",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T08:00:07+00:00"
+    },
+    {
       "title": "Various",
       "company": "Plumbers Co-op",
       "location": "Remote",
@@ -416,19 +436,9 @@
       ],
       "salary": "",
       "posted": "2026-08-17T07:14:19+00:00"
-    },
-    {
-      "title": "Nexus",
-      "company": "Flurix.AI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-nexus-flurix-ai-1136845",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-16T15:05:51+00:00"
     }
   ],
-  "last_updated": "2026-08-19T07:53:09.284009",
+  "last_updated": "2026-08-19T08:26:11.417925",
   "total": 20,
-  "new": 0
+  "new": 1
 }

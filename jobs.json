@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "All Other Roles",
+      "company": "Collate",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-all-other-roles-collate-1136962",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T19:57:52+00:00"
+    },
+    {
       "title": "Email Developer",
       "company": "The Home Depot Canada",
       "location": "Remote",
@@ -420,31 +434,9 @@
       ],
       "salary": "",
       "posted": "2026-08-17T17:14:35+00:00"
-    },
-    {
-      "title": "Maintenance and Grounds Officer",
-      "company": "Department of Education and Training",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-and-grounds-officer-department-of-education-and-training-1136946",
-      "source": "RemoteOK",
-      "tags": [
-        "recruiter",
-        "ops",
-        "non tech",
-        "customer support",
-        "marketing",
-        "finance",
-        "medical",
-        "engineer",
-        "education",
-        "infosec",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-08-17T16:47:27+00:00"
     }
   ],
-  "last_updated": "2026-08-19T19:54:13.843022",
+  "last_updated": "2026-08-19T20:20:01.251635",
   "total": 20,
-  "new": 0
+  "new": 1
 }

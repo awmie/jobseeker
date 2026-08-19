@@ -1,6 +1,26 @@
 {
   "jobs": [
     {
+      "title": "Unexploded Ordnance Tech II",
+      "company": "Alaka`ina Foundation Family of Companies",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-unexploded-ordnance-tech-ii-alakaina-foundation-family-of-companies-1136955",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "supervisor",
+        "legal",
+        "sys admin",
+        "education",
+        "customer support",
+        "testing",
+        "microsoft",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T22:56:21+00:00"
+    },
+    {
       "title": "Security Guard",
       "company": "Four Seasons",
       "location": "Remote",
@@ -409,32 +429,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T00:00:00+00:00"
-    },
-    {
-      "title": "General Merchandise Department Manager",
-      "company": "Walmart Canada",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-merchandise-department-manager-walmart-canada-1136940",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "customer support",
-        "recruiter",
-        "non tech",
-        "designer",
-        "education",
-        "assembly",
-        "exec",
-        "medical",
-        "marketing",
-        "ops",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-08-17T23:34:13+00:00"
     }
   ],
-  "last_updated": "2026-08-19T22:55:18.846467",
+  "last_updated": "2026-08-19T23:19:55.907276",
   "total": 20,
   "new": 1
 }

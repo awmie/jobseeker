@@ -1,6 +1,94 @@
 {
   "jobs": [
     {
+      "title": "Accounts Receivable Clerk",
+      "company": "ALPHA BPO CORP",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-accounts-receivable-clerk-alpha-bpo-corp-1136979",
+      "source": "RemoteOK",
+      "tags": [
+        "supervisor",
+        "dev",
+        "marketing",
+        "exec",
+        "virtual assistant",
+        "finance",
+        "education",
+        "math",
+        "ops",
+        "sales",
+        "medical",
+        "digital nomad",
+        "customer support",
+        "accounting"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T16:20:12+00:00"
+    },
+    {
+      "title": "Marketing Operations Specialist",
+      "company": "Engine",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "marketing",
+        "travel",
+        "finance",
+        "exec",
+        "ops",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T16:00:57+00:00"
+    },
+    {
+      "title": "Team Lead Education",
+      "company": "Chaos",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-lead-education-chaos-1136949",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "saas",
+        "vfx",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "education",
+        "content writing",
+        "senior",
+        "sales",
+        "golang",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T16:00:30+00:00"
+    },
+    {
+      "title": "Digital Workplace & Automation Specialist",
+      "company": "Dreem Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "customer support",
+        "testing",
+        "exec",
+        "ops",
+        "marketing",
+        "sales",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T16:00:22+00:00"
+    },
+    {
       "title": "Team Member Special Assignment",
       "company": "Reliance Industries Limited",
       "location": "Remote",
@@ -348,90 +436,9 @@
       ],
       "salary": "",
       "posted": "2026-08-17T16:41:37+00:00"
-    },
-    {
-      "title": "Hotline Paralegal",
-      "company": "Legal Services NYC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-hotline-paralegal-legal-services-nyc-1136861",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "education",
-        "dev",
-        "marketing",
-        "exec",
-        "legal",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-17T16:00:38+00:00"
-    },
-    {
-      "title": "Principal Data Engineer",
-      "company": "Vomela",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "sys admin",
-        "education",
-        "technical",
-        "dev",
-        "speech",
-        "devops",
-        "cloud",
-        "git",
-        "microsoft",
-        "exec",
-        "senior",
-        "ops",
-        "stats",
-        "sales",
-        "medical",
-        "engineer",
-        "apache",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-17T16:00:06+00:00"
-    },
-    {
-      "title": "FLM",
-      "company": "Hovis Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-flm-hovis-ltd-1136925",
-      "source": "RemoteOK",
-      "tags": [
-        "scheme",
-        "medical",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-17T15:33:43+00:00"
-    },
-    {
-      "title": "Planner Cayman Islands",
-      "company": "Bouygues B\u00c3\u00a2timent International",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-planner-cayman-islands-bouygues-batiment-international-1136863",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "dev",
-        "exec",
-        "ops",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-17T14:34:11+00:00"
     }
   ],
-  "last_updated": "2026-08-19T15:58:22.516128",
+  "last_updated": "2026-08-19T16:37:06.490065",
   "total": 20,
-  "new": 0
+  "new": 4
 }

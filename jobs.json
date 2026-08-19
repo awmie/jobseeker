@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Security Guard",
+      "company": "Four Seasons",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-security-guard-four-seasons-1136954",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "supervisor",
+        "legal"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T22:55:13+00:00"
+    },
+    {
       "title": "Planner &amp; Zoning Specialist",
       "company": "City of Covington, Georgia",
       "location": "Remote",
@@ -418,23 +432,9 @@
       ],
       "salary": "",
       "posted": "2026-08-17T23:34:13+00:00"
-    },
-    {
-      "title": "Expression of Interest with First Quantum",
-      "company": "First Quantum Minerals",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-with-first-quantum-first-quantum-minerals-1136944",
-      "source": "RemoteOK",
-      "tags": [
-        "recruiter",
-        "ops",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-17T18:21:49+00:00"
     }
   ],
-  "last_updated": "2026-08-19T22:33:44.624149",
+  "last_updated": "2026-08-19T22:55:18.846467",
   "total": 20,
   "new": 1
 }

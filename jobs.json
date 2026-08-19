@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "title": "Various",
+      "company": "Plumbers Co-op",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-various-plumbers-co-op-1136932",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "exec",
+        "customer support",
+        "dev",
+        "ops",
+        "digital nomad",
+        "marketing",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T01:22:28+00:00"
+    },
+    {
+      "title": "Test",
+      "company": "The iNUA Hotel Collection",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-the-inua-hotel-collection-1136953",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T00:00:00+00:00"
+    },
+    {
       "title": "General Merchandise Department Manager",
       "company": "Walmart Canada",
       "location": "Remote",
@@ -394,86 +426,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-16T15:05:51+00:00"
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Numeris",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-numeris-1136808",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "hr",
-        "sys admin",
-        "education",
-        "game dev",
-        "customer support",
-        "marketing",
-        "travel",
-        "finance",
-        "c",
-        "exec",
-        "content writing",
-        "senior",
-        "ops",
-        "excel",
-        "legal",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-16T08:00:03+00:00"
-    },
-    {
-      "title": "Billing Officer",
-      "company": "FroxJob | Executive Jobs in Nepal",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-billing-officer-froxjob-executive-jobs-in-nepal-1136908",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "finance",
-        "exec",
-        "senior",
-        "legal",
-        "technical",
-        "marketing",
-        "excel",
-        "sales",
-        "engineer",
-        "recruiter",
-        "full time",
-        "sys admin",
-        "infosec",
-        "education",
-        "dev",
-        "digital nomad",
-        "hr",
-        "microsoft",
-        "ops",
-        "supervisor",
-        "medical",
-        "architecture",
-        "design",
-        "virtual assistant",
-        "speech",
-        "content writing",
-        "travel",
-        "accounting",
-        "payroll",
-        "scheme",
-        "junior",
-        "designer",
-        "video",
-        "photoshop",
-        "illustrator",
-        "c",
-        "bus dev"
-      ],
-      "salary": "",
-      "posted": "2026-08-16T04:44:40+00:00"
     }
   ],
-  "last_updated": "2026-08-18T23:59:34.931512",
+  "last_updated": "2026-08-19T01:45:16.012949",
   "total": 20,
-  "new": 0
+  "new": 2
 }

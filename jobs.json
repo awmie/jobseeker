@@ -1,6 +1,37 @@
 {
   "jobs": [
     {
+      "title": "General Cleaner Caribe Hilton",
+      "company": "Hilton",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-cleaner-caribe-hilton-hilton-1136981",
+      "source": "RemoteOK",
+      "tags": [
+        "supervisor",
+        "dev",
+        "marketing",
+        "exec",
+        "virtual assistant",
+        "finance",
+        "education",
+        "math",
+        "ops",
+        "sales",
+        "medical",
+        "digital nomad",
+        "customer support",
+        "accounting",
+        "content writing",
+        "recruiter",
+        "full time",
+        "infosec",
+        "travel",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T16:49:52+00:00"
+    },
+    {
       "title": "Accounts Receivable Clerk",
       "company": "ALPHA BPO CORP",
       "location": "Remote",
@@ -419,26 +450,9 @@
       ],
       "salary": "",
       "posted": "2026-08-17T16:45:29+00:00"
-    },
-    {
-      "title": "What does 'fast paced environment' actually mean for my day day",
-      "company": "Baldwin Blueprint",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-what-does-fast-paced-environment-actually-mean-for-my-day-day-baldwin-blueprint-1136931",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "exec",
-        "customer support",
-        "dev",
-        "ops",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-17T16:41:37+00:00"
     }
   ],
-  "last_updated": "2026-08-19T16:37:06.490065",
+  "last_updated": "2026-08-19T17:00:18.909343",
   "total": 20,
-  "new": 4
+  "new": 1
 }

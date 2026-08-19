@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "Team Member Special Assignment",
+      "company": "Reliance Industries Limited",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-member-special-assignment-reliance-industries-limited-1136966",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T10:52:58+00:00"
+    },
+    {
       "title": "Reddy Express Karratha Customer Service Representative",
       "company": "OTR",
       "location": "Remote",
@@ -416,21 +429,9 @@
       ],
       "salary": "",
       "posted": "2026-08-17T14:34:11+00:00"
-    },
-    {
-      "title": "Field Services Engineer",
-      "company": "Schwing Stetter India",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-services-engineer-schwing-stetter-india-1136862",
-      "source": "RemoteOK",
-      "tags": [
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-17T13:14:55+00:00"
     }
   ],
-  "last_updated": "2026-08-19T10:45:41.049353",
+  "last_updated": "2026-08-19T11:08:33.641987",
   "total": 20,
-  "new": 0
+  "new": 1
 }

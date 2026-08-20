@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "title": "COSTING ENGINEER",
+      "company": "Larsen &amp; Toubro",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-costing-engineer-larsen-amp-toubro-1137012",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "marketing",
+        "exec",
+        "golang",
+        "data entry",
+        "infosec",
+        "finance",
+        "excel",
+        "full time",
+        "design",
+        "math",
+        "ops",
+        "engineer",
+        "digital nomad",
+        "sales",
+        "technical",
+        "dev",
+        "testing",
+        "education",
+        "assembly",
+        "ruby"
+      ],
+      "salary": "",
+      "posted": "2026-08-19T12:46:47+00:00"
+    },
+    {
       "title": "General Physician",
       "company": "Srikara Hospitals",
       "location": "Remote",
@@ -373,27 +405,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T16:00:22+00:00"
-    },
-    {
-      "title": "Customer Care Representative Associate Omani Nationals only",
-      "company": "FedEx",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-care-representative-associate-omani-nationals-only-fedex-1136989",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "customer support",
-        "exec",
-        "ops",
-        "marketing",
-        "microsoft",
-        "senior"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T12:16:29+00:00"
     }
   ],
-  "last_updated": "2026-08-20T12:22:26.645307",
+  "last_updated": "2026-08-20T13:24:42.808129",
   "total": 20,
-  "new": 0
+  "new": 1
 }

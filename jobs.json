@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "title": "Technician 1",
+      "company": "Sunbelt Rentals, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-technician-1-sunbelt-rentals-inc-1137018",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "quality assurance",
+        "education",
+        "ops",
+        "sales",
+        "digital nomad",
+        "recruiter",
+        "supervisor",
+        "customer support",
+        "marketing",
+        "exec",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-08-19T19:38:04+00:00"
+    },
+    {
       "title": "Overnight Task Team FT",
       "company": "Bass Pro Shops",
       "location": "Remote",
@@ -381,40 +404,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T18:26:17+00:00"
-    },
-    {
-      "title": "General Cleaner Caribe Hilton",
-      "company": "Hilton",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-cleaner-caribe-hilton-hilton-1136981",
-      "source": "RemoteOK",
-      "tags": [
-        "supervisor",
-        "dev",
-        "marketing",
-        "exec",
-        "virtual assistant",
-        "finance",
-        "education",
-        "math",
-        "ops",
-        "sales",
-        "medical",
-        "digital nomad",
-        "customer support",
-        "accounting",
-        "content writing",
-        "recruiter",
-        "full time",
-        "infosec",
-        "travel",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T16:49:52+00:00"
     }
   ],
-  "last_updated": "2026-08-20T19:22:57.571259",
+  "last_updated": "2026-08-20T19:52:49.800878",
   "total": 20,
-  "new": 0
+  "new": 1
 }

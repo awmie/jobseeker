@@ -1,6 +1,21 @@
 {
   "jobs": [
     {
+      "title": "Specimen Collector",
+      "company": "Alcotech Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-specimen-collector-alcotech-group-1136964",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "testing",
+        "travel",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-19T04:15:19+00:00"
+    },
+    {
       "title": "Cell production",
       "company": "vbs associates",
       "location": "Remote",
@@ -378,32 +393,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T09:27:47+00:00"
-    },
-    {
-      "title": "Team Member Cotton On Market City Mega",
-      "company": "Cotton On Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-member-cotton-on-market-city-mega-cotton-on-group-1136969",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "dev",
-        "finance",
-        "admin",
-        "exec",
-        "ops",
-        "medical",
-        "digital nomad",
-        "marketing",
-        "travel",
-        "speech",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T08:41:02+00:00"
     }
   ],
-  "last_updated": "2026-08-20T04:10:21.358158",
+  "last_updated": "2026-08-20T04:52:13.541217",
   "total": 20,
-  "new": 0
+  "new": 1
 }

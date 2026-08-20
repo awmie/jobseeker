@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "title": "General Physician",
+      "company": "Srikara Hospitals",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-physician-srikara-hospitals-1136993",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "exec",
+        "ops",
+        "marketing",
+        "microsoft",
+        "senior",
+        "technical",
+        "accounting",
+        "dev",
+        "finance",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-19T10:58:55+00:00"
+    },
+    {
       "title": "General Practitioner North Balwyn",
       "company": "Bupa Australia",
       "location": "Remote",
@@ -367,38 +391,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T12:16:29+00:00"
-    },
-    {
-      "title": "Field Sales Executive",
-      "company": "Bhushan International",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-sales-executive-bhushan-international-1136995",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "customer support",
-        "exec",
-        "ops",
-        "marketing",
-        "microsoft",
-        "senior",
-        "technical",
-        "accounting",
-        "dev",
-        "finance",
-        "full time",
-        "digital nomad",
-        "assembly",
-        "travel",
-        "sales",
-        "medical",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T12:05:43+00:00"
     }
   ],
-  "last_updated": "2026-08-20T10:55:42.016505",
+  "last_updated": "2026-08-20T11:24:41.595642",
   "total": 20,
-  "new": 0
+  "new": 1
 }

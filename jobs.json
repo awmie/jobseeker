@@ -1,6 +1,25 @@
 {
   "jobs": [
     {
+      "title": "General Practitioner North Balwyn",
+      "company": "Bupa Australia",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-practitioner-north-balwyn-bupa-australia-1136968",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "dev",
+        "finance",
+        "admin",
+        "exec",
+        "ops",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-19T06:26:50+00:00"
+    },
+    {
       "title": "Specimen Collector",
       "company": "Alcotech Group",
       "location": "Remote",
@@ -131,6 +150,44 @@
       "posted": "2026-08-18T19:57:52+00:00"
     },
     {
+      "title": "Store Manager",
+      "company": "JACK &amp; JONES",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-jack-amp-jones-1137006",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "supervisor",
+        "exec",
+        "virtual assistant",
+        "ops",
+        "senior",
+        "golang",
+        "medical",
+        "engineer",
+        "design",
+        "sys admin",
+        "infosec",
+        "python",
+        "technical",
+        "customer support",
+        "testing",
+        "finance",
+        "math",
+        "admin",
+        "microsoft",
+        "digital nomad",
+        "marketing",
+        "scheme",
+        "mobile",
+        "sales",
+        "recruiter",
+        "junior"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T19:42:52+00:00"
+    },
+    {
       "title": "millwright",
       "company": "TWI Foods Inc.",
       "location": "Remote",
@@ -157,6 +214,22 @@
       ],
       "salary": "",
       "posted": "2026-08-18T19:03:48+00:00"
+    },
+    {
+      "title": "Bellboy",
+      "company": "The Chedi Lu\u00c5\u00a1tica Bay",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-bellboy-the-chedi-lustica-bay-1137002",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "supervisor",
+        "exec",
+        "virtual assistant",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T18:26:17+00:00"
     },
     {
       "title": "General Cleaner Caribe Hilton",
@@ -323,79 +396,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T12:05:43+00:00"
-    },
-    {
-      "title": "Team Member Special Assignment",
-      "company": "Reliance Industries Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-member-special-assignment-reliance-industries-limited-1136966",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T10:52:58+00:00"
-    },
-    {
-      "title": "Reddy Express Karratha Customer Service Representative",
-      "company": "OTR",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-reddy-express-karratha-customer-service-representative-otr-1136976",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "dev",
-        "finance",
-        "admin",
-        "exec",
-        "ops",
-        "medical",
-        "digital nomad",
-        "marketing",
-        "travel",
-        "speech",
-        "recruiter",
-        "sales",
-        "education",
-        "game dev",
-        "full time",
-        "virtual assistant",
-        "sys admin",
-        "design"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T09:35:29+00:00"
-    },
-    {
-      "title": "Maintenance Fitter",
-      "company": "Power FM Bega Bay",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-fitter-power-fm-bega-bay-1136972",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "dev",
-        "finance",
-        "admin",
-        "exec",
-        "ops",
-        "medical",
-        "digital nomad",
-        "marketing",
-        "travel",
-        "speech",
-        "recruiter",
-        "sales",
-        "education",
-        "game dev",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T09:27:47+00:00"
     }
   ],
-  "last_updated": "2026-08-20T06:24:54.439451",
+  "last_updated": "2026-08-20T07:22:21.759542",
   "total": 20,
-  "new": 0
+  "new": 3
 }

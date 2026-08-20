@@ -1,6 +1,41 @@
 {
   "jobs": [
     {
+      "title": "Cell production",
+      "company": "vbs associates",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-cell-production-vbs-associates-1136965",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-19T03:23:26+00:00"
+    },
+    {
+      "title": "Sales Development Representative",
+      "company": "Verlo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-verlo-1136998",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "non tech",
+        "marketing",
+        "dev",
+        "exec",
+        "medical",
+        "recruiter",
+        "full time",
+        "digital nomad",
+        "saas",
+        "testing",
+        "finance",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-08-19T01:56:28+00:00"
+    },
+    {
       "title": "General Interest",
       "company": "Midjourney",
       "location": "Remote",
@@ -79,6 +114,20 @@
       ],
       "salary": "",
       "posted": "2026-08-18T19:57:52+00:00"
+    },
+    {
+      "title": "millwright",
+      "company": "TWI Foods Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-millwright-twi-foods-inc-1136996",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-18T19:36:37+00:00"
     },
     {
       "title": "Email Developer",
@@ -352,85 +401,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T08:41:02+00:00"
-    },
-    {
-      "title": "Solutions Delivery Manager",
-      "company": "Benchling",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "design",
-        "technical",
-        "marketing",
-        "sales",
-        "biotech",
-        "medical",
-        "education",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T08:00:07+00:00"
-    },
-    {
-      "title": "In Store Visual Merchandiser rebel rCX Chadstone",
-      "company": "Rebel Sport",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-in-store-visual-merchandiser-rebel-rcx-chadstone-rebel-sport-1136971",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "dev",
-        "finance",
-        "admin",
-        "exec",
-        "ops",
-        "medical",
-        "digital nomad",
-        "marketing",
-        "travel",
-        "speech",
-        "recruiter",
-        "sales",
-        "education",
-        "game dev"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T06:44:40+00:00"
-    },
-    {
-      "title": "Sales Assistant",
-      "company": "Antojitos Mexicanos La Jefa",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-assistant-antojitos-mexicanos-la-jefa-1136975",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "dev",
-        "finance",
-        "admin",
-        "exec",
-        "ops",
-        "medical",
-        "digital nomad",
-        "marketing",
-        "travel",
-        "speech",
-        "recruiter",
-        "sales",
-        "education",
-        "game dev",
-        "full time",
-        "virtual assistant",
-        "sys admin",
-        "design"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T06:41:03+00:00"
     }
   ],
-  "last_updated": "2026-08-20T02:42:46.527291",
+  "last_updated": "2026-08-20T03:30:21.133972",
   "total": 20,
-  "new": 1
+  "new": 3
 }

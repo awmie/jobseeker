@@ -1,6 +1,23 @@
 {
   "jobs": [
     {
+      "title": "Laborer",
+      "company": "Wood",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-laborer-wood-1137016",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "consulting",
+        "exec",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-19T21:28:35+00:00"
+    },
+    {
       "title": "Baker Day",
       "company": "Loblaw Companies Limited",
       "location": "Remote",
@@ -399,23 +416,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T19:36:37+00:00"
-    },
-    {
-      "title": "Email Developer",
-      "company": "The Home Depot Canada",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-email-developer-the-home-depot-canada-1136967",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "marketing",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T19:03:48+00:00"
     }
   ],
-  "last_updated": "2026-08-20T21:14:32.600622",
+  "last_updated": "2026-08-20T21:45:36.311378",
   "total": 20,
-  "new": 0
+  "new": 1
 }

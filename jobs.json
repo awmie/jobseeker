@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "title": "Overnight Task Team FT",
+      "company": "Bass Pro Shops",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-overnight-task-team-ft-bass-pro-shops-1137000",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "non tech",
+        "marketing",
+        "dev",
+        "exec",
+        "medical",
+        "recruiter",
+        "full time",
+        "digital nomad",
+        "saas",
+        "testing",
+        "finance",
+        "sales",
+        "supervisor",
+        "ads",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-08-19T18:50:44+00:00"
+    },
+    {
+      "title": "CI001 Courier",
+      "company": "FedEx",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ci001-courier-fedex-1137019",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "quality assurance",
+        "education",
+        "ops",
+        "sales",
+        "digital nomad",
+        "recruiter",
+        "supervisor",
+        "customer support",
+        "marketing",
+        "exec",
+        "medical",
+        "testing",
+        "math"
+      ],
+      "salary": "",
+      "posted": "2026-08-19T18:17:34+00:00"
+    },
+    {
       "title": "Assembly Technician",
       "company": "Flow Control Commune",
       "location": "Remote",
@@ -359,52 +412,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T16:49:52+00:00"
-    },
-    {
-      "title": "Accounts Receivable Clerk",
-      "company": "ALPHA BPO CORP",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-accounts-receivable-clerk-alpha-bpo-corp-1136979",
-      "source": "RemoteOK",
-      "tags": [
-        "supervisor",
-        "dev",
-        "marketing",
-        "exec",
-        "virtual assistant",
-        "finance",
-        "education",
-        "math",
-        "ops",
-        "sales",
-        "medical",
-        "digital nomad",
-        "customer support",
-        "accounting"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T16:20:12+00:00"
-    },
-    {
-      "title": "Marketing Operations Specialist",
-      "company": "Engine",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "marketing",
-        "travel",
-        "finance",
-        "exec",
-        "ops",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T16:00:57+00:00"
     }
   ],
-  "last_updated": "2026-08-20T18:00:34.123123",
+  "last_updated": "2026-08-20T18:52:20.599293",
   "total": 20,
-  "new": 0
+  "new": 2
 }

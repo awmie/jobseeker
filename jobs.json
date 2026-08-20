@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "General Interest",
+      "company": "Midjourney",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-interest-midjourney-1136963",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-19T01:54:05+00:00"
+    },
+    {
       "title": "Unexploded Ordnance Tech II",
       "company": "Alaka`ina Foundation Family of Companies",
       "location": "Remote",
@@ -414,39 +428,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T06:41:03+00:00"
-    },
-    {
-      "title": "Store Manager Port Macquarie",
-      "company": "Seed Heritage",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-port-macquarie-seed-heritage-1136974",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "dev",
-        "finance",
-        "admin",
-        "exec",
-        "ops",
-        "medical",
-        "digital nomad",
-        "marketing",
-        "travel",
-        "speech",
-        "recruiter",
-        "sales",
-        "education",
-        "game dev",
-        "full time",
-        "virtual assistant",
-        "sys admin",
-        "design"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T03:54:27+00:00"
     }
   ],
-  "last_updated": "2026-08-20T01:41:08.007987",
+  "last_updated": "2026-08-20T02:42:46.527291",
   "total": 20,
-  "new": 2
+  "new": 1
 }

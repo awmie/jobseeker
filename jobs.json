@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "Roupeiro",
+      "company": "Presenza Psicologia",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-roupeiro-presenza-psicologia-1137030",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-20T10:34:12+00:00"
+    },
+    {
       "title": "Pilot",
       "company": "SpaceX",
       "location": "Remote",
@@ -374,34 +384,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-19T03:23:26+00:00"
-    },
-    {
-      "title": "Sales Development Representative",
-      "company": "Verlo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-verlo-1136998",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "non tech",
-        "marketing",
-        "dev",
-        "exec",
-        "medical",
-        "recruiter",
-        "full time",
-        "digital nomad",
-        "saas",
-        "testing",
-        "finance",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-08-19T01:56:28+00:00"
     }
   ],
-  "last_updated": "2026-08-21T10:14:36.739755",
+  "last_updated": "2026-08-21T10:49:51.631447",
   "total": 20,
-  "new": 0
+  "new": 1
 }

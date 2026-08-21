@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "Loss Prevention Officer",
+      "company": "Manhattan Grand Hotel",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-loss-prevention-officer-manhattan-grand-hotel-1137027",
+      "source": "RemoteOK",
+      "tags": [
+        "accounting",
+        "infosec"
+      ],
+      "salary": "",
+      "posted": "2026-08-20T14:18:42+00:00"
+    },
+    {
       "title": "Sales Advisor",
       "company": "H&amp;M",
       "location": "Remote",
@@ -374,28 +387,9 @@
       ],
       "salary": "",
       "posted": "2026-08-19T10:58:55+00:00"
-    },
-    {
-      "title": "General Practitioner North Balwyn",
-      "company": "Bupa Australia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-practitioner-north-balwyn-bupa-australia-1136968",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "dev",
-        "finance",
-        "admin",
-        "exec",
-        "ops",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-19T06:26:50+00:00"
     }
   ],
-  "last_updated": "2026-08-21T13:54:23.936033",
+  "last_updated": "2026-08-21T14:29:07.012547",
   "total": 20,
-  "new": 0
+  "new": 1
 }

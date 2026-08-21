@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "Account Officer",
+      "company": "Natural Spirits Nepal",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-officer-natural-spirits-nepal-1137028",
+      "source": "RemoteOK",
+      "tags": [
+        "accounting",
+        "infosec",
+        "customer support",
+        "finance",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-20T05:22:50+00:00"
+    },
+    {
       "title": "Across all departments",
       "company": "Vistara Group",
       "location": "Remote",
@@ -384,27 +400,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T22:55:13+00:00"
-    },
-    {
-      "title": "Planner &amp; Zoning Specialist",
-      "company": "City of Covington, Georgia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-planner-amp-zoning-specialist-city-of-covington-georgia-1136959",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "recruiter",
-        "non tech",
-        "education",
-        "exec",
-        "marketing",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T22:20:09+00:00"
     }
   ],
-  "last_updated": "2026-08-21T04:58:15.262302",
+  "last_updated": "2026-08-21T05:37:13.844207",
   "total": 20,
   "new": 1
 }

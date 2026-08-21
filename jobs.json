@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Across all departments",
+      "company": "Vistara Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-vistara-group-1137023",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "marketing",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-20T04:24:09+00:00"
+    },
+    {
       "title": "Trimmer",
       "company": "Canopy Growth Corporation",
       "location": "Remote",
@@ -388,23 +402,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T22:20:09+00:00"
-    },
-    {
-      "title": "All Other Roles",
-      "company": "Collate",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-all-other-roles-collate-1136962",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T19:57:52+00:00"
     }
   ],
-  "last_updated": "2026-08-21T04:19:11.754573",
+  "last_updated": "2026-08-21T04:58:15.262302",
   "total": 20,
-  "new": 0
+  "new": 1
 }

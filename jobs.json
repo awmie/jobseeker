@@ -1,6 +1,21 @@
 {
   "jobs": [
     {
+      "title": "Front Office Executive",
+      "company": "Radisson Hotel Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-front-office-executive-radisson-hotel-group-1137008",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "marketing",
+        "exec",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-08-20T05:59:25+00:00"
+    },
+    {
       "title": "Account Officer",
       "company": "Natural Spirits Nepal",
       "location": "Remote",
@@ -386,23 +401,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T22:56:21+00:00"
-    },
-    {
-      "title": "Security Guard",
-      "company": "Four Seasons",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-security-guard-four-seasons-1136954",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "supervisor",
-        "legal"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T22:55:13+00:00"
     }
   ],
-  "last_updated": "2026-08-21T05:37:13.844207",
+  "last_updated": "2026-08-21T06:02:06.117170",
   "total": 20,
   "new": 1
 }

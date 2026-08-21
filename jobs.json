@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "title": "Pilot",
+      "company": "SpaceX",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-pilot-spacex-1137007",
+      "source": "RemoteOK",
+      "tags": [
+        "travel",
+        "c",
+        "ops",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-20T08:00:19+00:00"
+    },
+    {
+      "title": "Accountant",
+      "company": "Tipsy Topsy",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-accountant-tipsy-topsy-1137029",
+      "source": "RemoteOK",
+      "tags": [
+        "accounting",
+        "infosec",
+        "customer support",
+        "finance",
+        "exec",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-08-20T07:59:55+00:00"
+    },
+    {
       "title": "Front Office Executive",
       "company": "Radisson Hotel Group",
       "location": "Remote",
@@ -367,43 +399,9 @@
       ],
       "salary": "",
       "posted": "2026-08-19T01:56:28+00:00"
-    },
-    {
-      "title": "General Interest",
-      "company": "Midjourney",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-interest-midjourney-1136963",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-19T01:54:05+00:00"
-    },
-    {
-      "title": "Unexploded Ordnance Tech II",
-      "company": "Alaka`ina Foundation Family of Companies",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-unexploded-ordnance-tech-ii-alakaina-foundation-family-of-companies-1136955",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "supervisor",
-        "legal",
-        "sys admin",
-        "education",
-        "customer support",
-        "testing",
-        "microsoft",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T22:56:21+00:00"
     }
   ],
-  "last_updated": "2026-08-21T07:50:48.229527",
+  "last_updated": "2026-08-21T08:21:29.340250",
   "total": 20,
-  "new": 0
+  "new": 2
 }

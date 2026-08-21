@@ -1,6 +1,40 @@
 {
   "jobs": [
     {
+      "title": "Sales Advisor",
+      "company": "H&amp;M",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-advisor-hampm-1137044",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "customer support",
+        "marketing",
+        "exec",
+        "virtual assistant",
+        "sales",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-20T11:58:22+00:00"
+    },
+    {
+      "title": "Team Member Level 2",
+      "company": "GPC Asia Pacific",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-member-level-2-gpc-asia-pacific-1137022",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-20T11:50:44+00:00"
+    },
+    {
       "title": "Roupeiro",
       "company": "Presenza Psicologia",
       "location": "Remote",
@@ -359,34 +393,9 @@
       ],
       "salary": "",
       "posted": "2026-08-19T06:26:50+00:00"
-    },
-    {
-      "title": "Specimen Collector",
-      "company": "Alcotech Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-specimen-collector-alcotech-group-1136964",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "testing",
-        "travel",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-19T04:15:19+00:00"
-    },
-    {
-      "title": "Cell production",
-      "company": "vbs associates",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-cell-production-vbs-associates-1136965",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-19T03:23:26+00:00"
     }
   ],
-  "last_updated": "2026-08-21T11:43:13.079751",
+  "last_updated": "2026-08-21T12:03:18.937062",
   "total": 20,
-  "new": 0
+  "new": 2
 }

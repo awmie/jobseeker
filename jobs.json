@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "Orderly",
+      "company": "NT Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-orderly-nt-health-1137035",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-08-20T20:09:10+00:00"
+    },
+    {
       "title": "Loss Prevention Officer",
       "company": "Manhattan Grand Hotel",
       "location": "Remote",
@@ -363,33 +376,9 @@
       ],
       "salary": "",
       "posted": "2026-08-19T12:46:47+00:00"
-    },
-    {
-      "title": "General Physician",
-      "company": "Srikara Hospitals",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-physician-srikara-hospitals-1136993",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "customer support",
-        "exec",
-        "ops",
-        "marketing",
-        "microsoft",
-        "senior",
-        "technical",
-        "accounting",
-        "dev",
-        "finance",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-19T10:58:55+00:00"
     }
   ],
-  "last_updated": "2026-08-21T19:50:37.578527",
+  "last_updated": "2026-08-21T20:09:23.897845",
   "total": 20,
-  "new": 0
+  "new": 1
 }

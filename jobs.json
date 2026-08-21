@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "title": "Beauty merchandiser",
+      "company": "Shoppers Drug Mart",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-beauty-merchandiser-shoppers-drug-mart-1137055",
+      "source": "RemoteOK",
+      "tags": [
+        "sales",
+        "non tech",
+        "customer support",
+        "microsoft",
+        "ops",
+        "excel",
+        "recruiter",
+        "full time",
+        "dev",
+        "exec",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-20T20:42:30+00:00"
+    },
+    {
       "title": "Orderly",
       "company": "NT Health",
       "location": "Remote",
@@ -344,41 +367,9 @@
       ],
       "salary": "",
       "posted": "2026-08-19T16:58:13+00:00"
-    },
-    {
-      "title": "COSTING ENGINEER",
-      "company": "Larsen &amp; Toubro",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-costing-engineer-larsen-amp-toubro-1137012",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "marketing",
-        "exec",
-        "golang",
-        "data entry",
-        "infosec",
-        "finance",
-        "excel",
-        "full time",
-        "design",
-        "math",
-        "ops",
-        "engineer",
-        "digital nomad",
-        "sales",
-        "technical",
-        "dev",
-        "testing",
-        "education",
-        "assembly",
-        "ruby"
-      ],
-      "salary": "",
-      "posted": "2026-08-19T12:46:47+00:00"
     }
   ],
-  "last_updated": "2026-08-21T20:39:20.240966",
+  "last_updated": "2026-08-21T20:59:13.710555",
   "total": 20,
-  "new": 0
+  "new": 1
 }

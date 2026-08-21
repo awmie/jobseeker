@@ -1,6 +1,27 @@
 {
   "jobs": [
     {
+      "title": "Trimmer",
+      "company": "Canopy Growth Corporation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-trimmer-canopy-growth-corporation-1136997",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "non tech",
+        "marketing",
+        "dev",
+        "exec",
+        "medical",
+        "recruiter",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-20T01:17:31+00:00"
+    },
+    {
       "title": "Consultant Implementation Engineer",
       "company": "Harbor",
       "location": "Remote",
@@ -381,47 +402,9 @@
       ],
       "salary": "",
       "posted": "2026-08-18T19:57:52+00:00"
-    },
-    {
-      "title": "Store Manager",
-      "company": "JACK &amp; JONES",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-jack-amp-jones-1137006",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "supervisor",
-        "exec",
-        "virtual assistant",
-        "ops",
-        "senior",
-        "golang",
-        "medical",
-        "engineer",
-        "design",
-        "sys admin",
-        "infosec",
-        "python",
-        "technical",
-        "customer support",
-        "testing",
-        "finance",
-        "math",
-        "admin",
-        "microsoft",
-        "digital nomad",
-        "marketing",
-        "scheme",
-        "mobile",
-        "sales",
-        "recruiter",
-        "junior"
-      ],
-      "salary": "",
-      "posted": "2026-08-18T19:42:52+00:00"
     }
   ],
-  "last_updated": "2026-08-21T01:06:22.383562",
+  "last_updated": "2026-08-21T02:35:33.774910",
   "total": 20,
   "new": 1
 }

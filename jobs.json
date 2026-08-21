@@ -84,6 +84,21 @@
       "posted": "2026-08-20T11:50:44+00:00"
     },
     {
+      "title": "Senior Executive",
+      "company": "EXL",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-executive-exl-1137057",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "exec",
+        "engineer",
+        "senior"
+      ],
+      "salary": "",
+      "posted": "2026-08-20T11:18:16+00:00"
+    },
+    {
       "title": "Roupeiro",
       "company": "Presenza Psicologia",
       "location": "Remote",
@@ -350,26 +365,9 @@
       ],
       "salary": "",
       "posted": "2026-08-19T16:59:19+00:00"
-    },
-    {
-      "title": "Collections Agent",
-      "company": "CRNCY Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-collections-agent-crncy-group-1137017",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "quality assurance",
-        "education",
-        "ops",
-        "sales",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-19T16:58:13+00:00"
     }
   ],
-  "last_updated": "2026-08-21T20:59:13.710555",
+  "last_updated": "2026-08-21T21:31:21.598552",
   "total": 20,
   "new": 1
 }

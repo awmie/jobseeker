@@ -1,6 +1,62 @@
 {
   "jobs": [
     {
+      "title": "Removalist Offsider",
+      "company": "Kent Removals &amp; Storage",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-removalist-offsider-kent-removals-amp-storage-1137059",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "non tech",
+        "education",
+        "golang",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-21T03:46:09+00:00"
+    },
+    {
+      "title": "Reddy Express Alice Springs Mt Gillen Customer Service Representative",
+      "company": "OTR",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-reddy-express-alice-springs-mt-gillen-customer-service-representative-otr-1137043",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "medical",
+        "recruiter",
+        "non tech",
+        "exec",
+        "infosec",
+        "education",
+        "ops",
+        "sales",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-08-21T03:35:47+00:00"
+    },
+    {
+      "title": "Open positions",
+      "company": "UzEats",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-open-positions-uzeats-1137037",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-21T03:25:38+00:00"
+    },
+    {
       "title": "Stock Assistant Supre Parramatta",
       "company": "Cotton On Group",
       "location": "Remote",
@@ -285,85 +341,9 @@
       ],
       "salary": "",
       "posted": "2026-08-19T21:28:35+00:00"
-    },
-    {
-      "title": "Baker Day",
-      "company": "Loblaw Companies Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-baker-day-loblaw-companies-limited-1136999",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "non tech",
-        "marketing",
-        "dev",
-        "exec",
-        "medical",
-        "recruiter",
-        "full time",
-        "digital nomad",
-        "saas",
-        "testing",
-        "finance",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-08-19T20:46:08+00:00"
-    },
-    {
-      "title": "Technician 1",
-      "company": "Sunbelt Rentals, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technician-1-sunbelt-rentals-inc-1137018",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "quality assurance",
-        "education",
-        "ops",
-        "sales",
-        "digital nomad",
-        "recruiter",
-        "supervisor",
-        "customer support",
-        "marketing",
-        "exec",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-19T19:38:04+00:00"
-    },
-    {
-      "title": "Overnight Task Team FT",
-      "company": "Bass Pro Shops",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-overnight-task-team-ft-bass-pro-shops-1137000",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "non tech",
-        "marketing",
-        "dev",
-        "exec",
-        "medical",
-        "recruiter",
-        "full time",
-        "digital nomad",
-        "saas",
-        "testing",
-        "finance",
-        "sales",
-        "supervisor",
-        "ads",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-08-19T18:50:44+00:00"
     }
   ],
-  "last_updated": "2026-08-22T03:04:28.695259",
+  "last_updated": "2026-08-22T03:51:52.013210",
   "total": 20,
-  "new": 2
+  "new": 3
 }

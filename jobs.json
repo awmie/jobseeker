@@ -1,6 +1,52 @@
 {
   "jobs": [
     {
+      "title": "Stock Assistant Supre Parramatta",
+      "company": "Cotton On Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-stock-assistant-supre-parramatta-cotton-on-group-1137039",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "medical",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-21T02:42:25+00:00"
+    },
+    {
+      "title": "Store Manager Bunbury",
+      "company": "Retail FX",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-bunbury-retail-fx-1137042",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "medical",
+        "recruiter",
+        "non tech",
+        "exec",
+        "infosec",
+        "education",
+        "ops",
+        "sales",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-08-21T02:25:39+00:00"
+    },
+    {
       "title": "Beauty merchandiser",
       "company": "Shoppers Drug Mart",
       "location": "Remote",
@@ -315,59 +361,9 @@
       ],
       "salary": "",
       "posted": "2026-08-19T18:50:44+00:00"
-    },
-    {
-      "title": "CI001 Courier",
-      "company": "FedEx",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ci001-courier-fedex-1137019",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "quality assurance",
-        "education",
-        "ops",
-        "sales",
-        "digital nomad",
-        "recruiter",
-        "supervisor",
-        "customer support",
-        "marketing",
-        "exec",
-        "medical",
-        "testing",
-        "math"
-      ],
-      "salary": "",
-      "posted": "2026-08-19T18:17:34+00:00"
-    },
-    {
-      "title": "Assembly Technician",
-      "company": "Flow Control Commune",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-assembly-technician-flow-control-commune-1136994",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "customer support",
-        "exec",
-        "ops",
-        "marketing",
-        "microsoft",
-        "senior",
-        "technical",
-        "accounting",
-        "dev",
-        "finance",
-        "full time",
-        "digital nomad",
-        "assembly"
-      ],
-      "salary": "",
-      "posted": "2026-08-19T16:59:19+00:00"
     }
   ],
-  "last_updated": "2026-08-22T02:05:54.260832",
+  "last_updated": "2026-08-22T03:04:28.695259",
   "total": 20,
-  "new": 0
+  "new": 2
 }

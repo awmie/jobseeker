@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "Post Office Manager",
+      "company": "Shoppers Drug Mart",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-post-office-manager-shoppers-drug-mart-1137063",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "dev",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-21T20:41:18+00:00"
+    },
+    {
       "title": "Estimator",
       "company": "Linsco Ltd",
       "location": "Remote",
@@ -350,24 +366,9 @@
       ],
       "salary": "",
       "posted": "2026-08-20T07:59:55+00:00"
-    },
-    {
-      "title": "Front Office Executive",
-      "company": "Radisson Hotel Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-front-office-executive-radisson-hotel-group-1137008",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "marketing",
-        "exec",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T05:59:25+00:00"
     }
   ],
-  "last_updated": "2026-08-22T20:33:17.419759",
+  "last_updated": "2026-08-22T20:54:34.902272",
   "total": 20,
-  "new": 0
+  "new": 1
 }

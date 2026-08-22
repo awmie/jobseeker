@@ -122,6 +122,30 @@
       "posted": "2026-08-21T02:25:39+00:00"
     },
     {
+      "title": "Field Technician III",
+      "company": "Cable Bahamas Ltd.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-technician-iii-cable-bahamas-ltd-1137068",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "education",
+        "customer support",
+        "testing",
+        "travel",
+        "node",
+        "microsoft",
+        "exec",
+        "ops",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-20T22:43:28+00:00"
+    },
+    {
       "title": "Beauty merchandiser",
       "company": "Shoppers Drug Mart",
       "location": "Remote",
@@ -326,26 +350,9 @@
       ],
       "salary": "",
       "posted": "2026-08-20T01:17:31+00:00"
-    },
-    {
-      "title": "Consultant Implementation Engineer",
-      "company": "Harbor",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-consultant-implementation-engineer-harbor-1136987",
-      "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "technical",
-        "accounting",
-        "legal",
-        "golang",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T00:00:15+00:00"
     }
   ],
-  "last_updated": "2026-08-22T09:02:06.713096",
+  "last_updated": "2026-08-22T09:36:01.262593",
   "total": 20,
-  "new": 0
+  "new": 1
 }

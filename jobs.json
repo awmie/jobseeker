@@ -1,6 +1,27 @@
 {
   "jobs": [
     {
+      "title": "Estimator",
+      "company": "Linsco Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-linsco-ltd-1137060",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "dev",
+        "travel",
+        "finance",
+        "scheme",
+        "microsoft",
+        "exec",
+        "excel",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-21T15:21:35+00:00"
+    },
+    {
       "title": "Project Systems Specialist",
       "company": "Dart",
       "location": "Remote",
@@ -344,25 +365,9 @@
       ],
       "salary": "",
       "posted": "2026-08-20T05:59:25+00:00"
-    },
-    {
-      "title": "Account Officer",
-      "company": "Natural Spirits Nepal",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-account-officer-natural-spirits-nepal-1137028",
-      "source": "RemoteOK",
-      "tags": [
-        "accounting",
-        "infosec",
-        "customer support",
-        "finance",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T05:22:50+00:00"
     }
   ],
-  "last_updated": "2026-08-22T14:57:49.856378",
+  "last_updated": "2026-08-22T15:25:39.161932",
   "total": 20,
   "new": 1
 }

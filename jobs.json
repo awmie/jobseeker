@@ -1,6 +1,25 @@
 {
   "jobs": [
     {
+      "title": "Estimator Brisbane",
+      "company": "McNab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-brisbane-mcnab-1137047",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-21T07:29:30+00:00"
+    },
+    {
       "title": "Removalist Offsider",
       "company": "Kent Removals &amp; Storage",
       "location": "Remote",
@@ -324,26 +343,9 @@
       ],
       "salary": "",
       "posted": "2026-08-20T00:00:15+00:00"
-    },
-    {
-      "title": "Laborer",
-      "company": "Wood",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-laborer-wood-1137016",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "consulting",
-        "exec",
-        "ops",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-19T21:28:35+00:00"
     }
   ],
-  "last_updated": "2026-08-22T07:01:50.783501",
+  "last_updated": "2026-08-22T07:38:29.795872",
   "total": 20,
-  "new": 0
+  "new": 1
 }

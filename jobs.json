@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "title": "Project Systems Specialist",
+      "company": "Dart",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "education",
+        "customer support",
+        "testing",
+        "travel",
+        "node",
+        "microsoft",
+        "exec",
+        "ops",
+        "medical",
+        "engineer",
+        "digital nomad",
+        "c sharp",
+        "technical",
+        "marketing",
+        "quality assurance",
+        "javascript",
+        "c",
+        "css",
+        "html"
+      ],
+      "salary": "",
+      "posted": "2026-08-21T14:53:06+00:00"
+    },
+    {
       "title": "Uday",
       "company": "MyAarohan",
       "location": "Remote",
@@ -328,23 +360,9 @@
       ],
       "salary": "",
       "posted": "2026-08-20T05:22:50+00:00"
-    },
-    {
-      "title": "Across all departments",
-      "company": "Vistara Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-vistara-group-1137023",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "marketing",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T04:24:09+00:00"
     }
   ],
-  "last_updated": "2026-08-22T14:40:25.724336",
+  "last_updated": "2026-08-22T14:57:49.856378",
   "total": 20,
-  "new": 0
+  "new": 1
 }

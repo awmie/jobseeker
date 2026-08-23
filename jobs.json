@@ -1,6 +1,36 @@
 {
   "jobs": [
     {
+      "title": "Officer",
+      "company": "Lupin Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-officer-lupin-ltd-1137074",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T09:49:29+00:00"
+    },
+    {
+      "title": "Team Manager Newry Extra",
+      "company": "Tesco",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newry-extra-tesco-1137077",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "testing",
+        "finance",
+        "sales",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T09:40:42+00:00"
+    },
+    {
       "title": "Parcel Delivery Drivers",
       "company": "InPost Group",
       "location": "Remote",
@@ -353,43 +383,9 @@
       ],
       "salary": "",
       "posted": "2026-08-20T14:18:42+00:00"
-    },
-    {
-      "title": "Sales Advisor",
-      "company": "H&amp;M",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-advisor-hampm-1137044",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "customer support",
-        "marketing",
-        "exec",
-        "virtual assistant",
-        "sales",
-        "medical",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T11:58:22+00:00"
-    },
-    {
-      "title": "Team Member Level 2",
-      "company": "GPC Asia Pacific",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-member-level-2-gpc-asia-pacific-1137022",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T11:50:44+00:00"
     }
   ],
-  "last_updated": "2026-08-23T09:35:31.275346",
+  "last_updated": "2026-08-23T09:55:54.623350",
   "total": 20,
-  "new": 0
+  "new": 2
 }

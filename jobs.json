@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "building cleaner",
+      "company": "Newfoundland Chocolate Company",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T11:11:18+00:00"
+    },
+    {
       "title": "Officer",
       "company": "Lupin Ltd",
       "location": "Remote",
@@ -370,22 +384,9 @@
       ],
       "salary": "",
       "posted": "2026-08-20T20:09:10+00:00"
-    },
-    {
-      "title": "Loss Prevention Officer",
-      "company": "Manhattan Grand Hotel",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-loss-prevention-officer-manhattan-grand-hotel-1137027",
-      "source": "RemoteOK",
-      "tags": [
-        "accounting",
-        "infosec"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T14:18:42+00:00"
     }
   ],
-  "last_updated": "2026-08-23T11:02:51.903293",
+  "last_updated": "2026-08-23T11:29:58.180026",
   "total": 20,
-  "new": 0
+  "new": 1
 }

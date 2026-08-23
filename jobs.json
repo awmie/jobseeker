@@ -1,6 +1,74 @@
 {
   "jobs": [
     {
+      "title": "DESARROLLADOR FULL STACK",
+      "company": "Kruger NearShore LLC - Rekluti",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+      "source": "RemoteOK",
+      "tags": [
+        "full stack",
+        "front end",
+        "python",
+        "dev",
+        "testing",
+        "web dev",
+        "quality assurance",
+        "devops",
+        "c",
+        "cloud",
+        "nosql",
+        "git",
+        "flutter",
+        "angular",
+        "mobile",
+        "golang",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T00:00:12+00:00"
+    },
+    {
+      "title": "Senior Governance Risk and Compliance Analyst",
+      "company": "RainFocus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "design",
+        "saas",
+        "infosec",
+        "education",
+        "technical",
+        "dev",
+        "cloud",
+        "exec",
+        "senior",
+        "ops",
+        "marketing",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T00:00:05+00:00"
+    },
+    {
+      "title": "CDP",
+      "company": "East Coast Concepts",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-cdp-east-coast-concepts-1137065",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T00:00:00+00:00"
+    },
+    {
       "title": "Post Office Manager",
       "company": "Shoppers Drug Mart",
       "location": "Remote",
@@ -324,51 +392,9 @@
       ],
       "salary": "",
       "posted": "2026-08-20T11:18:16+00:00"
-    },
-    {
-      "title": "Roupeiro",
-      "company": "Presenza Psicologia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-roupeiro-presenza-psicologia-1137030",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-20T10:34:12+00:00"
-    },
-    {
-      "title": "Pilot",
-      "company": "SpaceX",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-pilot-spacex-1137007",
-      "source": "RemoteOK",
-      "tags": [
-        "travel",
-        "c",
-        "ops",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T08:00:19+00:00"
-    },
-    {
-      "title": "Accountant",
-      "company": "Tipsy Topsy",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-accountant-tipsy-topsy-1137029",
-      "source": "RemoteOK",
-      "tags": [
-        "accounting",
-        "infosec",
-        "customer support",
-        "finance",
-        "exec",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T07:59:55+00:00"
     }
   ],
-  "last_updated": "2026-08-22T23:47:45.187528",
+  "last_updated": "2026-08-23T00:00:40.225237",
   "total": 20,
-  "new": 0
+  "new": 3
 }

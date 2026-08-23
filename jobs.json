@@ -1,6 +1,49 @@
 {
   "jobs": [
     {
+      "title": "Retail Store Associate",
+      "company": "Rowan",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "dev",
+        "exec",
+        "math",
+        "node",
+        "ops",
+        "sales",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T16:00:21+00:00"
+    },
+    {
+      "title": "Senior Specialist Global QMS",
+      "company": "Orca Bio",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "sys admin",
+        "customer support",
+        "marketing",
+        "education",
+        "exec",
+        "senior",
+        "medical",
+        "engineer",
+        "recruiter",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T16:00:15+00:00"
+    },
+    {
       "title": "Across all departments",
       "company": "Saasuji",
       "location": "Remote",
@@ -340,56 +383,9 @@
       ],
       "salary": "",
       "posted": "2026-08-21T02:25:39+00:00"
-    },
-    {
-      "title": "Field Technician III",
-      "company": "Cable Bahamas Ltd.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-technician-iii-cable-bahamas-ltd-1137068",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "sys admin",
-        "education",
-        "customer support",
-        "testing",
-        "travel",
-        "node",
-        "microsoft",
-        "exec",
-        "ops",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T22:43:28+00:00"
-    },
-    {
-      "title": "Beauty merchandiser",
-      "company": "Shoppers Drug Mart",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-beauty-merchandiser-shoppers-drug-mart-1137055",
-      "source": "RemoteOK",
-      "tags": [
-        "sales",
-        "non tech",
-        "customer support",
-        "microsoft",
-        "ops",
-        "excel",
-        "recruiter",
-        "full time",
-        "dev",
-        "exec",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T20:42:30+00:00"
     }
   ],
-  "last_updated": "2026-08-23T15:54:06.933991",
+  "last_updated": "2026-08-23T16:17:29.308725",
   "total": 20,
-  "new": 0
+  "new": 2
 }

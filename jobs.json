@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "Parcel Delivery Drivers",
+      "company": "InPost Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-parcel-delivery-drivers-inpost-group-1137066",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-22T01:20:50+00:00"
+    },
+    {
       "title": "DESARROLLADOR FULL STACK",
       "company": "Kruger NearShore LLC - Rekluti",
       "location": "Remote",
@@ -377,24 +387,9 @@
       ],
       "salary": "",
       "posted": "2026-08-20T11:50:44+00:00"
-    },
-    {
-      "title": "Senior Executive",
-      "company": "EXL",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-executive-exl-1137057",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "exec",
-        "engineer",
-        "senior"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T11:18:16+00:00"
     }
   ],
-  "last_updated": "2026-08-23T00:00:40.225237",
+  "last_updated": "2026-08-23T01:53:41.719060",
   "total": 20,
-  "new": 3
+  "new": 1
 }

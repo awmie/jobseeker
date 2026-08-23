@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "Across all departments",
+      "company": "Saasuji",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-saasuji-1137075",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "non tech",
+        "design",
+        "marketing",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T14:24:57+00:00"
+    },
+    {
       "title": "building cleaner",
       "company": "Newfoundland Chocolate Company",
       "location": "Remote",
@@ -371,22 +387,9 @@
       ],
       "salary": "",
       "posted": "2026-08-20T20:42:30+00:00"
-    },
-    {
-      "title": "Orderly",
-      "company": "NT Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-orderly-nt-health-1137035",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-20T20:09:10+00:00"
     }
   ],
-  "last_updated": "2026-08-23T13:58:19.878625",
+  "last_updated": "2026-08-23T14:28:33.395630",
   "total": 20,
-  "new": 0
+  "new": 1
 }

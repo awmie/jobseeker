@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "CDP",
+      "company": "Saasuji",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-cdp-saasuji-1137091",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-23T14:25:00+00:00"
+    },
+    {
       "title": "Sandwich artist",
       "company": "Subway",
       "location": "Remote",
@@ -350,35 +364,9 @@
       ],
       "salary": "",
       "posted": "2026-08-21T03:46:09+00:00"
-    },
-    {
-      "title": "Reddy Express Alice Springs Mt Gillen Customer Service Representative",
-      "company": "OTR",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-reddy-express-alice-springs-mt-gillen-customer-service-representative-otr-1137043",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "customer support",
-        "marketing",
-        "travel",
-        "speech",
-        "finance",
-        "medical",
-        "recruiter",
-        "non tech",
-        "exec",
-        "infosec",
-        "education",
-        "ops",
-        "sales",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-08-21T03:35:47+00:00"
     }
   ],
-  "last_updated": "2026-08-24T13:58:32.146651",
+  "last_updated": "2026-08-24T14:49:09.587868",
   "total": 20,
-  "new": 0
+  "new": 1
 }

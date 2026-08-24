@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "Sandwich artist",
+      "company": "Subway",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sandwich-artist-subway-1137086",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-23T09:45:26+00:00"
+    },
+    {
       "title": "Retail Store Associate",
       "company": "Rowan",
       "location": "Remote",
@@ -363,22 +376,9 @@
       ],
       "salary": "",
       "posted": "2026-08-21T03:35:47+00:00"
-    },
-    {
-      "title": "Open positions",
-      "company": "UzEats",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-open-positions-uzeats-1137037",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-21T03:25:38+00:00"
     }
   ],
-  "last_updated": "2026-08-24T08:59:16.148939",
+  "last_updated": "2026-08-24T09:55:47.846502",
   "total": 20,
-  "new": 0
+  "new": 1
 }

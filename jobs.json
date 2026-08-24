@@ -1,6 +1,21 @@
 {
   "jobs": [
     {
+      "title": "Electrical Tradesperson",
+      "company": "Territory Generation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-electrical-tradesperson-territory-generation-1137092",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "technical",
+        "exec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-08-23T20:09:16+00:00"
+    },
+    {
       "title": "CDP",
       "company": "Saasuji",
       "location": "Remote",
@@ -347,26 +362,9 @@
       ],
       "salary": "",
       "posted": "2026-08-21T07:29:30+00:00"
-    },
-    {
-      "title": "Removalist Offsider",
-      "company": "Kent Removals &amp; Storage",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-removalist-offsider-kent-removals-amp-storage-1137059",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "non tech",
-        "education",
-        "golang",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-08-21T03:46:09+00:00"
     }
   ],
-  "last_updated": "2026-08-24T20:01:54.695106",
+  "last_updated": "2026-08-24T20:40:57.714198",
   "total": 20,
-  "new": 0
+  "new": 1
 }

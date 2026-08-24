@@ -60,6 +60,24 @@
       "posted": "2026-08-22T14:24:57+00:00"
     },
     {
+      "title": "Quantity Surveyor",
+      "company": "Edspired.Tech",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-quantity-surveyor-edspired-tech-1137098",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "dev",
+        "excel",
+        "engineer",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T11:15:06+00:00"
+    },
+    {
       "title": "building cleaner",
       "company": "Newfoundland Chocolate Company",
       "location": "Remote",
@@ -102,6 +120,27 @@
       ],
       "salary": "",
       "posted": "2026-08-22T09:40:42+00:00"
+    },
+    {
+      "title": "DTP Operator",
+      "company": "JobTrade",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-dtp-operator-jobtrade-1137099",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "dev",
+        "excel",
+        "engineer",
+        "full time",
+        "digital nomad",
+        "design",
+        "content writing",
+        "education"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T09:30:43+00:00"
     },
     {
       "title": "Parcel Delivery Drivers",
@@ -337,55 +376,9 @@
       ],
       "salary": "",
       "posted": "2026-08-21T03:25:38+00:00"
-    },
-    {
-      "title": "Stock Assistant Supre Parramatta",
-      "company": "Cotton On Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-stock-assistant-supre-parramatta-cotton-on-group-1137039",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "customer support",
-        "marketing",
-        "travel",
-        "speech",
-        "finance",
-        "medical",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-21T02:42:25+00:00"
-    },
-    {
-      "title": "Store Manager Bunbury",
-      "company": "Retail FX",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-bunbury-retail-fx-1137042",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "customer support",
-        "marketing",
-        "travel",
-        "speech",
-        "finance",
-        "medical",
-        "recruiter",
-        "non tech",
-        "exec",
-        "infosec",
-        "education",
-        "ops",
-        "sales",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-08-21T02:25:39+00:00"
     }
   ],
-  "last_updated": "2026-08-24T05:58:28.823298",
+  "last_updated": "2026-08-24T07:09:45.742477",
   "total": 20,
-  "new": 0
+  "new": 2
 }

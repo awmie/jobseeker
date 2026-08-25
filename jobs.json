@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "Store person",
+      "company": "Krannich Solar Australia",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-person-krannich-solar-australia-1137100",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-24T08:04:09+00:00"
+    },
+    {
       "title": "GLUCOBAY TASK FORCE",
       "company": "Bayer",
       "location": "Remote",
@@ -339,41 +349,9 @@
       ],
       "salary": "",
       "posted": "2026-08-21T15:21:35+00:00"
-    },
-    {
-      "title": "Project Systems Specialist",
-      "company": "Dart",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "sys admin",
-        "education",
-        "customer support",
-        "testing",
-        "travel",
-        "node",
-        "microsoft",
-        "exec",
-        "ops",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "c sharp",
-        "technical",
-        "marketing",
-        "quality assurance",
-        "javascript",
-        "c",
-        "css",
-        "html"
-      ],
-      "salary": "",
-      "posted": "2026-08-21T14:53:06+00:00"
     }
   ],
-  "last_updated": "2026-08-25T07:53:07.317193",
+  "last_updated": "2026-08-25T08:31:57.757834",
   "total": 20,
   "new": 1
 }

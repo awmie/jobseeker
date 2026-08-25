@@ -1,6 +1,25 @@
 {
   "jobs": [
     {
+      "title": "Bell Captain",
+      "company": "Four Seasons",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-bell-captain-four-seasons-1137107",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "full time",
+        "customer support",
+        "music",
+        "video",
+        "content writing",
+        "education",
+        "testing"
+      ],
+      "salary": "",
+      "posted": "2026-08-24T10:55:05+00:00"
+    },
+    {
       "title": "Store person",
       "company": "Krannich Solar Australia",
       "location": "Remote",
@@ -328,30 +347,9 @@
       ],
       "salary": "",
       "posted": "2026-08-21T20:41:18+00:00"
-    },
-    {
-      "title": "Estimator",
-      "company": "Linsco Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-linsco-ltd-1137060",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "dev",
-        "travel",
-        "finance",
-        "scheme",
-        "microsoft",
-        "exec",
-        "excel",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-21T15:21:35+00:00"
     }
   ],
-  "last_updated": "2026-08-25T10:54:44.044036",
+  "last_updated": "2026-08-25T11:22:46.297989",
   "total": 20,
-  "new": 0
+  "new": 1
 }

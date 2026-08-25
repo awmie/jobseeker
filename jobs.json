@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "Executive",
+      "company": "Vashi Integrated Solutions",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-vashi-integrated-solutions-1137105",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-24T12:09:13+00:00"
+    },
+    {
       "title": "Bell Captain",
       "company": "Four Seasons",
       "location": "Remote",
@@ -331,25 +344,9 @@
       ],
       "salary": "",
       "posted": "2026-08-22T00:00:00+00:00"
-    },
-    {
-      "title": "Post Office Manager",
-      "company": "Shoppers Drug Mart",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-post-office-manager-shoppers-drug-mart-1137063",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "customer support",
-        "dev",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-21T20:41:18+00:00"
     }
   ],
-  "last_updated": "2026-08-25T11:51:13.622450",
+  "last_updated": "2026-08-25T12:19:47.577973",
   "total": 20,
-  "new": 0
+  "new": 1
 }

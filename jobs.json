@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "title": "Residential Technician",
+      "company": "The Abaco Club",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-residential-technician-the-abaco-club-1137096",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "technical",
+        "customer support",
+        "dev",
+        "exec",
+        "senior",
+        "ops",
+        "excel",
+        "engineer",
+        "digital nomad",
+        "marketing",
+        "virtual assistant",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-08-24T00:24:16+00:00"
+    },
+    {
       "title": "Electrical Tradesperson",
       "company": "Territory Generation",
       "location": "Remote",
@@ -343,28 +368,9 @@
       ],
       "salary": "",
       "posted": "2026-08-21T11:24:27+00:00"
-    },
-    {
-      "title": "Estimator Brisbane",
-      "company": "McNab",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-brisbane-mcnab-1137047",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "dev",
-        "marketing",
-        "exec",
-        "medical",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-21T07:29:30+00:00"
     }
   ],
-  "last_updated": "2026-08-25T00:01:48.489984",
+  "last_updated": "2026-08-25T01:46:09.857307",
   "total": 20,
-  "new": 0
+  "new": 1
 }

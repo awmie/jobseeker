@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "LEGO",
+      "company": "Teatro Multiplan MorumbiShopping",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-lego-teatro-multiplan-morumbishopping-1137112",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-24T19:57:50+00:00"
+    },
+    {
       "title": "Executive",
       "company": "Vashi Integrated Solutions",
       "location": "Remote",
@@ -330,23 +340,9 @@
       ],
       "salary": "",
       "posted": "2026-08-22T00:00:05+00:00"
-    },
-    {
-      "title": "CDP",
-      "company": "East Coast Concepts",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-cdp-east-coast-concepts-1137065",
-      "source": "RemoteOK",
-      "tags": [
-        "finance",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T00:00:00+00:00"
     }
   ],
-  "last_updated": "2026-08-25T19:37:37.374230",
+  "last_updated": "2026-08-25T19:59:22.311341",
   "total": 20,
-  "new": 0
+  "new": 1
 }

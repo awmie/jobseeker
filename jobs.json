@@ -1,23 +1,6 @@
 {
   "jobs": [
     {
-      "title": "Customer Support Executive",
-      "company": "careerAIForge",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-executive-careeraiforge-1137106",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "full time",
-        "customer support",
-        "music",
-        "video",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-08-24T15:44:48+00:00"
-    },
-    {
       "title": "Executive",
       "company": "Vashi Integrated Solutions",
       "location": "Remote",
@@ -347,9 +330,23 @@
       ],
       "salary": "",
       "posted": "2026-08-22T00:00:05+00:00"
+    },
+    {
+      "title": "CDP",
+      "company": "East Coast Concepts",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-cdp-east-coast-concepts-1137065",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T00:00:00+00:00"
     }
   ],
-  "last_updated": "2026-08-25T16:31:43.573225",
+  "last_updated": "2026-08-25T17:07:27.028162",
   "total": 20,
   "new": 0
 }

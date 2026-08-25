@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "GLUCOBAY TASK FORCE",
+      "company": "Bayer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-glucobay-task-force-bayer-1137102",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "sales",
+        "medical",
+        "non tech",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-24T07:17:43+00:00"
+    },
+    {
       "title": "Residential Technician",
       "company": "The Abaco Club",
       "location": "Remote",
@@ -355,22 +371,9 @@
       ],
       "salary": "",
       "posted": "2026-08-21T14:53:06+00:00"
-    },
-    {
-      "title": "Uday",
-      "company": "MyAarohan",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-uday-myaarohan-1137048",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-21T11:24:27+00:00"
     }
   ],
-  "last_updated": "2026-08-25T07:03:08.332857",
+  "last_updated": "2026-08-25T07:53:07.317193",
   "total": 20,
-  "new": 0
+  "new": 1
 }

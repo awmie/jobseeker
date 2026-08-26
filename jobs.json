@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "Senior Backend Engineer Build AI Agents",
+      "company": "Salesforge",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "senior",
+        "sales",
+        "engineer",
+        "backend"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T07:00:03+00:00"
+    },
+    {
       "title": "LEGO",
       "company": "Teatro Multiplan MorumbiShopping",
       "location": "Remote",
@@ -315,34 +331,9 @@
       ],
       "salary": "",
       "posted": "2026-08-22T00:00:12+00:00"
-    },
-    {
-      "title": "Senior Governance Risk and Compliance Analyst",
-      "company": "RainFocus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "design",
-        "saas",
-        "infosec",
-        "education",
-        "technical",
-        "dev",
-        "cloud",
-        "exec",
-        "senior",
-        "ops",
-        "marketing",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T00:00:05+00:00"
     }
   ],
-  "last_updated": "2026-08-26T06:52:30.363052",
+  "last_updated": "2026-08-26T07:37:19.972388",
   "total": 20,
-  "new": 0
+  "new": 1
 }

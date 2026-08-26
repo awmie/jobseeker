@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "Butcher",
+      "company": "The Butcher Shoppe",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-butcher-the-butcher-shoppe-1137120",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "marketing",
+        "education",
+        "medical",
+        "ecommerce"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T13:50:59+00:00"
+    },
+    {
       "title": "Technical Staff",
       "company": "Piramal Pharma Ltd",
       "location": "Remote",
@@ -304,30 +320,9 @@
       ],
       "salary": "",
       "posted": "2026-08-22T09:40:42+00:00"
-    },
-    {
-      "title": "DTP Operator",
-      "company": "JobTrade",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-dtp-operator-jobtrade-1137099",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "customer support",
-        "dev",
-        "excel",
-        "engineer",
-        "full time",
-        "digital nomad",
-        "design",
-        "content writing",
-        "education"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T09:30:43+00:00"
     }
   ],
-  "last_updated": "2026-08-26T13:09:36.992928",
+  "last_updated": "2026-08-26T14:02:30.218889",
   "total": 20,
-  "new": 0
+  "new": 1
 }

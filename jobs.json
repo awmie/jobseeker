@@ -1,6 +1,27 @@
 {
   "jobs": [
     {
+      "title": "Smokemart &amp; GiftBox Palmerstone Sales Assistant",
+      "company": "Smokemart &amp; GiftBox",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-smokemart-amp-giftbox-palmerstone-sales-assistant-smokemart-amp-giftbox-1137125",
+      "source": "RemoteOK",
+      "tags": [
+        "accounting",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "virtual assistant",
+        "infosec",
+        "marketing",
+        "exec",
+        "sales",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T09:36:03+00:00"
+    },
+    {
       "title": "Senior Backend Engineer Build AI Agents",
       "company": "Salesforge",
       "location": "Remote",
@@ -302,38 +323,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-22T01:20:50+00:00"
-    },
-    {
-      "title": "DESARROLLADOR FULL STACK",
-      "company": "Kruger NearShore LLC - Rekluti",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-      "source": "RemoteOK",
-      "tags": [
-        "full stack",
-        "front end",
-        "python",
-        "dev",
-        "testing",
-        "web dev",
-        "quality assurance",
-        "devops",
-        "c",
-        "cloud",
-        "nosql",
-        "git",
-        "flutter",
-        "angular",
-        "mobile",
-        "golang",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T00:00:12+00:00"
     }
   ],
-  "last_updated": "2026-08-26T09:07:43.379995",
+  "last_updated": "2026-08-26T09:54:36.402165",
   "total": 20,
-  "new": 0
+  "new": 1
 }

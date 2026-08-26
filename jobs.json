@@ -1,6 +1,60 @@
 {
   "jobs": [
     {
+      "title": "Store Manager",
+      "company": "Carters Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-carters-inc-1137135",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "virtual assistant",
+        "customer support",
+        "marketing",
+        "ops",
+        "sales",
+        "ecommerce",
+        "education",
+        "web dev",
+        "payroll",
+        "excel",
+        "medical",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T19:47:03+00:00"
+    },
+    {
+      "title": "Test Job",
+      "company": "Leena AI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-job-leena-ai-1137142",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T18:50:43+00:00"
+    },
+    {
+      "title": "OVERNIGHT SHIFT Retail Merchandiser",
+      "company": "Bass Pro Shops",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-overnight-shift-retail-merchandiser-bass-pro-shops-1137123",
+      "source": "RemoteOK",
+      "tags": [
+        "supervisor",
+        "customer support",
+        "ads",
+        "exec",
+        "ops",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T18:48:35+00:00"
+    },
+    {
       "title": "Find a job 3rd comi",
       "company": "Lemon Tree Premier",
       "location": "Remote",
@@ -274,57 +328,9 @@
       ],
       "salary": "",
       "posted": "2026-08-23T20:09:16+00:00"
-    },
-    {
-      "title": "CDP",
-      "company": "Saasuji",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-cdp-saasuji-1137091",
-      "source": "RemoteOK",
-      "tags": [
-        "finance",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-23T14:25:00+00:00"
-    },
-    {
-      "title": "Sandwich artist",
-      "company": "Subway",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sandwich-artist-subway-1137086",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-23T09:45:26+00:00"
-    },
-    {
-      "title": "Retail Store Associate",
-      "company": "Rowan",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "dev",
-        "exec",
-        "math",
-        "node",
-        "ops",
-        "sales",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T16:00:21+00:00"
     }
   ],
-  "last_updated": "2026-08-26T18:07:05.875502",
+  "last_updated": "2026-08-26T19:59:00.856650",
   "total": 20,
-  "new": 1
+  "new": 3
 }

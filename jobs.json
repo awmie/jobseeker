@@ -1,6 +1,24 @@
 {
   "jobs": [
     {
+      "title": "Retail Assistant Store Manager",
+      "company": "Skechers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-retail-assistant-store-manager-skechers-1137132",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "virtual assistant",
+        "customer support",
+        "marketing",
+        "ops",
+        "sales",
+        "ecommerce"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T15:11:08+00:00"
+    },
+    {
       "title": "Rural and Suburban Mail Carrier Allan RR1",
       "company": "Canada Post / Postes Canada",
       "location": "Remote",
@@ -28,6 +46,32 @@
       ],
       "salary": "",
       "posted": "2026-08-25T14:12:49+00:00"
+    },
+    {
+      "title": "Estimator",
+      "company": "Reed",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-reed-1137146",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "testing",
+        "finance",
+        "sales",
+        "recruiter",
+        "marketing",
+        "senior",
+        "dev",
+        "c",
+        "microsoft",
+        "excel",
+        "engineer",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T14:02:10+00:00"
     },
     {
       "title": "Butcher",
@@ -77,6 +121,25 @@
       ],
       "salary": "",
       "posted": "2026-08-25T09:36:03+00:00"
+    },
+    {
+      "title": "Estimator",
+      "company": "s1jobs",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-s1jobs-1137145",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "testing",
+        "finance",
+        "sales",
+        "recruiter",
+        "marketing",
+        "senior"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T08:31:31+00:00"
     },
     {
       "title": "Senior Backend Engineer Build AI Agents",
@@ -271,57 +334,9 @@
       ],
       "salary": "",
       "posted": "2026-08-22T16:00:15+00:00"
-    },
-    {
-      "title": "Across all departments",
-      "company": "Saasuji",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-saasuji-1137075",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech",
-        "design",
-        "marketing",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T14:24:57+00:00"
-    },
-    {
-      "title": "Quantity Surveyor",
-      "company": "Edspired.Tech",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-quantity-surveyor-edspired-tech-1137098",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "customer support",
-        "dev",
-        "excel",
-        "engineer",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T11:15:06+00:00"
-    },
-    {
-      "title": "building cleaner",
-      "company": "Newfoundland Chocolate Company",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T11:11:18+00:00"
     }
   ],
-  "last_updated": "2026-08-26T15:01:04.163748",
+  "last_updated": "2026-08-26T16:16:47.218959",
   "total": 20,
-  "new": 2
+  "new": 3
 }

@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "Technical Staff",
+      "company": "Piramal Pharma Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-staff-piramal-pharma-ltd-1137118",
+      "source": "RemoteOK",
+      "tags": [
+        "technical"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T11:54:40+00:00"
+    },
+    {
       "title": "Smokemart &amp; GiftBox Palmerstone Sales Assistant",
       "company": "Smokemart &amp; GiftBox",
       "location": "Remote",
@@ -313,19 +325,9 @@
       ],
       "salary": "",
       "posted": "2026-08-22T09:30:43+00:00"
-    },
-    {
-      "title": "Parcel Delivery Drivers",
-      "company": "InPost Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-parcel-delivery-drivers-inpost-group-1137066",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-22T01:20:50+00:00"
     }
   ],
-  "last_updated": "2026-08-26T11:38:36.650187",
+  "last_updated": "2026-08-26T12:01:30.789652",
   "total": 20,
-  "new": 0
+  "new": 1
 }

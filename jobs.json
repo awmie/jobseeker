@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "title": "Rural and Suburban Mail Carrier Allan RR1",
+      "company": "Canada Post / Postes Canada",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-allan-rr1-canada-post-postes-canada-1137126",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "exec",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T14:37:33+00:00"
+    },
+    {
+      "title": "AP Accountant",
+      "company": "Bosta",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ap-accountant-bosta-1137124",
+      "source": "RemoteOK",
+      "tags": [
+        "accounting",
+        "customer support",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T14:12:49+00:00"
+    },
+    {
       "title": "Butcher",
       "company": "The Butcher Shoppe",
       "location": "Remote",
@@ -290,39 +319,9 @@
       ],
       "salary": "",
       "posted": "2026-08-22T11:11:18+00:00"
-    },
-    {
-      "title": "Officer",
-      "company": "Lupin Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-officer-lupin-ltd-1137074",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T09:49:29+00:00"
-    },
-    {
-      "title": "Team Manager Newry Extra",
-      "company": "Tesco",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newry-extra-tesco-1137077",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "customer support",
-        "testing",
-        "finance",
-        "sales",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T09:40:42+00:00"
     }
   ],
-  "last_updated": "2026-08-26T14:02:30.218889",
+  "last_updated": "2026-08-26T15:01:04.163748",
   "total": 20,
-  "new": 1
+  "new": 2
 }

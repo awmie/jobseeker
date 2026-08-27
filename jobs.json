@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "title": "BACK OF HOUSE",
+      "company": "Buffalo Wild Wings - Fralich, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-back-of-house-buffalo-wild-wings-fralich-inc-1137129",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "math",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-08-26T03:41:16+00:00"
+    },
+    {
+      "title": "GA",
+      "company": "Aimwear",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ga-aimwear-1137128",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-26T02:47:12+00:00"
+    },
+    {
+      "title": "Earn more",
+      "company": "Nick Scali Limited",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-earn-more-nick-scali-limited-1137154",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "customer support",
+        "microsoft",
+        "exec",
+        "junior",
+        "excel",
+        "design",
+        "education",
+        "marketing",
+        "travel",
+        "ops",
+        "sales",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-26T00:05:05+00:00"
+    },
+    {
       "title": "Ramp Attendant",
       "company": "Swissport",
       "location": "Remote",
@@ -184,6 +232,25 @@
       "posted": "2026-08-25T11:54:40+00:00"
     },
     {
+      "title": "Video Editor",
+      "company": "Locals",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-video-editor-locals-1137158",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "travel",
+        "speech",
+        "video",
+        "content writing",
+        "marketing",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T09:45:13+00:00"
+    },
+    {
       "title": "Smokemart &amp; GiftBox Palmerstone Sales Assistant",
       "company": "Smokemart &amp; GiftBox",
       "location": "Remote",
@@ -261,79 +328,9 @@
       ],
       "salary": "",
       "posted": "2026-08-24T12:09:13+00:00"
-    },
-    {
-      "title": "Bell Captain",
-      "company": "Four Seasons",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-bell-captain-four-seasons-1137107",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "full time",
-        "customer support",
-        "music",
-        "video",
-        "content writing",
-        "education",
-        "testing"
-      ],
-      "salary": "",
-      "posted": "2026-08-24T10:55:05+00:00"
-    },
-    {
-      "title": "Store person",
-      "company": "Krannich Solar Australia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-person-krannich-solar-australia-1137100",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-24T08:04:09+00:00"
-    },
-    {
-      "title": "GLUCOBAY TASK FORCE",
-      "company": "Bayer",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-glucobay-task-force-bayer-1137102",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "sales",
-        "medical",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-24T07:17:43+00:00"
-    },
-    {
-      "title": "Residential Technician",
-      "company": "The Abaco Club",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-residential-technician-the-abaco-club-1137096",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "technical",
-        "customer support",
-        "dev",
-        "exec",
-        "senior",
-        "ops",
-        "excel",
-        "engineer",
-        "digital nomad",
-        "marketing",
-        "virtual assistant",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-08-24T00:24:16+00:00"
     }
   ],
-  "last_updated": "2026-08-26T23:10:42.837862",
+  "last_updated": "2026-08-27T04:31:05.521053",
   "total": 20,
-  "new": 1
+  "new": 4
 }

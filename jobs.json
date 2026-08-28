@@ -1,6 +1,75 @@
 {
   "jobs": [
     {
+      "title": "Senior Level Designer",
+      "company": "Blackbird Interactive",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "game dev",
+        "designer",
+        "technical",
+        "customer support",
+        "testing",
+        "content writing",
+        "senior",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-27T00:00:23+00:00"
+    },
+    {
+      "title": "Oracle Fusion Cloud Lead \u00e2\u0080\u0094 Logistics & Supply Chain Management",
+      "company": "Tessera Labs",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "consulting",
+        "testing",
+        "exec",
+        "cloud",
+        "senior",
+        "ops",
+        "engineer",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-27T00:00:17+00:00"
+    },
+    {
+      "title": "Don't see a role for you",
+      "company": "Carv",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-dont-see-a-role-for-you-carv-1137150",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-26T19:31:08+00:00"
+    },
+    {
+      "title": "Equipment Maintenance",
+      "company": "JD.COM",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-equipment-maintenance-jd-com-1137151",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "ops",
+        "sys admin"
+      ],
+      "salary": "",
+      "posted": "2026-08-26T15:38:02+00:00"
+    },
+    {
       "title": "N A",
       "company": "Intuit",
       "location": "Remote",
@@ -258,66 +327,9 @@
       ],
       "salary": "",
       "posted": "2026-08-25T18:48:35+00:00"
-    },
-    {
-      "title": "Find a job 3rd comi",
-      "company": "Lemon Tree Premier",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-find-a-job-3rd-comi-lemon-tree-premier-1137127",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-25T17:37:47+00:00"
-    },
-    {
-      "title": "Retail Assistant Store Manager",
-      "company": "Skechers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-retail-assistant-store-manager-skechers-1137132",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "virtual assistant",
-        "customer support",
-        "marketing",
-        "ops",
-        "sales",
-        "ecommerce"
-      ],
-      "salary": "",
-      "posted": "2026-08-25T15:11:08+00:00"
-    },
-    {
-      "title": "Rural and Suburban Mail Carrier Allan RR1",
-      "company": "Canada Post / Postes Canada",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-allan-rr1-canada-post-postes-canada-1137126",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "exec",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-08-25T14:37:33+00:00"
-    },
-    {
-      "title": "AP Accountant",
-      "company": "Bosta",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ap-accountant-bosta-1137124",
-      "source": "RemoteOK",
-      "tags": [
-        "accounting",
-        "customer support",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-25T14:12:49+00:00"
     }
   ],
-  "last_updated": "2026-08-27T15:26:00.631415",
+  "last_updated": "2026-08-28T00:30:17.936944",
   "total": 20,
-  "new": 9
+  "new": 4
 }

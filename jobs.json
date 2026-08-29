@@ -1,6 +1,72 @@
 {
   "jobs": [
     {
+      "title": "Sales Manager",
+      "company": "Radisson Hotel Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-manager-radisson-hotel-group-1137200",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "marketing",
+        "excel",
+        "sales",
+        "engineer",
+        "recruiter",
+        "full time",
+        "exec",
+        "customer support",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-08-28T12:44:40+00:00"
+    },
+    {
+      "title": "courier",
+      "company": "FedEx",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-courier-fedex-1137195",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "testing",
+        "exec",
+        "math",
+        "content writing",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-08-28T12:17:39+00:00"
+    },
+    {
+      "title": "handyman woman",
+      "company": "Royal Lepage Icon Realty",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyman-woman-royal-lepage-icon-realty-1137196",
+      "source": "RemoteOK",
+      "tags": [
+        "finance",
+        "education",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-28T11:29:44+00:00"
+    },
+    {
+      "title": "\u00e5\u008c\u0096\u00e6\u008c",
+      "company": "Stanley Black &amp; Decker, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-28T11:06:57+00:00"
+    },
+    {
       "title": "Don\u00e2\u0080\u0099t see your role Apply here",
       "company": "Atreides",
       "location": "Remote",
@@ -281,94 +347,9 @@
       ],
       "salary": "",
       "posted": "2026-08-27T07:00:22+00:00"
-    },
-    {
-      "title": "Gardener NUSC",
-      "company": "W Hotels",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-gardener-nusc-w-hotels-1137185",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "finance",
-        "non tech",
-        "supervisor",
-        "c",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T03:19:52+00:00"
-    },
-    {
-      "title": "Gardener",
-      "company": "W Hotels",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-gardener-w-hotels-1137164",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "marketing",
-        "travel",
-        "scheme",
-        "ops",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "infosec",
-        "customer support",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T03:19:36+00:00"
-    },
-    {
-      "title": "Assistant Manager",
-      "company": "Storage King Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistant-manager-storage-king-group-1137161",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "virtual assistant",
-        "education",
-        "customer support",
-        "marketing",
-        "travel",
-        "finance",
-        "legal",
-        "sales",
-        "medical",
-        "recruiter",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T02:27:09+00:00"
-    },
-    {
-      "title": "Senior Level Designer",
-      "company": "Blackbird Interactive",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "game dev",
-        "designer",
-        "technical",
-        "customer support",
-        "testing",
-        "content writing",
-        "senior",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T00:00:23+00:00"
     }
   ],
-  "last_updated": "2026-08-29T10:26:09.400603",
+  "last_updated": "2026-08-29T15:10:39.812676",
   "total": 20,
-  "new": 0
+  "new": 4
 }

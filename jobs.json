@@ -1,6 +1,49 @@
 {
   "jobs": [
     {
+      "title": "Store Manager",
+      "company": "Hola Moda",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-hola-moda-1137206",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "c"
+      ],
+      "salary": "",
+      "posted": "2026-08-28T19:27:42+00:00"
+    },
+    {
+      "title": "Visual Merchandiser",
+      "company": "Hola Moda",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-visual-merchandiser-hola-moda-1137205",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-08-28T19:25:42+00:00"
+    },
+    {
+      "title": "Building Maintenance Technician",
+      "company": "Dart",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "education",
+        "technical",
+        "customer support",
+        "marketing",
+        "travel",
+        "medical",
+        "engineer",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-28T18:46:04+00:00"
+    },
+    {
       "title": "Test",
       "company": "Digest Media",
       "location": "Remote",
@@ -304,57 +347,9 @@
       ],
       "salary": "",
       "posted": "2026-08-27T14:54:56+00:00"
-    },
-    {
-      "title": "Sourcer Private Destinations",
-      "company": "Royal Caribbean Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sourcer-private-destinations-royal-caribbean-group-1137172",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "sourcer",
-        "customer support",
-        "dev",
-        "exec",
-        "ops",
-        "marketing",
-        "excel",
-        "golang",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T14:11:22+00:00"
-    },
-    {
-      "title": "Test",
-      "company": "Larsen &amp; Toubro",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-larsen-amp-toubro-1137178",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T12:46:56+00:00"
-    },
-    {
-      "title": "Principal Engineer",
-      "company": "The AI Whistleblower Initiative",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T09:00:02+00:00"
     }
   ],
-  "last_updated": "2026-08-29T18:28:28.292648",
+  "last_updated": "2026-08-29T21:05:30.018070",
   "total": 20,
-  "new": 1
+  "new": 3
 }

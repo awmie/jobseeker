@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE",
+      "company": "Elements Recruitment Australia",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-apply-now-send-veritas-your-resume-dont-close-website-elements-recruitment-australia-1137201",
+      "source": "RemoteOK",
+      "tags": [
+        "recruiter",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-28T23:15:28+00:00"
+    },
+    {
       "title": "HIGIENIZADOR DE CARROS MACA\u00c3\u0089 RJ",
       "company": "Localiza&amp;Co",
       "location": "Remote",
@@ -314,26 +327,9 @@
       ],
       "salary": "",
       "posted": "2026-08-27T16:00:04+00:00"
-    },
-    {
-      "title": "Journeyman I P",
-      "company": "Wood",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-journeyman-i-p-wood-1137197",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "consulting",
-        "exec",
-        "ops",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T15:42:12+00:00"
     }
   ],
-  "last_updated": "2026-08-29T23:14:59.828023",
+  "last_updated": "2026-08-30T01:17:44.652399",
   "total": 20,
-  "new": 2
+  "new": 1
 }

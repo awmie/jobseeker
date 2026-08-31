@@ -1,6 +1,140 @@
 {
   "jobs": [
     {
+      "title": "MOT Tester",
+      "company": "Mr Clutch Autocentres",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-mot-tester-mr-clutch-autocentres-1137218",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "sys admin",
+        "education",
+        "finance",
+        "scheme",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-30T03:32:53+00:00"
+    },
+    {
+      "title": "Shunter",
+      "company": "Stobart",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-shunter-stobart-1137216",
+      "source": "RemoteOK",
+      "tags": [
+        "c",
+        "scheme",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "full time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-08-30T03:31:02+00:00"
+    },
+    {
+      "title": "Customer Service Agent",
+      "company": "Thrifty Car and Van Rental",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-thrifty-car-and-van-rental-1137219",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "sys admin",
+        "education",
+        "finance",
+        "scheme",
+        "non tech",
+        "customer support",
+        "marketing",
+        "admin",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-08-30T03:31:01+00:00"
+    },
+    {
+      "title": "Handyperson",
+      "company": "Wellburn Care Homes Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyperson-wellburn-care-homes-ltd-1137217",
+      "source": "RemoteOK",
+      "tags": [
+        "c",
+        "scheme",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "full time",
+        "non tech",
+        "education",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-08-30T03:30:41+00:00"
+    },
+    {
+      "title": "Assistant Manager",
+      "company": "Clarks International",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistant-manager-clarks-international-1137220",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "sys admin",
+        "education",
+        "finance",
+        "scheme",
+        "non tech",
+        "customer support",
+        "marketing",
+        "admin",
+        "ops",
+        "exec",
+        "virtual assistant",
+        "microsoft",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-08-30T03:30:16+00:00"
+    },
+    {
+      "title": "Wireperson",
+      "company": "TRANT ENGINEERING LIMITED",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-wireperson-trant-engineering-limited-1137221",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "sys admin",
+        "education",
+        "finance",
+        "scheme",
+        "non tech",
+        "customer support",
+        "marketing",
+        "admin",
+        "ops",
+        "exec",
+        "virtual assistant",
+        "microsoft",
+        "sales",
+        "design",
+        "technical",
+        "supervisor",
+        "assembly",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-30T03:30:01+00:00"
+    },
+    {
       "title": "APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE",
       "company": "Elements Recruitment Australia",
       "location": "Remote",
@@ -218,113 +352,9 @@
       ],
       "salary": "",
       "posted": "2026-08-28T01:53:05+00:00"
-    },
-    {
-      "title": "Cdp",
-      "company": "Hilton Salwa Beach Resort &amp; Villas",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-cdp-hilton-salwa-beach-resort-amp-villas-1137179",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T23:16:03+00:00"
-    },
-    {
-      "title": "Meat and Seafood Clerk",
-      "company": "Pete's Frootique",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-meat-and-seafood-clerk-petes-frootique-1137191",
-      "source": "RemoteOK",
-      "tags": [
-        "supervisor",
-        "web dev",
-        "exec",
-        "customer support",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T23:13:30+00:00"
-    },
-    {
-      "title": "Receiver",
-      "company": "Pete's Frootique",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-receiver-petes-frootique-1137192",
-      "source": "RemoteOK",
-      "tags": [
-        "supervisor",
-        "web dev",
-        "exec",
-        "customer support",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T23:13:16+00:00"
-    },
-    {
-      "title": "Store Manager",
-      "company": "Crocs, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-crocs-inc-1137181",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "sys admin",
-        "customer support",
-        "marketing",
-        "c",
-        "microsoft",
-        "ops",
-        "excel",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T21:13:56+00:00"
-    },
-    {
-      "title": "Database Administrator",
-      "company": "TS Imagine",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-database-administrator-ts-imagine-1137177",
-      "source": "RemoteOK",
-      "tags": [
-        "finance",
-        "dba",
-        "admin",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T17:11:55+00:00"
-    },
-    {
-      "title": "Vehicle Progressor",
-      "company": "Vertu Motors plc",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-progressor-vertu-motors-plc-1137176",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "hr",
-        "education",
-        "game dev",
-        "customer support",
-        "dev",
-        "marketing",
-        "finance",
-        "flutter",
-        "medical",
-        "digital nomad",
-        "scheme",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T16:49:39+00:00"
     }
   ],
-  "last_updated": "2026-08-31T00:24:52.050964",
+  "last_updated": "2026-08-31T05:53:11.137693",
   "total": 20,
-  "new": 0
+  "new": 6
 }

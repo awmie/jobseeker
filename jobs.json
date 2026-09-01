@@ -1,6 +1,28 @@
 {
   "jobs": [
     {
+      "title": "Business Analyst IT",
+      "company": "Gildan",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-it-gildan-1137243",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "design",
+        "embedded",
+        "sys admin",
+        "education",
+        "technical",
+        "customer support",
+        "dev",
+        "exec",
+        "ops",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-31T18:52:19+00:00"
+    },
+    {
       "title": "Construction Estimator",
       "company": "Streamline Search",
       "location": "Remote",
@@ -42,6 +64,30 @@
       ],
       "salary": "",
       "posted": "2026-08-31T15:33:43+00:00"
+    },
+    {
+      "title": "Plant Fitter",
+      "company": "Linsco Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-plant-fitter-linsco-ltd-1137259",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "scheme",
+        "medical",
+        "testing",
+        "travel",
+        "mobile",
+        "ops",
+        "engineer",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-31T15:33:36+00:00"
     },
     {
       "title": "Delivery Driver",
@@ -259,6 +305,27 @@
       "posted": "2026-08-30T19:57:07+00:00"
     },
     {
+      "title": "Airport Ground Staff Customer Service Associate",
+      "company": "Fronix Services",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-customer-service-associate-fronix-services-1137254",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "infosec",
+        "education",
+        "customer support",
+        "testing",
+        "c",
+        "exec",
+        "engineer",
+        "hr",
+        "travel"
+      ],
+      "salary": "",
+      "posted": "2026-08-30T18:30:00+00:00"
+    },
+    {
       "title": "Professional PAT Tester",
       "company": "Guardian Electrical Compliance Ltd",
       "location": "Remote",
@@ -277,66 +344,9 @@
       ],
       "salary": "",
       "posted": "2026-08-30T16:19:19+00:00"
-    },
-    {
-      "title": "MOT Tester",
-      "company": "Mr Clutch Autocentres",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-mot-tester-mr-clutch-autocentres-1137218",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "sys admin",
-        "education",
-        "finance",
-        "scheme",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-30T03:32:53+00:00"
-    },
-    {
-      "title": "Shunter",
-      "company": "Stobart",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-shunter-stobart-1137216",
-      "source": "RemoteOK",
-      "tags": [
-        "c",
-        "scheme",
-        "ops",
-        "legal",
-        "medical",
-        "recruiter",
-        "full time",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-30T03:31:02+00:00"
-    },
-    {
-      "title": "Customer Service Agent",
-      "company": "Thrifty Car and Van Rental",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-thrifty-car-and-van-rental-1137219",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "sys admin",
-        "education",
-        "finance",
-        "scheme",
-        "non tech",
-        "customer support",
-        "marketing",
-        "admin",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-08-30T03:31:01+00:00"
     }
   ],
-  "last_updated": "2026-09-01T16:35:25.007822",
+  "last_updated": "2026-09-01T19:32:39.161321",
   "total": 20,
-  "new": 5
+  "new": 3
 }

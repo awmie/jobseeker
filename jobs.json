@@ -1,6 +1,25 @@
 {
   "jobs": [
     {
+      "title": "Cloud Computing",
+      "company": "Amazon Web Services (AWS)",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-computing-amazon-web-services-aws-1137231",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "exec",
+        "ops",
+        "engineer",
+        "amazon",
+        "web dev",
+        "cloud",
+        "aws"
+      ],
+      "salary": "",
+      "posted": "2026-08-31T06:05:15+00:00"
+    },
+    {
       "title": "Commercial Building Estimator",
       "company": "Complex Co.",
       "location": "Remote",
@@ -162,31 +181,6 @@
       ],
       "salary": "",
       "posted": "2026-08-30T03:30:41+00:00"
-    },
-    {
-      "title": "Assistant Manager",
-      "company": "Clarks International",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistant-manager-clarks-international-1137220",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "sys admin",
-        "education",
-        "finance",
-        "scheme",
-        "non tech",
-        "customer support",
-        "marketing",
-        "admin",
-        "ops",
-        "exec",
-        "virtual assistant",
-        "microsoft",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-08-30T03:30:16+00:00"
     },
     {
       "title": "Wireperson",
@@ -351,7 +345,7 @@
       "posted": "2026-08-28T12:44:40+00:00"
     }
   ],
-  "last_updated": "2026-09-01T01:49:32.129721",
+  "last_updated": "2026-09-01T06:49:16.993829",
   "total": 20,
-  "new": 2
+  "new": 1
 }

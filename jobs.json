@@ -1,6 +1,56 @@
 {
   "jobs": [
     {
+      "title": "Produce Clerk",
+      "company": "Food Basics",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-produce-clerk-food-basics-1137247",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "customer support",
+        "education",
+        "exec",
+        "sales",
+        "golang",
+        "recruiter",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-31T21:46:13+00:00"
+    },
+    {
+      "title": "Assistant Store Manager Puerto Rico Premium Outlets",
+      "company": "Brooks Brothers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistant-store-manager-puerto-rico-premium-outlets-brooks-brothers-1137241",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "virtual assistant",
+        "hr",
+        "customer support",
+        "marketing",
+        "travel",
+        "ops",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-08-31T20:32:25+00:00"
+    },
+    {
+      "title": "Job Role",
+      "company": "Tap Growth ai",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-role-tap-growth-ai-1137246",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-08-31T20:18:25+00:00"
+    },
+    {
       "title": "Business Analyst IT",
       "company": "Gildan",
       "location": "Remote",
@@ -284,69 +334,9 @@
       ],
       "salary": "",
       "posted": "2026-08-30T21:00:01+00:00"
-    },
-    {
-      "title": "GTM",
-      "company": "Wonderful",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-gtm-wonderful-1137225",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "salesforce",
-        "sys admin",
-        "technical",
-        "marketing",
-        "exec",
-        "senior",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-08-30T19:57:07+00:00"
-    },
-    {
-      "title": "Airport Ground Staff Customer Service Associate",
-      "company": "Fronix Services",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-customer-service-associate-fronix-services-1137254",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "infosec",
-        "education",
-        "customer support",
-        "testing",
-        "c",
-        "exec",
-        "engineer",
-        "hr",
-        "travel"
-      ],
-      "salary": "",
-      "posted": "2026-08-30T18:30:00+00:00"
-    },
-    {
-      "title": "Professional PAT Tester",
-      "company": "Guardian Electrical Compliance Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-professional-pat-tester-guardian-electrical-compliance-ltd-1137235",
-      "source": "RemoteOK",
-      "tags": [
-        "microsoft",
-        "testing",
-        "sys admin",
-        "customer support",
-        "dev",
-        "excel",
-        "recruiter",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-30T16:19:19+00:00"
     }
   ],
-  "last_updated": "2026-09-01T19:32:39.161321",
+  "last_updated": "2026-09-01T21:58:05.511722",
   "total": 20,
   "new": 3
 }

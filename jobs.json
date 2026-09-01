@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "title": "Commercial Building Estimator",
+      "company": "Complex Co.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-commercial-building-estimator-complex-co-1137228",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "customer support",
+        "microsoft",
+        "exec",
+        "junior",
+        "excel",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-08-31T00:46:13+00:00"
+    },
+    {
+      "title": "ENTERPRISE ARCHITECT L0",
+      "company": "Wipro",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-architect-l0-wipro-1137226",
+      "source": "RemoteOK",
+      "tags": [
+        "architecture",
+        "design",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-31T00:16:57+00:00"
+    },
+    {
       "title": "AI Engineer Data APIs",
       "company": "Benzinga",
       "location": "Remote",
@@ -317,41 +349,9 @@
       ],
       "salary": "",
       "posted": "2026-08-28T12:44:40+00:00"
-    },
-    {
-      "title": "courier",
-      "company": "FedEx",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-courier-fedex-1137195",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "testing",
-        "exec",
-        "math",
-        "content writing",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-08-28T12:17:39+00:00"
-    },
-    {
-      "title": "handyman woman",
-      "company": "Royal Lepage Icon Realty",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-handyman-woman-royal-lepage-icon-realty-1137196",
-      "source": "RemoteOK",
-      "tags": [
-        "finance",
-        "education",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-08-28T11:29:44+00:00"
     }
   ],
-  "last_updated": "2026-08-31T23:11:47.707735",
+  "last_updated": "2026-09-01T01:49:32.129721",
   "total": 20,
   "new": 2
 }

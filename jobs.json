@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Expression of Interest Can\u00e2\u0080\u0099t see a role that\u00e2\u0080\u0099s right for you",
+      "company": "C2 Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-cant-see-a-role-thats-right-for-you-c2-group-1137251",
+      "source": "RemoteOK",
+      "tags": [
+        "full time",
+        "infosec",
+        "education"
+      ],
+      "salary": "",
+      "posted": "2026-09-01T05:48:16+00:00"
+    },
+    {
       "title": "Produce Clerk",
       "company": "Food Basics",
       "location": "Remote",
@@ -320,23 +334,9 @@
       ],
       "salary": "",
       "posted": "2026-08-31T00:16:57+00:00"
-    },
-    {
-      "title": "AI Engineer Data APIs",
-      "company": "Benzinga",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "video",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-30T21:00:01+00:00"
     }
   ],
-  "last_updated": "2026-09-02T02:29:57.821618",
+  "last_updated": "2026-09-02T07:17:30.036833",
   "total": 20,
-  "new": 0
+  "new": 1
 }

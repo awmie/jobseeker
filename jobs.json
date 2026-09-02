@@ -1,6 +1,49 @@
 {
   "jobs": [
     {
+      "title": "Detailer",
+      "company": "Go Auto",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-detailer-go-auto-1137277",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "hr",
+        "marketing",
+        "travel",
+        "teaching",
+        "finance",
+        "golang",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-09-01T23:45:31+00:00"
+    },
+    {
+      "title": "Kitchen Technician",
+      "company": "Four Seasons",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-technician-four-seasons-1137265",
+      "source": "RemoteOK",
+      "tags": [
+        "payroll",
+        "vfx",
+        "customer support",
+        "dev",
+        "non tech",
+        "digital nomad",
+        "exec",
+        "legal",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-09-01T22:55:08+00:00"
+    },
+    {
       "title": "Vehicle Detailer",
       "company": "Clutch",
       "location": "Remote",
@@ -333,52 +376,9 @@
       ],
       "salary": "",
       "posted": "2026-08-31T18:52:19+00:00"
-    },
-    {
-      "title": "Construction Estimator",
-      "company": "Streamline Search",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-construction-estimator-streamline-search-1137238",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "infosec",
-        "music",
-        "education",
-        "exec",
-        "medical",
-        "digital nomad",
-        "technical",
-        "customer support",
-        "dev",
-        "travel",
-        "microsoft",
-        "senior",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-08-31T15:34:32+00:00"
-    },
-    {
-      "title": "Kitchen Porter W Edinburgh",
-      "company": "W Hotels",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-porter-w-edinburgh-w-hotels-1137237",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "infosec",
-        "music",
-        "education",
-        "exec",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-31T15:33:43+00:00"
     }
   ],
-  "last_updated": "2026-09-02T21:56:06.582697",
+  "last_updated": "2026-09-02T23:52:23.006152",
   "total": 20,
-  "new": 3
+  "new": 2
 }

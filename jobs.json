@@ -1,6 +1,63 @@
 {
   "jobs": [
     {
+      "title": "Vehicle Detailer",
+      "company": "Clutch",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-detailer-clutch-1137278",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "hr",
+        "marketing",
+        "travel",
+        "teaching",
+        "finance",
+        "golang",
+        "medical",
+        "full time",
+        "ops",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-09-01T20:52:42+00:00"
+    },
+    {
+      "title": "Payroll Clerk",
+      "company": "PVH Group Inc",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-payroll-clerk-pvh-group-inc-1137264",
+      "source": "RemoteOK",
+      "tags": [
+        "payroll",
+        "vfx",
+        "customer support",
+        "dev",
+        "non tech",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-01T20:40:45+00:00"
+    },
+    {
+      "title": "Domestic",
+      "company": "NT Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-domestic-nt-health-1137261",
+      "source": "RemoteOK",
+      "tags": [
+        "supervisor",
+        "customer support",
+        "medical",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-09-01T20:10:36+00:00"
+    },
+    {
       "title": "Joiner",
       "company": "City of York Council",
       "location": "Remote",
@@ -319,53 +376,9 @@
       ],
       "salary": "",
       "posted": "2026-08-31T15:33:43+00:00"
-    },
-    {
-      "title": "Plant Fitter",
-      "company": "Linsco Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-plant-fitter-linsco-ltd-1137259",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "scheme",
-        "medical",
-        "testing",
-        "travel",
-        "mobile",
-        "ops",
-        "engineer",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-08-31T15:33:36+00:00"
-    },
-    {
-      "title": "Delivery Driver",
-      "company": "The Drinks LLAB",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-delivery-driver-the-drinks-llab-1137242",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-31T15:24:30+00:00"
-    },
-    {
-      "title": "Estimator",
-      "company": "Fifth Avenue Properties / Fifth Avenue Homes",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-fifth-avenue-properties-fifth-avenue-homes-1137236",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-08-31T14:22:05+00:00"
     }
   ],
-  "last_updated": "2026-09-02T19:28:35.208262",
+  "last_updated": "2026-09-02T21:56:06.582697",
   "total": 20,
   "new": 3
 }

@@ -1,6 +1,67 @@
 {
   "jobs": [
     {
+      "title": "Joiner",
+      "company": "City of York Council",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-joiner-city-of-york-council-1137263",
+      "source": "RemoteOK",
+      "tags": [
+        "scheme",
+        "medical",
+        "engineer",
+        "customer support",
+        "c",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-09-01T18:28:27+00:00"
+    },
+    {
+      "title": "H&amp;M Visual Merchandiser Plaza del Sol",
+      "company": "H&amp;M",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hampm-visual-merchandiser-plaza-del-sol-hampm-1137270",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "education",
+        "designer",
+        "customer support",
+        "marketing",
+        "dev",
+        "exec",
+        "ops",
+        "legal",
+        "sales",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-01T16:51:16+00:00"
+    },
+    {
+      "title": "JANITOR",
+      "company": "Buffalo Wild Wings - Fralich, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-janitor-buffalo-wild-wings-fralich-inc-1137266",
+      "source": "RemoteOK",
+      "tags": [
+        "payroll",
+        "vfx",
+        "customer support",
+        "dev",
+        "non tech",
+        "digital nomad",
+        "exec",
+        "legal",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-09-01T16:49:47+00:00"
+    },
+    {
       "title": "Vehicle Technician MOT Tester",
       "company": "Halfords",
       "location": "Remote",
@@ -302,55 +363,9 @@
       "tags": [],
       "salary": "",
       "posted": "2026-08-31T14:22:05+00:00"
-    },
-    {
-      "title": "Picker",
-      "company": "Vashi Integrated Solutions",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-picker-vashi-integrated-solutions-1137239",
-      "source": "RemoteOK",
-      "tags": [
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-08-31T12:10:51+00:00"
-    },
-    {
-      "title": "Fire Officer",
-      "company": "JLL",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-fire-officer-jll-1137230",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "exec",
-        "ops",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-31T11:35:56+00:00"
-    },
-    {
-      "title": "Production Lead",
-      "company": "ITC Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "exec",
-        "ops",
-        "engineer",
-        "amazon",
-        "web dev",
-        "cloud",
-        "aws"
-      ],
-      "salary": "",
-      "posted": "2026-08-31T10:34:40+00:00"
     }
   ],
-  "last_updated": "2026-09-02T16:32:13.514295",
+  "last_updated": "2026-09-02T19:28:35.208262",
   "total": 20,
-  "new": 5
+  "new": 3
 }

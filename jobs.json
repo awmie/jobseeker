@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "title": "Data Entry Clerk",
+      "company": "Astrek Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-astrek-careers-1137286",
+      "source": "RemoteOK",
+      "tags": [
+        "non tech",
+        "data entry",
+        "admin",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-09-02T18:11:17+00:00"
+    },
+    {
+      "title": "Grades Person",
+      "company": "Wilco Contractors Northwest Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-grades-person-wilco-contractors-northwest-inc-1137293",
+      "source": "RemoteOK",
+      "tags": [
+        "math"
+      ],
+      "salary": "",
+      "posted": "2026-09-02T17:54:33+00:00"
+    },
+    {
       "title": "Service Sales Executive",
       "company": "Emplyfy",
       "location": "Remote",
@@ -324,52 +351,9 @@
       ],
       "salary": "",
       "posted": "2026-09-01T12:24:21+00:00"
-    },
-    {
-      "title": "Assistant Housekeeping Manager",
-      "company": "Marriott International",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistant-housekeeping-manager-marriott-international-1137255",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "infosec",
-        "education",
-        "customer support",
-        "testing",
-        "c",
-        "exec",
-        "engineer",
-        "hr",
-        "travel",
-        "virtual assistant",
-        "supervisor",
-        "ops",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-09-01T12:24:21+00:00"
-    },
-    {
-      "title": "Maintenance Technician 40hrs week",
-      "company": "Delta Hotels by Marriott Edinburgh",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-40hrs-week-delta-hotels-by-marriott-edinburgh-1137257",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "scheme",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-09-01T11:51:39+00:00"
     }
   ],
-  "last_updated": "2026-09-03T16:20:39.458109",
+  "last_updated": "2026-09-03T19:20:03.903916",
   "total": 20,
   "new": 2
 }

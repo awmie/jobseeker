@@ -1,6 +1,21 @@
 {
   "jobs": [
     {
+      "title": "Field Officer Bendigo",
+      "company": "Department of Justice and Community Safety, Victoria",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-officer-bendigo-department-of-justice-and-community-safety-victoria-1137267",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "exec",
+        "medical",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-09-02T00:53:58+00:00"
+    },
+    {
       "title": "Detailer",
       "company": "Go Auto",
       "location": "Remote",
@@ -354,31 +369,9 @@
       ],
       "salary": "",
       "posted": "2026-08-31T20:18:25+00:00"
-    },
-    {
-      "title": "Business Analyst IT",
-      "company": "Gildan",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-it-gildan-1137243",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "design",
-        "embedded",
-        "sys admin",
-        "education",
-        "technical",
-        "customer support",
-        "dev",
-        "exec",
-        "ops",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-31T18:52:19+00:00"
     }
   ],
-  "last_updated": "2026-09-02T23:52:23.006152",
+  "last_updated": "2026-09-03T02:01:38.926134",
   "total": 20,
-  "new": 2
+  "new": 1
 }

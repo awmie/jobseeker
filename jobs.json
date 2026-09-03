@@ -1,6 +1,39 @@
 {
   "jobs": [
     {
+      "title": "Public Area Attendant",
+      "company": "Four Seasons",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1137297",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "supervisor",
+        "legal",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-09-02T22:54:41+00:00"
+    },
+    {
+      "title": "Irrigation Technician",
+      "company": "MSC Cruises",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-irrigation-technician-msc-cruises-1137298",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "supervisor",
+        "legal",
+        "non tech",
+        "sys admin",
+        "exec",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-09-02T22:13:07+00:00"
+    },
+    {
       "title": "Job Summary",
       "company": "WorkaJobs",
       "location": "Remote",
@@ -300,53 +333,9 @@
       ],
       "salary": "",
       "posted": "2026-09-01T18:28:27+00:00"
-    },
-    {
-      "title": "H&amp;M Visual Merchandiser Plaza del Sol",
-      "company": "H&amp;M",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-hampm-visual-merchandiser-plaza-del-sol-hampm-1137270",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "education",
-        "designer",
-        "customer support",
-        "marketing",
-        "dev",
-        "exec",
-        "ops",
-        "legal",
-        "sales",
-        "medical",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-01T16:51:16+00:00"
-    },
-    {
-      "title": "JANITOR",
-      "company": "Buffalo Wild Wings - Fralich, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-janitor-buffalo-wild-wings-fralich-inc-1137266",
-      "source": "RemoteOK",
-      "tags": [
-        "payroll",
-        "vfx",
-        "customer support",
-        "dev",
-        "non tech",
-        "digital nomad",
-        "exec",
-        "legal",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-09-01T16:49:47+00:00"
     }
   ],
-  "last_updated": "2026-09-03T21:45:39.869311",
+  "last_updated": "2026-09-03T23:33:07.844686",
   "total": 20,
   "new": 2
 }

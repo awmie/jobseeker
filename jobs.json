@@ -1,6 +1,55 @@
 {
   "jobs": [
     {
+      "title": "MRO Buyer",
+      "company": "U.P.PRO",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-mro-buyer-u-p-pro-1137303",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "dev",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-03T12:18:27+00:00"
+    },
+    {
+      "title": "Urban walker",
+      "company": "walkr - turn your Google Meet walk-friendly",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-urban-walker-walkr-turn-your-google-meet-walk-friendly-1137296",
+      "source": "RemoteOK",
+      "tags": [
+        "full time",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-09-03T11:20:52+00:00"
+    },
+    {
+      "title": "Office Maid",
+      "company": "Hacksaw Gaming",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-office-maid-hacksaw-gaming-1137306",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "game dev",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-09-03T11:17:23+00:00"
+    },
+    {
       "title": "Police Officer",
       "company": "Scottish Police Authority",
       "location": "Remote",
@@ -274,66 +323,9 @@
       ],
       "salary": "",
       "posted": "2026-09-01T22:55:08+00:00"
-    },
-    {
-      "title": "Vehicle Detailer",
-      "company": "Clutch",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-detailer-clutch-1137278",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "recruiter",
-        "non tech",
-        "hr",
-        "marketing",
-        "travel",
-        "teaching",
-        "finance",
-        "golang",
-        "medical",
-        "full time",
-        "ops",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-09-01T20:52:42+00:00"
-    },
-    {
-      "title": "Payroll Clerk",
-      "company": "PVH Group Inc",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-payroll-clerk-pvh-group-inc-1137264",
-      "source": "RemoteOK",
-      "tags": [
-        "payroll",
-        "vfx",
-        "customer support",
-        "dev",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-01T20:40:45+00:00"
-    },
-    {
-      "title": "Domestic",
-      "company": "NT Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-domestic-nt-health-1137261",
-      "source": "RemoteOK",
-      "tags": [
-        "supervisor",
-        "customer support",
-        "medical",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-09-01T20:10:36+00:00"
     }
   ],
-  "last_updated": "2026-09-04T11:07:59.329870",
+  "last_updated": "2026-09-04T14:55:37.008153",
   "total": 20,
-  "new": 0
+  "new": 3
 }

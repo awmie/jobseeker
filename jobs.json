@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "Customer Support & Success Specialist",
+      "company": "Warehance",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-09-03T19:12:26+00:00"
+    },
+    {
       "title": "Roupeiro Muro Alto PE",
       "company": "GAV Resorts",
       "location": "Remote",
@@ -304,24 +316,9 @@
       ],
       "salary": "",
       "posted": "2026-09-02T03:32:55+00:00"
-    },
-    {
-      "title": "Field Officer Bendigo",
-      "company": "Department of Justice and Community Safety, Victoria",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-officer-bendigo-department-of-justice-and-community-safety-victoria-1137267",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "exec",
-        "medical",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-09-02T00:53:58+00:00"
     }
   ],
-  "last_updated": "2026-09-04T18:06:04.721480",
+  "last_updated": "2026-09-04T20:42:47.511504",
   "total": 20,
-  "new": 3
+  "new": 1
 }

@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "title": "Roupeiro Muro Alto PE",
+      "company": "GAV Resorts",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-roupeiro-muro-alto-pe-gav-resorts-1137304",
+      "source": "RemoteOK",
+      "tags": [
+        "excel",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-09-03T16:37:34+00:00"
+    },
+    {
+      "title": "QA Engineer",
+      "company": "SunnyData",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
+        "dev",
+        "testing",
+        "marketing",
+        "quality assurance",
+        "education",
+        "cloud",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-03T16:00:05+00:00"
+    },
+    {
+      "title": "Store Manager BOSS Store Plaza Las Americas",
+      "company": "HUGO BOSS",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-boss-store-plaza-las-americas-hugo-boss-1137301",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "react",
+        "education",
+        "consulting",
+        "customer support",
+        "microsoft",
+        "ops",
+        "sales",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-09-03T15:48:13+00:00"
+    },
+    {
       "title": "MRO Buyer",
       "company": "U.P.PRO",
       "location": "Remote",
@@ -266,66 +319,9 @@
       ],
       "salary": "",
       "posted": "2026-09-02T00:53:58+00:00"
-    },
-    {
-      "title": "Mapping Test via Sandra",
-      "company": "Ennismore",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-mapping-test-via-sandra-ennismore-1137292",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "exec",
-        "testing"
-      ],
-      "salary": "",
-      "posted": "2026-09-01T23:46:03+00:00"
-    },
-    {
-      "title": "Detailer",
-      "company": "Go Auto",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-detailer-go-auto-1137277",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "recruiter",
-        "non tech",
-        "hr",
-        "marketing",
-        "travel",
-        "teaching",
-        "finance",
-        "golang",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-09-01T23:45:31+00:00"
-    },
-    {
-      "title": "Kitchen Technician",
-      "company": "Four Seasons",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-technician-four-seasons-1137265",
-      "source": "RemoteOK",
-      "tags": [
-        "payroll",
-        "vfx",
-        "customer support",
-        "dev",
-        "non tech",
-        "digital nomad",
-        "exec",
-        "legal",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-09-01T22:55:08+00:00"
     }
   ],
-  "last_updated": "2026-09-04T14:55:37.008153",
+  "last_updated": "2026-09-04T18:06:04.721480",
   "total": 20,
   "new": 3
 }

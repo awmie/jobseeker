@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "title": "Junior Crypto Analyst & Trader",
+      "company": "Empire Assets",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
+      "source": "RemoteOK",
+      "tags": [
+        "other",
+        "crypto",
+        "remote",
+        "trader",
+        "analyst",
+        "Binance",
+        "web3",
+        "bitcoin",
+        "ethereum",
+        "blockchain",
+        "defi",
+        "part time",
+        "junior"
+      ],
+      "salary": "",
+      "posted": "2026-09-04T15:13:46+00:00"
+    },
+    {
       "title": "Customer Support & Success Specialist",
       "company": "Warehance",
       "location": "Remote",
@@ -301,24 +325,9 @@
       ],
       "salary": "",
       "posted": "2026-09-02T03:35:49+00:00"
-    },
-    {
-      "title": "Chief Steward",
-      "company": "W Hotels",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-chief-steward-w-hotels-1137272",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "education",
-        "customer support",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-09-02T03:32:55+00:00"
     }
   ],
-  "last_updated": "2026-09-05T15:04:41.155471",
+  "last_updated": "2026-09-05T17:16:57.356022",
   "total": 20,
-  "new": 0
+  "new": 1
 }

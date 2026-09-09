@@ -1,6 +1,109 @@
 {
   "jobs": [
     {
+      "title": "Deputy Corporate Officer",
+      "company": "City of Kamloops",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-deputy-corporate-officer-city-of-kamloops-1137327",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech",
+        "exec",
+        "c",
+        "education",
+        "travel",
+        "dba",
+        "medical",
+        "design",
+        "hr",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-08T16:01:49+00:00"
+    },
+    {
+      "title": "Traffic Control Person",
+      "company": "AWP Safety",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-traffic-control-person-awp-safety-1137326",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "non tech",
+        "exec",
+        "c",
+        "education",
+        "travel",
+        "dba",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-09-08T15:46:14+00:00"
+    },
+    {
+      "title": "Campus testing",
+      "company": "Birla Opus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-campus-testing-birla-opus-1137331",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "golang",
+        "testing"
+      ],
+      "salary": "",
+      "posted": "2026-09-08T09:49:08+00:00"
+    },
+    {
+      "title": "General Practitioner Cairns",
+      "company": "Ausdocs Holdings Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-practitioner-cairns-ausdocs-holdings-group-1137339",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "microsoft",
+        "exec",
+        "ops",
+        "sys admin",
+        "engineer",
+        "game dev",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-09-08T04:13:33+00:00"
+    },
+    {
+      "title": "General Practitioner Townsville",
+      "company": "Ausdocs Holdings Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-practitioner-townsville-ausdocs-holdings-group-1137342",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "microsoft",
+        "exec",
+        "ops",
+        "sys admin",
+        "engineer",
+        "game dev",
+        "medical",
+        "full time",
+        "marketing",
+        "virtual assistant",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-09-08T04:13:30+00:00"
+    },
+    {
       "title": "Social Comms",
       "company": "NOPE",
       "location": "Remote",
@@ -101,6 +204,80 @@
       "posted": "2026-09-07T17:44:08+00:00"
     },
     {
+      "title": "Platypus Store Manager Doncaster",
+      "company": "Platypus Shoes",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-platypus-store-manager-doncaster-platypus-shoes-1137341",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "microsoft",
+        "exec",
+        "ops",
+        "sys admin",
+        "engineer",
+        "game dev",
+        "medical",
+        "full time",
+        "marketing",
+        "virtual assistant",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-09-07T10:52:23+00:00"
+    },
+    {
+      "title": "Maintenance Specialist",
+      "company": "Kapsch Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-specialist-kapsch-group-1137340",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "microsoft",
+        "exec",
+        "ops",
+        "sys admin",
+        "engineer",
+        "game dev",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-09-07T07:20:09+00:00"
+    },
+    {
+      "title": "RETAIL STORE MANAGER TAMWORTH",
+      "company": "Spendless Shoes",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-retail-store-manager-tamworth-spendless-shoes-1137344",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "testing",
+        "microsoft",
+        "exec",
+        "ops",
+        "sys admin",
+        "engineer",
+        "game dev",
+        "medical",
+        "full time",
+        "marketing",
+        "virtual assistant",
+        "sales",
+        "finance",
+        "scheme"
+      ],
+      "salary": "",
+      "posted": "2026-09-06T19:22:18+00:00"
+    },
+    {
       "title": "AI Response Analyst",
       "company": "iMerit Technology",
       "location": "Remote",
@@ -130,6 +307,19 @@
       ],
       "salary": "",
       "posted": "2026-09-05T15:51:29+00:00"
+    },
+    {
+      "title": "Lead Go Getter",
+      "company": "SGF Labs",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-go-getter-sgf-labs-1137330",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-09-05T08:15:47+00:00"
     },
     {
       "title": "Air Traffic Engineering Technician",
@@ -172,22 +362,46 @@
       "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
       "source": "RemoteOK",
       "tags": [
-        "other",
-        "crypto",
-        "remote",
-        "trader",
+        "part time",
+        "junior",
         "analyst",
-        "Binance",
+        "crypto",
+        "other",
         "web3",
-        "bitcoin",
-        "ethereum",
         "blockchain",
         "defi",
-        "part time",
-        "junior"
+        "bitcoin",
+        "ethereum",
+        "remote",
+        "trader",
+        "Binance"
       ],
       "salary": "",
       "posted": "2026-09-04T15:13:46+00:00"
+    },
+    {
+      "title": "Executive",
+      "company": "Lupin Ltd",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-lupin-ltd-1137333",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "golang",
+        "testing",
+        "virtual assistant",
+        "infosec",
+        "education",
+        "customer support",
+        "marketing",
+        "finance",
+        "senior",
+        "ops",
+        "medical",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-09-04T09:49:26+00:00"
     },
     {
       "title": "Customer Support & Success Specialist",
@@ -219,178 +433,9 @@
       ],
       "salary": "",
       "posted": "2026-09-03T16:55:03+00:00"
-    },
-    {
-      "title": "Roupeiro Muro Alto PE",
-      "company": "GAV Resorts",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-roupeiro-muro-alto-pe-gav-resorts-1137304",
-      "source": "RemoteOK",
-      "tags": [
-        "excel",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-09-03T16:37:34+00:00"
-    },
-    {
-      "title": "QA Engineer",
-      "company": "SunnyData",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "dev",
-        "testing",
-        "marketing",
-        "quality assurance",
-        "education",
-        "cloud",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-03T16:00:05+00:00"
-    },
-    {
-      "title": "Store Manager BOSS Store Plaza Las Americas",
-      "company": "HUGO BOSS",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-boss-store-plaza-las-americas-hugo-boss-1137301",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "react",
-        "education",
-        "consulting",
-        "customer support",
-        "microsoft",
-        "ops",
-        "sales",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-09-03T15:48:13+00:00"
-    },
-    {
-      "title": "MRO Buyer",
-      "company": "U.P.PRO",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-mro-buyer-u-p-pro-1137303",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "dev",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-03T12:18:27+00:00"
-    },
-    {
-      "title": "Urban walker",
-      "company": "walkr - turn your Google Meet walk-friendly",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-urban-walker-walkr-turn-your-google-meet-walk-friendly-1137296",
-      "source": "RemoteOK",
-      "tags": [
-        "full time",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-09-03T11:20:52+00:00"
-    },
-    {
-      "title": "\u00c2\u00a0SUPERVISEUR 26 27",
-      "company": "The Home Depot Canada",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-superviseur-26-27-the-home-depot-canada-1137329",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech",
-        "exec",
-        "c",
-        "education",
-        "travel",
-        "dba",
-        "medical",
-        "design",
-        "hr",
-        "engineer",
-        "digital nomad",
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-09-03T07:03:18+00:00"
-    },
-    {
-      "title": "Police Officer",
-      "company": "Scottish Police Authority",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-police-officer-scottish-police-authority-1137305",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-09-03T03:36:21+00:00"
-    },
-    {
-      "title": "Public Area Attendant",
-      "company": "Four Seasons",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1137297",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "supervisor",
-        "legal",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-09-02T22:54:41+00:00"
-    },
-    {
-      "title": "Irrigation Technician",
-      "company": "MSC Cruises",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-irrigation-technician-msc-cruises-1137298",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "supervisor",
-        "legal",
-        "non tech",
-        "sys admin",
-        "exec",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-09-02T22:13:07+00:00"
-    },
-    {
-      "title": "Job Summary",
-      "company": "WorkaJobs",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-job-summary-workajobs-1137290",
-      "source": "RemoteOK",
-      "tags": [
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-09-02T20:41:15+00:00"
     }
   ],
-  "last_updated": "2026-09-09T15:20:41.418117",
+  "last_updated": "2026-09-09T18:43:29.298008",
   "total": 20,
-  "new": 7
+  "new": 10
 }

@@ -1,6 +1,24 @@
 {
   "jobs": [
     {
+      "title": "Social Comms",
+      "company": "NOPE",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "education",
+        "technical",
+        "content writing",
+        "social media",
+        "ai",
+        "social"
+      ],
+      "salary": "",
+      "posted": "2026-09-08T02:35:30+00:00"
+    },
+    {
       "title": "AI Response Analyst",
       "company": "iMerit Technology",
       "location": "Remote",
@@ -306,24 +324,9 @@
       ],
       "salary": "",
       "posted": "2026-09-02T03:32:55+00:00"
-    },
-    {
-      "title": "Field Officer Bendigo",
-      "company": "Department of Justice and Community Safety, Victoria",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-officer-bendigo-department-of-justice-and-community-safety-victoria-1137267",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "exec",
-        "medical",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-09-02T00:53:58+00:00"
     }
   ],
-  "last_updated": "2026-09-09T01:29:43.925756",
+  "last_updated": "2026-09-09T06:34:45.709821",
   "total": 20,
-  "new": 0
+  "new": 1
 }

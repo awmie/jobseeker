@@ -1,94 +1,6 @@
 {
   "jobs": [
     {
-      "title": "Caretaker",
-      "company": "Compass Group UK &amp; Ireland",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-caretaker-compass-group-uk-amp-ireland-1137367",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "customer support",
-        "digital nomad",
-        "exec",
-        "ops",
-        "golang",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-09-08T20:55:44+00:00"
-    },
-    {
-      "title": "Deputy Corporate Officer",
-      "company": "City of Kamloops",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-deputy-corporate-officer-city-of-kamloops-1137327",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech",
-        "exec",
-        "c",
-        "education",
-        "travel",
-        "dba",
-        "medical",
-        "design",
-        "hr",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-08T16:01:49+00:00"
-    },
-    {
-      "title": "General Practitioner Cairns",
-      "company": "Ausdocs Holdings Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-practitioner-cairns-ausdocs-holdings-group-1137339",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "testing",
-        "microsoft",
-        "exec",
-        "ops",
-        "sys admin",
-        "engineer",
-        "game dev",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-09-08T04:13:33+00:00"
-    },
-    {
-      "title": "General Practitioner Townsville",
-      "company": "Ausdocs Holdings Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-practitioner-townsville-ausdocs-holdings-group-1137342",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "testing",
-        "microsoft",
-        "exec",
-        "ops",
-        "sys admin",
-        "engineer",
-        "game dev",
-        "medical",
-        "full time",
-        "marketing",
-        "virtual assistant",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-09-08T04:13:30+00:00"
-    },
-    {
       "title": "Social Comms",
       "company": "NOPE",
       "location": "Remote",
@@ -107,257 +19,6 @@
       "posted": "2026-09-08T02:35:30+00:00"
     },
     {
-      "title": "Compensation Benefits Specialist",
-      "company": "Foxconn",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-compensation-benefits-specialist-foxconn-1137358",
-      "source": "RemoteOK",
-      "tags": [
-        "c",
-        "exec",
-        "finance",
-        "education",
-        "assembly",
-        "medical",
-        "full time",
-        "part time",
-        "excel",
-        "hr",
-        "dev",
-        "ops",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-08T01:25:45+00:00"
-    },
-    {
-      "title": "Processor",
-      "company": "Shaw Contract EMEA",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-processor-shaw-contract-emea-1137369",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "customer support",
-        "digital nomad",
-        "exec",
-        "ops",
-        "golang",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-09-08T00:00:00+00:00"
-    },
-    {
-      "title": "Assistant Store Manager",
-      "company": "Pandora",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-assistant-store-manager-pandora-1137365",
-      "source": "RemoteOK",
-      "tags": [
-        "c",
-        "exec",
-        "finance",
-        "education",
-        "assembly",
-        "medical",
-        "full time",
-        "part time",
-        "excel",
-        "hr",
-        "dev",
-        "ops",
-        "digital nomad",
-        "react",
-        "sys admin",
-        "front end",
-        "infosec",
-        "customer support",
-        "marketing",
-        "virtual assistant",
-        "sales",
-        "recruiter",
-        "design",
-        "golang",
-        "supervisor",
-        "consulting",
-        "technical",
-        "travel",
-        "senior",
-        "legal",
-        "engineer",
-        "speech",
-        "microsoft"
-      ],
-      "salary": "",
-      "posted": "2026-09-07T21:45:19+00:00"
-    },
-    {
-      "title": "FOH",
-      "company": "The Burger's Priest",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-foh-the-burgers-priest-1137328",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "non tech",
-        "exec",
-        "c",
-        "education",
-        "travel",
-        "dba",
-        "medical",
-        "design",
-        "hr",
-        "engineer",
-        "digital nomad",
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-09-07T20:36:04+00:00"
-    },
-    {
-      "title": "Collection and Delivery Driver",
-      "company": "Parcelforce Worldwide",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-collection-and-delivery-driver-parcelforce-worldwide-1137352",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "customer support",
-        "testing",
-        "finance",
-        "sales",
-        "recruiter",
-        "technical",
-        "marketing",
-        "scheme",
-        "education",
-        "full time",
-        "ops",
-        "sys admin",
-        "golang",
-        "speech",
-        "excel",
-        "travel",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-09-07T19:29:54+00:00"
-    },
-    {
-      "title": "Estimator",
-      "company": "MEPJOBS UK",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-mepjobs-uk-1137347",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "customer support",
-        "testing",
-        "finance",
-        "sales",
-        "recruiter",
-        "technical",
-        "marketing",
-        "scheme"
-      ],
-      "salary": "",
-      "posted": "2026-09-07T16:37:54+00:00"
-    },
-    {
-      "title": "Platypus Store Manager Doncaster",
-      "company": "Platypus Shoes",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-platypus-store-manager-doncaster-platypus-shoes-1137341",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "testing",
-        "microsoft",
-        "exec",
-        "ops",
-        "sys admin",
-        "engineer",
-        "game dev",
-        "medical",
-        "full time",
-        "marketing",
-        "virtual assistant",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-09-07T10:52:23+00:00"
-    },
-    {
-      "title": "Maintenance Specialist",
-      "company": "Kapsch Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-specialist-kapsch-group-1137340",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "testing",
-        "microsoft",
-        "exec",
-        "ops",
-        "sys admin",
-        "engineer",
-        "game dev",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-09-07T07:20:09+00:00"
-    },
-    {
-      "title": "RETAIL STORE MANAGER TAMWORTH",
-      "company": "Spendless Shoes",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-retail-store-manager-tamworth-spendless-shoes-1137344",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "testing",
-        "microsoft",
-        "exec",
-        "ops",
-        "sys admin",
-        "engineer",
-        "game dev",
-        "medical",
-        "full time",
-        "marketing",
-        "virtual assistant",
-        "sales",
-        "finance",
-        "scheme"
-      ],
-      "salary": "",
-      "posted": "2026-09-06T19:22:18+00:00"
-    },
-    {
-      "title": "Bench Joiner",
-      "company": "Manpower UK",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-bench-joiner-manpower-uk-1137368",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "customer support",
-        "digital nomad",
-        "exec",
-        "ops",
-        "golang",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-09-06T15:59:49+00:00"
-    },
-    {
       "title": "AI Response Analyst",
       "company": "iMerit Technology",
       "location": "Remote",
@@ -372,92 +33,347 @@
       "posted": "2026-09-06T03:47:24+00:00"
     },
     {
-      "title": "Garden Center Dept Manager",
-      "company": "Walmart",
+      "title": "Junior Crypto Analyst & Trader",
+      "company": "Empire Assets",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-garden-center-dept-manager-walmart-1137354",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
       "source": "RemoteOK",
       "tags": [
-        "c",
-        "exec",
-        "finance",
-        "education",
-        "assembly",
-        "medical",
-        "full time",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-09-06T02:14:12+00:00"
-    },
-    {
-      "title": "Lead Go Getter",
-      "company": "SGF Labs",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-lead-go-getter-sgf-labs-1137330",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-09-05T08:15:47+00:00"
-    },
-    {
-      "title": "Store Manager Unassigned",
-      "company": "Walgreens",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-unassigned-walgreens-1137359",
-      "source": "RemoteOK",
-      "tags": [
-        "c",
-        "exec",
-        "finance",
-        "education",
-        "assembly",
-        "medical",
-        "full time",
         "part time",
-        "excel",
-        "hr",
+        "junior",
+        "analyst",
+        "crypto",
+        "other",
+        "web3",
+        "blockchain",
+        "defi",
+        "bitcoin",
+        "ethereum",
+        "remote",
+        "trader",
+        "Binance"
+      ],
+      "salary": "",
+      "posted": "2026-09-04T15:13:46+00:00"
+    },
+    {
+      "title": "Customer Support & Success Specialist",
+      "company": "Warehance",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-09-03T19:12:26+00:00"
+    },
+    {
+      "title": "QA Engineer",
+      "company": "SunnyData",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
+      "source": "RemoteOK",
+      "tags": [
+        "technical",
         "dev",
-        "ops",
-        "digital nomad",
-        "react",
-        "sys admin",
-        "front end",
-        "infosec",
+        "testing",
+        "marketing",
+        "quality assurance",
+        "education",
+        "cloud",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-03T16:00:05+00:00"
+    },
+    {
+      "title": "Regional Sales Manager",
+      "company": "OrderYOYO",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-orderyoyo-1137279",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
         "customer support",
         "marketing",
-        "virtual assistant",
-        "sales",
-        "recruiter"
+        "scheme",
+        "mobile",
+        "sales"
       ],
       "salary": "",
-      "posted": "2026-09-05T03:00:13+00:00"
+      "posted": "2026-09-02T16:00:07+00:00"
     },
     {
-      "title": "HIGIENIZADOR DE CARROS S\u00c3\u0083O LU\u00c3\u008dS MA",
-      "company": "Localiza&amp;Co",
+      "title": "Plant Fitter",
+      "company": "Linsco Ltd",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-sao-luis-ma-localizaampco-1137356",
+      "url": "https://remoteOK.com/remote-jobs/remote-plant-fitter-linsco-ltd-1137259",
       "source": "RemoteOK",
       "tags": [
-        "c",
+        "education",
+        "customer support",
+        "marketing",
         "exec",
         "finance",
-        "education",
-        "assembly",
+        "scheme",
         "medical",
-        "full time",
-        "part time",
-        "excel"
+        "testing",
+        "travel",
+        "mobile",
+        "ops",
+        "engineer",
+        "full time"
       ],
       "salary": "",
-      "posted": "2026-09-04T22:36:40+00:00"
+      "posted": "2026-08-31T15:33:36+00:00"
+    },
+    {
+      "title": "AI Engineer Data APIs",
+      "company": "Benzinga",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "video",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-08-30T21:00:01+00:00"
+    },
+    {
+      "title": "Programmatic Campaign Operations Specialist Trader",
+      "company": "VirtuHire",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
+      "source": "RemoteOK",
+      "tags": [
+        "amazon",
+        "technical",
+        "customer support",
+        "quality assurance",
+        "video",
+        "exec",
+        "senior",
+        "ops",
+        "excel",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-27T16:00:04+00:00"
+    },
+    {
+      "title": "Principal Engineer",
+      "company": "The AI Whistleblower Initiative",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-08-27T09:00:02+00:00"
+    },
+    {
+      "title": "Senior Level Designer",
+      "company": "Blackbird Interactive",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "game dev",
+        "designer",
+        "technical",
+        "customer support",
+        "testing",
+        "content writing",
+        "senior",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-27T00:00:23+00:00"
+    },
+    {
+      "title": "Oracle Fusion Cloud Lead \u00e2\u0080\u0094 Logistics & Supply Chain Management",
+      "company": "Tessera Labs",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "consulting",
+        "testing",
+        "exec",
+        "cloud",
+        "senior",
+        "ops",
+        "engineer",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-27T00:00:17+00:00"
+    },
+    {
+      "title": "Course Director UX UI and AI",
+      "company": "Interaction Design Foundation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "design",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-08-26T12:44:41+00:00"
+    },
+    {
+      "title": "Education Designer UX UI and AI",
+      "company": "Interaction Design Foundation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "content writing",
+        "education"
+      ],
+      "salary": "",
+      "posted": "2026-08-26T12:41:23+00:00"
+    },
+    {
+      "title": "Course Writer and Editor UX UI and AI",
+      "company": "Interaction Design Foundation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "content writing"
+      ],
+      "salary": "",
+      "posted": "2026-08-26T12:33:33+00:00"
+    },
+    {
+      "title": "Renewables Project Scheduler",
+      "company": "Transportation Partners &amp; Logistics",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "technical",
+        "customer support",
+        "testing",
+        "travel",
+        "microsoft",
+        "exec",
+        "excel",
+        "stats",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T21:34:13+00:00"
+    },
+    {
+      "title": "Senior Backend Engineer Build AI Agents",
+      "company": "Salesforge",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "senior",
+        "sales",
+        "engineer",
+        "backend"
+      ],
+      "salary": "",
+      "posted": "2026-08-25T07:00:03+00:00"
+    },
+    {
+      "title": "Retail Store Associate",
+      "company": "Rowan",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "customer support",
+        "dev",
+        "exec",
+        "math",
+        "node",
+        "ops",
+        "sales",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T16:00:21+00:00"
+    },
+    {
+      "title": "Senior Specialist Global QMS",
+      "company": "Orca Bio",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "sys admin",
+        "customer support",
+        "marketing",
+        "education",
+        "exec",
+        "senior",
+        "medical",
+        "engineer",
+        "recruiter",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T16:00:15+00:00"
+    },
+    {
+      "title": "DESARROLLADOR FULL STACK",
+      "company": "Kruger NearShore LLC - Rekluti",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+      "source": "RemoteOK",
+      "tags": [
+        "full stack",
+        "front end",
+        "python",
+        "dev",
+        "testing",
+        "web dev",
+        "quality assurance",
+        "devops",
+        "c",
+        "cloud",
+        "nosql",
+        "git",
+        "flutter",
+        "angular",
+        "mobile",
+        "golang",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T00:00:12+00:00"
     }
   ],
-  "last_updated": "2026-09-09T23:17:50.780062",
+  "last_updated": "2026-09-10T01:10:23.003239",
   "total": 20,
-  "new": 5
+  "new": 1
 }

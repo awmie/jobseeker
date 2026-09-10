@@ -1,6 +1,43 @@
 {
   "jobs": [
     {
+      "title": "Business Development Manager",
+      "company": "Libertex Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-libertex-group-1137373",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "crypto",
+        "marketing",
+        "finance",
+        "bus dev",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-08T14:57:50+00:00"
+    },
+    {
+      "title": "Quality Dispense Technician North",
+      "company": "Thatchers Cider",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "marketing",
+        "finance",
+        "exec",
+        "excel",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-09-08T13:51:19+00:00"
+    },
+    {
       "title": "Social Comms",
       "company": "NOPE",
       "location": "Remote",
@@ -320,60 +357,9 @@
       ],
       "salary": "",
       "posted": "2026-08-22T16:00:21+00:00"
-    },
-    {
-      "title": "Senior Specialist Global QMS",
-      "company": "Orca Bio",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "sys admin",
-        "customer support",
-        "marketing",
-        "education",
-        "exec",
-        "senior",
-        "medical",
-        "engineer",
-        "recruiter",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T16:00:15+00:00"
-    },
-    {
-      "title": "DESARROLLADOR FULL STACK",
-      "company": "Kruger NearShore LLC - Rekluti",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-      "source": "RemoteOK",
-      "tags": [
-        "full stack",
-        "front end",
-        "python",
-        "dev",
-        "testing",
-        "web dev",
-        "quality assurance",
-        "devops",
-        "c",
-        "cloud",
-        "nosql",
-        "git",
-        "flutter",
-        "angular",
-        "mobile",
-        "golang",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T00:00:12+00:00"
     }
   ],
-  "last_updated": "2026-09-10T10:59:38.943942",
+  "last_updated": "2026-09-10T14:56:32.818077",
   "total": 20,
-  "new": 0
+  "new": 2
 }

@@ -123,30 +123,6 @@
       "posted": "2026-09-02T16:00:07+00:00"
     },
     {
-      "title": "Plant Fitter",
-      "company": "Linsco Ltd",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-plant-fitter-linsco-ltd-1137259",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "scheme",
-        "medical",
-        "testing",
-        "travel",
-        "mobile",
-        "ops",
-        "engineer",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-08-31T15:33:36+00:00"
-    },
-    {
       "title": "AI Engineer Data APIs",
       "company": "Benzinga",
       "location": "Remote",
@@ -318,27 +294,6 @@
       "posted": "2026-08-25T07:00:03+00:00"
     },
     {
-      "title": "Retail Store Associate",
-      "company": "Rowan",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "customer support",
-        "dev",
-        "exec",
-        "math",
-        "node",
-        "ops",
-        "sales",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T16:00:21+00:00"
-    },
-    {
       "title": "Senior Specialist Global QMS",
       "company": "Orca Bio",
       "location": "Remote",
@@ -359,9 +314,63 @@
       ],
       "salary": "",
       "posted": "2026-08-22T16:00:15+00:00"
+    },
+    {
+      "title": "DESARROLLADOR FULL STACK",
+      "company": "Kruger NearShore LLC - Rekluti",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+      "source": "RemoteOK",
+      "tags": [
+        "full stack",
+        "front end",
+        "python",
+        "dev",
+        "testing",
+        "web dev",
+        "quality assurance",
+        "devops",
+        "c",
+        "cloud",
+        "nosql",
+        "git",
+        "flutter",
+        "angular",
+        "mobile",
+        "golang",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T00:00:12+00:00"
+    },
+    {
+      "title": "Senior Governance Risk and Compliance Analyst",
+      "company": "RainFocus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "design",
+        "saas",
+        "infosec",
+        "education",
+        "technical",
+        "dev",
+        "cloud",
+        "exec",
+        "senior",
+        "ops",
+        "marketing",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T00:00:05+00:00"
     }
   ],
-  "last_updated": "2026-09-10T18:10:38.992421",
+  "last_updated": "2026-09-10T20:51:53.213710",
   "total": 20,
   "new": 0
 }

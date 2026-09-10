@@ -106,26 +106,6 @@
       "posted": "2026-09-03T19:12:26+00:00"
     },
     {
-      "title": "QA Engineer",
-      "company": "SunnyData",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
-      "source": "RemoteOK",
-      "tags": [
-        "technical",
-        "dev",
-        "testing",
-        "marketing",
-        "quality assurance",
-        "education",
-        "cloud",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-03T16:00:05+00:00"
-    },
-    {
       "title": "Regional Sales Manager",
       "company": "OrderYOYO",
       "location": "Remote",
@@ -357,9 +337,31 @@
       ],
       "salary": "",
       "posted": "2026-08-22T16:00:21+00:00"
+    },
+    {
+      "title": "Senior Specialist Global QMS",
+      "company": "Orca Bio",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "sys admin",
+        "customer support",
+        "marketing",
+        "education",
+        "exec",
+        "senior",
+        "medical",
+        "engineer",
+        "recruiter",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-08-22T16:00:15+00:00"
     }
   ],
-  "last_updated": "2026-09-10T14:56:32.818077",
+  "last_updated": "2026-09-10T18:10:38.992421",
   "total": 20,
-  "new": 2
+  "new": 0
 }

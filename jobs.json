@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "Senior People & Talent Operations Partner",
+      "company": "TestGorilla",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-09-10T21:13:22+00:00"
+    },
+    {
       "title": "External Data Specialist",
       "company": "eClinical Solutions",
       "location": "Remote",
@@ -328,38 +341,9 @@
       ],
       "salary": "",
       "posted": "2026-08-22T16:00:15+00:00"
-    },
-    {
-      "title": "DESARROLLADOR FULL STACK",
-      "company": "Kruger NearShore LLC - Rekluti",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-      "source": "RemoteOK",
-      "tags": [
-        "full stack",
-        "front end",
-        "python",
-        "dev",
-        "testing",
-        "web dev",
-        "quality assurance",
-        "devops",
-        "c",
-        "cloud",
-        "nosql",
-        "git",
-        "flutter",
-        "angular",
-        "mobile",
-        "golang",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T00:00:12+00:00"
     }
   ],
-  "last_updated": "2026-09-11T19:52:46.308228",
+  "last_updated": "2026-09-11T22:06:04.577390",
   "total": 20,
-  "new": 0
+  "new": 1
 }

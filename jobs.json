@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "External Data Specialist",
+      "company": "eClinical Solutions",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
+      "source": "RemoteOK",
+      "tags": [
+        "cloud",
+        "exec",
+        "stats"
+      ],
+      "salary": "",
+      "posted": "2026-09-10T16:00:15+00:00"
+    },
+    {
       "title": "Business Development Manager",
       "company": "Libertex Group",
       "location": "Remote",
@@ -343,34 +357,9 @@
       ],
       "salary": "",
       "posted": "2026-08-22T00:00:12+00:00"
-    },
-    {
-      "title": "Senior Governance Risk and Compliance Analyst",
-      "company": "RainFocus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "design",
-        "saas",
-        "infosec",
-        "education",
-        "technical",
-        "dev",
-        "cloud",
-        "exec",
-        "senior",
-        "ops",
-        "marketing",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-08-22T00:00:05+00:00"
     }
   ],
-  "last_updated": "2026-09-11T13:51:34.351723",
+  "last_updated": "2026-09-11T17:21:56.210614",
   "total": 20,
-  "new": 0
+  "new": 1
 }

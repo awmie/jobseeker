@@ -1,6 +1,27 @@
 {
   "jobs": [
     {
+      "title": "Marketing Student Assistant",
+      "company": "Copenhagen Optimization",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "strategy",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "content writing",
+        "ops",
+        "golang",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-11T08:00:08+00:00"
+    },
+    {
       "title": "Engineering Manager TLM Platform",
       "company": "Harper",
       "location": "Remote",
@@ -321,30 +342,9 @@
       ],
       "salary": "",
       "posted": "2026-08-26T12:33:33+00:00"
-    },
-    {
-      "title": "Renewables Project Scheduler",
-      "company": "Transportation Partners &amp; Logistics",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "technical",
-        "customer support",
-        "testing",
-        "travel",
-        "microsoft",
-        "exec",
-        "excel",
-        "stats",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-25T21:34:13+00:00"
     }
   ],
-  "last_updated": "2026-09-12T04:39:55.131630",
+  "last_updated": "2026-09-12T08:50:05.778139",
   "total": 20,
-  "new": 0
+  "new": 1
 }

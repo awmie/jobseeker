@@ -1,6 +1,43 @@
 {
   "jobs": [
     {
+      "title": "Technical Product Lead AI Finance App",
+      "company": "Bjak ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "infosec",
+        "exec",
+        "technical",
+        "finance",
+        "ruby",
+        "mobile",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-12T16:00:10+00:00"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Mirantis",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-12T14:00:03+00:00"
+    },
+    {
       "title": "HR Operations Specialist",
       "company": "Law Offices of Sabrina Li",
       "location": "Remote",
@@ -324,37 +361,9 @@
       ],
       "salary": "",
       "posted": "2026-08-27T00:00:17+00:00"
-    },
-    {
-      "title": "Course Director UX UI and AI",
-      "company": "Interaction Design Foundation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "design",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-08-26T12:44:41+00:00"
-    },
-    {
-      "title": "Education Designer UX UI and AI",
-      "company": "Interaction Design Foundation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "content writing",
-        "education"
-      ],
-      "salary": "",
-      "posted": "2026-08-26T12:41:23+00:00"
     }
   ],
-  "last_updated": "2026-09-13T11:59:48.257741",
+  "last_updated": "2026-09-13T16:07:02.966727",
   "total": 20,
-  "new": 0
+  "new": 2
 }

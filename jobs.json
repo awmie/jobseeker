@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "title": "HR Operations Specialist",
+      "company": "Law Offices of Sabrina Li",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "education",
+        "customer support",
+        "marketing",
+        "finance",
+        "c",
+        "exec",
+        "content writing",
+        "ops",
+        "legal",
+        "recruiter",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-09-12T00:00:05+00:00"
+    },
+    {
       "title": "Marketing Student Assistant",
       "company": "Copenhagen Optimization",
       "location": "Remote",
@@ -329,22 +352,9 @@
       ],
       "salary": "",
       "posted": "2026-08-26T12:41:23+00:00"
-    },
-    {
-      "title": "Course Writer and Editor UX UI and AI",
-      "company": "Interaction Design Foundation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "content writing"
-      ],
-      "salary": "",
-      "posted": "2026-08-26T12:33:33+00:00"
     }
   ],
-  "last_updated": "2026-09-12T23:22:51.034810",
+  "last_updated": "2026-09-13T01:14:41.878532",
   "total": 20,
-  "new": 0
+  "new": 1
 }

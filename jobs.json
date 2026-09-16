@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "title": "Sr Solutions Architect",
+      "company": "ExtraHop",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
+      "source": "RemoteOK",
+      "tags": [
+        "architecture",
+        "design",
+        "infosec",
+        "python",
+        "technical",
+        "customer support",
+        "javascript",
+        "api",
+        "ops",
+        "marketing",
+        "sales",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-15T00:00:26+00:00"
+    },
+    {
       "title": "Junior Payroll Assistant",
       "company": "Sleek",
       "location": "Remote",
@@ -353,22 +376,9 @@
       ],
       "salary": "",
       "posted": "2026-08-27T16:00:04+00:00"
-    },
-    {
-      "title": "Principal Engineer",
-      "company": "The AI Whistleblower Initiative",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T09:00:02+00:00"
     }
   ],
-  "last_updated": "2026-09-15T23:39:38.083575",
+  "last_updated": "2026-09-16T01:39:48.658928",
   "total": 20,
-  "new": 0
+  "new": 1
 }

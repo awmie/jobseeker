@@ -1,6 +1,21 @@
 {
   "jobs": [
     {
+      "title": "AI agent engineer",
+      "company": "Sticker Mule",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+      "source": "RemoteOK",
+      "tags": [
+        "ai",
+        "golang",
+        "javascript",
+        "typescript"
+      ],
+      "salary": "",
+      "posted": "2026-09-16T12:44:27+00:00"
+    },
+    {
       "title": "AI Trainer Image QA Evaluator",
       "company": "iMerit Technology",
       "location": "Remote",
@@ -362,26 +377,9 @@
       ],
       "salary": "",
       "posted": "2026-09-03T19:12:26+00:00"
-    },
-    {
-      "title": "Regional Sales Manager",
-      "company": "OrderYOYO",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-orderyoyo-1137279",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "customer support",
-        "marketing",
-        "scheme",
-        "mobile",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-09-02T16:00:07+00:00"
     }
   ],
-  "last_updated": "2026-09-17T10:20:46.490286",
+  "last_updated": "2026-09-17T15:05:35.497195",
   "total": 20,
   "new": 1
 }

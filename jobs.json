@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "AI Trainer Image QA Evaluator",
+      "company": "iMerit Technology",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398",
+      "source": "RemoteOK",
+      "tags": [
+        "ai",
+        "data annotation",
+        "quality assurance"
+      ],
+      "salary": "",
+      "posted": "2026-09-16T06:55:47+00:00"
+    },
+    {
       "title": "Principal Product Manager",
       "company": "DomainTools",
       "location": "Remote",
@@ -365,23 +379,9 @@
       ],
       "salary": "",
       "posted": "2026-09-02T16:00:07+00:00"
-    },
-    {
-      "title": "AI Engineer Data APIs",
-      "company": "Benzinga",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "video",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-08-30T21:00:01+00:00"
     }
   ],
-  "last_updated": "2026-09-17T05:30:06.019110",
+  "last_updated": "2026-09-17T10:20:46.490286",
   "total": 20,
-  "new": 0
+  "new": 1
 }

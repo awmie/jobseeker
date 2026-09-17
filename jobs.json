@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "title": "Principal Product Manager",
+      "company": "DomainTools",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "infosec",
+        "marketing",
+        "design",
+        "web dev",
+        "scrum",
+        "cloud",
+        "api",
+        "stats",
+        "sales",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-16T00:00:13+00:00"
+    },
+    {
       "title": "Sr Solutions Architect",
       "company": "ExtraHop",
       "location": "Remote",
@@ -355,30 +379,9 @@
       ],
       "salary": "",
       "posted": "2026-08-30T21:00:01+00:00"
-    },
-    {
-      "title": "Programmatic Campaign Operations Specialist Trader",
-      "company": "VirtuHire",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
-      "source": "RemoteOK",
-      "tags": [
-        "amazon",
-        "technical",
-        "customer support",
-        "quality assurance",
-        "video",
-        "exec",
-        "senior",
-        "ops",
-        "excel",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-08-27T16:00:04+00:00"
     }
   ],
-  "last_updated": "2026-09-16T22:24:25.992036",
+  "last_updated": "2026-09-17T00:44:45.988749",
   "total": 20,
-  "new": 0
+  "new": 1
 }

@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Golang Kubernetes Engineer",
+      "company": "Arango",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "golang",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-09-16T19:00:02+00:00"
+    },
+    {
       "title": "AI agent engineer",
       "company": "Sticker Mule",
       "location": "Remote",
@@ -365,21 +379,9 @@
       ],
       "salary": "",
       "posted": "2026-09-04T15:13:46+00:00"
-    },
-    {
-      "title": "Customer Support & Success Specialist",
-      "company": "Warehance",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-09-03T19:12:26+00:00"
     }
   ],
-  "last_updated": "2026-09-17T18:59:03.088920",
+  "last_updated": "2026-09-17T22:03:04.684910",
   "total": 20,
-  "new": 0
+  "new": 1
 }

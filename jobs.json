@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "Backend Software Engineer",
+      "company": "Airspace Link",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "dev",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-19T20:00:01+00:00"
+    },
+    {
       "title": "Software Deployment Engineer",
       "company": "KPI Solutions",
       "location": "Remote",
@@ -386,26 +402,9 @@
       ],
       "salary": "",
       "posted": "2026-09-08T14:57:50+00:00"
-    },
-    {
-      "title": "Quality Dispense Technician North",
-      "company": "Thatchers Cider",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "marketing",
-        "finance",
-        "exec",
-        "excel",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-09-08T13:51:19+00:00"
     }
   ],
-  "last_updated": "2026-09-20T18:36:45.773086",
+  "last_updated": "2026-09-20T21:02:41.479421",
   "total": 20,
-  "new": 0
+  "new": 1
 }

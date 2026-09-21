@@ -1,6 +1,72 @@
 {
   "jobs": [
     {
+      "title": "Senior .NET Software Engineer",
+      "company": "OkWhen",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "design",
+        "c sharp",
+        "saas",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "testing",
+        "web dev",
+        "xamarin",
+        "c",
+        "cloud",
+        "git",
+        "typescript",
+        "angular",
+        "mobile",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-20T00:00:31+00:00"
+    },
+    {
+      "title": "Frontend Engineer",
+      "company": "Bjak ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+      "source": "RemoteOK",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "graphql",
+        "react.js",
+        "technical",
+        "web dev",
+        "javascript",
+        "css",
+        "chatbot",
+        "html",
+        "typescript",
+        "node",
+        "node.js",
+        "exec",
+        "sys admin",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-20T00:00:25+00:00"
+    },
+    {
       "title": "Backend Software Engineer",
       "company": "Airspace Link",
       "location": "Remote",
@@ -368,43 +434,9 @@
       ],
       "salary": "",
       "posted": "2026-09-10T21:13:22+00:00"
-    },
-    {
-      "title": "External Data Specialist",
-      "company": "eClinical Solutions",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
-      "source": "RemoteOK",
-      "tags": [
-        "cloud",
-        "exec",
-        "stats"
-      ],
-      "salary": "",
-      "posted": "2026-09-10T16:00:15+00:00"
-    },
-    {
-      "title": "Business Development Manager",
-      "company": "Libertex Group",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-libertex-group-1137373",
-      "source": "RemoteOK",
-      "tags": [
-        "product manager",
-        "exec",
-        "design",
-        "crypto",
-        "marketing",
-        "finance",
-        "bus dev",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-08T14:57:50+00:00"
     }
   ],
-  "last_updated": "2026-09-20T23:10:27.075477",
+  "last_updated": "2026-09-21T01:04:18.310082",
   "total": 20,
-  "new": 0
+  "new": 2
 }

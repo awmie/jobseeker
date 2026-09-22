@@ -1,6 +1,27 @@
 {
   "jobs": [
     {
+      "title": "People Operations Coordinator",
+      "company": "Ashby",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "recruiter",
+        "coordinator",
+        "customer support",
+        "dev",
+        "exec",
+        "education",
+        "ops",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-21T16:00:11+00:00"
+    },
+    {
       "title": "Senior .NET Software Engineer",
       "company": "OkWhen",
       "location": "Remote",
@@ -421,22 +442,9 @@
       ],
       "salary": "",
       "posted": "2026-09-11T00:00:23+00:00"
-    },
-    {
-      "title": "Senior People & Talent Operations Partner",
-      "company": "TestGorilla",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-09-10T21:13:22+00:00"
     }
   ],
-  "last_updated": "2026-09-22T14:59:07.174535",
+  "last_updated": "2026-09-22T18:44:52.053472",
   "total": 20,
-  "new": 0
+  "new": 1
 }

@@ -1,6 +1,45 @@
 {
   "jobs": [
     {
+      "title": "Freelance grabaci\u00c3\u00b3n de tareas cotidianas para proyecto de IA",
+      "company": "Mindrift - Data annotation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415",
+      "source": "RemoteOK",
+      "tags": [
+        "data annotation",
+        "c"
+      ],
+      "salary": "",
+      "posted": "2026-09-22T00:00:13+00:00"
+    },
+    {
+      "title": "Senior Growth Product Manager AI Native",
+      "company": "Magic Eden",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "marketing",
+        "exec",
+        "design",
+        "crypto",
+        "nft",
+        "game dev",
+        "consulting",
+        "testing",
+        "analyst",
+        "finance",
+        "senior",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-22T00:00:07+00:00"
+    },
+    {
       "title": "People Operations Coordinator",
       "company": "Ashby",
       "location": "Remote",
@@ -403,48 +442,9 @@
       ],
       "salary": "",
       "posted": "2026-09-11T08:00:08+00:00"
-    },
-    {
-      "title": "Engineering Manager TLM Platform",
-      "company": "Harper",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "design",
-        "sys admin",
-        "docker",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "video",
-        "finance",
-        "cloud",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-11T00:00:35+00:00"
-    },
-    {
-      "title": "Senior Communications Officer Strategic Communications",
-      "company": "GiveWell",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "senior",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-09-11T00:00:23+00:00"
     }
   ],
-  "last_updated": "2026-09-22T23:49:41.792578",
+  "last_updated": "2026-09-23T01:51:30.038112",
   "total": 20,
-  "new": 0
+  "new": 2
 }

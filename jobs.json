@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "title": "Junior Digital Assets Operations Analyst",
+      "company": "Omega Enterprises",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418",
+      "source": "RemoteOK",
+      "tags": [
+        "other",
+        "crypto",
+        "remote",
+        "education",
+        "web3",
+        "bitcoin",
+        "ethereum",
+        "part time",
+        "finance",
+        "blockchain",
+        "defi",
+        "junior",
+        "analyst",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-09-22T14:36:54+00:00"
+    },
+    {
       "title": "Software Developer Security Analytics",
       "company": "RedMimicry",
       "location": "Remote",
@@ -415,32 +440,9 @@
       ],
       "salary": "",
       "posted": "2026-09-12T14:00:03+00:00"
-    },
-    {
-      "title": "HR Operations Specialist",
-      "company": "Law Offices of Sabrina Li",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "content writing",
-        "ops",
-        "legal",
-        "recruiter",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-09-12T00:00:05+00:00"
     }
   ],
-  "last_updated": "2026-09-23T12:20:01.169382",
+  "last_updated": "2026-09-23T17:15:38.374584",
   "total": 20,
   "new": 1
 }

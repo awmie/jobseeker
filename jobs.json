@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Video Data Annotator",
+      "company": "iMerit Technology",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-video-data-annotator-imerit-technology-1137428",
+      "source": "RemoteOK",
+      "tags": [
+        "quality assurance",
+        "ai",
+        "data annotation"
+      ],
+      "salary": "",
+      "posted": "2026-09-23T21:40:19+00:00"
+    },
+    {
       "title": "Software Engineer",
       "company": "Prenosis",
       "location": "Remote",
@@ -420,32 +434,9 @@
       ],
       "salary": "",
       "posted": "2026-09-16T00:00:13+00:00"
-    },
-    {
-      "title": "Sr Solutions Architect",
-      "company": "ExtraHop",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
-      "source": "RemoteOK",
-      "tags": [
-        "architecture",
-        "design",
-        "infosec",
-        "python",
-        "technical",
-        "customer support",
-        "javascript",
-        "api",
-        "ops",
-        "marketing",
-        "sales",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-15T00:00:26+00:00"
     }
   ],
-  "last_updated": "2026-09-24T20:02:20.781251",
+  "last_updated": "2026-09-24T23:10:12.742740",
   "total": 20,
-  "new": 0
+  "new": 1
 }

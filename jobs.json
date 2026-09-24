@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "title": "Technical Product Manager AI Stockbroking App",
+      "company": "Bjak ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "sys admin",
+        "infosec",
+        "technical",
+        "finance",
+        "ruby",
+        "mobile",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-23T00:00:10+00:00"
+    },
+    {
+      "title": "Frontend Engineer",
+      "company": "Bjak ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+      "source": "RemoteOK",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "graphql",
+        "react.js",
+        "technical",
+        "web dev",
+        "javascript",
+        "css",
+        "chatbot",
+        "html",
+        "typescript",
+        "node",
+        "node.js",
+        "exec",
+        "sys admin",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-09-23T00:00:04+00:00"
+    },
+    {
       "title": "Junior Digital Assets Operations Analyst",
       "company": "Omega Enterprises",
       "location": "Remote",
@@ -403,46 +456,9 @@
       ],
       "salary": "",
       "posted": "2026-09-14T00:00:12+00:00"
-    },
-    {
-      "title": "Technical Product Lead AI Finance App",
-      "company": "Bjak ",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "sys admin",
-        "infosec",
-        "exec",
-        "technical",
-        "finance",
-        "ruby",
-        "mobile",
-        "ops",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-12T16:00:10+00:00"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Mirantis",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-12T14:00:03+00:00"
     }
   ],
-  "last_updated": "2026-09-23T23:03:53.433721",
+  "last_updated": "2026-09-24T01:19:10.546106",
   "total": 20,
-  "new": 0
+  "new": 2
 }

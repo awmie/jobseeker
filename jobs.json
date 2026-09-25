@@ -1,6 +1,26 @@
 {
   "jobs": [
     {
+      "title": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
+      "company": "Mercier Consultancy Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "education",
+        "technical",
+        "customer support",
+        "marketing",
+        "travel",
+        "excel",
+        "medical",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-09-24T16:00:06+00:00"
+    },
+    {
       "title": "Mec\u00c3\u00a1nico Automotriz Diagn\u00c3\u00b3stico y Presupuestos",
       "company": "Workana",
       "location": "Remote",
@@ -406,23 +426,9 @@
       ],
       "salary": "",
       "posted": "2026-09-16T12:44:27+00:00"
-    },
-    {
-      "title": "AI Trainer Image QA Evaluator",
-      "company": "iMerit Technology",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398",
-      "source": "RemoteOK",
-      "tags": [
-        "ai",
-        "data annotation",
-        "quality assurance"
-      ],
-      "salary": "",
-      "posted": "2026-09-16T06:55:47+00:00"
     }
   ],
-  "last_updated": "2026-09-25T12:07:44.289319",
+  "last_updated": "2026-09-25T17:06:25.626577",
   "total": 20,
-  "new": 0
+  "new": 1
 }

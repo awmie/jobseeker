@@ -1,6 +1,16 @@
 {
   "jobs": [
     {
+      "title": "Mec\u00c3\u00a1nico Automotriz Diagn\u00c3\u00b3stico y Presupuestos",
+      "company": "Workana",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-mecanico-automotriz-diagnostico-y-presupuestos-workana-1137429",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-09-24T00:00:07+00:00"
+    },
+    {
       "title": "Video Data Annotator",
       "company": "iMerit Technology",
       "location": "Remote",
@@ -410,33 +420,9 @@
       ],
       "salary": "",
       "posted": "2026-09-16T06:55:47+00:00"
-    },
-    {
-      "title": "Principal Product Manager",
-      "company": "DomainTools",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
-      "source": "RemoteOK",
-      "tags": [
-        "product manager",
-        "exec",
-        "infosec",
-        "marketing",
-        "design",
-        "web dev",
-        "scrum",
-        "cloud",
-        "api",
-        "stats",
-        "sales",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-16T00:00:13+00:00"
     }
   ],
-  "last_updated": "2026-09-24T23:10:12.742740",
+  "last_updated": "2026-09-25T01:29:21.374938",
   "total": 20,
   "new": 1
 }

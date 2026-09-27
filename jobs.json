@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "title": "Director Payment Integrity",
+      "company": "SIHO Insurance Services ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "sys admin",
+        "education",
+        "supervisor",
+        "customer support",
+        "quality assurance",
+        "c",
+        "microsoft",
+        "ops",
+        "excel",
+        "legal",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-09-26T16:00:26+00:00"
+    },
+    {
       "title": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
       "company": "Mercier Consultancy Group",
       "location": "Remote",
@@ -411,24 +434,9 @@
       ],
       "salary": "",
       "posted": "2026-09-16T19:00:02+00:00"
-    },
-    {
-      "title": "AI agent engineer",
-      "company": "Sticker Mule",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-      "source": "RemoteOK",
-      "tags": [
-        "ai",
-        "golang",
-        "javascript",
-        "typescript"
-      ],
-      "salary": "",
-      "posted": "2026-09-16T12:44:27+00:00"
     }
   ],
-  "last_updated": "2026-09-27T13:15:58.695996",
+  "last_updated": "2026-09-27T17:48:02.246123",
   "total": 20,
-  "new": 0
+  "new": 1
 }

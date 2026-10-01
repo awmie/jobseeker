@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "Client Advisor",
+      "company": "Toptal",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-09-30T16:13:39+00:00"
+    },
+    {
       "title": "Director Payment Integrity",
       "company": "SIHO Insurance Services ",
       "location": "Remote",
@@ -420,23 +432,9 @@
       ],
       "salary": "",
       "posted": "2026-09-18T13:29:53+00:00"
-    },
-    {
-      "title": "Golang Kubernetes Engineer",
-      "company": "Arango",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "golang",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-09-16T19:00:02+00:00"
     }
   ],
-  "last_updated": "2026-10-01T09:03:58.455121",
+  "last_updated": "2026-10-01T16:20:46.297230",
   "total": 20,
-  "new": 0
+  "new": 1
 }

@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "Enterprise Sales Development Representative",
+      "company": "Toptal",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-09-30T18:24:42+00:00"
+    },
+    {
       "title": "Client Advisor",
       "company": "Toptal",
       "location": "Remote",
@@ -416,25 +429,9 @@
       ],
       "salary": "",
       "posted": "2026-09-19T00:00:06+00:00"
-    },
-    {
-      "title": "Senior Shopify Developer",
-      "company": "Sanctuary Computer",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "engineer",
-        "senior",
-        "front end",
-        "shopify"
-      ],
-      "salary": "",
-      "posted": "2026-09-18T13:29:53+00:00"
     }
   ],
-  "last_updated": "2026-10-01T16:20:46.297230",
+  "last_updated": "2026-10-01T21:06:53.340726",
   "total": 20,
   "new": 1
 }

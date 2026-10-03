@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "title": "Junior Crypto Analyst & Trader",
+      "company": "Empire Assets",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
+      "source": "RemoteOK",
+      "tags": [
+        "crypto",
+        "finance",
+        "trader",
+        "remote",
+        "part time",
+        "full time",
+        "web3",
+        "bitcoin",
+        "ethereum",
+        "blockchain",
+        "defi",
+        "work from home",
+        "Anywhere",
+        "junior",
+        "analyst",
+        "exec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-10-02T12:53:01+00:00"
+    },
+    {
       "title": "Enterprise Sales Development Representative",
       "company": "Toptal",
       "location": "Remote",
@@ -329,22 +357,6 @@
       "posted": "2026-09-20T00:00:25+00:00"
     },
     {
-      "title": "Backend Software Engineer",
-      "company": "Airspace Link",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-19T20:00:01+00:00"
-    },
-    {
       "title": "Software Deployment Engineer",
       "company": "KPI Solutions",
       "location": "Remote",
@@ -431,7 +443,7 @@
       "posted": "2026-09-19T00:00:06+00:00"
     }
   ],
-  "last_updated": "2026-10-03T11:57:17.806331",
+  "last_updated": "2026-10-03T15:56:33.727079",
   "total": 20,
-  "new": 0
+  "new": 1
 }

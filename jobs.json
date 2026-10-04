@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Head of Operations",
+      "company": "Leverage Live Local",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
+      "source": "RemoteOK",
+      "tags": [
+        "non tech",
+        "ops",
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-10-03T20:20:32+00:00"
+    },
+    {
       "title": "Junior Crypto Analyst & Trader",
       "company": "Empire Assets",
       "location": "Remote",
@@ -412,38 +426,9 @@
       ],
       "salary": "",
       "posted": "2026-09-19T00:00:16+00:00"
-    },
-    {
-      "title": "Customer Success Manager Mexico",
-      "company": "JumpCloud",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "exec",
-        "saas",
-        "sys admin",
-        "swift",
-        "infosec",
-        "technical",
-        "marketing",
-        "travel",
-        "speech",
-        "finance",
-        "education",
-        "c",
-        "mobile",
-        "sales",
-        "medical",
-        "recruiter",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-09-19T00:00:06+00:00"
     }
   ],
-  "last_updated": "2026-10-04T19:56:34.083833",
+  "last_updated": "2026-10-04T22:49:58.135715",
   "total": 20,
-  "new": 0
+  "new": 1
 }

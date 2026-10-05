@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "title": "Federal Business Development Director",
+      "company": "Fortanix",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "infosec",
+        "teaching",
+        "consulting",
+        "technical",
+        "customer support",
+        "marketing",
+        "speech",
+        "cloud",
+        "bus dev",
+        "sales",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-10-04T16:00:03+00:00"
+    },
+    {
       "title": "Head of Operations",
       "company": "Leverage Live Local",
       "location": "Remote",
@@ -399,36 +422,9 @@
       ],
       "salary": "",
       "posted": "2026-09-19T08:00:34+00:00"
-    },
-    {
-      "title": "VP Pricing & Packaging",
-      "company": "Delinea",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "saas",
-        "salesforce",
-        "infosec",
-        "vfx",
-        "dev",
-        "finance",
-        "education",
-        "cloud",
-        "admin",
-        "exec",
-        "ops",
-        "marketing",
-        "sales",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-19T00:00:16+00:00"
     }
   ],
-  "last_updated": "2026-10-05T07:12:05.804135",
+  "last_updated": "2026-10-05T16:01:52.265037",
   "total": 20,
-  "new": 0
+  "new": 1
 }

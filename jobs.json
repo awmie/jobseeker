@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "Project Manager",
+      "company": "Spiralyze",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "ops",
+        "marketing",
+        "cro"
+      ],
+      "salary": "",
+      "posted": "2026-10-06T19:35:42+00:00"
+    },
+    {
       "title": "Platform and Integration Engineer Security Telemetry",
       "company": "RedMimicry",
       "location": "Remote",
@@ -377,39 +393,9 @@
       ],
       "salary": "",
       "posted": "2026-09-20T00:00:31+00:00"
-    },
-    {
-      "title": "Frontend Engineer",
-      "company": "Bjak ",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
-      "source": "RemoteOK",
-      "tags": [
-        "front end",
-        "design",
-        "react",
-        "graphql",
-        "react.js",
-        "technical",
-        "web dev",
-        "javascript",
-        "css",
-        "chatbot",
-        "html",
-        "typescript",
-        "node",
-        "node.js",
-        "exec",
-        "sys admin",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-20T00:00:25+00:00"
     }
   ],
-  "last_updated": "2026-10-07T19:25:20.449827",
+  "last_updated": "2026-10-07T23:40:08.448540",
   "total": 20,
-  "new": 0
+  "new": 1
 }

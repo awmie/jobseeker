@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "Telefondienst f\u00c3\u00bcr Tierarztpraxis Neuruppin o",
+      "company": "Tierarzt Plus Partner",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469",
+      "source": "RemoteOK",
+      "tags": [
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-10-07T16:00:05+00:00"
+    },
+    {
       "title": "Project Manager",
       "company": "Spiralyze",
       "location": "Remote",
@@ -227,36 +239,6 @@
       "posted": "2026-09-23T00:00:10+00:00"
     },
     {
-      "title": "Frontend Engineer",
-      "company": "Bjak ",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
-      "source": "RemoteOK",
-      "tags": [
-        "front end",
-        "design",
-        "react",
-        "graphql",
-        "react.js",
-        "technical",
-        "web dev",
-        "javascript",
-        "css",
-        "chatbot",
-        "html",
-        "typescript",
-        "node",
-        "node.js",
-        "exec",
-        "sys admin",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-23T00:00:04+00:00"
-    },
-    {
       "title": "Junior Digital Assets Operations Analyst",
       "company": "Omega Enterprises",
       "location": "Remote",
@@ -395,7 +377,7 @@
       "posted": "2026-09-20T00:00:31+00:00"
     }
   ],
-  "last_updated": "2026-10-08T10:07:33.873711",
+  "last_updated": "2026-10-08T17:22:48.853053",
   "total": 20,
-  "new": 0
+  "new": 1
 }

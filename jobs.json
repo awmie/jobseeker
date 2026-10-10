@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "title": "Senior React Full stack Developer",
+      "company": "Lemon.io",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "engineer",
+        "remote",
+        "python",
+        "aws",
+        "gcp",
+        "javascript",
+        "react",
+        "node",
+        "ruby",
+        "typescript",
+        "full time",
+        "full stack"
+      ],
+      "salary": "",
+      "posted": "2026-10-09T13:09:18+00:00"
+    },
+    {
       "title": "Product Design Lead",
       "company": "Fuel50",
       "location": "Remote",
@@ -346,30 +370,9 @@
       ],
       "salary": "",
       "posted": "2026-09-22T00:00:07+00:00"
-    },
-    {
-      "title": "People Operations Coordinator",
-      "company": "Ashby",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "recruiter",
-        "coordinator",
-        "customer support",
-        "dev",
-        "exec",
-        "education",
-        "ops",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-21T16:00:11+00:00"
     }
   ],
-  "last_updated": "2026-10-10T12:42:14.416435",
+  "last_updated": "2026-10-10T17:28:25.118950",
   "total": 20,
   "new": 1
 }

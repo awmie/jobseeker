@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "title": "Manager Clinical Data Management",
+      "company": "EDETEK",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "sys admin",
+        "education",
+        "customer support",
+        "dev",
+        "testing",
+        "travel",
+        "junior",
+        "ops",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-10T08:00:08+00:00"
+    },
+    {
       "title": "Junior Sales Development Representative IT Industry",
       "company": "Huzzle",
       "location": "Remote",
@@ -372,34 +396,9 @@
       ],
       "salary": "",
       "posted": "2026-09-23T00:00:10+00:00"
-    },
-    {
-      "title": "Junior Digital Assets Operations Analyst",
-      "company": "Omega Enterprises",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418",
-      "source": "RemoteOK",
-      "tags": [
-        "other",
-        "crypto",
-        "remote",
-        "education",
-        "web3",
-        "bitcoin",
-        "ethereum",
-        "part time",
-        "finance",
-        "blockchain",
-        "defi",
-        "junior",
-        "analyst",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-09-22T14:36:54+00:00"
     }
   ],
-  "last_updated": "2026-10-11T02:16:46.719548",
+  "last_updated": "2026-10-11T09:02:03.823605",
   "total": 20,
-  "new": 3
+  "new": 1
 }

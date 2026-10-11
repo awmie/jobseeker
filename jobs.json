@@ -1,6 +1,89 @@
 {
   "jobs": [
     {
+      "title": "Junior Sales Development Representative IT Industry",
+      "company": "Huzzle",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "technical",
+        "marketing",
+        "finance",
+        "c",
+        "cloud",
+        "microsoft",
+        "senior",
+        "junior",
+        "ops",
+        "sales",
+        "ecommerce",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-10-10T00:00:17+00:00"
+    },
+    {
+      "title": "Academic Dean for MiaPrep Online Academy of Ohio",
+      "company": "Miaplaza",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "infosec",
+        "teaching",
+        "education",
+        "exec",
+        "coordinator",
+        "customer support",
+        "testing",
+        "marketing",
+        "virtual assistant",
+        "video",
+        "admin",
+        "content writing",
+        "ops",
+        "medical",
+        "recruiter",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-10T00:00:11+00:00"
+    },
+    {
+      "title": "Product Engineering Lead",
+      "company": "Tether Operations Limited",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "bitcoin",
+        "react",
+        "exec",
+        "technical",
+        "recruiter",
+        "marketing",
+        "dev",
+        "virtual assistant",
+        "javascript",
+        "finance",
+        "education",
+        "cloud",
+        "api",
+        "mobile",
+        "ops",
+        "sys admin",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-10T00:00:05+00:00"
+    },
+    {
       "title": "Senior React Full stack Developer",
       "company": "Lemon.io",
       "location": "Remote",
@@ -314,65 +397,9 @@
       ],
       "salary": "",
       "posted": "2026-09-22T14:36:54+00:00"
-    },
-    {
-      "title": "Software Developer Security Analytics",
-      "company": "RedMimicry",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "infosec",
-        "dev",
-        "stats",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-22T09:00:01+00:00"
-    },
-    {
-      "title": "Freelance grabaci\u00c3\u00b3n de tareas cotidianas para proyecto de IA",
-      "company": "Mindrift - Data annotation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415",
-      "source": "RemoteOK",
-      "tags": [
-        "data annotation",
-        "c"
-      ],
-      "salary": "",
-      "posted": "2026-09-22T00:00:13+00:00"
-    },
-    {
-      "title": "Senior Growth Product Manager AI Native",
-      "company": "Magic Eden",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414",
-      "source": "RemoteOK",
-      "tags": [
-        "product manager",
-        "marketing",
-        "exec",
-        "design",
-        "crypto",
-        "nft",
-        "game dev",
-        "consulting",
-        "testing",
-        "analyst",
-        "finance",
-        "senior",
-        "golang",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-22T00:00:07+00:00"
     }
   ],
-  "last_updated": "2026-10-10T23:49:39.219592",
+  "last_updated": "2026-10-11T02:16:46.719548",
   "total": 20,
-  "new": 0
+  "new": 3
 }

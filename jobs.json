@@ -1,6 +1,24 @@
 {
   "jobs": [
     {
+      "title": "Marketing and Sales Administrator",
+      "company": "Hunt St",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "marketing",
+        "finance",
+        "admin",
+        "exec",
+        "content writing",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-10-11T08:00:06+00:00"
+    },
+    {
       "title": "Technical Account Manager",
       "company": "DEUNA",
       "location": "Remote",
@@ -378,24 +396,9 @@
       ],
       "salary": "",
       "posted": "2026-09-23T21:40:19+00:00"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Prenosis",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-23T14:00:02+00:00"
     }
   ],
-  "last_updated": "2026-10-12T02:23:43.261834",
+  "last_updated": "2026-10-12T09:31:15.929273",
   "total": 20,
   "new": 1
 }

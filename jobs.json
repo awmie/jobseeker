@@ -1,6 +1,26 @@
 {
   "jobs": [
     {
+      "title": "Technical Account Manager",
+      "company": "DEUNA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "hr",
+        "technical",
+        "customer support",
+        "marketing",
+        "ops",
+        "golang",
+        "medical",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-10-11T00:00:05+00:00"
+    },
+    {
       "title": "Manager Clinical Data Management",
       "company": "EDETEK",
       "location": "Remote",
@@ -373,32 +393,9 @@
       ],
       "salary": "",
       "posted": "2026-09-23T14:00:02+00:00"
-    },
-    {
-      "title": "Technical Product Manager AI Stockbroking App",
-      "company": "Bjak ",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
-      "source": "RemoteOK",
-      "tags": [
-        "product manager",
-        "exec",
-        "design",
-        "sys admin",
-        "infosec",
-        "technical",
-        "finance",
-        "ruby",
-        "mobile",
-        "ops",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-09-23T00:00:10+00:00"
     }
   ],
-  "last_updated": "2026-10-11T23:10:48.346106",
+  "last_updated": "2026-10-12T02:23:43.261834",
   "total": 20,
-  "new": 0
+  "new": 1
 }

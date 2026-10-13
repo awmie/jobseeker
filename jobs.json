@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "title": "Senior Sales Executive Central Region",
+      "company": "SimSpace Corporation",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "embedded",
+        "sys admin",
+        "infosec",
+        "education",
+        "customer support",
+        "testing",
+        "marketing",
+        "finance",
+        "cloud",
+        "exec",
+        "content writing",
+        "senior",
+        "stats",
+        "legal",
+        "sales",
+        "medical",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-10-12T00:00:04+00:00"
+    },
+    {
       "title": "Product Design Director",
       "company": "Midnite",
       "location": "Remote",
@@ -394,19 +423,9 @@
       ],
       "salary": "",
       "posted": "2026-09-24T16:00:06+00:00"
-    },
-    {
-      "title": "Mec\u00c3\u00a1nico Automotriz Diagn\u00c3\u00b3stico y Presupuestos",
-      "company": "Workana",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-mecanico-automotriz-diagnostico-y-presupuestos-workana-1137429",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-09-24T00:00:07+00:00"
     }
   ],
-  "last_updated": "2026-10-12T19:16:10.284741",
+  "last_updated": "2026-10-13T01:24:35.614916",
   "total": 20,
   "new": 1
 }

@@ -1,6 +1,71 @@
 {
   "jobs": [
     {
+      "title": "Principal Software Engineer",
+      "company": "Vytalize Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "design",
+        "infosec",
+        "python",
+        "docker",
+        "technical",
+        "recruiter",
+        "customer support",
+        "testing",
+        "marketing",
+        "quality assurance",
+        "finance",
+        "java",
+        "c",
+        "cloud",
+        "api",
+        "exec",
+        "content writing",
+        "senior",
+        "ops",
+        "stats",
+        "sys admin",
+        "golang",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-13T00:00:18+00:00"
+    },
+    {
+      "title": "Graphic Designer & Video Editor",
+      "company": "BlueTuskr",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "designer",
+        "customer support",
+        "testing",
+        "marketing",
+        "web dev",
+        "video",
+        "mobile",
+        "photoshop",
+        "stats",
+        "sales",
+        "illustrator",
+        "ecommerce",
+        "shopify",
+        "part time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-13T00:00:06+00:00"
+    },
+    {
       "title": "Technical Customer Support",
       "company": "QuickMail",
       "location": "Remote",
@@ -380,44 +445,9 @@
       ],
       "salary": "",
       "posted": "2026-09-30T18:24:42+00:00"
-    },
-    {
-      "title": "Client Advisor",
-      "company": "Toptal",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-09-30T16:13:39+00:00"
-    },
-    {
-      "title": "Director Payment Integrity",
-      "company": "SIHO Insurance Services ",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "sys admin",
-        "education",
-        "supervisor",
-        "customer support",
-        "quality assurance",
-        "c",
-        "microsoft",
-        "ops",
-        "excel",
-        "legal",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-09-26T16:00:26+00:00"
     }
   ],
-  "last_updated": "2026-10-13T20:52:40.209474",
+  "last_updated": "2026-10-14T00:01:40.199661",
   "total": 20,
-  "new": 1
+  "new": 2
 }

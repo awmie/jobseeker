@@ -1,6 +1,43 @@
 {
   "jobs": [
     {
+      "title": "Principal Product Manager Strategic Initiatives",
+      "company": "Thyme Care",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "technical",
+        "customer support",
+        "testing",
+        "senior",
+        "ops",
+        "medical",
+        "engineer",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-10-13T08:00:11+00:00"
+    },
+    {
+      "title": "Client Engagement Representative Work From Home",
+      "company": "AO Garcia Agency",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-engagement-representative-work-from-home-ao-garcia-agency-1137509",
+      "source": "RemoteOK",
+      "tags": [
+        "work from home",
+        "sys admin",
+        "education",
+        "exec",
+        "finance"
+      ],
+      "salary": "",
+      "posted": "2026-10-13T08:00:04+00:00"
+    },
+    {
       "title": "Principal Software Engineer",
       "company": "Vytalize Health",
       "location": "Remote",
@@ -404,50 +441,9 @@
       ],
       "salary": "",
       "posted": "2026-10-03T20:20:32+00:00"
-    },
-    {
-      "title": "Junior Crypto Analyst & Trader",
-      "company": "Empire Assets",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
-      "source": "RemoteOK",
-      "tags": [
-        "crypto",
-        "finance",
-        "trader",
-        "remote",
-        "part time",
-        "full time",
-        "web3",
-        "bitcoin",
-        "ethereum",
-        "blockchain",
-        "defi",
-        "work from home",
-        "Anywhere",
-        "junior",
-        "analyst",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-10-02T12:53:01+00:00"
-    },
-    {
-      "title": "Enterprise Sales Development Representative",
-      "company": "Toptal",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-09-30T18:24:42+00:00"
     }
   ],
-  "last_updated": "2026-10-14T04:42:35.451868",
+  "last_updated": "2026-10-14T09:44:47.537809",
   "total": 20,
-  "new": 0
+  "new": 2
 }

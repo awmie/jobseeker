@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "title": "Customer Support Specialist",
+      "company": "Ultimate Marketing",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-10-14T01:31:49+00:00"
+    },
+    {
       "title": "Principal Product Manager Strategic Initiatives",
       "company": "Thyme Care",
       "location": "Remote",
@@ -427,23 +439,9 @@
       ],
       "salary": "",
       "posted": "2026-10-04T16:00:03+00:00"
-    },
-    {
-      "title": "Head of Operations",
-      "company": "Leverage Live Local",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
-      "source": "RemoteOK",
-      "tags": [
-        "non tech",
-        "ops",
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-10-03T20:20:32+00:00"
     }
   ],
-  "last_updated": "2026-10-15T00:26:20.455309",
+  "last_updated": "2026-10-15T04:59:57.469865",
   "total": 20,
-  "new": 0
+  "new": 1
 }

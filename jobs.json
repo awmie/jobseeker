@@ -1,6 +1,61 @@
 {
   "jobs": [
     {
+      "title": "Account Manager Mid Market",
+      "company": "Allego",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "saas",
+        "customer support",
+        "marketing",
+        "ops",
+        "sales",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-10-15T16:00:21+00:00"
+    },
+    {
+      "title": "Senior Software Engineer II Applied AI",
+      "company": "Wrapbook",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "design",
+        "amazon",
+        "sys admin",
+        "backend",
+        "infosec",
+        "python",
+        "education",
+        "technical",
+        "customer support",
+        "accounting",
+        "payroll",
+        "javascript",
+        "finance",
+        "java",
+        "typescript",
+        "node",
+        "node.js",
+        "content writing",
+        "senior",
+        "ops",
+        "marketing",
+        "sales",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-15T16:00:03+00:00"
+    },
+    {
       "title": "Director US Tax & Accounting #35344",
       "company": "Manila Recruitment",
       "location": "Remote",
@@ -367,62 +422,9 @@
       ],
       "salary": "",
       "posted": "2026-10-10T08:00:08+00:00"
-    },
-    {
-      "title": "Junior Sales Development Representative IT Industry",
-      "company": "Huzzle",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "technical",
-        "marketing",
-        "finance",
-        "c",
-        "cloud",
-        "microsoft",
-        "senior",
-        "junior",
-        "ops",
-        "sales",
-        "ecommerce",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-10-10T00:00:17+00:00"
-    },
-    {
-      "title": "Academic Dean for MiaPrep Online Academy of Ohio",
-      "company": "Miaplaza",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-academic-dean-for-miaprep-online-academy-of-ohio-miaplaza-1137479",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "infosec",
-        "teaching",
-        "education",
-        "exec",
-        "coordinator",
-        "customer support",
-        "testing",
-        "marketing",
-        "virtual assistant",
-        "video",
-        "admin",
-        "content writing",
-        "ops",
-        "medical",
-        "recruiter",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-10T00:00:11+00:00"
     }
   ],
-  "last_updated": "2026-10-16T12:21:50.125224",
+  "last_updated": "2026-10-16T16:48:19.192215",
   "total": 20,
   "new": 2
 }

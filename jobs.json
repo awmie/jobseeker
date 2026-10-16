@@ -1,6 +1,55 @@
 {
   "jobs": [
     {
+      "title": "Director US Tax & Accounting #35344",
+      "company": "Manila Recruitment",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "accounting",
+        "education",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "speech",
+        "finance",
+        "c",
+        "microsoft",
+        "senior",
+        "junior",
+        "ops",
+        "recruiter",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-15T08:00:17+00:00"
+    },
+    {
+      "title": "Project and Quality Administrator Work From Home Dayshift",
+      "company": "Twoconnect",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
+      "source": "RemoteOK",
+      "tags": [
+        "work from home",
+        "jira",
+        "sys admin",
+        "education",
+        "customer support",
+        "marketing",
+        "admin",
+        "microsoft",
+        "exec",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-10-15T08:00:11+00:00"
+    },
+    {
       "title": "Sr REACT NATIVE",
       "company": "Somnio Software",
       "location": "Remote",
@@ -371,63 +420,9 @@
       ],
       "salary": "",
       "posted": "2026-10-10T00:00:11+00:00"
-    },
-    {
-      "title": "Product Engineering Lead",
-      "company": "Tether Operations Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "bitcoin",
-        "react",
-        "exec",
-        "technical",
-        "recruiter",
-        "marketing",
-        "dev",
-        "virtual assistant",
-        "javascript",
-        "finance",
-        "education",
-        "cloud",
-        "api",
-        "mobile",
-        "ops",
-        "sys admin",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-10T00:00:05+00:00"
-    },
-    {
-      "title": "Senior React Full stack Developer",
-      "company": "Lemon.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "engineer",
-        "remote",
-        "python",
-        "aws",
-        "gcp",
-        "javascript",
-        "react",
-        "node",
-        "ruby",
-        "typescript",
-        "full time",
-        "full stack"
-      ],
-      "salary": "",
-      "posted": "2026-10-09T13:09:18+00:00"
     }
   ],
-  "last_updated": "2026-10-16T07:08:10.312604",
+  "last_updated": "2026-10-16T12:21:50.125224",
   "total": 20,
-  "new": 0
+  "new": 2
 }

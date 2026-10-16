@@ -1,6 +1,55 @@
 {
   "jobs": [
     {
+      "title": "Sr REACT NATIVE",
+      "company": "Somnio Software",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
+      "source": "RemoteOK",
+      "tags": [
+        "react native",
+        "react",
+        "dev",
+        "python",
+        "javascript",
+        "c",
+        "flutter",
+        "node",
+        "node.js",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-15T00:00:19+00:00"
+    },
+    {
+      "title": "Contracts Manager Federal",
+      "company": "Akicita Federal, LLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-contracts-manager-federal-akicita-federal-llc-1137522",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "medical",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-10-15T00:00:13+00:00"
+    },
+    {
+      "title": "Federal Account Manager Client Relationships",
+      "company": "Akicita Federal, LLC",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "golang",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-10-15T00:00:05+00:00"
+    },
+    {
       "title": "Payment Operations Specialist",
       "company": "Utopia",
       "location": "Remote",
@@ -376,65 +425,9 @@
       ],
       "salary": "",
       "posted": "2026-10-09T13:09:18+00:00"
-    },
-    {
-      "title": "Product Design Lead",
-      "company": "Fuel50",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "saas",
-        "sys admin",
-        "front end",
-        "technical",
-        "marketing",
-        "dev",
-        "virtual assistant",
-        "javascript",
-        "css",
-        "html",
-        "microsoft",
-        "exec",
-        "senior",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-09T08:00:04+00:00"
-    },
-    {
-      "title": "Telefondienst f\u00c3\u00bcr Tierarztpraxis Neuruppin o",
-      "company": "Tierarzt Plus Partner",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469",
-      "source": "RemoteOK",
-      "tags": [
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-10-07T16:00:05+00:00"
-    },
-    {
-      "title": "Project Manager",
-      "company": "Spiralyze",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "source": "RemoteOK",
-      "tags": [
-        "project manager",
-        "exec",
-        "ops",
-        "marketing",
-        "cro"
-      ],
-      "salary": "",
-      "posted": "2026-10-06T19:35:42+00:00"
     }
   ],
-  "last_updated": "2026-10-15T23:52:20.813330",
+  "last_updated": "2026-10-16T02:10:21.172258",
   "total": 20,
-  "new": 0
+  "new": 3
 }

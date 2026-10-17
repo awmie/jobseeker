@@ -1,6 +1,80 @@
 {
   "jobs": [
     {
+      "title": "Associate Data Scientist",
+      "company": "AlgaeCal",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "python",
+        "customer support",
+        "marketing",
+        "dev",
+        "flutter",
+        "exec",
+        "data science",
+        "ops",
+        "stats",
+        "sales",
+        "medical",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-16T00:00:56+00:00"
+    },
+    {
+      "title": "Director of IT and Workplace",
+      "company": "Hippocratic AI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "saas",
+        "infosec",
+        "python",
+        "technical",
+        "customer support",
+        "testing",
+        "marketing",
+        "dev",
+        "finance",
+        "education",
+        "c",
+        "admin",
+        "microsoft",
+        "senior",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-16T00:00:50+00:00"
+    },
+    {
+      "title": "Customer Success Associate",
+      "company": "Voltus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "testing",
+        "exec",
+        "ops",
+        "sales",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-10-16T00:00:43+00:00"
+    },
+    {
       "title": "Account Manager Mid Market",
       "company": "Allego",
       "location": "Remote",
@@ -360,71 +434,9 @@
       ],
       "salary": "",
       "posted": "2026-10-11T16:00:03+00:00"
-    },
-    {
-      "title": "Marketing and Sales Administrator",
-      "company": "Hunt St",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "marketing",
-        "finance",
-        "admin",
-        "exec",
-        "content writing",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-10-11T08:00:06+00:00"
-    },
-    {
-      "title": "Technical Account Manager",
-      "company": "DEUNA",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "hr",
-        "technical",
-        "customer support",
-        "marketing",
-        "ops",
-        "golang",
-        "medical",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-10-11T00:00:05+00:00"
-    },
-    {
-      "title": "Manager Clinical Data Management",
-      "company": "EDETEK",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "design",
-        "sys admin",
-        "education",
-        "customer support",
-        "dev",
-        "testing",
-        "travel",
-        "junior",
-        "ops",
-        "medical",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-10T08:00:08+00:00"
     }
   ],
-  "last_updated": "2026-10-16T22:12:34.368322",
+  "last_updated": "2026-10-17T00:30:32.085832",
   "total": 20,
-  "new": 0
+  "new": 3
 }

@@ -1,6 +1,67 @@
 {
   "jobs": [
     {
+      "title": "Director of Product Management and IT Operations",
+      "company": "Self Bill Pro",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "infosec",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "ops",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-16T16:00:39+00:00"
+    },
+    {
+      "title": "SAP RE FX Consultant",
+      "company": "Yopeso Romania SRL",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "design",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "exec",
+        "part time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-16T16:00:33+00:00"
+    },
+    {
+      "title": "APAC Python",
+      "company": "Kodland",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+      "source": "RemoteOK",
+      "tags": [
+        "python",
+        "teaching",
+        "education",
+        "customer support",
+        "dev",
+        "testing",
+        "part time",
+        "non tech",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-16T16:00:26+00:00"
+    },
+    {
       "title": "Associate Data Scientist",
       "company": "AlgaeCal",
       "location": "Remote",
@@ -371,72 +432,9 @@
       ],
       "salary": "",
       "posted": "2026-10-13T00:00:06+00:00"
-    },
-    {
-      "title": "Technical Customer Support",
-      "company": "QuickMail",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-quickmail-1137506",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-10-12T16:20:10+00:00"
-    },
-    {
-      "title": "Senior Sales Executive Central Region",
-      "company": "SimSpace Corporation",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "embedded",
-        "sys admin",
-        "infosec",
-        "education",
-        "customer support",
-        "testing",
-        "marketing",
-        "finance",
-        "cloud",
-        "exec",
-        "content writing",
-        "senior",
-        "stats",
-        "legal",
-        "sales",
-        "medical",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-10-12T00:00:04+00:00"
-    },
-    {
-      "title": "Product Design Director",
-      "company": "Midnite",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "exec",
-        "sys admin",
-        "game dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "scheme",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-11T16:00:03+00:00"
     }
   ],
-  "last_updated": "2026-10-17T12:52:25.266532",
+  "last_updated": "2026-10-17T16:01:15.630947",
   "total": 20,
-  "new": 0
+  "new": 3
 }

@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "Head of Technology",
+      "company": "Sanctuary Computer",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "engineer",
+        "senior",
+        "full stack",
+        "front end"
+      ],
+      "salary": "",
+      "posted": "2026-10-16T17:55:35+00:00"
+    },
+    {
       "title": "Director of Product Management and IT Operations",
       "company": "Self Bill Pro",
       "location": "Remote",
@@ -405,36 +421,9 @@
       ],
       "salary": "",
       "posted": "2026-10-13T00:00:18+00:00"
-    },
-    {
-      "title": "Graphic Designer & Video Editor",
-      "company": "BlueTuskr",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "designer",
-        "customer support",
-        "testing",
-        "marketing",
-        "web dev",
-        "video",
-        "mobile",
-        "photoshop",
-        "stats",
-        "sales",
-        "illustrator",
-        "ecommerce",
-        "shopify",
-        "part time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-13T00:00:06+00:00"
     }
   ],
-  "last_updated": "2026-10-17T16:01:15.630947",
+  "last_updated": "2026-10-17T18:23:31.145058",
   "total": 20,
-  "new": 3
+  "new": 1
 }

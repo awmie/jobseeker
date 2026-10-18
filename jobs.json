@@ -1,6 +1,97 @@
 {
   "jobs": [
     {
+      "title": "Graduate Transport Planner",
+      "company": "Curtins",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "education",
+        "consulting",
+        "technical",
+        "customer support",
+        "marketing",
+        "travel",
+        "medical",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-10-17T08:00:50+00:00"
+    },
+    {
+      "title": "Key Account Manager Danish Market Native Speaker Copenhagen",
+      "company": "Packmatic GmbH",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "saas",
+        "technical",
+        "marketing",
+        "travel",
+        "senior",
+        "sales",
+        "golang"
+      ],
+      "salary": "",
+      "posted": "2026-10-17T08:00:42+00:00"
+    },
+    {
+      "title": "Technical Account Manager",
+      "company": "Yuno",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "hr",
+        "python",
+        "technical",
+        "customer support",
+        "marketing",
+        "web dev",
+        "speech",
+        "javascript",
+        "finance",
+        "css",
+        "html",
+        "sql",
+        "postgres",
+        "node",
+        "node.js",
+        "mongo",
+        "api",
+        "senior",
+        "ops",
+        "sales",
+        "sys admin",
+        "golang",
+        "medical",
+        "engineer",
+        "apache",
+        "nginx",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-17T08:00:32+00:00"
+    },
+    {
+      "title": "Commercial Account Manager LATAM",
+      "company": "Apryse",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-10-17T08:00:25+00:00"
+    },
+    {
       "title": "Software Engineer AI Coding Tasks",
       "company": "Askable",
       "location": "Remote",
@@ -339,71 +430,9 @@
       ],
       "salary": "",
       "posted": "2026-10-14T16:00:05+00:00"
-    },
-    {
-      "title": "AI Trainer",
-      "company": "iMerit Technology",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513",
-      "source": "RemoteOK",
-      "tags": [
-        "data annotation",
-        "ai training"
-      ],
-      "salary": "",
-      "posted": "2026-10-14T14:44:21+00:00"
-    },
-    {
-      "title": "Customer Support Specialist",
-      "company": "Ultimate Marketing",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-10-14T01:31:49+00:00"
-    },
-    {
-      "title": "Principal Product Manager Strategic Initiatives",
-      "company": "Thyme Care",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510",
-      "source": "RemoteOK",
-      "tags": [
-        "product manager",
-        "exec",
-        "technical",
-        "customer support",
-        "testing",
-        "senior",
-        "ops",
-        "medical",
-        "engineer",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-10-13T08:00:11+00:00"
-    },
-    {
-      "title": "Client Engagement Representative Work From Home",
-      "company": "AO Garcia Agency",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-client-engagement-representative-work-from-home-ao-garcia-agency-1137509",
-      "source": "RemoteOK",
-      "tags": [
-        "work from home",
-        "sys admin",
-        "education",
-        "exec",
-        "finance"
-      ],
-      "salary": "",
-      "posted": "2026-10-13T08:00:04+00:00"
     }
   ],
-  "last_updated": "2026-10-18T04:50:56.054385",
+  "last_updated": "2026-10-18T09:10:16.975175",
   "total": 20,
-  "new": 1
+  "new": 4
 }

@@ -1,6 +1,24 @@
 {
   "jobs": [
     {
+      "title": "Software Engineer AI Coding Tasks",
+      "company": "Askable",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "python",
+        "javascript",
+        "typescript",
+        "golang",
+        "java",
+        "c plus plus"
+      ],
+      "salary": "",
+      "posted": "2026-10-17T01:09:20+00:00"
+    },
+    {
       "title": "Head of Technology",
       "company": "Sanctuary Computer",
       "location": "Remote",
@@ -383,47 +401,9 @@
       ],
       "salary": "",
       "posted": "2026-10-13T08:00:04+00:00"
-    },
-    {
-      "title": "Principal Software Engineer",
-      "company": "Vytalize Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "design",
-        "infosec",
-        "python",
-        "docker",
-        "technical",
-        "recruiter",
-        "customer support",
-        "testing",
-        "marketing",
-        "quality assurance",
-        "finance",
-        "java",
-        "c",
-        "cloud",
-        "api",
-        "exec",
-        "content writing",
-        "senior",
-        "ops",
-        "stats",
-        "sys admin",
-        "golang",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-13T00:00:18+00:00"
     }
   ],
-  "last_updated": "2026-10-18T00:22:46.971349",
+  "last_updated": "2026-10-18T04:50:56.054385",
   "total": 20,
-  "new": 0
+  "new": 1
 }

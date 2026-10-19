@@ -1,6 +1,41 @@
 {
   "jobs": [
     {
+      "title": "Senior Software Engineer",
+      "company": "Sotheby\u00e2\u0080\u0099s",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "dev",
+        "senior",
+        "sales",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-18T19:00:02+00:00"
+    },
+    {
+      "title": "Senior Backend Engineer",
+      "company": "Rain",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "finance",
+        "mobile",
+        "senior",
+        "medical",
+        "engineer",
+        "backend"
+      ],
+      "salary": "",
+      "posted": "2026-10-18T18:00:01+00:00"
+    },
+    {
       "title": "Graduate Transport Planner",
       "company": "Curtins",
       "location": "Remote",
@@ -398,41 +433,9 @@
       ],
       "salary": "",
       "posted": "2026-10-15T00:00:13+00:00"
-    },
-    {
-      "title": "Federal Account Manager Client Relationships",
-      "company": "Akicita Federal, LLC",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "golang",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-10-15T00:00:05+00:00"
-    },
-    {
-      "title": "Payment Operations Specialist",
-      "company": "Utopia",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "customer support",
-        "marketing",
-        "accounting",
-        "finance",
-        "ops",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-14T16:00:05+00:00"
     }
   ],
-  "last_updated": "2026-10-19T13:37:22.682804",
+  "last_updated": "2026-10-19T19:27:49.664740",
   "total": 20,
-  "new": 0
+  "new": 2
 }

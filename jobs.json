@@ -1,6 +1,38 @@
 {
   "jobs": [
     {
+      "title": "Risk Analyst",
+      "company": "Pavago",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "saas",
+        "sys admin",
+        "infosec",
+        "python",
+        "technical",
+        "recruiter",
+        "customer support",
+        "testing",
+        "marketing",
+        "exec",
+        "finance",
+        "video",
+        "microsoft",
+        "senior",
+        "ops",
+        "excel",
+        "stats",
+        "legal",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-10-20T08:00:05+00:00"
+    },
+    {
       "title": "Customer Support Consultant hospitality",
       "company": "SupportYourApp",
       "location": "Remote",
@@ -419,30 +451,9 @@
       ],
       "salary": "",
       "posted": "2026-10-15T08:00:11+00:00"
-    },
-    {
-      "title": "Sr REACT NATIVE",
-      "company": "Somnio Software",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
-      "source": "RemoteOK",
-      "tags": [
-        "react native",
-        "react",
-        "dev",
-        "python",
-        "javascript",
-        "c",
-        "flutter",
-        "node",
-        "node.js",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-15T00:00:19+00:00"
     }
   ],
-  "last_updated": "2026-10-21T06:35:20.666151",
+  "last_updated": "2026-10-21T12:20:01.345118",
   "total": 20,
-  "new": 0
+  "new": 1
 }

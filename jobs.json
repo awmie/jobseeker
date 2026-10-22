@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "lkjlkjxcv",
+      "company": "scvsdv",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-lkjlkjxcv-scvsdv-1137553",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing",
+        "medical",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-10-21T23:33:07+00:00"
+    },
+    {
       "title": "Senior Backend Engineer",
       "company": "DuckDuckGo",
       "location": "Remote",
@@ -403,46 +417,9 @@
       ],
       "salary": "",
       "posted": "2026-10-15T16:00:21+00:00"
-    },
-    {
-      "title": "Senior Software Engineer II Applied AI",
-      "company": "Wrapbook",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "design",
-        "amazon",
-        "sys admin",
-        "backend",
-        "infosec",
-        "python",
-        "education",
-        "technical",
-        "customer support",
-        "accounting",
-        "payroll",
-        "javascript",
-        "finance",
-        "java",
-        "typescript",
-        "node",
-        "node.js",
-        "content writing",
-        "senior",
-        "ops",
-        "marketing",
-        "sales",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-15T16:00:03+00:00"
     }
   ],
-  "last_updated": "2026-10-22T20:49:14.677676",
+  "last_updated": "2026-10-22T23:40:28.017771",
   "total": 20,
-  "new": 0
+  "new": 1
 }

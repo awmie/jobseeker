@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "Senior Backend Engineer",
+      "company": "DuckDuckGo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+      "source": "RemoteOK",
+      "tags": [
+        "backend",
+        "perl",
+        "golang",
+        "javascript",
+        "node"
+      ],
+      "salary": "",
+      "posted": "2026-10-21T14:29:21+00:00"
+    },
+    {
       "title": "Clinical Data Manager",
       "company": "Penumbra",
       "location": "Remote",
@@ -424,37 +440,9 @@
       ],
       "salary": "",
       "posted": "2026-10-15T16:00:03+00:00"
-    },
-    {
-      "title": "Director US Tax & Accounting #35344",
-      "company": "Manila Recruitment",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "accounting",
-        "education",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "speech",
-        "finance",
-        "c",
-        "microsoft",
-        "senior",
-        "junior",
-        "ops",
-        "recruiter",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-15T08:00:17+00:00"
     }
   ],
-  "last_updated": "2026-10-22T12:51:16.966894",
+  "last_updated": "2026-10-22T17:41:00.055890",
   "total": 20,
-  "new": 0
+  "new": 1
 }

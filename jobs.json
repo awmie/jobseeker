@@ -1,6 +1,28 @@
 {
   "jobs": [
     {
+      "title": "Clinical Data Manager",
+      "company": "Penumbra",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "customer support",
+        "travel",
+        "excel",
+        "sales",
+        "biotech",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-10-21T00:00:06+00:00"
+    },
+    {
       "title": "Risk Analyst",
       "company": "Pavago",
       "location": "Remote",
@@ -430,30 +452,9 @@
       ],
       "salary": "",
       "posted": "2026-10-15T08:00:17+00:00"
-    },
-    {
-      "title": "Project and Quality Administrator Work From Home Dayshift",
-      "company": "Twoconnect",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
-      "source": "RemoteOK",
-      "tags": [
-        "work from home",
-        "jira",
-        "sys admin",
-        "education",
-        "customer support",
-        "marketing",
-        "admin",
-        "microsoft",
-        "exec",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-10-15T08:00:11+00:00"
     }
   ],
-  "last_updated": "2026-10-21T23:42:46.338836",
+  "last_updated": "2026-10-22T01:53:56.094641",
   "total": 20,
-  "new": 0
+  "new": 1
 }

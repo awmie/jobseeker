@@ -1,6 +1,60 @@
 {
   "jobs": [
     {
+      "title": "Accounting & Finance Manager",
+      "company": "Political Asylum Lawyers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "accounting",
+        "design",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "controller",
+        "payroll",
+        "finance",
+        "microsoft",
+        "content writing",
+        "senior",
+        "ops",
+        "excel",
+        "legal",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-22T00:00:21+00:00"
+    },
+    {
+      "title": "Accounting Operations",
+      "company": "Plaid",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554",
+      "source": "RemoteOK",
+      "tags": [
+        "accounting",
+        "technical",
+        "customer support",
+        "marketing",
+        "finance",
+        "c",
+        "exec",
+        "ops",
+        "legal",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-10-22T00:00:15+00:00"
+    },
+    {
       "title": "lkjlkjxcv",
       "company": "scvsdv",
       "location": "Remote",
@@ -382,44 +436,9 @@
       ],
       "salary": "",
       "posted": "2026-10-16T00:00:50+00:00"
-    },
-    {
-      "title": "Customer Success Associate",
-      "company": "Voltus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "testing",
-        "exec",
-        "ops",
-        "sales",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-10-16T00:00:43+00:00"
-    },
-    {
-      "title": "Account Manager Mid Market",
-      "company": "Allego",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "saas",
-        "customer support",
-        "marketing",
-        "ops",
-        "sales",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-10-15T16:00:21+00:00"
     }
   ],
-  "last_updated": "2026-10-22T23:40:28.017771",
+  "last_updated": "2026-10-23T01:58:36.500506",
   "total": 20,
-  "new": 1
+  "new": 2
 }

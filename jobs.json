@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+      "source": "RemoteOK",
+      "tags": [
+        "devops",
+        "engineer",
+        "dev",
+        "python",
+        "golang",
+        "aws",
+        "gcp",
+        "kubernetes",
+        "sql",
+        "linux",
+        "ansible",
+        "ai",
+        "full time",
+        "full stack",
+        "remote",
+        "remote work"
+      ],
+      "salary": "",
+      "posted": "2026-10-22T12:58:28+00:00"
+    },
+    {
       "title": "Senior Finance Manager Management Accountant",
       "company": "D2B",
       "location": "Remote",
@@ -406,34 +433,9 @@
       ],
       "salary": "",
       "posted": "2026-10-16T16:00:26+00:00"
-    },
-    {
-      "title": "Associate Data Scientist",
-      "company": "AlgaeCal",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "python",
-        "customer support",
-        "marketing",
-        "dev",
-        "flutter",
-        "exec",
-        "data science",
-        "ops",
-        "stats",
-        "sales",
-        "medical",
-        "ecommerce",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-16T00:00:56+00:00"
     }
   ],
-  "last_updated": "2026-10-23T12:40:59.213234",
+  "last_updated": "2026-10-23T17:27:35.121703",
   "total": 20,
   "new": 1
 }

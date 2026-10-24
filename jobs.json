@@ -1,6 +1,82 @@
 {
   "jobs": [
     {
+      "title": "Sales Development Representative German Speaking",
+      "company": "Huzzle",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "sys admin",
+        "dev",
+        "marketing",
+        "finance",
+        "c",
+        "exec",
+        "sales",
+        "medical",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-23T16:00:18+00:00"
+    },
+    {
+      "title": "Senior Frontend Engineer",
+      "company": "B2spin",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
+      "source": "RemoteOK",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "embedded",
+        "sys admin",
+        "game dev",
+        "technical",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "javascript",
+        "finance",
+        "css",
+        "html",
+        "typescript",
+        "seo",
+        "mobile",
+        "senior",
+        "stats",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-23T16:00:12+00:00"
+    },
+    {
+      "title": "Sales Development Representative B2B",
+      "company": "Huzzle",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-b2b-huzzle-1137561",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "salesforce",
+        "education",
+        "customer support",
+        "marketing",
+        "finance",
+        "exec",
+        "sales",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-10-23T16:00:06+00:00"
+    },
+    {
       "title": "Accounting and Implementation Manager",
       "company": "Aprio",
       "location": "Remote",
@@ -385,66 +461,9 @@
       ],
       "salary": "",
       "posted": "2026-10-17T01:09:20+00:00"
-    },
-    {
-      "title": "Head of Technology",
-      "company": "Sanctuary Computer",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "engineer",
-        "senior",
-        "full stack",
-        "front end"
-      ],
-      "salary": "",
-      "posted": "2026-10-16T17:55:35+00:00"
-    },
-    {
-      "title": "Director of Product Management and IT Operations",
-      "company": "Self Bill Pro",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
-      "source": "RemoteOK",
-      "tags": [
-        "product manager",
-        "exec",
-        "infosec",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "ops",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-16T16:00:39+00:00"
-    },
-    {
-      "title": "SAP RE FX Consultant",
-      "company": "Yopeso Romania SRL",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
-      "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "design",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "exec",
-        "part time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-16T16:00:33+00:00"
     }
   ],
-  "last_updated": "2026-10-24T14:53:12.088377",
+  "last_updated": "2026-10-24T17:43:37.488741",
   "total": 20,
-  "new": 0
+  "new": 3
 }

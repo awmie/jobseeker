@@ -1,6 +1,21 @@
 {
   "jobs": [
     {
+      "title": "Travel Support Specialist",
+      "company": "Aisles &amp; Abroad",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
+      "source": "RemoteOK",
+      "tags": [
+        "travel",
+        "education",
+        "customer support",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-10-23T00:00:05+00:00"
+    },
+    {
       "title": "Senior DevOps Engineer",
       "company": "Lemon.io",
       "location": "Remote",
@@ -107,20 +122,6 @@
       ],
       "salary": "",
       "posted": "2026-10-22T00:00:15+00:00"
-    },
-    {
-      "title": "lkjlkjxcv",
-      "company": "scvsdv",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-lkjlkjxcv-scvsdv-1137553",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing",
-        "medical",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-10-21T23:33:07+00:00"
     },
     {
       "title": "Senior Backend Engineer",
@@ -435,7 +436,7 @@
       "posted": "2026-10-16T16:00:26+00:00"
     }
   ],
-  "last_updated": "2026-10-23T23:27:58.471158",
+  "last_updated": "2026-10-24T01:52:19.711487",
   "total": 20,
-  "new": 0
+  "new": 1
 }

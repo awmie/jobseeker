@@ -1,6 +1,25 @@
 {
   "jobs": [
     {
+      "title": "Field Phlebotomy Supervisor Northern California",
+      "company": "Getlabs",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
+      "source": "RemoteOK",
+      "tags": [
+        "supervisor",
+        "testing",
+        "marketing",
+        "exec",
+        "mobile",
+        "ops",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-10-24T16:00:04+00:00"
+    },
+    {
       "title": "Solutions Engineer",
       "company": "Onebrief",
       "location": "Remote",
@@ -89,26 +108,6 @@
       ],
       "salary": "",
       "posted": "2026-10-23T16:00:12+00:00"
-    },
-    {
-      "title": "Sales Development Representative B2B",
-      "company": "Huzzle",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-b2b-huzzle-1137561",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "salesforce",
-        "education",
-        "customer support",
-        "marketing",
-        "finance",
-        "exec",
-        "sales",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-10-23T16:00:06+00:00"
     },
     {
       "title": "Accounting and Implementation Manager",
@@ -479,7 +478,7 @@
       "posted": "2026-10-17T08:00:25+00:00"
     }
   ],
-  "last_updated": "2026-10-25T13:49:45.837974",
+  "last_updated": "2026-10-25T17:15:54.814507",
   "total": 20,
-  "new": 0
+  "new": 1
 }

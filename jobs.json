@@ -1,6 +1,23 @@
 {
   "jobs": [
     {
+      "title": "Senior Software Engineer",
+      "company": "Klardaten",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "senior",
+        "javascript",
+        "typescript",
+        "full stack",
+        "api"
+      ],
+      "salary": "",
+      "posted": "2026-10-25T12:34:21+00:00"
+    },
+    {
       "title": "Field Phlebotomy Supervisor Northern California",
       "company": "Getlabs",
       "location": "Remote",
@@ -464,21 +481,9 @@
       ],
       "salary": "",
       "posted": "2026-10-17T08:00:32+00:00"
-    },
-    {
-      "title": "Commercial Account Manager LATAM",
-      "company": "Apryse",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
-      "source": "RemoteOK",
-      "tags": [
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-10-17T08:00:25+00:00"
     }
   ],
-  "last_updated": "2026-10-26T10:44:53.649702",
+  "last_updated": "2026-10-26T17:01:02.621428",
   "total": 20,
-  "new": 0
+  "new": 1
 }

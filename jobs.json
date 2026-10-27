@@ -1,6 +1,48 @@
 {
   "jobs": [
     {
+      "title": "Account Executive",
+      "company": "Huzzle",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-huzzle-1137573",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "dev",
+        "video",
+        "finance",
+        "exec",
+        "senior",
+        "marketing",
+        "sales",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-26T08:00:12+00:00"
+    },
+    {
+      "title": "Senior Software Engineer LATAM",
+      "company": "Wagmo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "design",
+        "react",
+        "sys admin",
+        "python",
+        "django",
+        "typescript",
+        "senior",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-26T08:00:06+00:00"
+    },
+    {
       "title": "Senior Software Engineer",
       "company": "Klardaten",
       "location": "Remote",
@@ -422,68 +464,9 @@
       ],
       "salary": "",
       "posted": "2026-10-17T08:00:50+00:00"
-    },
-    {
-      "title": "Key Account Manager Danish Market Native Speaker Copenhagen",
-      "company": "Packmatic GmbH",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "saas",
-        "technical",
-        "marketing",
-        "travel",
-        "senior",
-        "sales",
-        "golang"
-      ],
-      "salary": "",
-      "posted": "2026-10-17T08:00:42+00:00"
-    },
-    {
-      "title": "Technical Account Manager",
-      "company": "Yuno",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "design",
-        "hr",
-        "python",
-        "technical",
-        "customer support",
-        "marketing",
-        "web dev",
-        "speech",
-        "javascript",
-        "finance",
-        "css",
-        "html",
-        "sql",
-        "postgres",
-        "node",
-        "node.js",
-        "mongo",
-        "api",
-        "senior",
-        "ops",
-        "sales",
-        "sys admin",
-        "golang",
-        "medical",
-        "engineer",
-        "apache",
-        "nginx",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-17T08:00:32+00:00"
     }
   ],
-  "last_updated": "2026-10-27T05:41:10.151388",
+  "last_updated": "2026-10-27T11:00:38.732111",
   "total": 20,
-  "new": 0
+  "new": 2
 }

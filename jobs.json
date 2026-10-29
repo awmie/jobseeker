@@ -1,6 +1,36 @@
 {
   "jobs": [
     {
+      "title": "z",
+      "company": "y",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-z-y-1137595",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-10-28T15:49:49+00:00"
+    },
+    {
+      "title": "z",
+      "company": "y",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-z-y-1137594",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-10-28T15:49:45+00:00"
+    },
+    {
+      "title": "z",
+      "company": "y",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-z-y-1137593",
+      "source": "RemoteOK",
+      "tags": [],
+      "salary": "",
+      "posted": "2026-10-28T15:49:33+00:00"
+    },
+    {
       "title": "Account Executive",
       "company": "Huzzle",
       "location": "Remote",
@@ -409,64 +439,9 @@
       ],
       "salary": "",
       "posted": "2026-10-19T16:00:04+00:00"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "Sotheby\u00e2\u0080\u0099s",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "dev",
-        "senior",
-        "sales",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-18T19:00:02+00:00"
-    },
-    {
-      "title": "Senior Backend Engineer",
-      "company": "Rain",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "finance",
-        "mobile",
-        "senior",
-        "medical",
-        "engineer",
-        "backend"
-      ],
-      "salary": "",
-      "posted": "2026-10-18T18:00:01+00:00"
-    },
-    {
-      "title": "Graduate Transport Planner",
-      "company": "Curtins",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "education",
-        "consulting",
-        "technical",
-        "customer support",
-        "marketing",
-        "travel",
-        "medical",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-10-17T08:00:50+00:00"
     }
   ],
-  "last_updated": "2026-10-29T14:22:54.723764",
+  "last_updated": "2026-10-29T19:44:52.126915",
   "total": 20,
-  "new": 0
+  "new": 3
 }

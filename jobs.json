@@ -1,6 +1,19 @@
 {
   "jobs": [
     {
+      "title": "Front End Developer",
+      "company": "Edconic",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597",
+      "source": "RemoteOK",
+      "tags": [
+        "other",
+        "front end"
+      ],
+      "salary": "",
+      "posted": "2026-10-28T21:53:15+00:00"
+    },
+    {
       "title": "z",
       "company": "y",
       "location": "Remote",
@@ -418,30 +431,9 @@
       ],
       "salary": "",
       "posted": "2026-10-20T08:00:05+00:00"
-    },
-    {
-      "title": "Customer Support Consultant hospitality",
-      "company": "SupportYourApp",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
-      "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "customer support",
-        "saas",
-        "infosec",
-        "technical",
-        "dev",
-        "travel",
-        "exec",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-19T16:00:04+00:00"
     }
   ],
-  "last_updated": "2026-10-29T19:44:52.126915",
+  "last_updated": "2026-10-29T23:37:35.399913",
   "total": 20,
-  "new": 3
+  "new": 1
 }

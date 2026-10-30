@@ -1,6 +1,37 @@
 {
   "jobs": [
     {
+      "title": "Cloud Engineer Automation",
+      "company": "Smile Digital Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "grafana",
+        "infosec",
+        "python",
+        "customer support",
+        "marketing",
+        "dev",
+        "quality assurance",
+        "devops",
+        "education",
+        "cloud",
+        "git",
+        "postgres",
+        "microsoft",
+        "exec",
+        "ops",
+        "medical",
+        "engineer",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-29T16:00:03+00:00"
+    },
+    {
       "title": "Front End Developer",
       "company": "Edconic",
       "location": "Remote",
@@ -12,36 +43,6 @@
       ],
       "salary": "",
       "posted": "2026-10-28T21:53:15+00:00"
-    },
-    {
-      "title": "z",
-      "company": "y",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-z-y-1137595",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-10-28T15:49:49+00:00"
-    },
-    {
-      "title": "z",
-      "company": "y",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-z-y-1137594",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-10-28T15:49:45+00:00"
-    },
-    {
-      "title": "z",
-      "company": "y",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-z-y-1137593",
-      "source": "RemoteOK",
-      "tags": [],
-      "salary": "",
-      "posted": "2026-10-28T15:49:33+00:00"
     },
     {
       "title": "Account Executive",
@@ -431,9 +432,47 @@
       ],
       "salary": "",
       "posted": "2026-10-20T08:00:05+00:00"
+    },
+    {
+      "title": "Customer Support Consultant hospitality",
+      "company": "SupportYourApp",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
+      "source": "RemoteOK",
+      "tags": [
+        "consulting",
+        "customer support",
+        "saas",
+        "infosec",
+        "technical",
+        "dev",
+        "travel",
+        "exec",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-19T16:00:04+00:00"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Sotheby\u00e2\u0080\u0099s",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
+      "source": "RemoteOK",
+      "tags": [
+        "golang",
+        "dev",
+        "senior",
+        "sales",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-18T19:00:02+00:00"
     }
   ],
-  "last_updated": "2026-10-30T09:42:04.590241",
+  "last_updated": "2026-10-30T16:14:47.689630",
   "total": 20,
-  "new": 0
+  "new": 1
 }

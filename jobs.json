@@ -1,6 +1,62 @@
 {
   "jobs": [
     {
+      "title": "Competent Wind Turbine Technicians EU UK APAC 2027",
+      "company": "GEV Wind Power",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-competent-wind-turbine-technicians-eu-uk-apac-2027-gev-wind-power-1137603",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "technical",
+        "customer support",
+        "testing",
+        "exec",
+        "ops",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-10-30T00:00:17+00:00"
+    },
+    {
+      "title": "Country Manager Canada",
+      "company": "Polaroid",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "education",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "finance",
+        "math",
+        "senior",
+        "ops",
+        "legal",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-10-30T00:00:10+00:00"
+    },
+    {
+      "title": "Client Support &amp; Travel Booking Online",
+      "company": "Destination Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-support-amp-travel-booking-online-destination-careers-1137601",
+      "source": "RemoteOK",
+      "tags": [
+        "travel",
+        "education",
+        "customer support",
+        "virtual assistant",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-10-30T00:00:03+00:00"
+    },
+    {
       "title": "Cloud Engineer Automation",
       "company": "Smile Digital Health",
       "location": "Remote",
@@ -400,79 +456,9 @@
       ],
       "salary": "",
       "posted": "2026-10-21T00:00:06+00:00"
-    },
-    {
-      "title": "Risk Analyst",
-      "company": "Pavago",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "saas",
-        "sys admin",
-        "infosec",
-        "python",
-        "technical",
-        "recruiter",
-        "customer support",
-        "testing",
-        "marketing",
-        "exec",
-        "finance",
-        "video",
-        "microsoft",
-        "senior",
-        "ops",
-        "excel",
-        "stats",
-        "legal",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-10-20T08:00:05+00:00"
-    },
-    {
-      "title": "Customer Support Consultant hospitality",
-      "company": "SupportYourApp",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
-      "source": "RemoteOK",
-      "tags": [
-        "consulting",
-        "customer support",
-        "saas",
-        "infosec",
-        "technical",
-        "dev",
-        "travel",
-        "exec",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-19T16:00:04+00:00"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "Sotheby\u00e2\u0080\u0099s",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "dev",
-        "senior",
-        "sales",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-18T19:00:02+00:00"
     }
   ],
-  "last_updated": "2026-10-30T20:51:08.520527",
+  "last_updated": "2026-10-31T00:10:31.370427",
   "total": 20,
-  "new": 0
+  "new": 3
 }

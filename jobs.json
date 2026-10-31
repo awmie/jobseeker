@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "Online Client Support &amp; Travel Booking We Will Train You",
+      "company": "Destination Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604",
+      "source": "RemoteOK",
+      "tags": [
+        "travel",
+        "education",
+        "customer support",
+        "virtual assistant",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-10-30T08:00:12+00:00"
+    },
+    {
       "title": "Competent Wind Turbine Technicians EU UK APAC 2027",
       "company": "GEV Wind Power",
       "location": "Remote",
@@ -434,31 +450,9 @@
       ],
       "salary": "",
       "posted": "2026-10-21T14:29:21+00:00"
-    },
-    {
-      "title": "Clinical Data Manager",
-      "company": "Penumbra",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "customer support",
-        "travel",
-        "excel",
-        "sales",
-        "biotech",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-10-21T00:00:06+00:00"
     }
   ],
-  "last_updated": "2026-10-31T05:39:14.958596",
+  "last_updated": "2026-10-31T11:13:57.571208",
   "total": 20,
-  "new": 0
+  "new": 1
 }

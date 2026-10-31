@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "title": "Contract Recruiter",
+      "company": "CAI",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-contract-recruiter-cai-1137607",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "technical",
+        "recruiter",
+        "customer support",
+        "quality assurance",
+        "exec",
+        "ops",
+        "biotech",
+        "engineer",
+        "ads"
+      ],
+      "salary": "",
+      "posted": "2026-10-30T16:00:15+00:00"
+    },
+    {
+      "title": "AWS Cloud Solutions Architect",
+      "company": "Cloudary SAS",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
+      "source": "RemoteOK",
+      "tags": [
+        "architecture",
+        "design",
+        "ansible",
+        "infosec",
+        "docker",
+        "technical",
+        "dev",
+        "exec",
+        "serverless",
+        "cloud",
+        "postgres",
+        "sql",
+        "api",
+        "senior",
+        "ops",
+        "sales",
+        "golang",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-30T16:00:06+00:00"
+    },
+    {
       "title": "Online Client Support &amp; Travel Booking We Will Train You",
       "company": "Destination Careers",
       "location": "Remote",
@@ -413,46 +464,9 @@
       ],
       "salary": "",
       "posted": "2026-10-22T00:00:21+00:00"
-    },
-    {
-      "title": "Accounting Operations",
-      "company": "Plaid",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554",
-      "source": "RemoteOK",
-      "tags": [
-        "accounting",
-        "technical",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "ops",
-        "legal",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-10-22T00:00:15+00:00"
-    },
-    {
-      "title": "Senior Backend Engineer",
-      "company": "DuckDuckGo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
-      "source": "RemoteOK",
-      "tags": [
-        "backend",
-        "perl",
-        "golang",
-        "javascript",
-        "node"
-      ],
-      "salary": "",
-      "posted": "2026-10-21T14:29:21+00:00"
     }
   ],
-  "last_updated": "2026-10-31T11:13:57.571208",
+  "last_updated": "2026-10-31T16:07:47.372294",
   "total": 20,
-  "new": 1
+  "new": 2
 }

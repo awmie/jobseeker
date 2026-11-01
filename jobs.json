@@ -1,6 +1,28 @@
 {
   "jobs": [
     {
+      "title": "Scientific Account Executive",
+      "company": "Adaptyv",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "technical",
+        "customer support",
+        "dev",
+        "api",
+        "exec",
+        "sales",
+        "golang",
+        "biotech",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-31T00:00:04+00:00"
+    },
+    {
       "title": "Contract Recruiter",
       "company": "CAI",
       "location": "Remote",
@@ -431,42 +453,9 @@
       ],
       "salary": "",
       "posted": "2026-10-22T08:00:04+00:00"
-    },
-    {
-      "title": "Accounting & Finance Manager",
-      "company": "Political Asylum Lawyers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "accounting",
-        "design",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "controller",
-        "payroll",
-        "finance",
-        "microsoft",
-        "content writing",
-        "senior",
-        "ops",
-        "excel",
-        "legal",
-        "medical",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-22T00:00:21+00:00"
     }
   ],
-  "last_updated": "2026-10-31T23:07:53.670549",
+  "last_updated": "2026-11-01T02:09:32.745365",
   "total": 20,
-  "new": 0
+  "new": 1
 }

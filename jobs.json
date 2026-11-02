@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "title": "Partner Operations Manager",
+      "company": "Mecka",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "education",
+        "customer support",
+        "marketing",
+        "quality assurance",
+        "finance",
+        "robotics",
+        "ops",
+        "recruiter",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-01T00:00:08+00:00"
+    },
+    {
       "title": "Scientific Account Executive",
       "company": "Adaptyv",
       "location": "Remote",
@@ -426,36 +449,9 @@
       ],
       "salary": "",
       "posted": "2026-10-22T12:58:28+00:00"
-    },
-    {
-      "title": "Senior Finance Manager Management Accountant",
-      "company": "D2B",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "accounting",
-        "saas",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "controller",
-        "payroll",
-        "finance",
-        "education",
-        "php",
-        "senior",
-        "ops",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-22T08:00:04+00:00"
     }
   ],
-  "last_updated": "2026-11-01T23:46:56.551617",
+  "last_updated": "2026-11-02T02:47:06.139366",
   "total": 20,
-  "new": 0
+  "new": 1
 }

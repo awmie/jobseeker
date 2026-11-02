@@ -1,6 +1,42 @@
 {
   "jobs": [
     {
+      "title": "Virtual Destination Wedding Coordinator",
+      "company": "Destination Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-destination-wedding-coordinator-destination-careers-1137611",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "coordinator",
+        "customer support",
+        "travel",
+        "legal",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-01T08:00:12+00:00"
+    },
+    {
+      "title": "Virtual Scheduling Assistant",
+      "company": "Destination Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-virtual-scheduling-assistant-destination-careers-1137610",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "education",
+        "customer support",
+        "marketing",
+        "travel",
+        "admin",
+        "exec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-11-01T08:00:05+00:00"
+    },
+    {
       "title": "Partner Operations Manager",
       "company": "Mecka",
       "location": "Remote",
@@ -407,51 +443,9 @@
       ],
       "salary": "",
       "posted": "2026-10-23T08:00:05+00:00"
-    },
-    {
-      "title": "Travel Support Specialist",
-      "company": "Aisles &amp; Abroad",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
-      "source": "RemoteOK",
-      "tags": [
-        "travel",
-        "education",
-        "customer support",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-10-23T00:00:05+00:00"
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": "Lemon.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
-      "source": "RemoteOK",
-      "tags": [
-        "devops",
-        "engineer",
-        "dev",
-        "python",
-        "golang",
-        "aws",
-        "gcp",
-        "kubernetes",
-        "sql",
-        "linux",
-        "ansible",
-        "ai",
-        "full time",
-        "full stack",
-        "remote",
-        "remote work"
-      ],
-      "salary": "",
-      "posted": "2026-10-22T12:58:28+00:00"
     }
   ],
-  "last_updated": "2026-11-02T02:47:06.139366",
+  "last_updated": "2026-11-02T10:05:04.381505",
   "total": 20,
-  "new": 1
+  "new": 2
 }

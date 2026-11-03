@@ -1,6 +1,45 @@
 {
   "jobs": [
     {
+      "title": "Software Engineer Infrastructure",
+      "company": "Sodalis, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "design",
+        "embedded",
+        "sys admin",
+        "cloud",
+        "ruby",
+        "exec",
+        "ops",
+        "golang",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-02T00:00:13+00:00"
+    },
+    {
+      "title": "Team Lead Account Executive",
+      "company": "Capmo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-lead-account-executive-capmo-1137613",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "exec",
+        "junior",
+        "marketing",
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-02T00:00:07+00:00"
+    },
+    {
       "title": "Virtual Destination Wedding Coordinator",
       "company": "Destination Careers",
       "location": "Remote",
@@ -381,71 +420,9 @@
       ],
       "salary": "",
       "posted": "2026-10-23T16:00:18+00:00"
-    },
-    {
-      "title": "Senior Frontend Engineer",
-      "company": "B2spin",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
-      "source": "RemoteOK",
-      "tags": [
-        "front end",
-        "design",
-        "react",
-        "embedded",
-        "sys admin",
-        "game dev",
-        "technical",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "javascript",
-        "finance",
-        "css",
-        "html",
-        "typescript",
-        "seo",
-        "mobile",
-        "senior",
-        "stats",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-23T16:00:12+00:00"
-    },
-    {
-      "title": "Accounting and Implementation Manager",
-      "company": "Aprio",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "accounting",
-        "design",
-        "sys admin",
-        "education",
-        "consulting",
-        "customer support",
-        "testing",
-        "marketing",
-        "payroll",
-        "finance",
-        "ops",
-        "stats",
-        "sales",
-        "golang",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-23T08:00:05+00:00"
     }
   ],
-  "last_updated": "2026-11-02T20:17:35.628136",
+  "last_updated": "2026-11-03T02:25:46.996330",
   "total": 20,
-  "new": 0
+  "new": 2
 }

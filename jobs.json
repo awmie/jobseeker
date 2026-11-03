@@ -1,24 +1,6 @@
 {
   "jobs": [
     {
-      "title": "Site Activation Manager 6 Month Contract Immediate start",
-      "company": "uMed",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-site-activation-manager-6-month-contract-immediate-start-umed-1137620",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "sys admin",
-        "education",
-        "customer support",
-        "ops",
-        "medical",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-11-02T16:00:08+00:00"
-    },
-    {
       "title": "AI ML Engineer",
       "company": "Docusketch",
       "location": "Remote",
@@ -227,24 +209,6 @@
       "posted": "2026-10-30T08:00:12+00:00"
     },
     {
-      "title": "Competent Wind Turbine Technicians EU UK APAC 2027",
-      "company": "GEV Wind Power",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-competent-wind-turbine-technicians-eu-uk-apac-2027-gev-wind-power-1137603",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "technical",
-        "customer support",
-        "testing",
-        "exec",
-        "ops",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-10-30T00:00:17+00:00"
-    },
-    {
       "title": "Country Manager Canada",
       "company": "Polaroid",
       "location": "Remote",
@@ -386,26 +350,97 @@
       "posted": "2026-10-25T12:34:21+00:00"
     },
     {
-      "title": "Field Phlebotomy Supervisor Northern California",
-      "company": "Getlabs",
+      "title": "Solutions Engineer",
+      "company": "Onebrief",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
       "source": "RemoteOK",
       "tags": [
-        "supervisor",
+        "design",
+        "ansible",
+        "grafana",
+        "sys admin",
+        "infosec",
+        "python",
+        "docker",
+        "technical",
+        "recruiter",
+        "customer support",
+        "dev",
         "testing",
         "marketing",
+        "travel",
+        "finance",
+        "cloud",
         "exec",
-        "mobile",
+        "senior",
         "ops",
-        "medical",
-        "full time"
+        "sales",
+        "golang",
+        "engineer",
+        "digital nomad"
       ],
       "salary": "",
-      "posted": "2026-10-24T16:00:04+00:00"
+      "posted": "2026-10-24T00:00:02+00:00"
+    },
+    {
+      "title": "Sales Development Representative German Speaking",
+      "company": "Huzzle",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "sys admin",
+        "dev",
+        "marketing",
+        "finance",
+        "c",
+        "exec",
+        "sales",
+        "medical",
+        "ecommerce",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-23T16:00:18+00:00"
+    },
+    {
+      "title": "Senior Frontend Engineer",
+      "company": "B2spin",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
+      "source": "RemoteOK",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "embedded",
+        "sys admin",
+        "game dev",
+        "technical",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "javascript",
+        "finance",
+        "css",
+        "html",
+        "typescript",
+        "seo",
+        "mobile",
+        "senior",
+        "stats",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-10-23T16:00:12+00:00"
     }
   ],
-  "last_updated": "2026-11-03T17:23:22.459963",
+  "last_updated": "2026-11-03T22:25:01.096111",
   "total": 20,
-  "new": 2
+  "new": 0
 }

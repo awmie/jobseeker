@@ -1,6 +1,60 @@
 {
   "jobs": [
     {
+      "title": "Tax Manager Private Client",
+      "company": "Aprio",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "education",
+        "consulting",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "accounting",
+        "finance",
+        "junior",
+        "sales",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-03T00:00:18+00:00"
+    },
+    {
+      "title": "Client Accounting Division Manager",
+      "company": "Burkland Associates",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "accounting",
+        "amazon",
+        "hr",
+        "sys admin",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "finance",
+        "video",
+        "content writing",
+        "ops",
+        "medical",
+        "ecommerce",
+        "shopify",
+        "full time",
+        "part time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-03T00:00:10+00:00"
+    },
+    {
       "title": "AI ML Engineer",
       "company": "Docusketch",
       "location": "Remote",
@@ -382,65 +436,9 @@
       ],
       "salary": "",
       "posted": "2026-10-24T00:00:02+00:00"
-    },
-    {
-      "title": "Sales Development Representative German Speaking",
-      "company": "Huzzle",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "sys admin",
-        "dev",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "sales",
-        "medical",
-        "ecommerce",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-23T16:00:18+00:00"
-    },
-    {
-      "title": "Senior Frontend Engineer",
-      "company": "B2spin",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
-      "source": "RemoteOK",
-      "tags": [
-        "front end",
-        "design",
-        "react",
-        "embedded",
-        "sys admin",
-        "game dev",
-        "technical",
-        "dev",
-        "testing",
-        "marketing",
-        "web dev",
-        "javascript",
-        "finance",
-        "css",
-        "html",
-        "typescript",
-        "seo",
-        "mobile",
-        "senior",
-        "stats",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-23T16:00:12+00:00"
     }
   ],
-  "last_updated": "2026-11-03T22:25:01.096111",
+  "last_updated": "2026-11-04T02:31:12.780342",
   "total": 20,
-  "new": 0
+  "new": 2
 }

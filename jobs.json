@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "title": "Senior Property Manager ENG",
+      "company": "StaffRight",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "hr",
+        "technical",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "php",
+        "microsoft",
+        "senior",
+        "junior",
+        "ops",
+        "marketing",
+        "medical",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-03T08:00:12+00:00"
+    },
+    {
       "title": "Tax Manager Private Client",
       "company": "Aprio",
       "location": "Remote",
@@ -402,43 +429,9 @@
       ],
       "salary": "",
       "posted": "2026-10-25T12:34:21+00:00"
-    },
-    {
-      "title": "Solutions Engineer",
-      "company": "Onebrief",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "ansible",
-        "grafana",
-        "sys admin",
-        "infosec",
-        "python",
-        "docker",
-        "technical",
-        "recruiter",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "travel",
-        "finance",
-        "cloud",
-        "exec",
-        "senior",
-        "ops",
-        "sales",
-        "golang",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-24T00:00:02+00:00"
     }
   ],
-  "last_updated": "2026-11-04T02:31:12.780342",
+  "last_updated": "2026-11-04T09:45:44.617363",
   "total": 20,
-  "new": 2
+  "new": 1
 }

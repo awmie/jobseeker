@@ -1,6 +1,86 @@
 {
   "jobs": [
     {
+      "title": "M&A Praktikum Intern",
+      "company": "Vogel",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677",
+      "source": "RemoteOK",
+      "tags": [
+        "testing",
+        "marketing",
+        "exec",
+        "finance",
+        "senior",
+        "excel"
+      ],
+      "salary": "",
+      "posted": "2026-11-03T16:00:25+00:00"
+    },
+    {
+      "title": "Paid Media Manager US ",
+      "company": "Kyra",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "customer support",
+        "testing",
+        "marketing",
+        "finance",
+        "scheme",
+        "content writing",
+        "excel",
+        "stats",
+        "legal",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-11-03T16:00:12+00:00"
+    },
+    {
+      "title": "Sales Operations Analyst",
+      "company": "Calabrio",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
+      "source": "RemoteOK",
+      "tags": [
+        "analyst",
+        "saas",
+        "salesforce",
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "accounting",
+        "finance",
+        "exec",
+        "ops",
+        "excel",
+        "stats",
+        "sales",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-03T16:00:05+00:00"
+    },
+    {
+      "title": "Tech lead",
+      "company": "Ringbook Limited",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "exec",
+        "accounting",
+        "saas"
+      ],
+      "salary": "",
+      "posted": "2026-11-03T14:53:55+00:00"
+    },
+    {
       "title": "Senior Property Manager ENG",
       "company": "StaffRight",
       "location": "Remote",
@@ -157,25 +237,6 @@
       ],
       "salary": "",
       "posted": "2026-11-01T08:00:12+00:00"
-    },
-    {
-      "title": "Virtual Scheduling Assistant",
-      "company": "Destination Careers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-virtual-scheduling-assistant-destination-careers-1137610",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "education",
-        "customer support",
-        "marketing",
-        "travel",
-        "admin",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-11-01T08:00:05+00:00"
     },
     {
       "title": "Partner Operations Manager",
@@ -370,68 +431,9 @@
       ],
       "salary": "",
       "posted": "2026-10-28T21:53:15+00:00"
-    },
-    {
-      "title": "Account Executive",
-      "company": "Huzzle",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-huzzle-1137573",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "dev",
-        "video",
-        "finance",
-        "exec",
-        "senior",
-        "marketing",
-        "sales",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-26T08:00:12+00:00"
-    },
-    {
-      "title": "Senior Software Engineer LATAM",
-      "company": "Wagmo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "design",
-        "react",
-        "sys admin",
-        "python",
-        "django",
-        "typescript",
-        "senior",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-26T08:00:06+00:00"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "company": "Klardaten",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "senior",
-        "javascript",
-        "typescript",
-        "full stack",
-        "api"
-      ],
-      "salary": "",
-      "posted": "2026-10-25T12:34:21+00:00"
     }
   ],
-  "last_updated": "2026-11-04T09:45:44.617363",
+  "last_updated": "2026-11-04T17:34:39.336929",
   "total": 20,
-  "new": 1
+  "new": 4
 }

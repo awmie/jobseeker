@@ -1,6 +1,90 @@
 {
   "jobs": [
     {
+      "title": "Vertican Senior Applied Ai Engineer Document Intelligence",
+      "company": "VERTICAN",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Toptal Cryptography Specialist For Ai Lab",
+      "company": "TOPTAL",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Semaphore Senior Product Engineer",
+      "company": "SEMAPHORE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/semaphore-senior-product-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Toptal Operations Expert With Python For Ai Supply Chain Task Design",
+      "company": "TOPTAL",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-operations-expert-with-python-for-ai-supply-chain-task-design",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Super Speciosa Supply Chain Operations Manager Latam",
+      "company": "SUPER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Forager Growth Lead",
+      "company": "FORAGER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/forager-growth-lead",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Porkbun Live Technical Support Representative Full Time 45 000 55 000 Year Benefits Sat Sun Required",
+      "company": "PORKBUN",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/porkbun-live-technical-support-representative-full-time-45-000-55-000-year-benefits-sat-sun-required",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Salesloft Salesforce Business Systems Administrator",
+      "company": "SALESLOFT",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Knock Lending Manager Front End Remote",
+      "company": "KNOCK",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Cribl Sr Ux Designer Security",
+      "company": "CRIBL SR",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Claims",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "ai",
+        "blockchain"
+      ],
+      "salary": "",
+      "posted": "2026-11-04T15:09:09+00:00"
+    },
+    {
       "title": "Entry Level Scheduling &amp; Coordinating Reservations Online",
       "company": "Destination Careers",
       "location": "Remote",
@@ -403,40 +487,9 @@
       ],
       "salary": "",
       "posted": "2026-10-30T00:00:03+00:00"
-    },
-    {
-      "title": "Cloud Engineer Automation",
-      "company": "Smile Digital Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "grafana",
-        "infosec",
-        "python",
-        "customer support",
-        "marketing",
-        "dev",
-        "quality assurance",
-        "devops",
-        "education",
-        "cloud",
-        "git",
-        "postgres",
-        "microsoft",
-        "exec",
-        "ops",
-        "medical",
-        "engineer",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-29T16:00:03+00:00"
     }
   ],
-  "last_updated": "2026-11-05T10:16:12.529253",
-  "total": 20,
-  "new": 0
+  "last_updated": "2026-11-05T18:06:08.807231",
+  "total": 30,
+  "new": 10
 }

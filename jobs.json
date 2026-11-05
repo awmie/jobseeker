@@ -1,6 +1,27 @@
 {
   "jobs": [
     {
+      "title": "Contra Senior 3D Designer",
+      "company": "CONTRA",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/contra-senior-3d-designer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Dropbox Scaled Customer Success Manager",
+      "company": "DROPBOX",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-scaled-customer-success-manager",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Toptal Agile Program Manager",
+      "company": "TOPTAL",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-agile-program-manager",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Vertican Senior Applied Ai Engineer Document Intelligence",
       "company": "VERTICAN",
       "location": "Remote",
@@ -22,13 +43,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Toptal Operations Expert With Python For Ai Supply Chain Task Design",
-      "company": "TOPTAL",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-operations-expert-with-python-for-ai-supply-chain-task-design",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Super Speciosa Supply Chain Operations Manager Latam",
       "company": "SUPER",
       "location": "Remote",
@@ -40,13 +54,6 @@
       "company": "FORAGER",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/forager-growth-lead",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Porkbun Live Technical Support Representative Full Time 45 000 55 000 Year Benefits Sat Sun Required",
-      "company": "PORKBUN",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/porkbun-live-technical-support-representative-full-time-45-000-55-000-year-benefits-sat-sun-required",
       "source": "WeWorkRemotely"
     },
     {
@@ -64,11 +71,18 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Cribl Sr Ux Designer Security",
-      "company": "CRIBL SR",
+      "title": "AI Content Reviewer Video Annotation",
+      "company": "iMerit",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
-      "source": "WeWorkRemotely"
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686",
+      "source": "RemoteOK",
+      "tags": [
+        "content writing",
+        "ai",
+        "other"
+      ],
+      "salary": "",
+      "posted": "2026-11-04T22:25:19+00:00"
     },
     {
       "title": "Software Engineer",
@@ -471,25 +485,9 @@
       ],
       "salary": "",
       "posted": "2026-10-30T00:00:10+00:00"
-    },
-    {
-      "title": "Client Support &amp; Travel Booking Online",
-      "company": "Destination Careers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-client-support-amp-travel-booking-online-destination-careers-1137601",
-      "source": "RemoteOK",
-      "tags": [
-        "travel",
-        "education",
-        "customer support",
-        "virtual assistant",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-10-30T00:00:03+00:00"
     }
   ],
-  "last_updated": "2026-11-05T18:06:08.807231",
+  "last_updated": "2026-11-05T23:34:57.089705",
   "total": 30,
-  "new": 10
+  "new": 4
 }

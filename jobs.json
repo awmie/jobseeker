@@ -1,6 +1,22 @@
 {
   "jobs": [
     {
+      "title": "Entry Level Scheduling &amp; Coordinating Reservations Online",
+      "company": "Destination Careers",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "coordinator",
+        "customer support",
+        "exec",
+        "ops"
+      ],
+      "salary": "",
+      "posted": "2026-11-04T00:00:06+00:00"
+    },
+    {
       "title": "M&A Praktikum Intern",
       "company": "Vogel",
       "location": "Remote",
@@ -418,22 +434,9 @@
       ],
       "salary": "",
       "posted": "2026-10-29T16:00:03+00:00"
-    },
-    {
-      "title": "Front End Developer",
-      "company": "Edconic",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597",
-      "source": "RemoteOK",
-      "tags": [
-        "front end",
-        "other"
-      ],
-      "salary": "",
-      "posted": "2026-10-28T21:53:15+00:00"
     }
   ],
-  "last_updated": "2026-11-04T22:50:44.253794",
+  "last_updated": "2026-11-05T02:54:35.702918",
   "total": 20,
-  "new": 0
+  "new": 1
 }

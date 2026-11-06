@@ -71,6 +71,95 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Feltsense AI Engineer",
+      "company": "Silver.dev",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "exec",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "javascript",
+        "cloud",
+        "postgres",
+        "typescript",
+        "node",
+        "node.js",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T16:00:07+00:00"
+    },
+    {
+      "title": "Operations Expert with Python for AI Supply Chain Task Design",
+      "company": "Toptal",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+      "source": "RemoteOK",
+      "tags": [
+        "Docker",
+        "Git",
+        "Inventory Management",
+        "Supply Chain",
+        "Microsoft Excel",
+        "Python",
+        "SAP",
+        "SAP Production Planning",
+        "SQL",
+        "Supply Chain Operations"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T15:01:09+00:00"
+    },
+    {
+      "title": "ML Inference Engineer \u00e2\u0080\u0093 Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+      "company": "Toptal",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
+      "source": "RemoteOK",
+      "tags": [
+        "Artificial Intelligence",
+        "Docker",
+        "Git",
+        "Graphics Processing Unit",
+        "LLM"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T14:58:56+00:00"
+    },
+    {
+      "title": "Senior Vue Developer",
+      "company": "Lemon.io",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+      "source": "RemoteOK",
+      "tags": [
+        "engineer",
+        "dev",
+        "full time",
+        "full stack",
+        "remote",
+        "remote work",
+        "javascript",
+        "typescript",
+        "php",
+        "laravel",
+        "node",
+        "dot net",
+        "python",
+        "front end"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T12:45:45+00:00"
+    },
+    {
       "title": "Senior Staff Infrastructure & Security Engineer",
       "company": "CivilGrid",
       "location": "Remote",
@@ -397,98 +486,9 @@
       ],
       "salary": "",
       "posted": "2026-11-01T00:00:08+00:00"
-    },
-    {
-      "title": "Scientific Account Executive",
-      "company": "Adaptyv",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "technical",
-        "customer support",
-        "dev",
-        "api",
-        "exec",
-        "sales",
-        "golang",
-        "biotech",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-31T00:00:04+00:00"
-    },
-    {
-      "title": "Contract Recruiter",
-      "company": "CAI",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-contract-recruiter-cai-1137607",
-      "source": "RemoteOK",
-      "tags": [
-        "sys admin",
-        "technical",
-        "recruiter",
-        "customer support",
-        "quality assurance",
-        "exec",
-        "ops",
-        "biotech",
-        "engineer",
-        "ads"
-      ],
-      "salary": "",
-      "posted": "2026-10-30T16:00:15+00:00"
-    },
-    {
-      "title": "AWS Cloud Solutions Architect",
-      "company": "Cloudary SAS",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
-      "source": "RemoteOK",
-      "tags": [
-        "architecture",
-        "design",
-        "ansible",
-        "infosec",
-        "docker",
-        "technical",
-        "dev",
-        "exec",
-        "serverless",
-        "cloud",
-        "postgres",
-        "sql",
-        "api",
-        "senior",
-        "ops",
-        "sales",
-        "golang",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-10-30T16:00:06+00:00"
-    },
-    {
-      "title": "Online Client Support &amp; Travel Booking We Will Train You",
-      "company": "Destination Careers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604",
-      "source": "RemoteOK",
-      "tags": [
-        "travel",
-        "education",
-        "customer support",
-        "virtual assistant",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-10-30T08:00:12+00:00"
     }
   ],
-  "last_updated": "2026-11-06T11:28:51.502845",
+  "last_updated": "2026-11-06T18:18:08.590624",
   "total": 30,
-  "new": 0
+  "new": 4
 }

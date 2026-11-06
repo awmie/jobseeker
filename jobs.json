@@ -71,6 +71,20 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Agile Program Manager",
+      "company": "Toptal",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+      "source": "RemoteOK",
+      "tags": [
+        "program management",
+        "Agile",
+        "Scrum"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T22:37:39+00:00"
+    },
+    {
       "title": "Feltsense AI Engineer",
       "company": "Silver.dev",
       "location": "Remote",
@@ -463,32 +477,9 @@
       ],
       "salary": "",
       "posted": "2026-11-01T08:00:12+00:00"
-    },
-    {
-      "title": "Partner Operations Manager",
-      "company": "Mecka",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "design",
-        "education",
-        "customer support",
-        "marketing",
-        "quality assurance",
-        "finance",
-        "robotics",
-        "ops",
-        "recruiter",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-01T00:00:08+00:00"
     }
   ],
-  "last_updated": "2026-11-06T18:18:08.590624",
+  "last_updated": "2026-11-06T23:16:41.776306",
   "total": 30,
-  "new": 4
+  "new": 1
 }

@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Nogigiddy Remote Data Entry Clerk 7",
+      "company": "NOGIGIDDY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Contra Senior 3D Designer",
       "company": "CONTRA",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "DROPBOX",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/dropbox-scaled-customer-success-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Toptal Agile Program Manager",
-      "company": "TOPTAL",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-agile-program-manager",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,29 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Senior Staff Infrastructure & Security Engineer",
+      "company": "CivilGrid",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "design",
+        "dev",
+        "marketing",
+        "exec",
+        "devops",
+        "cloud",
+        "senior",
+        "sys admin",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-05T00:00:04+00:00"
     },
     {
       "title": "AI Content Reviewer Video Annotation",
@@ -463,31 +486,9 @@
       ],
       "salary": "",
       "posted": "2026-10-30T08:00:12+00:00"
-    },
-    {
-      "title": "Country Manager Canada",
-      "company": "Polaroid",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "education",
-        "recruiter",
-        "customer support",
-        "marketing",
-        "finance",
-        "math",
-        "senior",
-        "ops",
-        "legal",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-10-30T00:00:10+00:00"
     }
   ],
-  "last_updated": "2026-11-05T23:34:57.089705",
+  "last_updated": "2026-11-06T03:38:12.972276",
   "total": 30,
-  "new": 4
+  "new": 1
 }

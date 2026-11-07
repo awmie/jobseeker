@@ -71,6 +71,64 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Accountant",
+      "company": "Serve Robotics",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
+      "source": "RemoteOK",
+      "tags": [
+        "accounting",
+        "design",
+        "customer support",
+        "dev",
+        "finance",
+        "robotics",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-06T00:00:11+00:00"
+    },
+    {
+      "title": "Senior Full Stack Engineer People Products",
+      "company": "Thumbtack",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
+      "source": "RemoteOK",
+      "tags": [
+        "full stack",
+        "design",
+        "saas",
+        "react",
+        "salesforce",
+        "hr",
+        "front end",
+        "python",
+        "technical",
+        "customer support",
+        "dev",
+        "virtual assistant",
+        "finance",
+        "php",
+        "typescript",
+        "admin",
+        "senior",
+        "ops",
+        "marketing",
+        "sales",
+        "golang",
+        "recruiter",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-06T00:00:05+00:00"
+    },
+    {
       "title": "Agile Program Manager",
       "company": "Toptal",
       "location": "Remote",
@@ -444,42 +502,9 @@
       ],
       "salary": "",
       "posted": "2026-11-02T00:00:13+00:00"
-    },
-    {
-      "title": "Team Lead Account Executive",
-      "company": "Capmo",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-lead-account-executive-capmo-1137613",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "exec",
-        "junior",
-        "marketing",
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-11-02T00:00:07+00:00"
-    },
-    {
-      "title": "Virtual Destination Wedding Coordinator",
-      "company": "Destination Careers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-virtual-destination-wedding-coordinator-destination-careers-1137611",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "coordinator",
-        "customer support",
-        "travel",
-        "legal",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-01T08:00:12+00:00"
     }
   ],
-  "last_updated": "2026-11-06T23:16:41.776306",
+  "last_updated": "2026-11-07T02:53:59.628921",
   "total": 30,
-  "new": 1
+  "new": 2
 }

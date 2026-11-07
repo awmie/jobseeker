@@ -71,6 +71,24 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Registered Nurse",
+      "company": "Caringhand Home Health Solutions, Inc.",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "supervisor",
+        "customer support",
+        "travel",
+        "exec",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-11-06T08:00:05+00:00"
+    },
+    {
       "title": "Accountant",
       "company": "Serve Robotics",
       "location": "Remote",
@@ -91,42 +109,6 @@
       ],
       "salary": "",
       "posted": "2026-11-06T00:00:11+00:00"
-    },
-    {
-      "title": "Senior Full Stack Engineer People Products",
-      "company": "Thumbtack",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
-      "source": "RemoteOK",
-      "tags": [
-        "full stack",
-        "design",
-        "saas",
-        "react",
-        "salesforce",
-        "hr",
-        "front end",
-        "python",
-        "technical",
-        "customer support",
-        "dev",
-        "virtual assistant",
-        "finance",
-        "php",
-        "typescript",
-        "admin",
-        "senior",
-        "ops",
-        "marketing",
-        "sales",
-        "golang",
-        "recruiter",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T00:00:05+00:00"
     },
     {
       "title": "Agile Program Manager",
@@ -504,7 +486,7 @@
       "posted": "2026-11-02T00:00:13+00:00"
     }
   ],
-  "last_updated": "2026-11-07T02:53:59.628921",
+  "last_updated": "2026-11-07T09:30:30.743110",
   "total": 30,
-  "new": 2
+  "new": 1
 }

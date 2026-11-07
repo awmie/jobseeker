@@ -71,6 +71,25 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Junior Market Analyst",
+      "company": "MEYA HOLDINGS",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
+      "source": "RemoteOK",
+      "tags": [
+        "other",
+        "crypto",
+        "finance",
+        "remote work",
+        "remote",
+        "junior",
+        "part time",
+        "analyst"
+      ],
+      "salary": "",
+      "posted": "2026-11-06T13:47:40+00:00"
+    },
+    {
       "title": "Registered Nurse",
       "company": "Caringhand Home Health Solutions, Inc.",
       "location": "Remote",
@@ -461,32 +480,9 @@
       ],
       "salary": "",
       "posted": "2026-11-02T10:43:35+00:00"
-    },
-    {
-      "title": "Software Engineer Infrastructure",
-      "company": "Sodalis, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "design",
-        "embedded",
-        "sys admin",
-        "cloud",
-        "ruby",
-        "exec",
-        "ops",
-        "golang",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-02T00:00:13+00:00"
     }
   ],
-  "last_updated": "2026-11-07T09:30:30.743110",
+  "last_updated": "2026-11-07T15:52:34.173218",
   "total": 30,
   "new": 1
 }

@@ -71,6 +71,38 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "AI Developer",
+      "company": "Salvo Software",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "grafana",
+        "infosec",
+        "python",
+        "docker",
+        "technical",
+        "customer support",
+        "devops",
+        "c",
+        "c plus plus",
+        "cloud",
+        "git",
+        "admin",
+        "microsoft",
+        "ops",
+        "golang",
+        "engineer",
+        "apache",
+        "linux",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-07T00:00:02+00:00"
+    },
+    {
       "title": "Junior Market Analyst",
       "company": "MEYA HOLDINGS",
       "location": "Remote",
@@ -459,30 +491,9 @@
       ],
       "salary": "",
       "posted": "2026-11-03T00:00:10+00:00"
-    },
-    {
-      "title": "AI ML Engineer",
-      "company": "Docusketch",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "ai",
-        "machine learning",
-        "deep learning",
-        "artificial intelligence",
-        "neural networks",
-        "3D",
-        "exec",
-        "PyTorch",
-        "product"
-      ],
-      "salary": "",
-      "posted": "2026-11-02T10:43:35+00:00"
     }
   ],
-  "last_updated": "2026-11-07T23:05:13.698567",
+  "last_updated": "2026-11-08T02:21:52.722081",
   "total": 30,
-  "new": 0
+  "new": 1
 }

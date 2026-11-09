@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Onthegosystems Content Marketing Lead",
+      "company": "ONTHEGOSYSTEMS",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/onthegosystems-content-marketing-lead",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Toptal Cad Scripting Expert",
+      "company": "TOPTAL CAD",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/toptal-cad-scripting-expert",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Halcyon Senior Backend Cloud Engineer",
       "company": "HALCYON",
       "location": "Remote",
@@ -36,13 +50,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Toptal Cryptography Specialist For Ai Lab",
-      "company": "TOPTAL",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Semaphore Senior Product Engineer",
       "company": "SEMAPHORE",
       "location": "Remote",
@@ -57,18 +64,89 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Forager Growth Lead",
-      "company": "FORAGER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/forager-growth-lead",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Knock Lending Manager Front End Remote",
       "company": "KNOCK",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Revenue Cycle Manager",
+      "company": "Adaptive Innovations",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-revenue-cycle-manager-adaptive-innovations-1137706",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "sys admin",
+        "education",
+        "customer support",
+        "marketing",
+        "admin",
+        "ops",
+        "golang",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-11-08T16:00:15+00:00"
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Pencil",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "design",
+        "saas",
+        "sys admin",
+        "game dev",
+        "marketing",
+        "finance",
+        "scheme",
+        "ads",
+        "microsoft",
+        "content writing",
+        "senior",
+        "golang",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-08T16:00:10+00:00"
+    },
+    {
+      "title": "UI Developer",
+      "company": "RainFocus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "design",
+        "react",
+        "front end",
+        "customer support",
+        "web dev",
+        "javascript",
+        "java",
+        "css",
+        "html",
+        "git",
+        "exec",
+        "senior",
+        "ops",
+        "marketing",
+        "photoshop",
+        "ads",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-08T16:00:03+00:00"
     },
     {
       "title": "Account Executive Enterprise",
@@ -418,75 +496,9 @@
       ],
       "salary": "",
       "posted": "2026-11-03T16:00:05+00:00"
-    },
-    {
-      "title": "Tech lead",
-      "company": "Ringbook Limited",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "exec",
-        "accounting",
-        "saas"
-      ],
-      "salary": "",
-      "posted": "2026-11-03T14:53:55+00:00"
-    },
-    {
-      "title": "Senior Property Manager ENG",
-      "company": "StaffRight",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "hr",
-        "technical",
-        "customer support",
-        "dev",
-        "travel",
-        "finance",
-        "php",
-        "microsoft",
-        "senior",
-        "junior",
-        "ops",
-        "marketing",
-        "medical",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-03T08:00:12+00:00"
-    },
-    {
-      "title": "Tax Manager Private Client",
-      "company": "Aprio",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "education",
-        "consulting",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "accounting",
-        "finance",
-        "junior",
-        "sales",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-03T00:00:18+00:00"
     }
   ],
-  "last_updated": "2026-11-09T11:20:23.021035",
+  "last_updated": "2026-11-09T21:30:02.529753",
   "total": 30,
-  "new": 0
+  "new": 5
 }

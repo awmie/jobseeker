@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Halcyon Senior Backend Cloud Engineer",
+      "company": "HALCYON",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Nogigiddy Remote Data Entry Clerk 7",
       "company": "NOGIGIDDY",
       "location": "Remote",
@@ -57,18 +64,34 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Salesloft Salesforce Business Systems Administrator",
-      "company": "SALESLOFT",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Knock Lending Manager Front End Remote",
       "company": "KNOCK",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Account Executive Enterprise",
+      "company": "Harvey",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703",
+      "source": "RemoteOK",
+      "tags": [
+        "saas",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "finance",
+        "exec",
+        "legal",
+        "sales",
+        "engineer",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-08T00:00:03+00:00"
     },
     {
       "title": "AI Developer",
@@ -461,30 +484,9 @@
       ],
       "salary": "",
       "posted": "2026-11-03T00:00:18+00:00"
-    },
-    {
-      "title": "AI ML Engineer",
-      "company": "Docusketch",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "ai",
-        "machine learning",
-        "deep learning",
-        "artificial intelligence",
-        "neural networks",
-        "3D",
-        "exec",
-        "PyTorch",
-        "product"
-      ],
-      "salary": "",
-      "posted": "2026-11-02T10:43:35+00:00"
     }
   ],
-  "last_updated": "2026-11-08T23:50:44.406560",
+  "last_updated": "2026-11-09T03:03:24.799901",
   "total": 30,
-  "new": 0
+  "new": 2
 }

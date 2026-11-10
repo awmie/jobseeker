@@ -71,6 +71,78 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "HIL Support Specialist",
+      "company": "Extend Your Team",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "c sharp",
+        "amazon",
+        "customer support",
+        "dev",
+        "finance",
+        "c",
+        "c plus plus",
+        "math",
+        "microsoft",
+        "exec",
+        "ops",
+        "medical",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-09T16:00:20+00:00"
+    },
+    {
+      "title": "Senior Agentic AI Engineer NDA",
+      "company": "GT",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "react",
+        "sys admin",
+        "infosec",
+        "python",
+        "consulting",
+        "docker",
+        "technical",
+        "recruiter",
+        "dev",
+        "testing",
+        "marketing",
+        "exec",
+        "senior",
+        "ops",
+        "stats",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-09T16:00:13+00:00"
+    },
+    {
+      "title": "Telehealth Endocrinologist Evenings Fridays and or Weekends",
+      "company": "Allara",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "technical",
+        "customer support",
+        "video",
+        "medical",
+        "internship"
+      ],
+      "salary": "",
+      "posted": "2026-11-09T16:00:06+00:00"
+    },
+    {
       "title": "Recruiting Coordinator",
       "company": "Pebl",
       "location": "Remote",
@@ -444,56 +516,9 @@
       ],
       "salary": "",
       "posted": "2026-11-04T22:25:19+00:00"
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Claims",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "ai",
-        "blockchain"
-      ],
-      "salary": "",
-      "posted": "2026-11-04T15:09:09+00:00"
-    },
-    {
-      "title": "Entry Level Scheduling &amp; Coordinating Reservations Online",
-      "company": "Destination Careers",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "coordinator",
-        "customer support",
-        "exec",
-        "ops"
-      ],
-      "salary": "",
-      "posted": "2026-11-04T00:00:06+00:00"
-    },
-    {
-      "title": "M&A Praktikum Intern",
-      "company": "Vogel",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677",
-      "source": "RemoteOK",
-      "tags": [
-        "testing",
-        "marketing",
-        "exec",
-        "finance",
-        "senior",
-        "excel"
-      ],
-      "salary": "",
-      "posted": "2026-11-03T16:00:25+00:00"
     }
   ],
-  "last_updated": "2026-11-10T11:50:45.067027",
+  "last_updated": "2026-11-10T18:55:26.635559",
   "total": 30,
-  "new": 2
+  "new": 3
 }

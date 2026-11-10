@@ -71,6 +71,49 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Recruiting Coordinator",
+      "company": "Pebl",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-recruiting-coordinator-pebl-1137708",
+      "source": "RemoteOK",
+      "tags": [
+        "coordinator",
+        "customer support",
+        "marketing",
+        "exec",
+        "golang",
+        "medical",
+        "recruiter"
+      ],
+      "salary": "",
+      "posted": "2026-11-09T08:00:12+00:00"
+    },
+    {
+      "title": "Web3 Business Development",
+      "company": "CertiK",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707",
+      "source": "RemoteOK",
+      "tags": [
+        "crypto",
+        "web3",
+        "blockchain",
+        "defi",
+        "infosec",
+        "consulting",
+        "technical",
+        "customer support",
+        "testing",
+        "html",
+        "senior",
+        "bus dev",
+        "sales",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-11-09T08:00:05+00:00"
+    },
+    {
       "title": "Revenue Cycle Manager",
       "company": "Adaptive Innovations",
       "location": "Remote",
@@ -210,14 +253,14 @@
       "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
       "source": "RemoteOK",
       "tags": [
-        "other",
-        "crypto",
         "finance",
-        "remote work",
-        "remote",
+        "analyst",
         "junior",
         "part time",
-        "analyst"
+        "crypto",
+        "other",
+        "remote",
+        "remote work"
       ],
       "salary": "",
       "posted": "2026-11-06T13:47:40+00:00"
@@ -448,57 +491,9 @@
       ],
       "salary": "",
       "posted": "2026-11-03T16:00:25+00:00"
-    },
-    {
-      "title": "Paid Media Manager US ",
-      "company": "Kyra",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "customer support",
-        "testing",
-        "marketing",
-        "finance",
-        "scheme",
-        "content writing",
-        "excel",
-        "stats",
-        "legal",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-11-03T16:00:12+00:00"
-    },
-    {
-      "title": "Sales Operations Analyst",
-      "company": "Calabrio",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
-      "source": "RemoteOK",
-      "tags": [
-        "analyst",
-        "saas",
-        "salesforce",
-        "education",
-        "customer support",
-        "dev",
-        "marketing",
-        "accounting",
-        "finance",
-        "exec",
-        "ops",
-        "excel",
-        "stats",
-        "sales",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-03T16:00:05+00:00"
     }
   ],
-  "last_updated": "2026-11-10T03:45:26.186506",
+  "last_updated": "2026-11-10T11:50:45.067027",
   "total": 30,
-  "new": 0
+  "new": 2
 }

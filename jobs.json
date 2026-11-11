@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Lemon Io Senior Magento Developer",
+      "company": "LEMON IO",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Knack Cloud Engineer 1",
       "company": "KNACK",
       "location": "Remote",
@@ -43,13 +50,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Vertican Senior Applied Ai Engineer Document Intelligence",
-      "company": "VERTICAN",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Semaphore Senior Product Engineer",
       "company": "SEMAPHORE",
       "location": "Remote",
@@ -69,6 +69,35 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Addepto",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "saas",
+        "salesforce",
+        "python",
+        "education",
+        "consulting",
+        "customer support",
+        "testing",
+        "marketing",
+        "dev",
+        "finance",
+        "cloud",
+        "git",
+        "stats",
+        "sys admin",
+        "engineer",
+        "apache",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-10T16:00:04+00:00"
     },
     {
       "title": "Senior Software Engineer \u00e2\u0080\u0094 Kubernetes Control Plane",
@@ -496,32 +525,9 @@
       ],
       "salary": "",
       "posted": "2026-11-05T12:45:45+00:00"
-    },
-    {
-      "title": "Senior Staff Infrastructure & Security Engineer",
-      "company": "CivilGrid",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687",
-      "source": "RemoteOK",
-      "tags": [
-        "infosec",
-        "design",
-        "dev",
-        "marketing",
-        "exec",
-        "devops",
-        "cloud",
-        "senior",
-        "sys admin",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T00:00:04+00:00"
     }
   ],
-  "last_updated": "2026-11-11T11:58:45.061444",
+  "last_updated": "2026-11-11T19:28:24.267519",
   "total": 30,
-  "new": 0
+  "new": 2
 }

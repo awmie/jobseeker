@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Airbnb Senior Manager Quality Volume Tiers",
+      "company": "AIRBNB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-manager-quality-volume-tiers",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Meya Ltd Junior Market Analyst Remote",
+      "company": "MEYA LTD",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/meya-ltd-junior-market-analyst-remote",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Lemon Io Senior Magento Developer",
       "company": "LEMON IO",
       "location": "Remote",
@@ -29,10 +43,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Nogigiddy Remote Data Entry Clerk 7",
-      "company": "NOGIGIDDY",
+      "title": "Proarch Ba Technical Product Manager",
+      "company": "PROARCH BA",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
+      "url": "https://weworkremotely.com/remote-jobs/proarch-ba-technical-product-manager",
       "source": "WeWorkRemotely"
     },
     {
@@ -50,24 +64,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Semaphore Senior Product Engineer",
-      "company": "SEMAPHORE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/semaphore-senior-product-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Knock Lending Manager Front End Remote",
       "company": "KNOCK",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Clover Health Chief Actuary",
-      "company": "CLOVER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
       "source": "WeWorkRemotely"
     },
     {
@@ -524,7 +524,7 @@
       "posted": "2026-11-05T16:00:07+00:00"
     }
   ],
-  "last_updated": "2026-11-12T08:48:58.647281",
+  "last_updated": "2026-11-12T17:08:07.027846",
   "total": 30,
-  "new": 1
+  "new": 3
 }

@@ -57,18 +57,54 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Super Speciosa Supply Chain Operations Manager Latam",
-      "company": "SUPER",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Knock Lending Manager Front End Remote",
       "company": "KNOCK",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Clover Health Chief Actuary",
+      "company": "CLOVER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Strategy & Operations Coach APAC",
+      "company": "Mento",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
+      "source": "RemoteOK",
+      "tags": [
+        "education",
+        "marketing",
+        "exec",
+        "senior",
+        "ops",
+        "part time"
+      ],
+      "salary": "",
+      "posted": "2026-11-11T00:00:15+00:00"
+    },
+    {
+      "title": "Bilingual Patient Engagement Specialist I English Spanish",
+      "company": "Sprinter Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-bilingual-patient-engagement-specialist-i-english-spanish-sprinter-health-1137716",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support",
+        "dev",
+        "speech",
+        "ops",
+        "excel",
+        "medical",
+        "non tech",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-11T00:00:09+00:00"
     },
     {
       "title": "Data Engineer",
@@ -484,50 +520,9 @@
       ],
       "salary": "",
       "posted": "2026-11-05T15:01:09+00:00"
-    },
-    {
-      "title": "ML Inference Engineer \u00e2\u0080\u0093 Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
-      "company": "Toptal",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
-      "source": "RemoteOK",
-      "tags": [
-        "Artificial Intelligence",
-        "Docker",
-        "Git",
-        "Graphics Processing Unit",
-        "LLM"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T14:58:56+00:00"
-    },
-    {
-      "title": "Senior Vue Developer",
-      "company": "Lemon.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
-      "source": "RemoteOK",
-      "tags": [
-        "engineer",
-        "dev",
-        "full time",
-        "full stack",
-        "remote",
-        "remote work",
-        "javascript",
-        "typescript",
-        "php",
-        "laravel",
-        "node",
-        "dot net",
-        "python",
-        "front end"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T12:45:45+00:00"
     }
   ],
-  "last_updated": "2026-11-11T19:28:24.267519",
+  "last_updated": "2026-11-12T01:37:28.742521",
   "total": 30,
-  "new": 2
+  "new": 3
 }

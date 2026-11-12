@@ -71,6 +71,29 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Patient Care Specialist I",
+      "company": "Boston Scientific",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-patient-care-specialist-i-boston-scientific-1137719",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "education",
+        "technical",
+        "customer support",
+        "testing",
+        "telecommuting",
+        "exec",
+        "sales",
+        "medical",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-11T08:00:08+00:00"
+    },
+    {
       "title": "Strategy & Operations Coach APAC",
       "company": "Mento",
       "location": "Remote",
@@ -499,30 +522,9 @@
       ],
       "salary": "",
       "posted": "2026-11-05T16:00:07+00:00"
-    },
-    {
-      "title": "Operations Expert with Python for AI Supply Chain Task Design",
-      "company": "Toptal",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
-      "source": "RemoteOK",
-      "tags": [
-        "Docker",
-        "Git",
-        "Inventory Management",
-        "Supply Chain",
-        "Microsoft Excel",
-        "Python",
-        "SAP",
-        "SAP Production Planning",
-        "SQL",
-        "Supply Chain Operations"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T15:01:09+00:00"
     }
   ],
-  "last_updated": "2026-11-12T01:37:28.742521",
+  "last_updated": "2026-11-12T08:48:58.647281",
   "total": 30,
-  "new": 3
+  "new": 1
 }

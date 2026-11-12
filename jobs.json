@@ -1,13 +1,6 @@
 {
   "jobs": [
     {
-      "title": "Airbnb Senior Manager Quality Volume Tiers",
-      "company": "AIRBNB",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/airbnb-senior-manager-quality-volume-tiers",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Meya Ltd Junior Market Analyst Remote",
       "company": "MEYA LTD",
       "location": "Remote",
@@ -68,6 +61,13 @@
       "company": "KNOCK",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Clover Health Chief Actuary",
+      "company": "CLOVER",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
       "source": "WeWorkRemotely"
     },
     {
@@ -524,7 +524,7 @@
       "posted": "2026-11-05T16:00:07+00:00"
     }
   ],
-  "last_updated": "2026-11-12T17:08:07.027846",
+  "last_updated": "2026-11-12T22:42:33.606024",
   "total": 30,
-  "new": 3
+  "new": 0
 }

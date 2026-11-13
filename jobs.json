@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Silverorange Director Of Business Development 1",
+      "company": "SILVERORANGE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/silverorange-director-of-business-development-1",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Apollo Business Recruiter",
       "company": "APOLLO",
       "location": "Remote",
@@ -19,13 +26,6 @@
       "company": "LEMON IO",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Onthegosystems Content Marketing Lead",
-      "company": "ONTHEGOSYSTEMS",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/onthegosystems-content-marketing-lead",
       "source": "WeWorkRemotely"
     },
     {
@@ -527,7 +527,7 @@
       "posted": "2026-11-06T00:00:11+00:00"
     }
   ],
-  "last_updated": "2026-11-13T18:01:35.089167",
+  "last_updated": "2026-11-13T23:27:54.187788",
   "total": 30,
-  "new": 4
+  "new": 1
 }

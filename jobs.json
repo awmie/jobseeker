@@ -1,10 +1,17 @@
 {
   "jobs": [
     {
-      "title": "Meya Ltd Junior Market Analyst Remote",
-      "company": "MEYA LTD",
+      "title": "Apollo Business Recruiter",
+      "company": "APOLLO",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/meya-ltd-junior-market-analyst-remote",
+      "url": "https://weworkremotely.com/remote-jobs/apollo-business-recruiter",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Edgeq Technologies Private Limited Ai Infrastructure Specialist",
+      "company": "EDGEQ",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-ai-infrastructure-specialist",
       "source": "WeWorkRemotely"
     },
     {
@@ -12,13 +19,6 @@
       "company": "LEMON IO",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Knack Cloud Engineer 1",
-      "company": "KNACK",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,50 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Research Engineer Privacy and Anonymization",
+      "company": "Pragmatike",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "embedded",
+        "infosec",
+        "python",
+        "education",
+        "technical",
+        "finance",
+        "content writing",
+        "ops",
+        "medical",
+        "recruiter",
+        "engineer",
+        "full time",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-12T16:00:38+00:00"
+    },
+    {
+      "title": "Freelance Question Reviewers",
+      "company": "AMBOSS ",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-freelance-question-reviewers-amboss-1137791",
+      "source": "RemoteOK",
+      "tags": [
+        "hr",
+        "education",
+        "customer support",
+        "content writing",
+        "marketing",
+        "medical",
+        "part time",
+        "non tech"
+      ],
+      "salary": "",
+      "posted": "2026-11-12T16:00:32+00:00"
     },
     {
       "title": "Patient Care Specialist I",
@@ -481,50 +525,9 @@
       ],
       "salary": "",
       "posted": "2026-11-06T00:00:11+00:00"
-    },
-    {
-      "title": "Agile Program Manager",
-      "company": "Toptal",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
-      "source": "RemoteOK",
-      "tags": [
-        "program management",
-        "Agile",
-        "Scrum"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T22:37:39+00:00"
-    },
-    {
-      "title": "Feltsense AI Engineer",
-      "company": "Silver.dev",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "sys admin",
-        "exec",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "javascript",
-        "cloud",
-        "postgres",
-        "typescript",
-        "node",
-        "node.js",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-05T16:00:07+00:00"
     }
   ],
-  "last_updated": "2026-11-13T10:36:56.492737",
+  "last_updated": "2026-11-13T18:01:35.089167",
   "total": 30,
-  "new": 0
+  "new": 4
 }

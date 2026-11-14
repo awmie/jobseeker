@@ -71,6 +71,39 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Global Partnerships BD Lead",
+      "company": "Fuku",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-global-partnerships-bd-lead-fuku-1137796",
+      "source": "RemoteOK",
+      "tags": [
+        "web3",
+        "sys admin",
+        "finance",
+        "exec",
+        "content writing",
+        "senior",
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-11-13T08:00:21+00:00"
+    },
+    {
+      "title": "Scaled Account Manager EMEA",
+      "company": "DoiT",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-scaled-account-manager-emea-doit-1137795",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "marketing",
+        "cloud",
+        "microsoft"
+      ],
+      "salary": "",
+      "posted": "2026-11-13T08:00:15+00:00"
+    },
+    {
       "title": "Software Engineer AI Tooling",
       "company": "Supabase",
       "location": "Remote",
@@ -492,50 +525,9 @@
       ],
       "salary": "",
       "posted": "2026-11-07T00:00:02+00:00"
-    },
-    {
-      "title": "Junior Market Analyst",
-      "company": "MEYA HOLDINGS",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
-      "source": "RemoteOK",
-      "tags": [
-        "finance",
-        "analyst",
-        "junior",
-        "part time",
-        "crypto",
-        "other",
-        "remote",
-        "remote work"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T13:47:40+00:00"
-    },
-    {
-      "title": "Accountant",
-      "company": "Serve Robotics",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
-      "source": "RemoteOK",
-      "tags": [
-        "accounting",
-        "design",
-        "customer support",
-        "dev",
-        "finance",
-        "robotics",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T00:00:11+00:00"
     }
   ],
-  "last_updated": "2026-11-14T03:28:35.443921",
+  "last_updated": "2026-11-14T10:49:37.852700",
   "total": 30,
-  "new": 1
+  "new": 2
 }

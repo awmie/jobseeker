@@ -71,6 +71,32 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Software Engineer AI Tooling",
+      "company": "Supabase",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "design",
+        "front end",
+        "customer support",
+        "testing",
+        "marketing",
+        "virtual assistant",
+        "javascript",
+        "education",
+        "typescript",
+        "sys admin",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-13T00:00:15+00:00"
+    },
+    {
       "title": "Research Engineer Privacy and Anonymization",
       "company": "Pragmatike",
       "location": "Remote",
@@ -487,24 +513,6 @@
       "posted": "2026-11-06T13:47:40+00:00"
     },
     {
-      "title": "Registered Nurse",
-      "company": "Caringhand Home Health Solutions, Inc.",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "supervisor",
-        "customer support",
-        "travel",
-        "exec",
-        "medical",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T08:00:05+00:00"
-    },
-    {
       "title": "Accountant",
       "company": "Serve Robotics",
       "location": "Remote",
@@ -527,7 +535,7 @@
       "posted": "2026-11-06T00:00:11+00:00"
     }
   ],
-  "last_updated": "2026-11-13T23:27:54.187788",
+  "last_updated": "2026-11-14T03:28:35.443921",
   "total": 30,
   "new": 1
 }

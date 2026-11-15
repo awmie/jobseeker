@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Samsara Staff Software Engineer",
+      "company": "SAMSARA",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Zapier Sr Motion Designer",
       "company": "ZAPIER SR",
       "location": "Remote",
@@ -26,13 +33,6 @@
       "company": "LEMON IO",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Toptal Cad Scripting Expert",
-      "company": "TOPTAL CAD",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/toptal-cad-scripting-expert",
       "source": "WeWorkRemotely"
     },
     {
@@ -514,7 +514,7 @@
       "posted": "2026-11-06T13:47:40+00:00"
     }
   ],
-  "last_updated": "2026-11-15T07:22:01.390879",
+  "last_updated": "2026-11-15T14:52:18.814748",
   "total": 30,
-  "new": 0
+  "new": 1
 }

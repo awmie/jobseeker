@@ -472,29 +472,6 @@
       "posted": "2026-11-08T16:00:03+00:00"
     },
     {
-      "title": "Account Executive Enterprise",
-      "company": "Harvey",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703",
-      "source": "RemoteOK",
-      "tags": [
-        "saas",
-        "technical",
-        "customer support",
-        "dev",
-        "marketing",
-        "finance",
-        "exec",
-        "legal",
-        "sales",
-        "engineer",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-08T00:00:03+00:00"
-    },
-    {
       "title": "Junior Market Analyst",
       "company": "MEYA HOLDINGS",
       "location": "Remote",
@@ -512,9 +489,31 @@
       ],
       "salary": "",
       "posted": "2026-11-06T13:47:40+00:00"
+    },
+    {
+      "title": "Accountant",
+      "company": "Serve Robotics",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
+      "source": "RemoteOK",
+      "tags": [
+        "accounting",
+        "design",
+        "customer support",
+        "dev",
+        "finance",
+        "robotics",
+        "microsoft",
+        "exec",
+        "ops",
+        "excel",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-06T00:00:11+00:00"
     }
   ],
-  "last_updated": "2026-11-15T23:55:19.332847",
+  "last_updated": "2026-11-16T04:45:48.048325",
   "total": 30,
   "new": 0
 }

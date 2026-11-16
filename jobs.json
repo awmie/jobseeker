@@ -1,10 +1,17 @@
 {
   "jobs": [
     {
-      "title": "Atomic Construction Llc Marketing Appt Setting",
-      "company": "ATOMIC",
+      "title": "Bloomreach Staff Devops Engineer",
+      "company": "BLOOMREACH",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/atomic-construction-llc-marketing-appt-setting",
+      "url": "https://weworkremotely.com/remote-jobs/bloomreach-staff-devops-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Sanctuary Computer Head Of Technology 1",
+      "company": "SANCTUARY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
       "source": "WeWorkRemotely"
     },
     {
@@ -15,10 +22,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Samsara Staff Software Engineer",
-      "company": "SAMSARA",
+      "title": "Zapier Sr Motion Designer",
+      "company": "ZAPIER SR",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
+      "url": "https://weworkremotely.com/remote-jobs/zapier-sr-motion-designer",
       "source": "WeWorkRemotely"
     },
     {
@@ -26,13 +33,6 @@
       "company": "APOLLO",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/apollo-business-recruiter",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Edgeq Technologies Private Limited Ai Infrastructure Specialist",
-      "company": "EDGEQ",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-ai-infrastructure-specialist",
       "source": "WeWorkRemotely"
     },
     {
@@ -513,7 +513,7 @@
       "posted": "2026-11-06T00:00:11+00:00"
     }
   ],
-  "last_updated": "2026-11-16T13:10:34.865500",
+  "last_updated": "2026-11-16T22:52:48.266707",
   "total": 30,
-  "new": 1
+  "new": 2
 }

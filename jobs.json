@@ -1,17 +1,17 @@
 {
   "jobs": [
     {
+      "title": "Podcasthub Podcast Distribution Growth Manager",
+      "company": "PODCASTHUB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/podcasthub-podcast-distribution-growth-manager",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Elvoro Ai Creative Engineer Social Media",
       "company": "ELVORO AI",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Databricks Solutions Architect",
-      "company": "DATABRICKS",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/databricks-solutions-architect",
       "source": "WeWorkRemotely"
     },
     {
@@ -22,10 +22,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Dl Remote Microsoft Endpoint Intune Consultant",
-      "company": "DL",
+      "title": "Epam Systems Senior Devops Engineer",
+      "company": "EPAM",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/dl-remote-microsoft-endpoint-intune-consultant",
+      "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-devops-engineer",
       "source": "WeWorkRemotely"
     },
     {
@@ -33,13 +33,6 @@
       "company": "SANCTUARY",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Nogigiddy Entry Level Account Manager 4",
-      "company": "NOGIGIDDY",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/nogigiddy-entry-level-account-manager-4",
       "source": "WeWorkRemotely"
     },
     {
@@ -54,6 +47,13 @@
       "company": "CONTRA",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/contra-senior-3d-designer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Turtles Customer Happiness Advocate Remote Canada",
+      "company": "TURTLES",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/turtles-customer-happiness-advocate-remote-canada",
       "source": "WeWorkRemotely"
     },
     {
@@ -501,7 +501,7 @@
       "posted": "2026-11-08T16:00:10+00:00"
     }
   ],
-  "last_updated": "2026-11-18T12:16:08.576881",
+  "last_updated": "2026-11-18T20:40:21.913267",
   "total": 30,
-  "new": 1
+  "new": 3
 }

@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Elvoro Ai Creative Engineer Social Media",
+      "company": "ELVORO AI",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Databricks Solutions Architect",
       "company": "DATABRICKS",
       "location": "Remote",
@@ -43,13 +50,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Lemon Io Senior Magento Developer",
-      "company": "LEMON IO",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Contra Senior 3D Designer",
       "company": "CONTRA",
       "location": "Remote",
@@ -69,6 +69,65 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Expert Talent Pool Physical AI",
+      "company": "Clera",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "education",
+        "testing",
+        "travel",
+        "robotics",
+        "exec",
+        "ops",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-17T00:00:29+00:00"
+    },
+    {
+      "title": "Expert Talent Pool Feedback and Alignment",
+      "company": "Clera",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-feedback-and-alignment-clera-1137798",
+      "source": "RemoteOK",
+      "tags": [
+        "quality assurance",
+        "finance",
+        "math",
+        "exec",
+        "content writing",
+        "senior"
+      ],
+      "salary": "",
+      "posted": "2026-11-17T00:00:23+00:00"
+    },
+    {
+      "title": "Engineering Manager Network Engineering",
+      "company": "PatientPoint",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "infosec",
+        "technical",
+        "dev",
+        "travel",
+        "devops",
+        "cloud",
+        "ops",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-17T00:00:17+00:00"
     },
     {
       "title": "Global Partnerships BD Lead",
@@ -440,80 +499,9 @@
       ],
       "salary": "",
       "posted": "2026-11-08T16:00:10+00:00"
-    },
-    {
-      "title": "UI Developer",
-      "company": "RainFocus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "design",
-        "react",
-        "front end",
-        "customer support",
-        "web dev",
-        "javascript",
-        "java",
-        "css",
-        "html",
-        "git",
-        "exec",
-        "senior",
-        "ops",
-        "marketing",
-        "photoshop",
-        "ads",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-08T16:00:03+00:00"
-    },
-    {
-      "title": "Junior Market Analyst",
-      "company": "MEYA HOLDINGS",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
-      "source": "RemoteOK",
-      "tags": [
-        "finance",
-        "analyst",
-        "junior",
-        "part time",
-        "crypto",
-        "other",
-        "remote",
-        "remote work"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T13:47:40+00:00"
-    },
-    {
-      "title": "Accountant",
-      "company": "Serve Robotics",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
-      "source": "RemoteOK",
-      "tags": [
-        "accounting",
-        "design",
-        "customer support",
-        "dev",
-        "finance",
-        "robotics",
-        "microsoft",
-        "exec",
-        "ops",
-        "excel",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-06T00:00:11+00:00"
     }
   ],
-  "last_updated": "2026-11-17T22:09:58.870353",
+  "last_updated": "2026-11-18T03:42:18.220663",
   "total": 30,
   "new": 4
 }

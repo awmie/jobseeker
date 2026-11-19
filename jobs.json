@@ -1,10 +1,31 @@
 {
   "jobs": [
     {
-      "title": "Expensify Customer Success Manager",
-      "company": "EXPENSIFY",
+      "title": "Ellipsis Strategy Lead Remote Uk Eu 60 65K",
+      "company": "ELLIPSIS",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/expensify-customer-success-manager",
+      "url": "https://weworkremotely.com/remote-jobs/ellipsis-strategy-lead-remote-uk-eu-60-65k",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Driversnote Customer Support Specialist 30 Hrs",
+      "company": "DRIVERSNOTE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/driversnote-customer-support-specialist-30-hrs",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Circleci Senior Support Engineer",
+      "company": "CIRCLECI",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/circleci-senior-support-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Netlify Staff Software Engineer Interfaces",
+      "company": "NETLIFY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/netlify-staff-software-engineer-interfaces",
       "source": "WeWorkRemotely"
     },
     {
@@ -29,13 +50,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Epam Systems Senior Devops Engineer",
-      "company": "EPAM",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-devops-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Sanctuary Computer Head Of Technology 1",
       "company": "SANCTUARY",
       "location": "Remote",
@@ -43,24 +57,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Hadley Designs Llc Amazon Brand Manager",
-      "company": "HADLEY",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/hadley-designs-llc-amazon-brand-manager",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Contra Senior 3D Designer",
       "company": "CONTRA",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/contra-senior-3d-designer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Knock Lending Manager Front End Remote",
-      "company": "KNOCK",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
       "source": "WeWorkRemotely"
     },
     {
@@ -512,7 +512,7 @@
       "posted": "2026-11-08T16:00:03+00:00"
     }
   ],
-  "last_updated": "2026-11-19T01:59:46.446052",
+  "last_updated": "2026-11-19T10:09:06.081123",
   "total": 30,
-  "new": 1
+  "new": 4
 }

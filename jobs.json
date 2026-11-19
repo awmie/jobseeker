@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Expensify Customer Success Manager",
+      "company": "EXPENSIFY",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/expensify-customer-success-manager",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Podcasthub Podcast Distribution Growth Manager",
       "company": "PODCASTHUB",
       "location": "Remote",
@@ -47,13 +54,6 @@
       "company": "CONTRA",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/contra-senior-3d-designer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Turtles Customer Happiness Advocate Remote Canada",
-      "company": "TURTLES",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/turtles-customer-happiness-advocate-remote-canada",
       "source": "WeWorkRemotely"
     },
     {
@@ -273,25 +273,6 @@
       "posted": "2026-11-11T00:00:15+00:00"
     },
     {
-      "title": "Bilingual Patient Engagement Specialist I English Spanish",
-      "company": "Sprinter Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-bilingual-patient-engagement-specialist-i-english-spanish-sprinter-health-1137716",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support",
-        "dev",
-        "speech",
-        "ops",
-        "excel",
-        "medical",
-        "non tech",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-11T00:00:09+00:00"
-    },
-    {
       "title": "Data Engineer",
       "company": "Addepto",
       "location": "Remote",
@@ -499,9 +480,39 @@
       ],
       "salary": "",
       "posted": "2026-11-08T16:00:10+00:00"
+    },
+    {
+      "title": "UI Developer",
+      "company": "RainFocus",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "design",
+        "react",
+        "front end",
+        "customer support",
+        "web dev",
+        "javascript",
+        "java",
+        "css",
+        "html",
+        "git",
+        "exec",
+        "senior",
+        "ops",
+        "marketing",
+        "photoshop",
+        "ads",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-08T16:00:03+00:00"
     }
   ],
-  "last_updated": "2026-11-18T20:40:21.913267",
+  "last_updated": "2026-11-19T01:59:46.446052",
   "total": 30,
-  "new": 3
+  "new": 1
 }

@@ -1,6 +1,27 @@
 {
   "jobs": [
     {
+      "title": "Circleci Staff Software Engineer",
+      "company": "CIRCLECI",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Lemon Io Senior React Full Stack Developer 8",
+      "company": "LEMON IO",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Proxify Ab Senior Dbt Developer Analytics Engineer",
+      "company": "PROXIFY AB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-dbt-developer-analytics-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Ellipsis Strategy Lead Remote Uk Eu 60 65K",
       "company": "ELLIPSIS",
       "location": "Remote",
@@ -15,24 +36,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Circleci Senior Support Engineer",
-      "company": "CIRCLECI",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/circleci-senior-support-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Netlify Staff Software Engineer Interfaces",
       "company": "NETLIFY",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/netlify-staff-software-engineer-interfaces",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Podcasthub Podcast Distribution Growth Manager",
-      "company": "PODCASTHUB",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/podcasthub-podcast-distribution-growth-manager",
       "source": "WeWorkRemotely"
     },
     {
@@ -50,13 +57,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Sanctuary Computer Head Of Technology 1",
-      "company": "SANCTUARY",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Contra Senior 3D Designer",
       "company": "CONTRA",
       "location": "Remote",
@@ -69,6 +69,140 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Project Manager",
+      "company": "Syner-G",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-syner-g-1137806",
+      "source": "RemoteOK",
+      "tags": [
+        "project manager",
+        "exec",
+        "consulting",
+        "customer support",
+        "marketing",
+        "finance",
+        "video"
+      ],
+      "salary": "",
+      "posted": "2026-11-18T16:00:49+00:00"
+    },
+    {
+      "title": "SEO Full Stack Engineer",
+      "company": "Treatwell",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
+      "source": "RemoteOK",
+      "tags": [
+        "full stack",
+        "react",
+        "rabbitmq",
+        "front end",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "design",
+        "web dev",
+        "exec",
+        "devops",
+        "finance",
+        "java",
+        "postgres",
+        "typescript",
+        "seo",
+        "senior",
+        "stats",
+        "engineer",
+        "recruiter",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-18T16:00:31+00:00"
+    },
+    {
+      "title": "Manager EDI",
+      "company": "Gravie",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-edi-gravie-1137804",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "testing",
+        "marketing",
+        "quality assurance",
+        "finance",
+        "api",
+        "ops",
+        "golang",
+        "medical"
+      ],
+      "salary": "",
+      "posted": "2026-11-18T16:00:25+00:00"
+    },
+    {
+      "title": "Legal Engineering Counsel",
+      "company": "Stedi",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "saas",
+        "education",
+        "exec",
+        "legal",
+        "technical",
+        "customer support",
+        "testing",
+        "dev",
+        "finance",
+        "c",
+        "api",
+        "sales",
+        "medical",
+        "recruiter",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-18T16:00:19+00:00"
+    },
+    {
+      "title": "Business Development Manager",
+      "company": "Maya HTT",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-maya-htt-1137802",
+      "source": "RemoteOK",
+      "tags": [
+        "product manager",
+        "exec",
+        "salesforce",
+        "hr",
+        "education",
+        "consulting",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "finance",
+        "microsoft",
+        "ops",
+        "bus dev",
+        "sales",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-18T16:00:13+00:00"
     },
     {
       "title": "Expert Talent Pool Physical AI",
@@ -389,130 +523,9 @@
       ],
       "salary": "",
       "posted": "2026-11-09T16:00:06+00:00"
-    },
-    {
-      "title": "Recruiting Coordinator",
-      "company": "Pebl",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-recruiting-coordinator-pebl-1137708",
-      "source": "RemoteOK",
-      "tags": [
-        "coordinator",
-        "customer support",
-        "marketing",
-        "exec",
-        "golang",
-        "medical",
-        "recruiter"
-      ],
-      "salary": "",
-      "posted": "2026-11-09T08:00:12+00:00"
-    },
-    {
-      "title": "Web3 Business Development",
-      "company": "CertiK",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707",
-      "source": "RemoteOK",
-      "tags": [
-        "crypto",
-        "web3",
-        "blockchain",
-        "defi",
-        "infosec",
-        "consulting",
-        "technical",
-        "customer support",
-        "testing",
-        "html",
-        "senior",
-        "bus dev",
-        "sales",
-        "engineer"
-      ],
-      "salary": "",
-      "posted": "2026-11-09T08:00:05+00:00"
-    },
-    {
-      "title": "Revenue Cycle Manager",
-      "company": "Adaptive Innovations",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-revenue-cycle-manager-adaptive-innovations-1137706",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "sys admin",
-        "education",
-        "customer support",
-        "marketing",
-        "admin",
-        "ops",
-        "golang",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-11-08T16:00:15+00:00"
-    },
-    {
-      "title": "Senior Product Manager",
-      "company": "Pencil",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705",
-      "source": "RemoteOK",
-      "tags": [
-        "product manager",
-        "exec",
-        "design",
-        "saas",
-        "sys admin",
-        "game dev",
-        "marketing",
-        "finance",
-        "scheme",
-        "ads",
-        "microsoft",
-        "content writing",
-        "senior",
-        "golang",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-08T16:00:10+00:00"
-    },
-    {
-      "title": "UI Developer",
-      "company": "RainFocus",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
-      "source": "RemoteOK",
-      "tags": [
-        "dev",
-        "design",
-        "react",
-        "front end",
-        "customer support",
-        "web dev",
-        "javascript",
-        "java",
-        "css",
-        "html",
-        "git",
-        "exec",
-        "senior",
-        "ops",
-        "marketing",
-        "photoshop",
-        "ads",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-08T16:00:03+00:00"
     }
   ],
-  "last_updated": "2026-11-19T10:09:06.081123",
+  "last_updated": "2026-11-19T18:58:24.055329",
   "total": 30,
-  "new": 4
+  "new": 8
 }

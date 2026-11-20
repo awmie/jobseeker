@@ -1,13 +1,6 @@
 {
   "jobs": [
     {
-      "title": "Beyondtrust Inside Solutions Engineer",
-      "company": "BEYONDTRUST",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-inside-solutions-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Modern Health Don T See What You Re Looking For",
       "company": "MODERN",
       "location": "Remote",
@@ -36,10 +29,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Ellipsis Strategy Lead Remote Uk Eu 60 65K",
+      "title": "Ellipsis Strategy Lead Market Leading Geo Seo Agency",
       "company": "ELLIPSIS",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/ellipsis-strategy-lead-remote-uk-eu-60-65k",
+      "url": "https://weworkremotely.com/remote-jobs/ellipsis-strategy-lead-market-leading-geo-seo-agency",
       "source": "WeWorkRemotely"
     },
     {
@@ -64,6 +57,13 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Knack Cloud Engineer 1",
+      "company": "KNACK",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Contra Senior 3D Designer",
       "company": "CONTRA",
       "location": "Remote",
@@ -71,456 +71,295 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Software Engineer AI Coding Tasks",
-      "company": "Askable",
+      "title": "Vice President, Public Sector",
+      "company": "Bitwarden",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
+      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-public-sector-bitwarden-1137843",
       "source": "RemoteOK",
       "tags": [
-        "dev",
-        "golang",
-        "python",
-        "javascript",
-        "typescript",
-        "java",
-        "c plus plus"
+        "sales"
       ],
       "salary": "",
-      "posted": "2026-11-19T05:56:01+00:00"
+      "posted": "2026-11-19T17:00:54+00:00"
     },
     {
-      "title": "Project Manager",
-      "company": "Syner-G",
+      "title": "Senior Sales Training and Enablement Manager",
+      "company": "Tebra",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-syner-g-1137806",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-training-and-enablement-manager-tebra-1137842",
       "source": "RemoteOK",
       "tags": [
-        "project manager",
-        "exec",
-        "consulting",
-        "customer support",
-        "marketing",
-        "finance",
-        "video"
-      ],
-      "salary": "",
-      "posted": "2026-11-18T16:00:49+00:00"
-    },
-    {
-      "title": "SEO Full Stack Engineer",
-      "company": "Treatwell",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
-      "source": "RemoteOK",
-      "tags": [
-        "full stack",
-        "react",
-        "rabbitmq",
-        "front end",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "design",
-        "web dev",
-        "exec",
-        "devops",
-        "finance",
-        "java",
-        "postgres",
-        "typescript",
-        "seo",
-        "senior",
-        "stats",
-        "engineer",
-        "recruiter",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-18T16:00:31+00:00"
-    },
-    {
-      "title": "Manager EDI",
-      "company": "Gravie",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-manager-edi-gravie-1137804",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "testing",
-        "marketing",
-        "quality assurance",
-        "finance",
-        "api",
-        "ops",
-        "golang",
-        "medical"
-      ],
-      "salary": "",
-      "posted": "2026-11-18T16:00:25+00:00"
-    },
-    {
-      "title": "Legal Engineering Counsel",
-      "company": "Stedi",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "saas",
-        "education",
-        "exec",
-        "legal",
-        "technical",
-        "customer support",
-        "testing",
-        "dev",
-        "finance",
-        "c",
-        "api",
-        "sales",
-        "medical",
-        "recruiter",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-18T16:00:19+00:00"
-    },
-    {
-      "title": "Business Development Manager",
-      "company": "Maya HTT",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-maya-htt-1137802",
-      "source": "RemoteOK",
-      "tags": [
-        "product manager",
-        "exec",
-        "salesforce",
-        "hr",
-        "education",
-        "consulting",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "finance",
-        "microsoft",
-        "ops",
-        "bus dev",
-        "sales",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-18T16:00:13+00:00"
-    },
-    {
-      "title": "Expert Talent Pool Physical AI",
-      "company": "Clera",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "education",
-        "testing",
-        "travel",
-        "robotics",
-        "exec",
-        "ops",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-17T00:00:29+00:00"
-    },
-    {
-      "title": "Expert Talent Pool Feedback and Alignment",
-      "company": "Clera",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-expert-talent-pool-feedback-and-alignment-clera-1137798",
-      "source": "RemoteOK",
-      "tags": [
-        "quality assurance",
-        "finance",
-        "math",
-        "exec",
-        "content writing",
-        "senior"
-      ],
-      "salary": "",
-      "posted": "2026-11-17T00:00:23+00:00"
-    },
-    {
-      "title": "Engineering Manager Network Engineering",
-      "company": "PatientPoint",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797",
-      "source": "RemoteOK",
-      "tags": [
-        "exec",
-        "design",
-        "infosec",
-        "technical",
-        "dev",
-        "travel",
-        "devops",
-        "cloud",
-        "ops",
-        "medical",
-        "engineer",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-17T00:00:17+00:00"
-    },
-    {
-      "title": "Global Partnerships BD Lead",
-      "company": "Fuku",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-global-partnerships-bd-lead-fuku-1137796",
-      "source": "RemoteOK",
-      "tags": [
-        "web3",
-        "sys admin",
-        "finance",
-        "exec",
-        "content writing",
-        "senior",
         "marketing"
       ],
       "salary": "",
-      "posted": "2026-11-13T08:00:21+00:00"
+      "posted": "2026-11-19T16:45:08+00:00"
     },
     {
-      "title": "Scaled Account Manager EMEA",
-      "company": "DoiT",
+      "title": "Director, Enterprise Sales",
+      "company": "Abnormal",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-scaled-account-manager-emea-doit-1137795",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-enterprise-sales-abnormal-1137841",
       "source": "RemoteOK",
       "tags": [
-        "exec",
-        "marketing",
-        "cloud",
-        "microsoft"
+        "sales"
       ],
       "salary": "",
-      "posted": "2026-11-13T08:00:15+00:00"
+      "posted": "2026-11-19T16:30:11+00:00"
     },
     {
-      "title": "Software Engineer AI Tooling",
-      "company": "Supabase",
+      "title": "Senior Account Executive II",
+      "company": "Collibra",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-ii-collibra-1137840",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T16:15:12+00:00"
+    },
+    {
+      "title": "Engineer Software Defined Vehicle Simulation and Development",
+      "company": "NIKI Digital Engineering",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839",
       "source": "RemoteOK",
       "tags": [
         "dev",
-        "design",
-        "front end",
-        "customer support",
-        "testing",
-        "marketing",
-        "virtual assistant",
-        "javascript",
-        "education",
-        "typescript",
-        "sys admin",
-        "medical",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-13T00:00:15+00:00"
-    },
-    {
-      "title": "Research Engineer Privacy and Anonymization",
-      "company": "Pragmatike",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
-      "source": "RemoteOK",
-      "tags": [
         "design",
         "embedded",
+        "sys admin",
         "infosec",
         "python",
-        "education",
-        "technical",
-        "finance",
-        "content writing",
-        "ops",
-        "medical",
-        "recruiter",
-        "engineer",
-        "full time",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-12T16:00:38+00:00"
-    },
-    {
-      "title": "Freelance Question Reviewers",
-      "company": "AMBOSS ",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-question-reviewers-amboss-1137791",
-      "source": "RemoteOK",
-      "tags": [
-        "hr",
-        "education",
-        "customer support",
-        "content writing",
-        "marketing",
-        "medical",
-        "part time",
-        "non tech"
-      ],
-      "salary": "",
-      "posted": "2026-11-12T16:00:32+00:00"
-    },
-    {
-      "title": "Strategy & Operations Coach APAC",
-      "company": "Mento",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
-      "source": "RemoteOK",
-      "tags": [
-        "education",
-        "marketing",
-        "exec",
-        "senior",
-        "ops",
-        "part time"
-      ],
-      "salary": "",
-      "posted": "2026-11-11T00:00:15+00:00"
-    },
-    {
-      "title": "Data Engineer",
-      "company": "Addepto",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "saas",
-        "salesforce",
-        "python",
-        "education",
         "consulting",
+        "technical",
         "customer support",
         "testing",
-        "marketing",
-        "dev",
-        "finance",
-        "cloud",
-        "git",
-        "stats",
-        "sys admin",
-        "engineer",
-        "apache",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-10T16:00:04+00:00"
-    },
-    {
-      "title": "Senior Software Engineer \u00e2\u0080\u0094 Kubernetes Control Plane",
-      "company": "Buoyant",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
-      "source": "RemoteOK",
-      "tags": [
-        "golang",
-        "dev",
-        "senior",
-        "golang",
+        "exec",
+        "java",
+        "matlab",
+        "medical",
         "engineer",
         "digital nomad"
       ],
       "salary": "",
-      "posted": "2026-11-09T22:00:02+00:00"
+      "posted": "2026-11-19T16:00:34+00:00"
     },
     {
-      "title": "HIL Support Specialist",
-      "company": "Extend Your Team",
+      "title": "Marketing and Communications Officer",
+      "company": "NIKI Digital Engineering",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-and-communications-officer-niki-digital-engineering-1137838",
       "source": "RemoteOK",
       "tags": [
         "design",
-        "c sharp",
-        "amazon",
+        "consulting",
+        "technical",
         "customer support",
-        "dev",
-        "finance",
+        "exec",
+        "marketing",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T16:00:27+00:00"
+    },
+    {
+      "title": "Postdoc PhD PhD cand. Physics Computer Science",
+      "company": "NIKI Digital Engineering",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-postdoc-phd-phd-cand-physics-computer-science-niki-digital-engineering-1137837",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "python",
+        "consulting",
+        "technical",
+        "exec",
         "c",
         "c plus plus",
-        "math",
-        "microsoft",
-        "exec",
-        "ops",
+        "matlab",
         "medical",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-09T16:00:20+00:00"
-    },
-    {
-      "title": "Senior Agentic AI Engineer NDA",
-      "company": "GT",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "react",
-        "sys admin",
-        "infosec",
-        "python",
-        "consulting",
-        "docker",
-        "technical",
-        "recruiter",
-        "dev",
-        "testing",
-        "marketing",
-        "exec",
-        "senior",
-        "ops",
-        "stats",
         "engineer",
         "digital nomad"
       ],
       "salary": "",
-      "posted": "2026-11-09T16:00:13+00:00"
+      "posted": "2026-11-19T16:00:21+00:00"
     },
     {
-      "title": "Telehealth Endocrinologist Evenings Fridays and or Weekends",
-      "company": "Allara",
+      "title": "Business Development Assistant",
+      "company": "Bybit",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-assistant-bybit-1137836",
       "source": "RemoteOK",
       "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T16:00:20+00:00"
+    },
+    {
+      "title": "Technical Lead Norm Compliance",
+      "company": "Norm",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-lead-norm-compliance-norm-1137835",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "python",
         "education",
         "technical",
         "customer support",
-        "video",
+        "dev",
+        "marketing",
+        "exec",
+        "finance",
+        "typescript",
+        "content writing",
+        "senior",
+        "legal",
         "medical",
-        "internship"
+        "engineer",
+        "digital nomad"
       ],
       "salary": "",
-      "posted": "2026-11-09T16:00:06+00:00"
+      "posted": "2026-11-19T16:00:15+00:00"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "company": "Ping Identity",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-ping-identity-1137834",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T15:45:01+00:00"
+    },
+    {
+      "title": "Front-End Engineer, UX/UI",
+      "company": "BeyondTrust",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-front-end-engineer-ux-ui-beyondtrust-1137833",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T15:30:02+00:00"
+    },
+    {
+      "title": "Global Head of GSI Solutions Architecture",
+      "company": "Rubrik Job Board",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-global-head-of-gsi-solutions-architecture-rubrik-job-board-1137832",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T15:15:01+00:00"
+    },
+    {
+      "title": "Regional MSP Partner Manager, Benelux",
+      "company": "Everpure",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-benelux-everpure-1137831",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T15:00:02+00:00"
+    },
+    {
+      "title": "GSI Specialty Seller, Identity Resilience (Global)",
+      "company": "Rubrik Job Board",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-gsi-specialty-seller-identity-resilience-global-rubrik-job-board-1137830",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T14:45:01+00:00"
+    },
+    {
+      "title": "Integrated Marketing Manager, Global Programs",
+      "company": "Abnormal",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-integrated-marketing-manager-global-programs-abnormal-1137829",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T14:30:02+00:00"
+    },
+    {
+      "title": "Manager, WW Distribution",
+      "company": "Rubrik Job Board",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-ww-distribution-rubrik-job-board-1137828",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T14:15:02+00:00"
+    },
+    {
+      "title": "Account Executive, Enterprise (Atlanta/Tennessee)",
+      "company": "Everpure",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-atlanta-tennessee-everpure-1137827",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T14:00:02+00:00"
+    },
+    {
+      "title": "Enterprise Solutions Engineer, East",
+      "company": "Glean",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-solutions-engineer-east-glean-1137826",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T13:45:02+00:00"
+    },
+    {
+      "title": "Revenue Enablement Manager",
+      "company": "Legion",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-revenue-enablement-manager-legion-1137825",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T13:30:02+00:00"
+    },
+    {
+      "title": "Sales Development Representative",
+      "company": "Bitwarden",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-bitwarden-1137824",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T13:15:01+00:00"
     }
   ],
-  "last_updated": "2026-11-20T08:29:06.546207",
+  "last_updated": "2026-11-20T17:10:22.182708",
   "total": 30,
-  "new": 4
+  "new": 21
 }

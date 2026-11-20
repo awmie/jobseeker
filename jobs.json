@@ -1,10 +1,24 @@
 {
   "jobs": [
     {
-      "title": "Circleci Staff Software Engineer",
-      "company": "CIRCLECI",
+      "title": "Beyondtrust Inside Solutions Engineer",
+      "company": "BEYONDTRUST",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer",
+      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-inside-solutions-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Modern Health Don T See What You Re Looking For",
+      "company": "MODERN",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/modern-health-don-t-see-what-you-re-looking-for",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Databricks Accounting Manager Accounts Receivable",
+      "company": "DATABRICKS",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/databricks-accounting-manager-accounts-receivable",
       "source": "WeWorkRemotely"
     },
     {
@@ -36,13 +50,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Netlify Staff Software Engineer Interfaces",
-      "company": "NETLIFY",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/netlify-staff-software-engineer-interfaces",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Elvoro Ai Creative Engineer Social Media",
       "company": "ELVORO AI",
       "location": "Remote",
@@ -64,11 +71,22 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Clover Health Chief Actuary",
-      "company": "CLOVER",
+      "title": "Software Engineer AI Coding Tasks",
+      "company": "Askable",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
-      "source": "WeWorkRemotely"
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
+      "source": "RemoteOK",
+      "tags": [
+        "dev",
+        "golang",
+        "python",
+        "javascript",
+        "typescript",
+        "java",
+        "c plus plus"
+      ],
+      "salary": "",
+      "posted": "2026-11-19T05:56:01+00:00"
     },
     {
       "title": "Project Manager",
@@ -367,29 +385,6 @@
       "posted": "2026-11-12T16:00:32+00:00"
     },
     {
-      "title": "Patient Care Specialist I",
-      "company": "Boston Scientific",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-patient-care-specialist-i-boston-scientific-1137719",
-      "source": "RemoteOK",
-      "tags": [
-        "design",
-        "sys admin",
-        "education",
-        "technical",
-        "customer support",
-        "testing",
-        "telecommuting",
-        "exec",
-        "sales",
-        "medical",
-        "recruiter",
-        "digital nomad"
-      ],
-      "salary": "",
-      "posted": "2026-11-11T08:00:08+00:00"
-    },
-    {
       "title": "Strategy & Operations Coach APAC",
       "company": "Mento",
       "location": "Remote",
@@ -525,7 +520,7 @@
       "posted": "2026-11-09T16:00:06+00:00"
     }
   ],
-  "last_updated": "2026-11-20T01:07:25.847290",
+  "last_updated": "2026-11-20T08:29:06.546207",
   "total": 30,
-  "new": 0
+  "new": 4
 }

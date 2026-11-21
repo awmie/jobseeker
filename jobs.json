@@ -22,13 +22,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Proxify Ab Senior Dbt Developer Analytics Engineer",
-      "company": "PROXIFY AB",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-dbt-developer-analytics-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Ellipsis Strategy Lead Market Leading Geo Seo Agency",
       "company": "ELLIPSIS",
       "location": "Remote",
@@ -40,6 +33,13 @@
       "company": "DRIVERSNOTE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/driversnote-customer-support-specialist-30-hrs",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Podcasthub Podcast Distribution Growth Manager",
+      "company": "PODCASTHUB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/podcasthub-podcast-distribution-growth-manager",
       "source": "WeWorkRemotely"
     },
     {
@@ -71,247 +71,295 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Senior Atlassian Cloud Admininstrator",
-      "company": "Dropbox",
+      "title": "Compliance Officer/MLRO",
+      "company": "Bybit",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-admininstrator-dropbox-1137860",
-      "source": "RemoteOK",
-      "tags": [
-        "devops"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T21:15:14+00:00"
-    },
-    {
-      "title": "Senior Manager, Commercial Learning and Development",
-      "company": "Elation Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-commercial-learning-and-development-elation-health-1137859",
+      "url": "https://remoteOK.com/remote-jobs/remote-compliance-officer-mlro-bybit-1137880",
       "source": "RemoteOK",
       "tags": [
         "product"
       ],
       "salary": "",
-      "posted": "2026-11-19T21:00:17+00:00"
+      "posted": "2026-11-20T03:45:14+00:00"
     },
     {
-      "title": "Principal DevSecOps Engineer",
-      "company": "Upgrade",
+      "title": "Manager, Business Risk and AI Automation",
+      "company": "Reddit",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-devsecops-engineer-upgrade-1137858",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T03:30:17+00:00"
+    },
+    {
+      "title": "Compensation Manager",
+      "company": "6sense",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-compensation-manager-6sense-1137878",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T03:15:14+00:00"
+    },
+    {
+      "title": "PreSales Solutions Engineer",
+      "company": "Sumo Logic",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877",
       "source": "RemoteOK",
       "tags": [
         "devops"
       ],
       "salary": "",
-      "posted": "2026-11-19T20:45:40+00:00"
+      "posted": "2026-11-20T03:00:14+00:00"
     },
     {
-      "title": "Infrastructure Software Engineer",
+      "title": "P2P Regional Operations - Africa",
+      "company": "Bybit",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876",
+      "source": "RemoteOK",
+      "tags": [
+        "product"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T02:45:13+00:00"
+    },
+    {
+      "title": "International People Ops Analyst, Benefits",
+      "company": "Cribl",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-international-people-ops-analyst-benefits-cribl-1137875",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T02:30:14+00:00"
+    },
+    {
+      "title": "Senior Atlassian Cloud Administrator",
       "company": "Dropbox",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-administrator-dropbox-1137874",
+      "source": "RemoteOK",
+      "tags": [
+        "devops"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T02:15:13+00:00"
+    },
+    {
+      "title": "Product Designer",
+      "company": "Tebra",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-tebra-1137873",
+      "source": "RemoteOK",
+      "tags": [
+        "design"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T02:00:13+00:00"
+    },
+    {
+      "title": "Senior Software Developer - Canada",
+      "company": "Clover Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-canada-clover-health-1137872",
       "source": "RemoteOK",
       "tags": [
         "programming"
       ],
       "salary": "",
-      "posted": "2026-11-19T20:30:17+00:00"
+      "posted": "2026-11-20T01:45:13+00:00"
     },
     {
       "title": "Senior Software Engineer",
-      "company": "Tebra",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-tebra-1137856",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T20:15:13+00:00"
-    },
-    {
-      "title": "Engineering Manager",
       "company": "Clover Health",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-clover-health-1137855",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clover-health-1137871",
       "source": "RemoteOK",
       "tags": [
         "programming"
       ],
       "salary": "",
-      "posted": "2026-11-19T20:00:13+00:00"
+      "posted": "2026-11-20T01:30:14+00:00"
     },
     {
-      "title": "Senior Software Engineer: Assets",
-      "company": "MetaMask",
+      "title": "Lifecycle Value Manager (Enterprise Customer Success/ Expansion), UK",
+      "company": "Everpure",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-assets-metamask-1137854",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T19:45:47+00:00"
-    },
-    {
-      "title": "Engineering Lead, Growth",
-      "company": "Clover Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-lead-growth-clover-health-1137853",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T19:30:14+00:00"
-    },
-    {
-      "title": "Engineering Lead, Clinical Operations",
-      "company": "Clover Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-lead-clinical-operations-clover-health-1137852",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T19:15:15+00:00"
-    },
-    {
-      "title": "Senior GTM Engineer",
-      "company": "Salesloft",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-gtm-engineer-salesloft-1137851",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T19:00:14+00:00"
-    },
-    {
-      "title": "Senior Software Engineer Guest & Host",
-      "company": "Airbnb",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-guest-host-airbnb-1137849",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T18:30:15+00:00"
-    },
-    {
-      "title": "Engineering Manager, External Search & AI Optimization",
-      "company": "Airbnb",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-external-search-ai-optimization-airbnb-1137848",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T18:15:04+00:00"
-    },
-    {
-      "title": "Engineering Manager, Product Engineering",
-      "company": "Lattice",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-product-engineering-lattice-1137847",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T18:00:20+00:00"
-    },
-    {
-      "title": "Senior Data Engineer Tech Foundations",
-      "company": "Airbnb",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-tech-foundations-airbnb-1137846",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T17:45:24+00:00"
-    },
-    {
-      "title": "Velocity, Sales Director - USA & Europe",
-      "company": "Storyblok",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-velocity-sales-director-usa-europe-storyblok-1137845",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T17:30:23+00:00"
-    },
-    {
-      "title": "Staff Software Engineer (Interfaces)",
-      "company": "Netlify",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-interfaces-netlify-1137844",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T17:15:52+00:00"
-    },
-    {
-      "title": "Vice President, Public Sector",
-      "company": "Bitwarden",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-public-sector-bitwarden-1137843",
+      "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-enterprise-customer-success-expansion-uk-everpure-1137870",
       "source": "RemoteOK",
       "tags": [
         "sales"
       ],
       "salary": "",
-      "posted": "2026-11-19T17:00:54+00:00"
+      "posted": "2026-11-20T01:15:13+00:00"
     },
     {
-      "title": "Senior Sales Training and Enablement Manager",
-      "company": "Tebra",
+      "title": "Lifecycle Value Manager, Germany",
+      "company": "Everpure",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-training-and-enablement-manager-tebra-1137842",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-11-19T16:45:08+00:00"
-    },
-    {
-      "title": "Director, Enterprise Sales",
-      "company": "Abnormal",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-enterprise-sales-abnormal-1137841",
+      "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-germany-everpure-1137869",
       "source": "RemoteOK",
       "tags": [
         "sales"
       ],
       "salary": "",
-      "posted": "2026-11-19T16:30:11+00:00"
+      "posted": "2026-11-20T01:00:13+00:00"
     },
     {
-      "title": "Senior Account Executive II",
-      "company": "Collibra",
+      "title": "Regional MSP Partner Manager, EMEA South (Paris)",
+      "company": "Everpure",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-ii-collibra-1137840",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-emea-south-paris-everpure-1137868",
       "source": "RemoteOK",
       "tags": [
         "sales"
       ],
       "salary": "",
-      "posted": "2026-11-19T16:15:12+00:00"
+      "posted": "2026-11-20T00:45:13+00:00"
+    },
+    {
+      "title": "Customer Success Engineer",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-gitlab-1137867",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T00:30:12+00:00"
+    },
+    {
+      "title": "Customer Success LATAM",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-latam-gitlab-1137866",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T00:15:13+00:00"
+    },
+    {
+      "title": "Senior Product Engineer",
+      "company": "Arbor Education",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "react",
+        "backend",
+        "education",
+        "consulting",
+        "docker",
+        "customer support",
+        "dev",
+        "testing",
+        "scrum",
+        "exec",
+        "quality assurance",
+        "finance",
+        "cloud",
+        "php",
+        "senior",
+        "sys admin",
+        "medical",
+        "engineer",
+        "recruiter",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T00:00:47+00:00"
+    },
+    {
+      "title": "IT Manager",
+      "company": "1mind",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-it-manager-1mind-1137864",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "saas",
+        "infosec",
+        "recruiter",
+        "customer support",
+        "dev",
+        "marketing",
+        "speech",
+        "finance",
+        "ops",
+        "legal",
+        "golang",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T00:00:41+00:00"
+    },
+    {
+      "title": "Business Development Specialist Arabic speaker",
+      "company": "FP Markets",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-specialist-arabic-speaker-fp-markets-1137863",
+      "source": "RemoteOK",
+      "tags": [
+        "crypto",
+        "education",
+        "customer support",
+        "marketing",
+        "travel",
+        "exec",
+        "content writing",
+        "bus dev",
+        "sales",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T00:00:35+00:00"
+    },
+    {
+      "title": "Mental Health Clinical Supervisor",
+      "company": "Handspring",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-mental-health-clinical-supervisor-handspring-1137862",
+      "source": "RemoteOK",
+      "tags": [
+        "sys admin",
+        "education",
+        "supervisor",
+        "customer support",
+        "marketing",
+        "exec",
+        "medical",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T00:00:28+00:00"
+    },
+    {
+      "title": "Customer Success Architect - East",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-architect-east-gitlab-1137861",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T00:00:13+00:00"
     }
   ],
-  "last_updated": "2026-11-20T23:04:23.997623",
+  "last_updated": "2026-11-21T03:54:43.497735",
   "total": 30,
-  "new": 18
+  "new": 20
 }

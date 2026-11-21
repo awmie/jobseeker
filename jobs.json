@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "title": "Coinbase Chief Of Staff Cto",
+      "company": "COINBASE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-chief-of-staff-cto",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Formidable Chief Growth Officer",
+      "company": "FORMIDABLE",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/formidable-chief-growth-officer",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Wrike Senior Product Builder Talent Pool",
       "company": "WRIKE",
       "location": "Remote",
@@ -8,24 +22,10 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Elation Health Part Time Temporary Hr Business Partner Hr Generalist",
-      "company": "ELATION",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/elation-health-part-time-temporary-hr-business-partner-hr-generalist",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Lemon Io Senior React Full Stack Developer 8",
       "company": "LEMON IO",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Ellipsis Strategy Lead Market Leading Geo Seo Agency",
-      "company": "ELLIPSIS",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/ellipsis-strategy-lead-market-leading-geo-seo-agency",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,50 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/contra-senior-3d-designer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Quality Engineer",
+      "company": "Quartermaster",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-quality-engineer-quartermaster-1137914",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "sys admin",
+        "customer support",
+        "testing",
+        "travel",
+        "video",
+        "exec",
+        "ops",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T16:00:18+00:00"
+    },
+    {
+      "title": "Account Director",
+      "company": "Princeton10",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-director-princeton10-1137913",
+      "source": "RemoteOK",
+      "tags": [
+        "exec",
+        "design",
+        "marketing",
+        "web dev",
+        "travel",
+        "finance",
+        "senior",
+        "ops",
+        "legal",
+        "golang",
+        "medical",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-20T16:00:11+00:00"
     },
     {
       "title": "Senior Manager, Product Analytics (Growth)",
@@ -285,33 +329,9 @@
       ],
       "salary": "",
       "posted": "2026-11-20T07:00:15+00:00"
-    },
-    {
-      "title": "Product Manager, AI Foundations",
-      "company": "Reddit",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-foundations-reddit-1137893",
-      "source": "RemoteOK",
-      "tags": [
-        "product"
-      ],
-      "salary": "",
-      "posted": "2026-11-20T07:00:14+00:00"
-    },
-    {
-      "title": "Analyst Relations Senior Manager",
-      "company": "Stripe",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-analyst-relations-senior-manager-stripe-1137892",
-      "source": "RemoteOK",
-      "tags": [
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-11-20T06:45:15+00:00"
     }
   ],
-  "last_updated": "2026-11-21T12:01:35.544157",
+  "last_updated": "2026-11-21T19:04:45.479432",
   "total": 30,
-  "new": 22
+  "new": 4
 }

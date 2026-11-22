@@ -1,10 +1,17 @@
 {
   "jobs": [
     {
-      "title": "Coinbase Chief Of Staff Cto",
-      "company": "COINBASE",
+      "title": "Datadog Manager Accounts Payable",
+      "company": "DATADOG",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-chief-of-staff-cto",
+      "url": "https://weworkremotely.com/remote-jobs/datadog-manager-accounts-payable",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Okx Associate General Counsel",
+      "company": "OKX",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/okx-associate-general-counsel",
       "source": "WeWorkRemotely"
     },
     {
@@ -12,13 +19,6 @@
       "company": "FORMIDABLE",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/formidable-chief-growth-officer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Wrike Senior Product Builder Talent Pool",
-      "company": "WRIKE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/wrike-senior-product-builder-talent-pool",
       "source": "WeWorkRemotely"
     },
     {
@@ -71,247 +71,247 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Physician - Virtual Urgent Care (Part-Time)",
-      "company": "Oscar Health",
+      "title": "Sr Analyst, Analytics & Insights",
+      "company": "BeyondTrust",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-physician-virtual-urgent-care-part-time-oscar-health-1137937",
-      "source": "RemoteOK",
-      "tags": [
-        "other"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T03:20:07+00:00"
-    },
-    {
-      "title": "Business Services Assistant",
-      "company": "Ping Identity",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-services-assistant-ping-identity-1137936",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-analyst-analytics-insights-beyondtrust-1137962",
       "source": "RemoteOK",
       "tags": [
         "devops"
       ],
       "salary": "",
-      "posted": "2026-11-21T03:20:04+00:00"
+      "posted": "2026-11-21T11:00:05+00:00"
     },
     {
-      "title": "Senior Financial Analyst",
-      "company": "\u00c5\u008cURA",
+      "title": "Deal Desk Analyst (Eastern Time Zone Preferred)",
+      "company": "Mixpanel",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-financial-analyst-oura-1137935",
+      "url": "https://remoteOK.com/remote-jobs/remote-deal-desk-analyst-eastern-time-zone-preferred-mixpanel-1137961",
+      "source": "RemoteOK",
+      "tags": [
+        "other"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T10:40:07+00:00"
+    },
+    {
+      "title": "Director, Revenue Accounting",
+      "company": "6sense",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-revenue-accounting-6sense-1137960",
       "source": "RemoteOK",
       "tags": [
         "finance"
       ],
       "salary": "",
-      "posted": "2026-11-21T03:00:05+00:00"
+      "posted": "2026-11-21T10:40:05+00:00"
     },
     {
-      "title": "In-Home Care Admin Coordinator",
-      "company": "Clover Health",
+      "title": "Corporate Counsel, Commercial",
+      "company": "Carrot",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-in-home-care-admin-coordinator-clover-health-1137934",
+      "url": "https://remoteOK.com/remote-jobs/remote-corporate-counsel-commercial-carrot-1137959",
       "source": "RemoteOK",
       "tags": [
         "other"
       ],
       "salary": "",
-      "posted": "2026-11-21T03:00:04+00:00"
+      "posted": "2026-11-21T10:20:06+00:00"
     },
     {
-      "title": "Associate Counsel, Vendor and Provider Contracting",
-      "company": "Clover Health",
+      "title": "Release Strategist, Professional Services",
+      "company": "LaunchDarkly",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-associate-counsel-vendor-and-provider-contracting-clover-health-1137933",
+      "url": "https://remoteOK.com/remote-jobs/remote-release-strategist-professional-services-launchdarkly-1137958",
+      "source": "RemoteOK",
+      "tags": [
+        "product"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T10:20:05+00:00"
+    },
+    {
+      "title": "Senior Database Engineer",
+      "company": "Bitwarden",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-database-engineer-bitwarden-1137957",
+      "source": "RemoteOK",
+      "tags": [
+        "programming"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T10:00:07+00:00"
+    },
+    {
+      "title": "Staff Data Scientist - Martech Platform (ML/Algos)",
+      "company": "Airbnb",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956",
+      "source": "RemoteOK",
+      "tags": [
+        "programming"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T10:00:05+00:00"
+    },
+    {
+      "title": "Staff Software Engineer, Agentic Tools",
+      "company": "Cribl",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
+      "source": "RemoteOK",
+      "tags": [
+        "programming"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T09:40:06+00:00"
+    },
+    {
+      "title": "Senior Software Engineer, Partner Integrations",
+      "company": "Airbnb",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954",
+      "source": "RemoteOK",
+      "tags": [
+        "programming"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T09:40:04+00:00"
+    },
+    {
+      "title": "Vice President, Storytelling & Communications",
+      "company": "6sense",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-storytelling-communications-6sense-1137953",
+      "source": "RemoteOK",
+      "tags": [
+        "marketing"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T09:20:09+00:00"
+    },
+    {
+      "title": "Private Practice Enablement Specialist (PST)",
+      "company": "Healthie",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-private-practice-enablement-specialist-pst-healthie-1137952",
+      "source": "RemoteOK",
+      "tags": [
+        "customer support"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T09:20:07+00:00"
+    },
+    {
+      "title": "Revenue Operations Leader, Strategy & Planning",
+      "company": "Contentstack",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-leader-strategy-planning-contentstack-1137951",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T05:40:08+00:00"
+    },
+    {
+      "title": "VP, Customer Experience Operations",
+      "company": "Ping Identity",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-vp-customer-experience-operations-ping-identity-1137949",
       "source": "RemoteOK",
       "tags": [
         "devops"
       ],
       "salary": "",
-      "posted": "2026-11-21T02:40:06+00:00"
+      "posted": "2026-11-21T05:20:06+00:00"
     },
     {
-      "title": "Senior Staff Machine Learning Engineer, Ads Ranking",
+      "title": "Senior Software Engineer - Behavioral Security Products",
+      "company": "Abnormal",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948",
+      "source": "RemoteOK",
+      "tags": [
+        "devops"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T05:20:05+00:00"
+    },
+    {
+      "title": "Senior Manager, Financial Reporting",
+      "company": "\u00c5\u008cURA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-financial-reporting-oura-1137947",
+      "source": "RemoteOK",
+      "tags": [
+        "finance"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T05:00:06+00:00"
+    },
+    {
+      "title": "Engineering Manager, Ranking Platform",
       "company": "Reddit",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-ads-ranking-reddit-1137932",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ranking-platform-reddit-1137946",
+      "source": "RemoteOK",
+      "tags": [
+        "devops"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T05:00:05+00:00"
+    },
+    {
+      "title": "Principal Software Engineer, Infrastructure",
+      "company": "Reddit",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
+      "source": "RemoteOK",
+      "tags": [
+        "devops"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T04:40:06+00:00"
+    },
+    {
+      "title": "Enterprise Performance Lead",
+      "company": "Clover Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-performance-lead-clover-health-1137944",
+      "source": "RemoteOK",
+      "tags": [
+        "finance"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T04:40:04+00:00"
+    },
+    {
+      "title": "Global Tax Intern",
+      "company": "Ensono",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-global-tax-intern-ensono-1137943",
+      "source": "RemoteOK",
+      "tags": [
+        "other"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T04:20:06+00:00"
+    },
+    {
+      "title": "Sr. Technology Partner Director, Product Partnerships",
+      "company": "Databricks",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-technology-partner-director-product-partnerships-databricks-1137941",
       "source": "RemoteOK",
       "tags": [
         "product"
       ],
       "salary": "",
-      "posted": "2026-11-21T02:40:04+00:00"
-    },
-    {
-      "title": "Sr. Product Marketing Manager, Secrets Manager",
-      "company": "Bitwarden",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-product-marketing-manager-secrets-manager-bitwarden-1137931",
-      "source": "RemoteOK",
-      "tags": [
-        "product"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T02:20:06+00:00"
-    },
-    {
-      "title": "Sr. Security Operations Manager",
-      "company": "Carrot",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-security-operations-manager-carrot-1137930",
-      "source": "RemoteOK",
-      "tags": [
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T02:20:05+00:00"
-    },
-    {
-      "title": "Part-Time Temporary HR Business Partner / HR Generalist",
-      "company": "Elation Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-part-time-temporary-hr-business-partner-hr-generalist-elation-health-1137929",
-      "source": "RemoteOK",
-      "tags": [
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T02:00:07+00:00"
-    },
-    {
-      "title": "Senior Product Design Manager",
-      "company": "LastPass",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-design-manager-lastpass-1137928",
-      "source": "RemoteOK",
-      "tags": [
-        "design"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T02:00:05+00:00"
-    },
-    {
-      "title": "Manager, Product Design",
-      "company": "Carrot",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-manager-product-design-carrot-1137927",
-      "source": "RemoteOK",
-      "tags": [
-        "design"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T01:40:26+00:00"
-    },
-    {
-      "title": "Staff Scientist, Machine Learning (Genomics)",
-      "company": "Natera",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-scientist-machine-learning-genomics-natera-1137926",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T01:40:04+00:00"
-    },
-    {
-      "title": "Manager, Network Contracting (Southeast Region)",
-      "company": "Oscar Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-manager-network-contracting-southeast-region-oscar-health-1137925",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T01:20:23+00:00"
-    },
-    {
-      "title": "Senior Software Engineer II - Agentic Intelligence",
-      "company": "Honeycomb.io",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-agentic-intelligence-honeycomb-io-1137924",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T01:20:20+00:00"
-    },
-    {
-      "title": "Sr Mgr, Software Engineering (Cribl Detect)",
-      "company": "Cribl",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-mgr-software-engineering-cribl-detect-cribl-1137923",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T01:00:06+00:00"
-    },
-    {
-      "title": "Technical Solutions Engineer",
-      "company": "Stripe",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-solutions-engineer-stripe-1137922",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T01:00:04+00:00"
-    },
-    {
-      "title": "Global Account Manager, Strategics  (NY/NJ)",
-      "company": "Everpure",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-global-account-manager-strategics-ny-nj-everpure-1137921",
-      "source": "RemoteOK",
-      "tags": [
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T00:40:04+00:00"
-    },
-    {
-      "title": "Senior Pre-Sales Systems Engineer, Federal Civilian",
-      "company": "Everpure",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-pre-sales-systems-engineer-federal-civilian-everpure-1137920",
-      "source": "RemoteOK",
-      "tags": [
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T00:40:03+00:00"
-    },
-    {
-      "title": "Business Development Representative, Financial Services - UKI",
-      "company": "GitLab",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-financial-services-uki-gitlab-1137919",
-      "source": "RemoteOK",
-      "tags": [
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T00:20:05+00:00"
-    },
-    {
-      "title": "Regional MSP Partner Manager, Germany",
-      "company": "Everpure",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-germany-everpure-1137918",
-      "source": "RemoteOK",
-      "tags": [
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T00:20:03+00:00"
+      "posted": "2026-11-21T04:00:06+00:00"
     }
   ],
-  "last_updated": "2026-11-22T03:31:03.759741",
+  "last_updated": "2026-11-22T11:54:37.521861",
   "total": 30,
-  "new": 20
+  "new": 22
 }

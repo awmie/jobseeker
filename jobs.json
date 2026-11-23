@@ -71,6 +71,30 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Regional Sales Director, Canada",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-director-canada-gitlab-1137964",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T00:00:08+00:00"
+    },
+    {
+      "title": "Strategic Account Executive - Spain",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-spain-gitlab-1137963",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T00:00:05+00:00"
+    },
+    {
       "title": "Sr Analyst, Analytics & Insights",
       "company": "BeyondTrust",
       "location": "Remote",
@@ -285,33 +309,9 @@
       ],
       "salary": "",
       "posted": "2026-11-21T04:40:04+00:00"
-    },
-    {
-      "title": "Global Tax Intern",
-      "company": "Ensono",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-global-tax-intern-ensono-1137943",
-      "source": "RemoteOK",
-      "tags": [
-        "other"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T04:20:06+00:00"
-    },
-    {
-      "title": "Sr. Technology Partner Director, Product Partnerships",
-      "company": "Databricks",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-technology-partner-director-product-partnerships-databricks-1137941",
-      "source": "RemoteOK",
-      "tags": [
-        "product"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T04:00:06+00:00"
     }
   ],
-  "last_updated": "2026-11-22T18:58:34.052151",
+  "last_updated": "2026-11-23T00:07:39.650291",
   "total": 30,
   "new": 2
 }

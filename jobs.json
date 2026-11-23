@@ -1,17 +1,24 @@
 {
   "jobs": [
     {
-      "title": "Clover Health Director Enterprise Portfolio Management",
-      "company": "CLOVER",
+      "title": "Reddit Frontend Engineer Ads Campaign Manager",
+      "company": "REDDIT",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/clover-health-director-enterprise-portfolio-management",
+      "url": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads-campaign-manager",
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Okx Head Of Compliance Latam",
-      "company": "OKX",
+      "title": "Coinbase Corporate Accounting Manager",
+      "company": "COINBASE",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/okx-head-of-compliance-latam",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-corporate-accounting-manager",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Omni Interactions Us Only Learn On Your Time Customer Support 16 Hour Weekly Pay 1",
+      "company": "OMNI",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/omni-interactions-us-only-learn-on-your-time-customer-support-16-hour-weekly-pay-1",
       "source": "WeWorkRemotely"
     },
     {
@@ -26,13 +33,6 @@
       "company": "LEMON IO",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Driversnote Customer Support Specialist 30 Hrs",
-      "company": "DRIVERSNOTE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/driversnote-customer-support-specialist-30-hrs",
       "source": "WeWorkRemotely"
     },
     {
@@ -153,30 +153,6 @@
       ],
       "salary": "",
       "posted": "2026-11-22T01:00:07+00:00"
-    },
-    {
-      "title": "1099 Bilingual NP/PA - Virtual Urgent Care",
-      "company": "Oscar Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-1099-bilingual-np-pa-virtual-urgent-care-oscar-health-1137969",
-      "source": "RemoteOK",
-      "tags": [
-        "other"
-      ],
-      "salary": "",
-      "posted": "2026-11-22T01:00:05+00:00"
-    },
-    {
-      "title": "Advanced Practice Provider - Virtual Urgent Care",
-      "company": "Oscar Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-advanced-practice-provider-virtual-urgent-care-oscar-health-1137968",
-      "source": "RemoteOK",
-      "tags": [
-        "other"
-      ],
-      "salary": "",
-      "posted": "2026-11-22T00:40:08+00:00"
     },
     {
       "title": "Senior Clinical Trials Systems Manager",
@@ -309,9 +285,33 @@
       ],
       "salary": "",
       "posted": "2026-11-21T10:00:07+00:00"
+    },
+    {
+      "title": "Staff Data Scientist - Martech Platform (ML/Algos)",
+      "company": "Airbnb",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956",
+      "source": "RemoteOK",
+      "tags": [
+        "programming"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T10:00:05+00:00"
+    },
+    {
+      "title": "Staff Software Engineer, Agentic Tools",
+      "company": "Cribl",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
+      "source": "RemoteOK",
+      "tags": [
+        "programming"
+      ],
+      "salary": "",
+      "posted": "2026-11-21T09:40:06+00:00"
     }
   ],
-  "last_updated": "2026-11-23T07:27:16.589822",
+  "last_updated": "2026-11-23T19:24:55.012167",
   "total": 30,
-  "new": 14
+  "new": 3
 }

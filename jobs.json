@@ -1,17 +1,17 @@
 {
   "jobs": [
     {
-      "title": "Discord Technical Sourcer",
-      "company": "DISCORD",
+      "title": "Clover Health Director Enterprise Portfolio Management",
+      "company": "CLOVER",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/discord-technical-sourcer",
+      "url": "https://weworkremotely.com/remote-jobs/clover-health-director-enterprise-portfolio-management",
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Smartsheet Sr Software Engineer I Remote Eligible",
-      "company": "SMARTSHEET SR",
+      "title": "Okx Head Of Compliance Latam",
+      "company": "OKX",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/smartsheet-sr-software-engineer-i-remote-eligible",
+      "url": "https://weworkremotely.com/remote-jobs/okx-head-of-compliance-latam",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,150 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/contra-senior-3d-designer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Product Manager, Developer Ecosystem",
+      "company": "Reddit",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977",
+      "source": "RemoteOK",
+      "tags": [
+        "product"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T02:00:05+00:00"
+    },
+    {
+      "title": "Manager, Technical Accounting and Equity Reporting",
+      "company": "\u00c5\u008cURA",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-technical-accounting-and-equity-reporting-oura-1137976",
+      "source": "RemoteOK",
+      "tags": [
+        "finance"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T02:00:04+00:00"
+    },
+    {
+      "title": "Senior SRE, Site Experience",
+      "company": "Reddit",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975",
+      "source": "RemoteOK",
+      "tags": [
+        "devops"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T01:40:06+00:00"
+    },
+    {
+      "title": "Senior Staff SRE, Site Experience",
+      "company": "Reddit",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-sre-site-experience-reddit-1137974",
+      "source": "RemoteOK",
+      "tags": [
+        "devops"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T01:40:05+00:00"
+    },
+    {
+      "title": "DRG Inpatient Coding Validator",
+      "company": "Clover Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-drg-inpatient-coding-validator-clover-health-1137973",
+      "source": "RemoteOK",
+      "tags": [
+        "other"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T01:20:06+00:00"
+    },
+    {
+      "title": "DRG Validation Auditor",
+      "company": "Clover Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-drg-validation-auditor-clover-health-1137972",
+      "source": "RemoteOK",
+      "tags": [
+        "other"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T01:20:05+00:00"
+    },
+    {
+      "title": "Sr. Forward Deployed Data Engineer",
+      "company": "Natera",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970",
+      "source": "RemoteOK",
+      "tags": [
+        "devops"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T01:00:07+00:00"
+    },
+    {
+      "title": "1099 Bilingual NP/PA - Virtual Urgent Care",
+      "company": "Oscar Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-1099-bilingual-np-pa-virtual-urgent-care-oscar-health-1137969",
+      "source": "RemoteOK",
+      "tags": [
+        "other"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T01:00:05+00:00"
+    },
+    {
+      "title": "Advanced Practice Provider - Virtual Urgent Care",
+      "company": "Oscar Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-advanced-practice-provider-virtual-urgent-care-oscar-health-1137968",
+      "source": "RemoteOK",
+      "tags": [
+        "other"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T00:40:08+00:00"
+    },
+    {
+      "title": "Senior Clinical Trials Systems Manager",
+      "company": "Natera",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-clinical-trials-systems-manager-natera-1137967",
+      "source": "RemoteOK",
+      "tags": [
+        "product"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T00:40:05+00:00"
+    },
+    {
+      "title": "Supv, Prior Authorization",
+      "company": "Natera",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-supv-prior-authorization-natera-1137966",
+      "source": "RemoteOK",
+      "tags": [
+        "other"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T00:20:07+00:00"
+    },
+    {
+      "title": "Business Development Representative, SLED - West",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-sled-west-gitlab-1137965",
+      "source": "RemoteOK",
+      "tags": [
+        "sales"
+      ],
+      "salary": "",
+      "posted": "2026-11-22T00:20:05+00:00"
     },
     {
       "title": "Regional Sales Director, Canada",
@@ -165,153 +309,9 @@
       ],
       "salary": "",
       "posted": "2026-11-21T10:00:07+00:00"
-    },
-    {
-      "title": "Staff Data Scientist - Martech Platform (ML/Algos)",
-      "company": "Airbnb",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T10:00:05+00:00"
-    },
-    {
-      "title": "Staff Software Engineer, Agentic Tools",
-      "company": "Cribl",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T09:40:06+00:00"
-    },
-    {
-      "title": "Senior Software Engineer, Partner Integrations",
-      "company": "Airbnb",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T09:40:04+00:00"
-    },
-    {
-      "title": "Vice President, Storytelling & Communications",
-      "company": "6sense",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-storytelling-communications-6sense-1137953",
-      "source": "RemoteOK",
-      "tags": [
-        "marketing"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T09:20:09+00:00"
-    },
-    {
-      "title": "Private Practice Enablement Specialist (PST)",
-      "company": "Healthie",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-private-practice-enablement-specialist-pst-healthie-1137952",
-      "source": "RemoteOK",
-      "tags": [
-        "customer support"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T09:20:07+00:00"
-    },
-    {
-      "title": "Revenue Operations Leader, Strategy & Planning",
-      "company": "Contentstack",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-leader-strategy-planning-contentstack-1137951",
-      "source": "RemoteOK",
-      "tags": [
-        "exec"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T05:40:08+00:00"
-    },
-    {
-      "title": "VP, Customer Experience Operations",
-      "company": "Ping Identity",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-vp-customer-experience-operations-ping-identity-1137949",
-      "source": "RemoteOK",
-      "tags": [
-        "devops"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T05:20:06+00:00"
-    },
-    {
-      "title": "Senior Software Engineer - Behavioral Security Products",
-      "company": "Abnormal",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948",
-      "source": "RemoteOK",
-      "tags": [
-        "devops"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T05:20:05+00:00"
-    },
-    {
-      "title": "Senior Manager, Financial Reporting",
-      "company": "\u00c5\u008cURA",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-financial-reporting-oura-1137947",
-      "source": "RemoteOK",
-      "tags": [
-        "finance"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T05:00:06+00:00"
-    },
-    {
-      "title": "Engineering Manager, Ranking Platform",
-      "company": "Reddit",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ranking-platform-reddit-1137946",
-      "source": "RemoteOK",
-      "tags": [
-        "devops"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T05:00:05+00:00"
-    },
-    {
-      "title": "Principal Software Engineer, Infrastructure",
-      "company": "Reddit",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
-      "source": "RemoteOK",
-      "tags": [
-        "devops"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T04:40:06+00:00"
-    },
-    {
-      "title": "Enterprise Performance Lead",
-      "company": "Clover Health",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-performance-lead-clover-health-1137944",
-      "source": "RemoteOK",
-      "tags": [
-        "finance"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T04:40:04+00:00"
     }
   ],
-  "last_updated": "2026-11-23T00:07:39.650291",
+  "last_updated": "2026-11-23T07:27:16.589822",
   "total": 30,
-  "new": 2
+  "new": 14
 }

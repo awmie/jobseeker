@@ -1,17 +1,24 @@
 {
   "jobs": [
     {
-      "title": "Reddit Frontend Engineer Ads Campaign Manager",
-      "company": "REDDIT",
+      "title": "Cambridge Information Group Inc Front End Developer",
+      "company": "CAMBRIDGE",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads-campaign-manager",
+      "url": "https://weworkremotely.com/remote-jobs/cambridge-information-group-inc-front-end-developer",
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Coinbase Corporate Accounting Manager",
-      "company": "COINBASE",
+      "title": "Proxify Ab Senior Dbt Developer Analytics Engineer",
+      "company": "PROXIFY AB",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-corporate-accounting-manager",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-dbt-developer-analytics-engineer",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Salesloft Senior Corporate Accountant Tax",
+      "company": "SALESLOFT",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/salesloft-senior-corporate-accountant-tax",
       "source": "WeWorkRemotely"
     },
     {
@@ -33,13 +40,6 @@
       "company": "LEMON IO",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Podcasthub Podcast Distribution Growth Manager",
-      "company": "PODCASTHUB",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/podcasthub-podcast-distribution-growth-manager",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,30 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/contra-senior-3d-designer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Senior Software Engineer, Agentic AI",
+      "company": "Clover Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-agentic-ai-clover-health-1138070",
+      "source": "RemoteOK",
+      "tags": [
+        "programming"
+      ],
+      "salary": "",
+      "posted": "2026-11-23T09:40:04+00:00"
+    },
+    {
+      "title": "Senior Software Developer, Agentic AI - Canada",
+      "company": "Clover Health",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-agentic-ai-canada-clover-health-1138068",
+      "source": "RemoteOK",
+      "tags": [
+        "programming"
+      ],
+      "salary": "",
+      "posted": "2026-11-23T09:20:04+00:00"
     },
     {
       "title": "Threat Research Engineer, Security Factory: Threat Research",
@@ -251,18 +275,6 @@
       "posted": "2026-11-22T00:00:05+00:00"
     },
     {
-      "title": "Sr Analyst, Analytics & Insights",
-      "company": "BeyondTrust",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-analyst-analytics-insights-beyondtrust-1137962",
-      "source": "RemoteOK",
-      "tags": [
-        "devops"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T11:00:05+00:00"
-    },
-    {
       "title": "Deal Desk Analyst (Eastern Time Zone Preferred)",
       "company": "Mixpanel",
       "location": "Remote",
@@ -297,21 +309,9 @@
       ],
       "salary": "",
       "posted": "2026-11-21T10:20:06+00:00"
-    },
-    {
-      "title": "Release Strategist, Professional Services",
-      "company": "LaunchDarkly",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-release-strategist-professional-services-launchdarkly-1137958",
-      "source": "RemoteOK",
-      "tags": [
-        "product"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T10:20:05+00:00"
     }
   ],
-  "last_updated": "2026-11-24T04:21:01.636385",
+  "last_updated": "2026-11-24T15:00:54.036567",
   "total": 30,
-  "new": 3
+  "new": 4
 }

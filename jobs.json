@@ -71,6 +71,42 @@
       "source": "WeWorkRemotely"
     },
     {
+      "title": "Threat Research Engineer, Security Factory: Threat Research",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-threat-research-engineer-security-factory-threat-research-gitlab-1138067",
+      "source": "RemoteOK",
+      "tags": [
+        "programming"
+      ],
+      "salary": "",
+      "posted": "2026-11-23T00:20:04+00:00"
+    },
+    {
+      "title": "Staff Backend Engineer, Performance Enablement",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-performance-enablement-gitlab-1138066",
+      "source": "RemoteOK",
+      "tags": [
+        "programming"
+      ],
+      "salary": "",
+      "posted": "2026-11-23T00:00:08+00:00"
+    },
+    {
+      "title": "Renewals Manager - LATAM",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-renewals-manager-latam-gitlab-1138065",
+      "source": "RemoteOK",
+      "tags": [
+        "programming"
+      ],
+      "salary": "",
+      "posted": "2026-11-23T00:00:05+00:00"
+    },
+    {
       "title": "Product Manager, Developer Ecosystem",
       "company": "Reddit",
       "location": "Remote",
@@ -273,45 +309,9 @@
       ],
       "salary": "",
       "posted": "2026-11-21T10:20:05+00:00"
-    },
-    {
-      "title": "Senior Database Engineer",
-      "company": "Bitwarden",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-database-engineer-bitwarden-1137957",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T10:00:07+00:00"
-    },
-    {
-      "title": "Staff Data Scientist - Martech Platform (ML/Algos)",
-      "company": "Airbnb",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T10:00:05+00:00"
-    },
-    {
-      "title": "Staff Software Engineer, Agentic Tools",
-      "company": "Cribl",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
-      "source": "RemoteOK",
-      "tags": [
-        "programming"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T09:40:06+00:00"
     }
   ],
-  "last_updated": "2026-11-23T19:24:55.012167",
+  "last_updated": "2026-11-24T04:21:01.636385",
   "total": 30,
   "new": 3
 }

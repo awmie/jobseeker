@@ -1,6 +1,13 @@
 {
   "jobs": [
     {
+      "title": "Affirm Affirm Bank Accounting Lead",
+      "company": "AFFIRM",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/affirm-affirm-bank-accounting-lead",
+      "source": "WeWorkRemotely"
+    },
+    {
       "title": "Cambridge Information Group Inc Front End Developer",
       "company": "CAMBRIDGE",
       "location": "Remote",
@@ -12,13 +19,6 @@
       "company": "PROXIFY AB",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-dbt-developer-analytics-engineer",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Salesloft Senior Corporate Accountant Tax",
-      "company": "SALESLOFT",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/salesloft-senior-corporate-accountant-tax",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,26 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/contra-senior-3d-designer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Strategic Technical Advisor",
+      "company": "Thrive",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-technical-advisor-thrive-1138074",
+      "source": "RemoteOK",
+      "tags": [
+        "infosec",
+        "education",
+        "technical",
+        "customer support",
+        "finance",
+        "cloud",
+        "exec",
+        "ops",
+        "engineer"
+      ],
+      "salary": "",
+      "posted": "2026-11-23T16:00:27+00:00"
     },
     {
       "title": "Senior Software Engineer, Agentic AI",
@@ -297,21 +317,9 @@
       ],
       "salary": "",
       "posted": "2026-11-21T10:40:05+00:00"
-    },
-    {
-      "title": "Corporate Counsel, Commercial",
-      "company": "Carrot",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-corporate-counsel-commercial-carrot-1137959",
-      "source": "RemoteOK",
-      "tags": [
-        "other"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T10:20:06+00:00"
     }
   ],
-  "last_updated": "2026-11-24T15:00:54.036567",
+  "last_updated": "2026-11-24T23:50:09.638938",
   "total": 30,
-  "new": 4
+  "new": 2
 }

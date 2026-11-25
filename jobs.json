@@ -43,13 +43,6 @@
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Elvoro Ai Creative Engineer Social Media",
-      "company": "ELVORO AI",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
-      "source": "WeWorkRemotely"
-    },
-    {
       "title": "Upstart Product Quality Manager Unsecured Lending",
       "company": "UPSTART",
       "location": "Remote",
@@ -69,6 +62,95 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/contra-senior-3d-designer",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Vertican Senior Applied Ai Engineer Document Intelligence",
+      "company": "VERTICAN",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Senior Manager, Enterprise Application Development Engineering",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-enterprise-application-development-engineering-gitlab-1138079",
+      "source": "RemoteOK",
+      "tags": [
+        "devops"
+      ],
+      "salary": "",
+      "posted": "2026-11-24T00:20:07+00:00"
+    },
+    {
+      "title": "Real Estate Executive Assistant 21370",
+      "company": "Wing Assistant",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-real-estate-executive-assistant-21370-wing-assistant-1138078",
+      "source": "RemoteOK",
+      "tags": [
+        "virtual assistant",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "marketing",
+        "accounting",
+        "exec",
+        "ops",
+        "full time"
+      ],
+      "salary": "",
+      "posted": "2026-11-24T00:00:20+00:00"
+    },
+    {
+      "title": "Senior Tax Associate",
+      "company": "Real REMAX Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-tax-associate-real-remax-group-1138077",
+      "source": "RemoteOK",
+      "tags": [
+        "design",
+        "technical",
+        "customer support",
+        "accounting",
+        "education",
+        "finance",
+        "c",
+        "microsoft",
+        "senior",
+        "junior",
+        "ops",
+        "excel",
+        "legal",
+        "digital nomad"
+      ],
+      "salary": "",
+      "posted": "2026-11-24T00:00:13+00:00"
+    },
+    {
+      "title": "Revenue Operations Manager",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-manager-gitlab-1138076",
+      "source": "RemoteOK",
+      "tags": [
+        "exec"
+      ],
+      "salary": "",
+      "posted": "2026-11-24T00:00:09+00:00"
+    },
+    {
+      "title": "Senior CX Platform Engineer",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075",
+      "source": "RemoteOK",
+      "tags": [
+        "devops"
+      ],
+      "salary": "",
+      "posted": "2026-11-24T00:00:07+00:00"
     },
     {
       "title": "Strategic Technical Advisor",
@@ -257,69 +339,9 @@
       ],
       "salary": "",
       "posted": "2026-11-22T00:20:07+00:00"
-    },
-    {
-      "title": "Business Development Representative, SLED - West",
-      "company": "GitLab",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-sled-west-gitlab-1137965",
-      "source": "RemoteOK",
-      "tags": [
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-11-22T00:20:05+00:00"
-    },
-    {
-      "title": "Regional Sales Director, Canada",
-      "company": "GitLab",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-director-canada-gitlab-1137964",
-      "source": "RemoteOK",
-      "tags": [
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-11-22T00:00:08+00:00"
-    },
-    {
-      "title": "Strategic Account Executive - Spain",
-      "company": "GitLab",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-spain-gitlab-1137963",
-      "source": "RemoteOK",
-      "tags": [
-        "sales"
-      ],
-      "salary": "",
-      "posted": "2026-11-22T00:00:05+00:00"
-    },
-    {
-      "title": "Deal Desk Analyst (Eastern Time Zone Preferred)",
-      "company": "Mixpanel",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-deal-desk-analyst-eastern-time-zone-preferred-mixpanel-1137961",
-      "source": "RemoteOK",
-      "tags": [
-        "other"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T10:40:07+00:00"
-    },
-    {
-      "title": "Director, Revenue Accounting",
-      "company": "6sense",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-revenue-accounting-6sense-1137960",
-      "source": "RemoteOK",
-      "tags": [
-        "finance"
-      ],
-      "salary": "",
-      "posted": "2026-11-21T10:40:05+00:00"
     }
   ],
-  "last_updated": "2026-11-24T23:50:09.638938",
+  "last_updated": "2026-11-25T05:42:59.469049",
   "total": 30,
-  "new": 2
+  "new": 5
 }

@@ -1,17 +1,24 @@
 {
   "jobs": [
     {
-      "title": "Modern Health Consultant Relations Manager",
-      "company": "MODERN",
+      "title": "Gitlab Renewals Manager Italy Spain",
+      "company": "GITLAB",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/modern-health-consultant-relations-manager",
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-renewals-manager-italy-spain",
       "source": "WeWorkRemotely"
     },
     {
-      "title": "Customer Io Accounting Manager",
-      "company": "CUSTOMER IO",
+      "title": "Tailscale Head Of Communications",
+      "company": "TAILSCALE",
       "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/customer-io-accounting-manager",
+      "url": "https://weworkremotely.com/remote-jobs/tailscale-head-of-communications",
+      "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Bybit Country Manager Germany",
+      "company": "BYBIT",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/bybit-country-manager-germany",
       "source": "WeWorkRemotely"
     },
     {
@@ -26,13 +33,6 @@
       "company": "OMNI",
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/omni-interactions-us-only-learn-on-your-time-customer-support-16-hour-weekly-pay-1",
-      "source": "WeWorkRemotely"
-    },
-    {
-      "title": "Formidable Chief Growth Officer",
-      "company": "FORMIDABLE",
-      "location": "Remote",
-      "url": "https://weworkremotely.com/remote-jobs/formidable-chief-growth-officer",
       "source": "WeWorkRemotely"
     },
     {
@@ -69,6 +69,30 @@
       "location": "Remote",
       "url": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
       "source": "WeWorkRemotely"
+    },
+    {
+      "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-executive-assistant-office-of-the-cro-est-cst-gitlab-1138103",
+      "source": "RemoteOK",
+      "tags": [
+        "other"
+      ],
+      "salary": "",
+      "posted": "2026-11-25T00:00:29+00:00"
+    },
+    {
+      "title": "Junior Talent Operations Specialist",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102",
+      "source": "RemoteOK",
+      "tags": [
+        "other"
+      ],
+      "salary": "",
+      "posted": "2026-11-25T00:00:28+00:00"
     },
     {
       "title": "Senior Global Partner Specialist - USA",
@@ -297,42 +321,9 @@
       ],
       "salary": "",
       "posted": "2026-11-24T08:00:11+00:00"
-    },
-    {
-      "title": "Senior Manager, Enterprise Application Development Engineering",
-      "company": "GitLab",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-enterprise-application-development-engineering-gitlab-1138079",
-      "source": "RemoteOK",
-      "tags": [
-        "devops"
-      ],
-      "salary": "",
-      "posted": "2026-11-24T00:20:07+00:00"
-    },
-    {
-      "title": "Real Estate Executive Assistant 21370",
-      "company": "Wing Assistant",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-real-estate-executive-assistant-21370-wing-assistant-1138078",
-      "source": "RemoteOK",
-      "tags": [
-        "virtual assistant",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "marketing",
-        "accounting",
-        "exec",
-        "ops",
-        "full time"
-      ],
-      "salary": "",
-      "posted": "2026-11-24T00:00:20+00:00"
     }
   ],
-  "last_updated": "2026-11-25T16:07:19.386385",
+  "last_updated": "2026-11-26T00:16:04.066043",
   "total": 30,
-  "new": 20
+  "new": 5
 }
